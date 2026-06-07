@@ -35,6 +35,14 @@ sources: []
 
 - [[]] —
 
+## Ayat Qur'an yang Difirmankan
+
+- [[]] —
+
+## Hadis
+
+- [[]] —
+
 ## Catatan
 
 

@@ -48,5 +48,23 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang dosa besar bagi pemimpin yang bertind
 - [[Kezaliman Pemimpin]] — Penyalahgunaan kekuasaan, penipuan terhadap rakyat, dan pengabaian kebutuhan mereka yang diancam dengan siksa neraka.
 - [[Kewajiban Meluruskan Pemimpin]] — Pentingnya amar ma'ruf nahi munkar dan saling menasihati antara pemimpin dan rakyat.
 
+## Ayat Qur'an yang Difirmankan
+
+- **QS. Asy-Syura: 42** — Hukuman dan azab bagi orang-orang zalim yang bertindak sewenang-wenang di muka bumi.
+- **QS. Ibrahim: 42-43** — Allah tidak lalai terhadap perbuatan orang zalim; siksaan ditangguhkan hingga hari penglihatan mereka terbelalak.
+- **QS. Asy-Syu'ara': 227** — Ancaman kejatuhan dan tempat kembali bagi orang-orang zalim.
+- **QS. Al-Ma'idah: 79** — Kecaman bagi kaum terdahulu yang tidak saling mencegah dari kemungkaran yang mereka perbuat.
+
+## Hadis
+
+- **Hadis Riwayat Muslim (Siapa menipu kami bukan golongan kami)** — Keharaman bagi pemimpin yang berbuat curang atau menipu rakyatnya.
+- **Hadis Riwayat Bukhari, Muslim & At-Tirmidhi (Kezaliman adalah kegelapan)** — Bahaya tindakan zalim yang menjadi kegelapan di Hari Kiamat.
+- **Hadis Riwayat Bukhari & Muslim (Setiap kalian adalah pemimpin)** — Tanggung jawab kepemimpinan universal yang akan dimintai pertanggungjawaban.
+- **Hadis Riwayat Bukhari & Muslim (Diharamkan surga bagi pemimpin penipu)** — Ancaman dicabutnya hak masuk surga bagi pemimpin yang berkhianat hingga wafatnya.
+- **Hadis Riwayat Muslim (Doa kelapangan & kesulitan bagi pemimpin)** — Doa Nabi SAW agar Allah menyulitkan pemimpin yang mempersulit urusan rakyat.
+- **Hadis Riwayat Ahmad & At-Tirmidhi (Membantu kezaliman)** — Larangan mendukung kebohongan pemimpin zalim dan ancaman terusir dari telaga Rasulullah SAW.
+- **Hadis Riwayat Bukhari & Muslim (Pemimpin yang adil di bawah naungan Allah)** — Kemuliaan pemimpin adil yang dinaungi Allah pada hari tiada naungan selain-Nya.
+- **Hadis Riwayat Bukhari & Muslim (Larangan ambisi kekuasaan)** — Peringatan bahwa ambisi jabatan akan mendatangkan penyesalan besar di Hari Kiamat.
+
 ## Catatan (Notes)
 Sumber ini sangat relevan untuk menyusun materi ceramah/kajian (YouTube KICIKKU) dan postingan media sosial (X jamaahquba) terkait keadilan sosial, amanah kepemimpinan dalam Islam, dan bahaya korupsi/kezaliman struktural.
