@@ -25,6 +25,7 @@ Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 - Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesombongan).
 
 ## Perubahan Terbaru
+- Dibuat: [[Bahaya-Kesombongan]] (draf utas X)
 - Dibuat: [[Pride]] (ringkasan rujukan)
 - Dibuat: [[Kesombongan]], [[Kesombongan Ulama]], [[Dosa Iblis]] (konsep)
 - Dibuat: [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], [[Abu Hurayrah]] (entitas)

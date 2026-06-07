@@ -22,6 +22,12 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] save | Draf Bahaya Kesombongan dibuat (menggunakan stop-slop)
+- Jenis: draf konten X (jamaahquba)
+- Halaman dibuat: [[Bahaya-Kesombongan]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]]
+- Temuan Kunci: Penulisan draf menggunakan kaidah stop-slop (kalimat aktif, tanpa kata keterangan/adverbia, tanpa em-dash, meletakkan pembaca di dalam ruangan).
+
 ## [2026-06-07] ingest | Pride
 - Sumber: `.raw/Pride.md`
 - Ringkasan: [[Pride]]

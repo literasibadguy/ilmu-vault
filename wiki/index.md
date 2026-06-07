@@ -55,7 +55,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Draf Konten (Drafts)
 
-*Belum ada draf yang dibuat.*
+- [[Bahaya-Kesombongan]] — Draf utas X tentang definisi kesombongan, kisah Iblis, dan kisah tangan lumpuh (status: writing)
 
 ---
 
