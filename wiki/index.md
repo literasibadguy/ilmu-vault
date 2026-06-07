@@ -2,6 +2,7 @@
 type: meta
 title: "Wiki Index"
 updated: 2026-06-07
+created: 2026-06-07
 tags:
   - meta
   - index
@@ -14,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-07 | Total halaman: 31 | Sumber diimpor: 4
+Terakhir diperbarui: 2026-06-07 | Total halaman: 33 | Sumber diimpor: 4
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -37,6 +38,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Tokoh & Lembaga (Entities)
 
+- [[Abu Ali ad-Daqqaq]] — Ulama salaf dan ahli zuhud guru spiritual al-Qusyairi (status: seed)
 - [[Abu Dharr Al-Ghifari]] — Sahabat Nabi yang terkenal dengan kejujuran dan kritik sosialnya (status: seed)
 - [[Abu Hurayrah]] — Sahabat Nabi perawi hadis terbanyak tentang akhlak dan keadilan (status: seed)
 - [[Iblis]] — Makhluk pertama yang membangkang karena kesombongan (status: seed)
@@ -49,6 +51,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Nabi Muhammad SAW]] — Utusan Allah, pembawa risalah keadilan sosial dan akhlak mulia (status: seed)
 - [[Nabi Musa AS]] — Rasul Ulul 'Azmi yang berlindung dari fitnah orang sombong (status: seed)
 - [[Salama bin al-Akwa']] — Sahabat Nabi perawi kisah penolakan tangan kanan akibat sombong (status: seed)
+- [[Sulayman bin al-Qasim]] — Ulama salaf perawi ketetapan pahala kesabaran tanpa batas (status: seed)
 - [[Umar bin Abdul Aziz]] — Khalifah Bani Umayyah kelima yang menghidupkan kembali keadilan (status: seed)
 - [[Umar bin Khattab]] — Sahabat dekat Nabi dan Khalifah Rasyidah kedua yang adil (status: seed)
 

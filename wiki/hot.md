@@ -2,6 +2,7 @@
 type: meta
 title: "Hot Cache"
 updated: 2026-06-07T18:35:00
+created: 2026-06-07
 tags:
   - meta
   - hot-cache
@@ -25,7 +26,7 @@ Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 - Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesabaran).
 
 ## Perubahan Terbaru
-- Diperbarui: Penyelarasan header untuk seluruh catatan sumber [[Pemimpin-yang-Mengkhianati-Rakyatnya]], [[Pride]], [[Perjury]], dan [[where-patience]].
+- Diperbarui: Penyelarasan header untuk seluruh catatan sumber [[Pemimpin yang Mengkhianati Rakyatnya]], [[Pride]], [[Perjury]], dan [[where-patience]].
 - Dibuat: [[where-patience]] (ringkasan rujukan)
 - Dibuat: [[Kesabaran]], [[Kepemimpinan Agama]] (konsep)
 - Dibuat: [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]] (entitas)
