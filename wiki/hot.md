@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-07T17:25:00
+updated: 2026-06-07T18:35:00
 tags:
   - meta
   - hot-cache
@@ -16,7 +16,7 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-07. Impor sumber keempat "Urgensi Kesabaran dalam Al-Qur'an (where-patience)".
+2026-06-07. Penyelarasan header catatan sumber dengan template `_templates/source.md` terbaru.
 
 ## Fakta Kunci Terbaru
 - Mengimpor "where-patience" yang memetakan kedudukan sabar di 90 tempat berbeda dalam Al-Qur'an.
@@ -25,6 +25,7 @@ Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 - Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesabaran).
 
 ## Perubahan Terbaru
+- Diperbarui: Penyelarasan header untuk seluruh catatan sumber [[Pemimpin-yang-Mengkhianati-Rakyatnya]], [[Pride]], [[Perjury]], dan [[where-patience]].
 - Dibuat: [[where-patience]] (ringkasan rujukan)
 - Dibuat: [[Kesabaran]], [[Kepemimpinan Agama]] (konsep)
 - Dibuat: [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]] (entitas)

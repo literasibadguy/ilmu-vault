@@ -22,6 +22,11 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] update | template-alignment
+- Sumber: `_templates/source.md`
+- Halaman diperbarui: [[Pemimpin-yang-Mengkhianati-Rakyatnya]], [[Pride]], [[Perjury]], [[where-patience]]
+- Deskripsi: Penyelarasan header pada seluruh catatan sumber (`wiki/sources/`) agar sesuai dengan pembaruan template `_templates/source.md` dalam Bahasa Indonesia (mengubah judul header "Konsep yang Diperkenalkan" menjadi "Ilmu yang Diperkenalkan", "Ayat Qur'an yang Difirmankan" menjadi "Tafsir Al-Qur'an", serta menghapus sufiks penjelasan bahasa Inggris di judul sub-bagian).
+
 ## [2026-06-07] ingest | where-patience
 - Sumber: `.raw/where-patience.md`
 - Ringkasan: [[where-patience]]
