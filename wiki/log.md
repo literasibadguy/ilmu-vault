@@ -23,6 +23,11 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] write | Utas Tazyin Kemaksiatan
+- Naskah dibuat: [[Utas Tazyin Kemaksiatan]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema Tazyin Kemaksiatan bergaya Charles Bukowski, disusun menggunakan stop-slop skill (tanpa kata keterangan/adverbia dan menggunakan kalimat aktif-langsung).
+
 ## [2026-06-07] write | Taktik Iblis Merusak Rasa Malu
 - Naskah dibuat: [[Taktik Iblis Merusak Rasa Malu]]
 - Halaman diperbarui: [[index]], [[overview]], [[hot]]
@@ -37,13 +42,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ## [2026-06-07] update | template-alignment
 - Sumber: `_templates/source.md`
-- Halaman diperbarui: [[Pemimpin yang Mengkhianati Rakyatnya]], [[Pride]], [[Perjury]], [[where-patience]]
+- Halaman diperbarui: [[Pemimpin yang Mengkhianati Rakyatnya]], [[Pride]], [[Perjury]], [[Urgensi Kesabaran dalam Al-Qur'an]]
 - Deskripsi: Penyelarasan header pada seluruh catatan sumber (`wiki/sources/`) agar sesuai dengan pembaruan template `_templates/source.md` dalam Bahasa Indonesia (mengubah judul header "Konsep yang Diperkenalkan" menjadi "Ilmu yang Diperkenalkan", "Ayat Qur'an yang Difirmankan" menjadi "Tafsir Al-Qur'an", serta menghapus sufiks penjelasan bahasa Inggris di judul sub-bagian).
 
 ## [2026-06-07] ingest | where-patience
 - Sumber: `.raw/where-patience.md`
-- Ringkasan: [[where-patience]]
-- Halaman dibuat: [[where-patience]], [[Kesabaran]], [[Kepemimpinan Agama]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]]
+- Ringkasan: [[Urgensi Kesabaran dalam Al-Qur'an]]
+- Halaman dibuat: [[Urgensi Kesabaran dalam Al-Qur'an]], [[Kesabaran]], [[Kepemimpinan Agama]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]]
 - Halaman diperbarui: [[Nabi Muhammad SAW]], [[index]], [[overview]], [[hot]]
 - Temuan Kunci: Kesabaran disebutkan di 90 tempat Al-Qur'an, kepemimpinan agama diraih melalui gabungan sabar dan yakin, serta pahala sabar dilimpahkan tanpa batas.
 

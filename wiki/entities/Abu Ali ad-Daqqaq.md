@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Abu Ali ad-Daqqaq"
+title: Abu Ali ad-Daqqaq
 entity_type: person
-role: "Ulama Salaf"
-first_mentioned: "[[where-patience]]"
+role: Ulama Salaf
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -12,7 +12,7 @@ tags:
 status: seed
 related: []
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Abu Ali ad-Daqqaq
@@ -32,4 +32,4 @@ Abu Ali al-Hasan bin Ali ad-Daqqaq merupakan ulama salaf dan ahli zuhud. Ia terk
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

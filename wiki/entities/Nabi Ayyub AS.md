@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Nabi Ayyub AS"
+title: Nabi Ayyub AS
 entity_type: person
-role: "Nabi / Rasul Utusan Allah"
-first_mentioned: "[[where-patience]]"
+role: Nabi / Rasul Utusan Allah
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -13,7 +13,7 @@ status: seed
 related:
   - "[[Kesabaran]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Nabi Ayyub AS
@@ -29,4 +29,4 @@ sources:
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

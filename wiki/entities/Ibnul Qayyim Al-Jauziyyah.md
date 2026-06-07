@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Ibnul Qayyim Al-Jauziyyah"
+title: Ibnul Qayyim Al-Jauziyyah
 entity_type: person
-role: "Ulama / Murid Utama Ibnu Taimiyah"
-first_mentioned: "[[where-patience]]"
+role: Ulama / Murid Utama Ibnu Taimiyah
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -13,7 +13,7 @@ status: seed
 related:
   - "[[Imam Ahmad bin Hanbal]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Ibnul Qayyim Al-Jauziyyah
@@ -29,4 +29,4 @@ sources:
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

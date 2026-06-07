@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Sulayman bin al-Qasim"
+title: Sulayman bin al-Qasim
 entity_type: person
-role: "Ulama Salaf"
-first_mentioned: "[[where-patience]]"
+role: Ulama Salaf
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -12,7 +12,7 @@ tags:
 status: seed
 related: []
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Sulayman bin al-Qasim
@@ -31,4 +31,4 @@ Sulayman bin al-Qasim merupakan seorang ulama dari kalangan salaf. Ia terkenal k
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

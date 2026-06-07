@@ -26,6 +26,7 @@ Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 - Tokoh diperbarui: [[Iblis]] (ditautkan dengan taktik penyesatan barunya).
 
 ## Perubahan Terbaru
+- Dibuat: [[Utas Tazyin Kemaksiatan]] (utas X)
 - Dibuat: [[Taktik Iblis Merusak Rasa Malu]] (naskah video)
 - Dibuat: [[tafsir-sadi-iblis-adam]] (ringkasan rujukan)
 - Dibuat: [[Fitrah Rasa Malu]], [[Kezaliman Diri]], [[Pertobatan Adam]], [[Tazyin Kemaksiatan]], [[Waswasah Setan]] (konsep)
@@ -33,5 +34,5 @@ Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 - Diperbarui: [[Iblis]] (entitas)
 
 ## Alur Kerja Aktif
-- Perencanaan Konten: Menyelesaikan draf naskah video YouTube KICIKKU [[Taktik Iblis Merusak Rasa Malu]] dan melanjutkan perancangan utas edukatif X **@jamaahquba** (tema bahaya riba/suap).
-- Langkah Berikutnya: Menyusun draf utas X di folder drafts.
+- Perencanaan Konten: Menyelesaikan naskah YouTube [[Taktik Iblis Merusak Rasa Malu]] serta draf utas X [[Utas Tazyin Kemaksiatan]].
+- Langkah Berikutnya: Meninjau dan menyempurnakan draf konten untuk dipublikasikan.

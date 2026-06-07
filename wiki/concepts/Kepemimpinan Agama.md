@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Kepemimpinan Agama"
+title: Kepemimpinan Agama
 complexity: advanced
-domain: "Siyasah Syar'iyah / Da'wah"
+domain: Siyasah Syar'iyah / Da'wah
 aliases:
-  - "Kepemimpinan Spiritual"
-  - "Al-Imamah fid-Din"
+  - Kepemimpinan Spiritual
+  - Al-Imamah fid-Din
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -17,7 +17,7 @@ related:
   - "[[Kesabaran]]"
   - "[[Amanah Kepemimpinan]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Kepemimpinan Agama (Al-Imamah fid-Din)
@@ -45,4 +45,4 @@ Seorang da'i atau pemimpin tidak akan mampu membimbing masyarakat jika ia goyah 
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

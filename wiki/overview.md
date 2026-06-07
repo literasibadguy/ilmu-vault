@@ -31,7 +31,7 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 ## Status Saat Ini
 
 - Sumber diimpor (ingested): 5
-- Halaman wiki: 45
+- Halaman wiki: 46
 - Aktivitas terakhir: 2026-06-07 (Mengimpor kajian Tafsir As-Sa'di tentang Adam dan Iblis)
 
 ---

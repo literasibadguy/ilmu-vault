@@ -1,8 +1,8 @@
 ---
 type: entity
-title: "Nabi Muhammad SAW"
+title: Nabi Muhammad SAW
 entity_type: person
-role: "Rasulullah (Utusan Allah)"
+role: Rasulullah (Utusan Allah)
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
 created: 2026-06-07
 updated: 2026-06-07
@@ -22,7 +22,7 @@ sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Pride]]"
   - "[[Perjury]]"
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Nabi Muhammad SAW
@@ -43,4 +43,4 @@ sources:
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
 - [[Pride]]
 - [[Perjury]]
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

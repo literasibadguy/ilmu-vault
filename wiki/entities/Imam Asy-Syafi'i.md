@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Imam Asy-Syafi'i"
+title: Imam Asy-Syafi'i
 entity_type: person
-role: "Pendiri Mazhab Syafi'i / Pembaharu Islam"
-first_mentioned: "[[where-patience]]"
+role: Pendiri Mazhab Syafi'i / Pembaharu Islam
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -14,7 +14,7 @@ status: seed
 related:
   - "[[Imam Ahmad bin Hanbal]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Imam Asy-Syafi'i
@@ -30,4 +30,4 @@ sources:
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Imam Ahmad bin Hanbal"
+title: Imam Ahmad bin Hanbal
 entity_type: person
-role: "Pendiri Mazhab Hanbali / Imam Ahlus Sunnah"
-first_mentioned: "[[where-patience]]"
+role: Pendiri Mazhab Hanbali / Imam Ahlus Sunnah
+first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -14,7 +14,7 @@ status: seed
 related:
   - "[[Ibnul Qayyim Al-Jauziyyah]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Imam Ahmad bin Hanbal
@@ -31,4 +31,4 @@ sources:
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Kesabaran"
+title: Kesabaran
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Sabar"
-  - "Sabr"
+  - Sabar
+  - Sabr
 created: 2026-06-07
 updated: 2026-06-07
 tags:
@@ -15,7 +15,7 @@ status: seed
 related:
   - "[[Kepemimpinan Agama]]"
 sources:
-  - "[[where-patience]]"
+  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Kesabaran (Sabr)
@@ -43,4 +43,4 @@ Kesabaran diposisikan sangat tinggi dalam Al-Qur'an (disebutkan di 90 tempat). K
 
 ## Sumber
 
-- [[where-patience]]
+- [[Urgensi Kesabaran dalam Al-Qur'an]]

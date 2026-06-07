@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-07 | Total halaman: 45 | Sumber diimpor: 5
+Terakhir diperbarui: 2026-06-07 | Total halaman: 46 | Sumber diimpor: 5
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -73,7 +73,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Perjury]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesaksian palsu | 3 halaman baru dibuat
 - [[Pride]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesombongan | 9 halaman baru dibuat
 - [[tafsir-sadi-iblis-adam]] — 2026-06-07 | Penjelasan kisah ujian Adam dan makar Iblis | 11 halaman baru dibuat
-- [[where-patience]] — 2026-06-07 | Urgensi Kesabaran dalam Al-Qur'an (where-patience) | 6 halaman baru dibuat
+- [[Urgensi Kesabaran dalam Al-Qur'an]] — 2026-06-07 | Urgensi Kesabaran dalam Al-Qur'an (where-patience) | 6 halaman baru dibuat
 
 ---
 
@@ -81,6 +81,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 - [[Bahaya-Kesombongan]] — Draf utas X tentang definisi kesombongan, kisah Iblis, dan kisah tangan lumpuh (status: writing)
 - [[Taktik Iblis Merusak Rasa Malu]] — Naskah video YouTube KICIKKU tentang taktik Iblis merusak rasa malu dan aurat manusia (status: writing)
+- [[Utas Tazyin Kemaksiatan]] — Draf utas X tentang penamaan indah bagi dosa (tazyin) bergaya Charles Bukowski (status: writing)
 
 ---
 
