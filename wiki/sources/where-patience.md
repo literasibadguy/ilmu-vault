@@ -29,7 +29,7 @@ sources: []
 
 Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'an yang mencakup 90 tempat. Tulisan ini merinci 22 bentuk penyajian kesabaran dalam ayat-ayat Al-Qur'an, hubungannya dengan rukun iman dan Islam, pandangan para ulama salaf, serta kedudukan sabar sebagai syarat mutlak meraih pertolongan, kemenangan, dan kepemimpinan agama.
 
-## Klaim Utama (Key Claims)
+## Klaim Utama
 
 1. **Penyebutan yang Masif**: Sabar disebut sebanyak 90 kali dalam Al-Qur'an menurut kompilasi Imam Ahmad bin Hanbal.
 2. **Syarat Kepemimpinan Agama**: Kepemimpinan spiritual keagamaan (*al-imamah fid-din*) tidak akan pernah dicapai tanpa memadukan kesabaran dan keyakinan (*yaqin*) berdasarkan QS. As-Sajdah: 24.
@@ -37,7 +37,7 @@ Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'
 4. **Tiga Keberkahan Musibah**: Allah mengumpulkan tiga anugerah sekaligus bagi orang sabar yang tertimpa musibah (selawat/ampunan, rahmat, dan petunjuk/hidayah) yang tidak diberikan secara berkumpul kepada golongan lain (QS. Al-Baqarah: 155-157).
 5. **Kaitan dengan Pilar Agama**: Sabar selalu digandangkan dengan pilar-pilar penting Islam lainnya: shalat (QS. al-Baqarah: 45), syukur (QS. Ibrahim: 5), takwa (QS. Yusuf: 90), kebenaran (QS. al-Asr: 3), kasih sayang (QS. al-Balad: 17), dan kejujuran (QS. al-Ahzab: 35).
 
-## Tokoh yang Disebutkan (Entities Mentioned)
+## Tokoh yang Disebutkan
 
 - [[Nabi Muhammad SAW]] — Pembawa risalah yang bersabda bahwa kemenangan itu diraih bersama kesabaran.
 - [[Imam Ahmad bin Hanbal]] — Ulama salaf yang menghitung penyebutan sabar sebanyak 90 kali dalam Al-Qur'an.
@@ -47,12 +47,12 @@ Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'
 - [[Abu Ali ad-Daqqaq]] — Ulama salaf yang menyatakan orang sabar adalah pemenang di dunia dan akhirat karena kebersamaan Allah dengan mereka.
 - [[Sulayman bin al-Qasim]] — Ulama salaf yang mengibaratkan pahala kesabaran tanpa batas seperti curah hujan yang lebat.
 
-## Konsep yang Diperkenalkan (Concepts Introduced)
+## Ilmu yang Diperkenalkan
 
 - [[Kesabaran]] — Kekuatan menahan diri dari kemaksiatan, ketaatan dalam beribadah, serta keteguhan menerima takdir buruk.
 - [[Kepemimpinan Agama]] — Derajat kepemimpinan dakwah spiritual (*al-imamah fid-din*) yang fondasinya adalah kesabaran dan keyakinan.
 
-## Ayat Qur'an yang Difirmankan
+## Tafsir Al-Qur'an
 
 - **QS. An-Nahl: 127** — Perintah bersabar dan pengakuan bahwa kesabaran hanya terjadi atas pertolongan Allah.
 - **QS. At-Tur: 48** — Perintah bersabar menunggu ketetapan hukum Allah.
@@ -89,5 +89,5 @@ Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'
 
 - **Hadis Riwayat At-Tirmidhi (No. 2516) (Kemenangan bersama kesabaran)** — Penegasan Nabi SAW kepada Ibnu Abbas bahwa pertolongan dan jalan keluar selalu datang bersama kesabaran.
 
-## Catatan (Notes)
+## Catatan
 Rujukan kompilasi ayat sabar ini adalah bahan utama yang sangat berharga untuk draf materi ceramah/kajian panjang di YouTube KICIKKU tentang psikologi Islam, manajemen stres iman, dan meraih kesuksesan hidup secara syar'i.

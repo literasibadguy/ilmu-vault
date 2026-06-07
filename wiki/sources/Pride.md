@@ -27,14 +27,14 @@ sources: []
 
 Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan dosa besar terkait kesombongan, kecongkakan, keangkuhan, dan kepongahan (*al-kibr, al-fakhr, al-ujub*). Teks ini menjelaskan definisi kesombongan, dampaknya di akhirat, serta bahaya kesombongan intelektual (sombong karena ilmu).
 
-## Klaim Utama (Key Claims)
+## Klaim Utama
 
 1. **Dosa Pertama di Alam Semesta**: Kesombongan adalah dosa pertama yang dengannya Allah didurhakai, yaitu ketika [[Iblis]] menolak sujud kepada Nabi Adam AS karena merasa lebih mulia (QS. Al-Baqarah: 34).
 2. **Haram Masuk Surga**: Seseorang tidak akan masuk surga jika di dalam hatinya terdapat kesombongan meskipun hanya sebesar biji sawi (Hadis riwayat Muslim).
 3. **Siksaan Sombong dalam Berjalan**: Hadis menyebutkan seseorang yang berjalan dengan angkuh dan membanggakan dirinya akan ditenggelamkan ke dalam bumi oleh Allah hingga Hari Kiamat.
 4. **Kesombongan Intelektual**: Jenis kesombongan paling buruk adalah ketika seseorang merasa tinggi hati dan meremehkan orang lain karena ilmu agama yang ia miliki. Ilmu yang benar seharusnya menghasilkan kerendahan hati (*tawadhu*).
 
-## Tokoh yang Disebutkan (Entities Mentioned)
+## Tokoh yang Disebutkan
 
 - [[Nabi Muhammad SAW]] — Pembawa risalah yang memberikan sabda dan nasihat mengenai bahaya kesombongan.
 - [[Iblis]] — Makhluk pertama yang membangkang karena kesombongan.
@@ -43,13 +43,13 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan dosa besar terkait kesom
 - [[Abu Hurayrah]] — Sahabat Nabi yang meriwayatkan hadis tentang orang miskin yang sombong sebagai salah satu dari tiga golongan pertama yang masuk neraka.
 - [[Ibnu Umar]] — Sahabat Nabi yang meriwayatkan hadis tentang murka Allah terhadap orang yang sombong dalam berjalan dan sombong terhadap dirinya.
 
-## Konsep yang Diperkenalkan (Concepts Introduced)
+## Ilmu yang Diperkenalkan
 
 - [[Kesombongan]] — Keadaan merasa lebih mulia, menolak kebenaran (*batrul haqq*), dan meremehkan manusia (*ghamtu-n-nas*).
 - [[Kesombongan Ulama]] — Bahaya kesombongan intelektual/akademis yang membuat ilmu tidak bermanfaat dan justru menjerumuskan ke neraka.
 - [[Dosa Iblis]] — Arrogansi asal-usul (rasial/penciptaan) yang menolak perintah Allah.
 
-## Ayat Qur'an yang Difirmankan
+## Tafsir Al-Qur'an
 
 - **QS. Ghafir: 27** — Doa Nabi Musa AS memohon perlindungan dari setiap orang sombong yang mendustakan hari perhitungan.
 - **QS. An-Nahl: 23** — Pernyataan bahwa Allah tidak menyukai orang-orang yang menyombongkan diri.
@@ -65,5 +65,5 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan dosa besar terkait kesom
 - **Hadis Riwayat Bukhari (No. 4918) & Muslim (No. 2853) (Penghuni neraka yang kasar & sombong)** — Kabar bahwa penghuni neraka adalah orang-orang yang kasar dan sombong.
 - **Hadis Riwayat Ibn Khuzayma (No. 2482) (Tiga penghuni neraka pertama)** — Orang miskin yang sombong termasuk dalam golongan awal yang masuk neraka.
 
-## Catatan (Notes)
+## Catatan
 Catatan ini sangat penting untuk menyusun konten edukatif di X (@jamaahquba) dan YouTube KICIKKU mengenai penyakit hati, akhlak penuntut ilmu, dan bahaya kesombongan dalam kehidupan sehari-hari.

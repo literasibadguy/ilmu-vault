@@ -31,11 +31,11 @@ sources: []
 
 - [[]] —
 
-## Konsep yang Diperkenalkan
+## Ilmu yang Diperkenalkan
 
 - [[]] —
 
-## Ayat Qur'an yang Difirmankan
+## Tafsir Al-Qur'an
 
 - [[]] —
 
