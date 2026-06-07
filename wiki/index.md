@@ -12,15 +12,15 @@ related:
   - "[[hot]]"
 ---
 
-# Wiki Index
+# Indeks Wiki
 
-Last updated: 2026-06-07 | Total pages: 12 | Sources ingested: 1
+Terakhir diperbarui: 2026-06-07 | Total halaman: 12 | Sumber diimpor: 1
 
-Navigation: [[overview]] | [[log]] | [[hot]]
+Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
 ---
 
-## Concepts
+## Konsep (Concepts)
 
 - [[Amanah Kepemimpinan]] — Tanggung jawab suci seorang pemimpin (shepherd/pemelihara) terhadap rakyatnya (flock) (status: seed)
 - [[Kezaliman Pemimpin]] — Penyalahgunaan kekuasaan, penipuan terhadap rakyat, dan pengabaian kebutuhan mereka yang diancam dengan siksa neraka (status: seed)
@@ -28,7 +28,7 @@ Navigation: [[overview]] | [[log]] | [[hot]]
 
 ---
 
-## Entities
+## Tokoh & Lembaga (Entities)
 
 - [[Nabi Muhammad SAW]] — Pembawa risalah dan penyampai ancaman serta doa terkait kepemimpinan (status: seed)
 - [[Umar bin Khattab]] — Sahabat dekat Nabi dan Khalifah Rasyidah kedua yang adil (status: seed)
@@ -38,24 +38,24 @@ Navigation: [[overview]] | [[log]] | [[hot]]
 
 ---
 
-## Sources
+## Sumber Rujukan (Sources)
 
 - [[Pemimpin yang Mengkhianati Rakyatnya]] — 2026-06-07 | Kumpulan dalil dosa besar pemimpin zalim dan khianat | 9 halaman baru dibuat
 
 ---
 
-## Drafts
+## Draf Konten (Drafts)
 
-*No drafts created yet.*
-
----
-
-## Questions
-
-*No questions answered yet.*
+*Belum ada draf yang dibuat.*
 
 ---
 
-## Comparisons
+## Pertanyaan (Questions)
 
-*No comparisons created yet.*
+*Belum ada pertanyaan yang dijawab.*
+
+---
+
+## Perbandingan (Comparisons)
+
+*Belum ada perbandingan yang dibuat.*

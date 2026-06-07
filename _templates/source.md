@@ -19,22 +19,22 @@ sources: []
 
 # <% tp.file.title %>
 
-## Summary
+## Ringkasan
 
-[2-3 sentence summary of the source]
+[Ringkasan 2-3 kalimat mengenai dokumen/sumber ini]
 
-## Key Claims
+## Klaim Utama
 
 -
 
-## Entities Mentioned
+## Tokoh yang Disebutkan
 
 - [[]] —
 
-## Concepts Introduced
+## Konsep yang Diperkenalkan
 
 - [[]] —
 
-## Notes
+## Catatan
 
 

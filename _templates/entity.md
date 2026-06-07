@@ -15,18 +15,18 @@ sources: []
 
 # <% tp.file.title %>
 
-## Overview
+## Tinjauan
 
-[Who or what this is. One paragraph.]
+[Siapa atau apa entitas ini. Satu paragraf ringkas.]
 
-## Key Facts
-
--
-
-## Connections
+## Fakta Kunci
 
 -
 
-## Sources
+## Hubungan
+
+-
+
+## Sumber
 
 -

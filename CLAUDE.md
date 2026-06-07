@@ -1,42 +1,42 @@
 # Ilmuzip Vault: LLM Wiki
 
-Mode: Combined Research (Mode E) & Content Production (Mode F)
-Purpose: Research on Islamic knowledges, lecture/kajian collections, and drafts for articles, posts, and videos (KICIKKU, @jamaahquba).
-Owner: Firas RafiIslam
-Created: 2026-06-07
+Metode: Gabungan Penelitian (Mode E) & Produksi Konten (Mode F)
+Tujuan: Penelitian tentang ilmu keislaman, koleksi ceramah/kajian, serta draf artikel, postingan, dan video (KICIKKU, @jamaahquba).
+Pemilik: Firas Raf Islam
+Dibuat: 2026-06-07
 
-## Structure
+## Struktur Folder
 
 ```
 ilmuzip-vault/
-├── .raw/               # Raw lectures, transcript clips, references (immutable)
+├── .raw/               # Sumber mentah, transkrip kajian, referensi (tidak boleh diubah)
 ├── wiki/
-│   ├── index.md        # Master catalog of all pages
-│   ├── log.md          # Chronological record of all vault operations
-│   ├── hot.md          # Hot cache: recent context summary (~500 words)
-│   ├── overview.md     # Executive summary of the whole wiki
-│   ├── sources/        # Synthesized lecture notes, books, articles
-│   ├── concepts/       # Islamic concepts, terminology, core principles
-│   ├── entities/       # Scholars, speakers, historical figures, organizations
-│   ├── drafts/         # Drafts for articles, X posts (@jamaahquba), YouTube scripts (KICIKKU)
-│   ├── comparisons/    # Side-by-side analysis, comparisons, topic mappings
-│   ├── questions/      # Answers to theological or historical research questions
-│   └── meta/           # Dashboards, templates, content calendars, lint reports
-└── _templates/         # Note templates for Obsidian
+│   ├── index.md        # Katalog utama seluruh halaman wiki
+│   ├── log.md          # Catatan kronologis semua operasi wiki
+│   ├── hot.md          # Hot cache: ringkasan konteks terbaru (~500 kata)
+│   ├── overview.md     # Ringkasan eksekutif seluruh wiki
+│   ├── sources/        # Ringkasan kajian, buku, atau artikel yang disintesis
+│   ├── concepts/       # Istilah, konsep, dan prinsip keislaman
+│   ├── entities/       # Ulama, ustadz, tokoh sejarah, organisasi, kanal
+│   ├── drafts/         # Draf artikel, utas/postingan X (@jamaahquba), naskah YouTube (KICIKKU)
+│   ├── comparisons/    # Analisis perbandingan dan pemetaan topik
+│   ├── questions/      # Jawaban atas pertanyaan penelitian keagamaan/sejarah
+│   └── meta/           # Dasbor, templat, kalender konten, laporan kesehatan wiki
+└── _templates/         # Templat catatan untuk Obsidian (menggunakan Templater)
 ```
 
-## Conventions
+## Aturan & Konvensi
 
-- All notes use YAML frontmatter: type, status, created, updated, tags (minimum)
-- Wikilinks use [[Note Name]] format: filenames are unique, no paths needed
-- .raw/ contains source documents: never modify them
-- wiki/index.md is the master catalog: update on every ingest
-- wiki/log.md is append-only: never edit past entries
-- New log entries go at the TOP of the file
+- Semua catatan wajib memiliki YAML frontmatter minimal: type, status, created, updated, tags
+- Wikilink menggunakan format [[Nama Catatan]]: nama file harus unik, tidak perlu menuliskan path folder
+- Folder .raw/ berisi dokumen sumber: jangan pernah mengubah isinya
+- wiki/index.md adalah katalog utama: wajib diperbarui setiap kali mengimpor (*ingest*) sumber baru
+- wiki/log.md bersifat append-only: jangan pernah mengedit catatan log masa lalu
+- Entri log baru selalu diletakkan di bagian paling ATAS file
 
-## Operations
+## Operasi
 
-- Ingest: drop source in .raw/, say "ingest [filename]"
-- Query: ask any question: Claude reads index first, then drills in
-- Lint: say "lint the wiki" to run a health check
-- Archive: move cold sources to .archive/ to keep .raw/ clean
+- Ingest (Impor): Letakkan dokumen sumber di dalam .raw/, lalu minta asisten: "ingest [nama-file]"
+- Query (Tanya): Ajukan pertanyaan apa pun: Asisten akan membaca indeks terlebih dahulu sebelum mendalami halaman yang relevan
+- Lint (Periksa): Katakan "periksa wiki" (*lint the wiki*) untuk menjalankan pemeriksaan tautan mati dan halaman yatim
+- Archive (Arsip): Pindahkan sumber yang sudah lama ke .archive/ untuk menjaga kebersihan folder .raw/

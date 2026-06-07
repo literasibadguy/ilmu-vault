@@ -15,26 +15,26 @@ sources: []
 
 # <% tp.file.title %>
 
-## Definition
+## Definisi
 
-[What this concept is. Declarative, present tense. One clear paragraph.]
+[Apa arti konsep ini. Deklaratif, menggunakan waktu sekarang/present tense. Satu paragraf yang jelas.]
 
-## How It Works
+## Cara Kerja
 
-[Mechanism or explanation]
+[Mekanisme atau penjelasan detail mengenai konsep ini]
 
-## Why It Matters
+## Mengapa Ini Penting
 
-[Significance in this domain]
+[Signifikansi konsep ini dalam bidang ilmu terkait]
 
-## Examples
-
--
-
-## Connections
+## Contoh
 
 -
 
-## Sources
+## Hubungan
+
+-
+
+## Sumber
 
 -

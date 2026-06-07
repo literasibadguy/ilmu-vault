@@ -2,12 +2,12 @@
 type: comparison
 title: "<% tp.file.title %>"
 subjects:
-  - "[[Subject A]]"
-  - "[[Subject B]]"
+  - "[[Subjek A]]"
+  - "[[Subjek B]]"
 dimensions:
-  - "dimension 1"
-  - "dimension 2"
-verdict: "Replace with one-line conclusion."
+  - "dimensi 1"
+  - "dimensi 2"
+verdict: "Ganti dengan kesimpulan satu baris."
 created: <% tp.date.now("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
 tags:
@@ -19,21 +19,21 @@ sources: []
 
 # <% tp.file.title %>
 
-## Overview
+## Tinjauan
 
-Replace with: why these two things are being compared and what question this answers.
+Ganti dengan: alasan mengapa kedua hal ini dibandingkan dan pertanyaan apa yang dijawab oleh perbandingan ini.
 
-## Comparison
+## Perbandingan
 
-| Dimension | Subject A | Subject B |
+| Dimensi | Subjek A | Subjek B |
 |-----------|-----------|-----------|
 | | | |
 | | | |
 
-## Verdict
+## Keputusan / Kesimpulan
 
-Replace with: one clear conclusion — which is better for what use case.
+Ganti dengan: kesimpulan yang jelas — mana yang lebih baik untuk kasus penggunaan tertentu.
 
-## Sources
+## Sumber
 
 -

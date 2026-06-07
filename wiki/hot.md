@@ -11,21 +11,23 @@ related:
   - "[[log]]"
 ---
 
-# Recent Context
+# Konteks Terbaru (Hot Cache)
 
-## Last Updated
-2026-06-07. Ingested "Pemimpin yang Mengkhianati Rakyatnya" source.
+Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
-## Key Recent Facts
-- Vault now has its first ingested source mapping warnings, and theological/historical proofs about unjust leadership.
-- Concepts created: [[Amanah Kepemimpinan]] (leadership responsibility), [[Kezaliman Pemimpin]] (tyranny/abuse of power), and [[Kewajiban Meluruskan Pemimpin]] (duty to counsel/correct leadership).
-- Key historical entities filed: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], and [[Mu'adz bin Jabal]].
+## Terakhir Diperbarui
+2026-06-07. Impor sumber pertama "Pemimpin yang Mengkhianati Rakyatnya".
 
-## Recent Changes
-- Created: [[Pemimpin yang Mengkhianati Rakyatnya]] (source summary)
-- Created: [[Amanah Kepemimpinan]], [[Kezaliman Pemimpin]], [[Kewajiban Meluruskan Pemimpin]] (concepts)
-- Created: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]] (entities)
+## Fakta Kunci Terbaru
+- Vault sekarang memiliki sumber impor pertama yang memetakan peringatan, dalil keagamaan, dan catatan sejarah tentang kepemimpinan yang tidak adil.
+- Konsep baru dibuat: [[Amanah Kepemimpinan]] (tanggung jawab pemimpin), [[Kezaliman Pemimpin]] (penyalahgunaan kekuasaan), dan [[Kewajiban Meluruskan Pemimpin]] (kewajiban menasihati/mengoreksi pemimpin).
+- Tokoh sejarah baru dikatalogkan: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], dan [[Mu'adz bin Jabal]].
 
-## Active Threads
-- Content planning: User is preparing content for the YouTube channel **KICIKKU** and X account **@jamaahquba**.
-- Next step: Create draft notes in `wiki/drafts/` utilizing these leadership and social justice concepts.
+## Perubahan Terbaru
+- Dibuat: [[Pemimpin yang Mengkhianati Rakyatnya]] (ringkasan rujukan)
+- Dibuat: [[Amanah Kepemimpinan]], [[Kezaliman Pemimpin]], [[Kewajiban Meluruskan Pemimpin]] (konsep)
+- Dibuat: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]] (entitas)
+
+## Alur Kerja Aktif
+- Perencanaan Konten: Merancang pembuatan materi ceramah/postingan untuk kanal YouTube **KICIKKU** dan akun X **@jamaahquba**.
+- Langkah Berikutnya: Membuat draf konten di folder `wiki/drafts/` menggunakan referensi konsep kepemimpinan dan keadilan sosial yang telah diimpor.

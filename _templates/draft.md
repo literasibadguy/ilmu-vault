@@ -1,7 +1,7 @@
 ---
 type: draft
 title: "<% tp.file.title %>"
-platform: "YouTube | X | Article"
+platform: "YouTube | X | Artikel"
 channel: "KICIKKU | jamaahquba"
 publish_date: YYYY-MM-DD
 created: <% tp.date.now("YYYY-MM-DD") %>
@@ -15,35 +15,35 @@ sources: []
 
 # <% tp.file.title %>
 
-## Creative Direction
+## Arah Kreatif
 
-- **Goal:** [Purpose of this piece of content]
-- **Target Audience:** [YouTube viewers / X followers / general readers]
-- **Hook:** [The initial attention grabber]
+- **Tujuan Konten:** [Tujuan utama dari pembuatan konten ini]
+- **Target Pembaca/Penonton:** [Pemirsa YouTube / Pengikut X / pembaca umum]
+- **Hook (Pikat):** [Kalimat pembuka atau pikat perhatian di awal]
 
-## Core Outline / Key Points
+## Kerangka Utama / Poin Kunci
 
-- [Point 1 / Scene 1]
-- [Point 2 / Scene 2]
-- [Point 3 / Scene 3]
+- [Poin 1 / Adegan 1]
+- [Poin 2 / Adegan 2]
+- [Poin 3 / Adegan 3]
 
-## Content / Script / Post Draft
+## Draf Konten / Naskah / Postingan
 
-### [For YouTube: A/B Roll & Script]
-| Visual (B-Roll / Cues) | Audio (Script / Voiceover) |
+### [Untuk YouTube: Naskah & Panduan Visual (A/B Roll)]
+| Panduan Visual (B-Roll / Kunci Visual) | Audio (Naskah / Voiceover) |
 | --- | --- |
 | | |
 
-### [For X: Thread / Post text]
+### [Untuk X: Utas / Postingan Tunggal]
 ```
-[Post text or thread content]
-```
-
-### [For Article: Body Text]
-```
-[Article draft]
+[Teks postingan atau draf utas]
 ```
 
-## References & Sources
+### [Untuk Artikel: Draf Naskah Lengkap]
+```
+[Naskah artikel lengkap]
+```
 
-- [[Note Name]] — [Context]
+## Referensi & Sumber
+
+- [[Nama Catatan]] — [Konteks]

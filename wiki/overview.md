@@ -13,44 +13,44 @@ related:
   - "[[log]]"
 ---
 
-# Wiki Overview
+# Ringkasan Wiki (Overview)
 
-Navigation: [[index]] | [[hot]] | [[log]]
-
----
-
-## Purpose
-
-This vault is the **Ilmuzip Vault** — a compounding, persistent second brain and research engine for Islamic knowledges, lecture/kajian collections, and creative drafts. It supports content creation for:
-- YouTube channel **KICIKKU** (scripts, video drafts, short clip notes)
-- X account **@jamaahquba** (educational posts, threads)
-- Long-form article drafts and reference materials.
+Navigasi: [[index|Indeks]] | [[hot|Konteks Terbaru]] | [[log|Catatan Operasi]]
 
 ---
 
-## Current State
+## Tujuan
 
-- Sources ingested: 1
-- Wiki pages: 12
-- Last activity: 2026-06-07 (Ingested Pemimpin yang Mengkhianati Rakyatnya)
-
----
-
-## Structure & Organization
-
-- `.raw/` contains raw transcripts, article sources, references, and audio/video text downloads.
-- `wiki/sources/` contains summaries of specific lectures (kajians), books read, or podcasts.
-- `wiki/concepts/` maps core Islamic concepts and principles (e.g. Fiqh, Aqidah, Hadith terminology).
-- `wiki/entities/` catalogs scholars, channels, speakers, organizations, and historical figures.
-- `wiki/drafts/` is the workbench for drafting X posts, scripts for KICIKKU, and long-form articles.
-- `wiki/questions/` holds research QA summaries.
-- `wiki/meta/` houses templates, calendars, checklists, and pipeline configurations.
+Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang dinamis untuk kajian keislaman, koleksi ceramah/kajian, serta draf kreatif. Wiki ini mendukung pembuatan konten untuk:
+- Kanal YouTube **KICIKKU** (naskah video, draf video, catatan klip pendek)
+- Akun X **@jamaahquba** (postingan edukatif, utas/threads)
+- Draf artikel panjang dan bahan rujukan ceramah.
 
 ---
 
-## Content Production Pipeline
+## Status Saat Ini
 
-1. **Ingest**: Drop raw transcripts, articles, or notes into `.raw/`. Run `ingest [filename]`.
-2. **Synthesize**: Link notes to scholars (`wiki/entities`) and key ideas (`wiki/concepts`).
-3. **Draft**: Create scripts or posts in `wiki/drafts/` utilizing research/citations from the wiki.
-4. **Publish**: Copy from drafts to publish on KICIKKU or @jamaahquba, marking status as `published`.
+- Sumber diimpor (ingested): 1
+- Halaman wiki: 12
+- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber Pemimpin yang Mengkhianati Rakyatnya)
+
+---
+
+## Struktur & Organisasi Folder
+
+- `.raw/` berisi dokumen mentah hasil transkrip, rujukan artikel, tautan referensi, dan unduhan teks ceramah.
+- `wiki/sources/` berisi ringkasan kajian tertentu, buku yang dibaca, atau catatan dari sini.
+- `wiki/concepts/` memetakan konsep dan prinsip utama keislaman (seperti Fiqh, Aqidah, terminologi Hadis).
+- `wiki/entities/` mengkatalogkan ulama, ustadz, pembicara, organisasi, dan tokoh-tokoh sejarah Islam.
+- `wiki/drafts/` adalah tempat kerja untuk merancang utas X, naskah untuk KICIKKU, dan artikel panjang.
+- `wiki/questions/` menyimpan catatan tanya jawab penelitian keagamaan.
+- `wiki/meta/` berisi templat, kalender konten, daftar periksa, dan konfigurasi alur kerja.
+
+---
+
+## Alur Produksi Konten
+
+1. **Ingest (Impor)**: Simpan transkrip mentah, artikel, atau catatan ke dalam folder `.raw/`. Minta asisten untuk mengimpornya dengan perintah `"ingest [nama-file]"`.
+2. **Sintesis**: Hubungkan catatan dengan ulama (`wiki/entities`) dan ide-ide kunci (`wiki/concepts`).
+3. **Draf**: Buat draf naskah atau postingan di `wiki/drafts/` dengan memanfaatkan rujukan/sitasi yang sudah ada di wiki.
+4. **Publikasi**: Salin draf tersebut untuk dipublikasikan di KICIKKU atau @jamaahquba, lalu ubah status draf menjadi `published`.

@@ -14,18 +14,18 @@ sources: []
 
 # <% tp.file.title %>
 
-**Question:** [restate the original query]
+**Pertanyaan:** [tulis ulang pertanyaan/query asli]
 
-## Answer
+## Jawaban
 
-[The synthesized answer, with citations to specific wiki pages]
+[Jawaban terperinci hasil sintesis, dilengkapi dengan kutipan/sitasi ke halaman wiki spesifik]
 
-(Source: [[]])
+(Sumber: [[]])
 
-## Confidence
+## Tingkat Keyakinan
 
-[draft | solid | definitive] — [why]
+[draft | solid | definitive] — [alasan]
 
-## Related Questions
+## Pertanyaan Terkait
 
 -
