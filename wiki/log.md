@@ -22,6 +22,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] ingest | Perjury
+- Sumber: `.raw/Perjury.md`
+- Ringkasan: [[Perjury]]
+- Halaman dibuat: [[Perjury]], [[Kesaksian Palsu]], [[Bahaya Kebohongan]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[index]], [[overview]], [[hot]]
+- Temuan Kunci: Kesaksian palsu disetarakan dengan syirik ganda, pelaku diancam dengan wajibnya neraka, dan hakim tidak dapat menghalalkan barang yang haram melalui keputusan yang salah.
+
 ## [2026-06-07] save | Draf Bahaya Kesombongan dibuat (menggunakan stop-slop)
 - Jenis: draf konten X (jamaahquba)
 - Halaman dibuat: [[Bahaya-Kesombongan]]

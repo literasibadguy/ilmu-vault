@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-07T17:05:00
+updated: 2026-06-07T17:15:00
 tags:
   - meta
   - hot-cache
@@ -16,21 +16,18 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-07. Impor sumber kedua "Pride (Kesombongan)".
+2026-06-07. Impor sumber ketiga "Perjury (Kesaksian Palsu)".
 
 ## Fakta Kunci Terbaru
-- Mengimpor "Pride (Kesombongan)" yang berisi larangan dan dosa besar terkait kecongkakan, takabur, dan tinggi hati.
-- Konsep baru dibuat: [[Kesombongan]] (Al-Kibr), [[Kesombongan Ulama]] (bahaya kesombongan intelektual bagi penuntut ilmu), dan [[Dosa Iblis]] (pembangkangan pertama di semesta akibat kesombongan unsur penciptaan).
-- Tokoh baru dikatalogkan: [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], dan [[Abu Hurayrah]].
-- Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesombongan).
+- Mengimpor "Perjury (Kesaksian Palsu)" yang berisi larangan keras dan ancaman bagi pelaku sumpah atau kesaksian palsu.
+- Konsep baru dibuat: [[Kesaksian Palsu]] (Syahadatus Zuur) dan [[Bahaya Kebohongan]] (kebohongan/dusta sebagai akar pengkhianatan).
+- Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesaksian Palsu).
 
 ## Perubahan Terbaru
-- Dibuat: [[Bahaya-Kesombongan]] (draf utas X)
-- Dibuat: [[Pride]] (ringkasan rujukan)
-- Dibuat: [[Kesombongan]], [[Kesombongan Ulama]], [[Dosa Iblis]] (konsep)
-- Dibuat: [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], [[Abu Hurayrah]] (entitas)
+- Dibuat: [[Perjury]] (ringkasan rujukan)
+- Dibuat: [[Kesaksian Palsu]], [[Bahaya Kebohongan]] (konsep)
 - Diperbarui: [[Nabi Muhammad SAW]] (entitas)
 
 ## Alur Kerja Aktif
-- Perencanaan Konten: Merancang pembuatan materi ceramah/postingan untuk kanal YouTube **KICIKKU** (topik bahaya kesombongan intelektual) dan akun X **@jamaahquba** (utas tentang dosa Iblis dan penyakit hati).
-- Langkah Berikutnya: Membuat draf konten di folder `wiki/drafts/` menggunakan referensi konsep kesombongan ini.
+- Perencanaan Konten: Merancang pembuatan materi ceramah/postingan untuk kanal YouTube **KICIKKU** (topik bahaya kesaksian palsu dalam sistem hukum) dan utas edukatif X **@jamaahquba** (tentang kejujuran dan amanah saksi).
+- Langkah Berikutnya: Melanjutkan penyusunan konten dakwah.
