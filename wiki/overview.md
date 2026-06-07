@@ -30,9 +30,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 1
-- Halaman wiki: 12
-- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber Pemimpin yang Mengkhianati Rakyatnya)
+- Sumber diimpor (ingested): 2
+- Halaman wiki: 21
+- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber Pride)
 
 ---
 

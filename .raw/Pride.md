@@ -1,0 +1,19 @@
+This includes pride, boasting, conceitedness, haughtiness and vanity. Allah Almighty says:
+
+“Musa said, ‘I seek refuge in my Lord from every proud man who does not believe in the Day of Reckoning.’” (40:27)
+
+“He does not love people puffed up with pride.” (16:23)
+
+The Messenger of Allah # said, “Once Allah made the earth swallow a man who was walking with an arrogant gait. He will sink in it until the Day of Rising” (al-Bukhari and an-Nasa’i). He  also said, “The tyrants and the arrogant will be gathered on the Day of Rising like grain on which people walk. Abasement will envelop them in every place.” (an-Nasa’i and at-Tirmidhi)
+
+One of the Salaf said, “The first sin by which Allah was dis- obeyed was pride.” Allah Almighty says: ‘We said to the angels, “Prostrate to Adam!” and they prostrated, with the exception of Iblis. He refused and was arrogant and was one of the unbelievers. (2:34) If someone arrogant towards God, his faith will not help him, as happened with Iblis.”
+
+‘The Prophet said, “No one will enter the garden while there is atom of pride in his heart.” Muslim related it. Allah Almighty says: “Allah does not love anyone who is vain or boastful.” (31:18) The Messenger of Allah % said, “Allah Almighty says: ‘Majesty is My waist-wrapper and pride is My cloak. If someone vies with Me for them, I will cast him into the Fire.’” Muslim related it.
+
+The Prophet % said, “The Garden and the Fire argued. The Garden said, ‘Why is it that only the weak and lowly will enter me? The Fire said, ‘I was preferred for the tyrants and arrogant.”
+Allah Almighty says: “Do not avert your face from people out of haughtiness and do not strut about arrogantly in the earth. Allah does not love anyone who is vain or boastful.” (31:18)
+
+Salama ibn al-Akwa‘ said, “A man ate with the Messenger of Allah # using his left hand. The Prophet # said, ‘Eat with your right hand.’ The man replied, ‘I cannot.’ Then he said, ‘You can-not? Only pride has stopped you.’ After that he was never able to lift it to his mouth.” Muslim related it. He # said, “Shall I inform you of who is in the Fire? It is every rough, strutting, arrogant
+person.” (al-Bukhari and Muslim) Ibn ‘Umar # said, “I heard the Messenger of Allah % say, ‘There is no man who is arrogant in his gait and arrogant in himself who will not meet Allah and find Him angry with him.” (at-Tabarani) It is sound, corroborated by this hadith of Abu Hurayra 2: “The first three to enter the Fire will be an unjust ruler, a rich person who does not pay zakat, and a proud, poor person.” (Ibn Khuzayma and Ibn Hibban) We find in Sahih al-Bukhari that the Messenger of Allah # said, “Allah will not look at three on the Day of Rising, will not declare them upright, and they will have a painful punishment: the one who wears his garment long (out of pride), the one who reminds people of his charity to them, and the one sells his goods by a false oath.”
+
+The worst kind of pride is that of someone who is arrogant towards people because of his knowledge and gloats over his own superiority. Such a person does not benefit at all from his knowledge. Someone who seeks knowledge of the Next World is rendered contrite by his knowledge; his heart is made humble and his lower self is abased. He lies in wait for his lower self and does not let up on it but calls it to account all the time and examines it. If he were to let it loose, it would refuse to follow the Straight Path and destroy him. If someone seeks knowledge out of pride and desire for leadership and exalts himself over other Muslims, thinking them to be foolish and belittling them, this is the worse kind of pride — and anyone who has an atom’s weight of pride in his heart will not enter the Garden. There is no strength or power except by Allah, the High, the Immense.

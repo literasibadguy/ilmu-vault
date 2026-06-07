@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-07T12:35:00
+updated: 2026-06-07T17:05:00
 tags:
   - meta
   - hot-cache
@@ -16,18 +16,20 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-07. Impor sumber pertama "Pemimpin yang Mengkhianati Rakyatnya".
+2026-06-07. Impor sumber kedua "Pride (Kesombongan)".
 
 ## Fakta Kunci Terbaru
-- Vault sekarang memiliki sumber impor pertama yang memetakan peringatan, dalil keagamaan, dan catatan sejarah tentang kepemimpinan yang tidak adil.
-- Konsep baru dibuat: [[Amanah Kepemimpinan]] (tanggung jawab pemimpin), [[Kezaliman Pemimpin]] (penyalahgunaan kekuasaan), dan [[Kewajiban Meluruskan Pemimpin]] (kewajiban menasihati/mengoreksi pemimpin).
-- Tokoh sejarah baru dikatalogkan: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], dan [[Mu'adz bin Jabal]].
+- Mengimpor "Pride (Kesombongan)" yang berisi larangan dan dosa besar terkait kecongkakan, takabur, dan tinggi hati.
+- Konsep baru dibuat: [[Kesombongan]] (Al-Kibr), [[Kesombongan Ulama]] (bahaya kesombongan intelektual bagi penuntut ilmu), dan [[Dosa Iblis]] (pembangkangan pertama di semesta akibat kesombongan unsur penciptaan).
+- Tokoh baru dikatalogkan: [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], dan [[Abu Hurayrah]].
+- Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesombongan).
 
 ## Perubahan Terbaru
-- Dibuat: [[Pemimpin yang Mengkhianati Rakyatnya]] (ringkasan rujukan)
-- Dibuat: [[Amanah Kepemimpinan]], [[Kezaliman Pemimpin]], [[Kewajiban Meluruskan Pemimpin]] (konsep)
-- Dibuat: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]] (entitas)
+- Dibuat: [[Pride]] (ringkasan rujukan)
+- Dibuat: [[Kesombongan]], [[Kesombongan Ulama]], [[Dosa Iblis]] (konsep)
+- Dibuat: [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], [[Abu Hurayrah]] (entitas)
+- Diperbarui: [[Nabi Muhammad SAW]] (entitas)
 
 ## Alur Kerja Aktif
-- Perencanaan Konten: Merancang pembuatan materi ceramah/postingan untuk kanal YouTube **KICIKKU** dan akun X **@jamaahquba**.
-- Langkah Berikutnya: Membuat draf konten di folder `wiki/drafts/` menggunakan referensi konsep kepemimpinan dan keadilan sosial yang telah diimpor.
+- Perencanaan Konten: Merancang pembuatan materi ceramah/postingan untuk kanal YouTube **KICIKKU** (topik bahaya kesombongan intelektual) dan akun X **@jamaahquba** (utas tentang dosa Iblis dan penyakit hati).
+- Langkah Berikutnya: Membuat draf konten di folder `wiki/drafts/` menggunakan referensi konsep kesombongan ini.

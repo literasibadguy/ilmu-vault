@@ -22,6 +22,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] ingest | Pride
+- Sumber: `.raw/Pride.md`
+- Ringkasan: [[Pride]]
+- Halaman dibuat: [[Pride]], [[Kesombongan]], [[Kesombongan Ulama]], [[Dosa Iblis]], [[Iblis]], [[Salama bin al-Akwa']], [[Nabi Musa AS]], [[Ibnu Umar]], [[Abu Hurayrah]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[index]], [[overview]], [[hot]]
+- Temuan Kunci: Orang yang memiliki kesombongan sekecil biji sawi tidak akan masuk surga, dan kesombongan terburuk adalah kesombongan ulama/penuntut ilmu atas ilmunya.
+
 ## [2026-06-07] ingest | Pemimpin yang Mengkhianati Rakyatnya
 - Sumber: `.raw/Pemimpin-yang-Mengkhianati-Rakyatnya.md`
 - Ringkasan: [[Pemimpin yang Mengkhianati Rakyatnya]]
