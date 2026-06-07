@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-07T12:28:00
+updated: 2026-06-07T12:35:00
 tags:
   - meta
   - hot-cache
@@ -14,15 +14,18 @@ related:
 # Recent Context
 
 ## Last Updated
-2026-06-07. Vault initialized for Ilmuzip Vault.
+2026-06-07. Ingested "Pemimpin yang Mengkhianati Rakyatnya" source.
 
 ## Key Recent Facts
-- New vault initialized at `/Users/firasrafislam/Documents/ilmuzip-vault`.
-- Configured as a combined Research (Mode E) and Content Production (Mode F) vault.
-- Created folder structures for lectures/kajians (`wiki/sources`), Islamic knowledges (`wiki/concepts`, `wiki/entities`), drafts for articles/posts/videos (`wiki/drafts`), and metadata/dashboards (`wiki/meta`).
+- Vault now has its first ingested source mapping warnings, and theological/historical proofs about unjust leadership.
+- Concepts created: [[Amanah Kepemimpinan]] (leadership responsibility), [[Kezaliman Pemimpin]] (tyranny/abuse of power), and [[Kewajiban Meluruskan Pemimpin]] (duty to counsel/correct leadership).
+- Key historical entities filed: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], and [[Mu'adz bin Jabal]].
 
 ## Recent Changes
-- Created: [[index]], [[log]], [[overview]], [[hot]]
+- Created: [[Pemimpin yang Mengkhianati Rakyatnya]] (source summary)
+- Created: [[Amanah Kepemimpinan]], [[Kezaliman Pemimpin]], [[Kewajiban Meluruskan Pemimpin]] (concepts)
+- Created: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Umar bin Abdul Aziz]], [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]] (entities)
 
 ## Active Threads
-- Vault is empty. Ready for initial ingestion of sources (lectures, transcripts, texts) in `.raw/`.
+- Content planning: User is preparing content for the YouTube channel **KICIKKU** and X account **@jamaahquba**.
+- Next step: Create draft notes in `wiki/drafts/` utilizing these leadership and social justice concepts.

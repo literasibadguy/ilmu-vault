@@ -30,9 +30,9 @@ This vault is the **Ilmuzip Vault** — a compounding, persistent second brain a
 
 ## Current State
 
-- Sources ingested: 0
-- Wiki pages: 4
-- Last activity: 2026-06-07 (initial scaffold)
+- Sources ingested: 1
+- Wiki pages: 12
+- Last activity: 2026-06-07 (Ingested Pemimpin yang Mengkhianati Rakyatnya)
 
 ---
 

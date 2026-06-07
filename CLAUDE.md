@@ -2,7 +2,7 @@
 
 Mode: Combined Research (Mode E) & Content Production (Mode F)
 Purpose: Research on Islamic knowledges, lecture/kajian collections, and drafts for articles, posts, and videos (KICIKKU, @jamaahquba).
-Owner: Firas Raf Islam
+Owner: Firas RafiIslam
 Created: 2026-06-07
 
 ## Structure
