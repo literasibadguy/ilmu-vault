@@ -30,9 +30,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 3
-- Halaman wiki: 24
-- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber Perjury)
+- Sumber diimpor (ingested): 4
+- Halaman wiki: 31
+- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber where-patience)
 
 ---
 

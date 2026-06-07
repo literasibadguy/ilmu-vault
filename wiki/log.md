@@ -22,6 +22,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] ingest | where-patience
+- Sumber: `.raw/where-patience.md`
+- Ringkasan: [[where-patience]]
+- Halaman dibuat: [[where-patience]], [[Kesabaran]], [[Kepemimpinan Agama]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[index]], [[overview]], [[hot]]
+- Temuan Kunci: Kesabaran disebutkan di 90 tempat Al-Qur'an, kepemimpinan agama diraih melalui gabungan sabar dan yakin, serta pahala sabar dilimpahkan tanpa batas.
+
 ## [2026-06-07] ingest | Perjury
 - Sumber: `.raw/Perjury.md`
 - Ringkasan: [[Perjury]]
