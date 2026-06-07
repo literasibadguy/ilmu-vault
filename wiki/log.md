@@ -23,6 +23,11 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] write | Taktik Iblis Merusak Rasa Malu
+- Naskah dibuat: [[Taktik Iblis Merusak Rasa Malu]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]]
+- Deskripsi: Penulisan draf naskah video YouTube KICIKKU tentang taktik Iblis merusak rasa malu dan aurat manusia, disusun menggunakan stop-slop skill (tanpa kata keterangan/adverbia dan menggunakan kalimat aktif-langsung).
+
 ## [2026-06-07] ingest | tafsir-sadi-iblis-adam
 - Sumber: `.raw/tafsir-sadi-iblis-adam.srt`
 - Ringkasan: [[tafsir-sadi-iblis-adam]]
