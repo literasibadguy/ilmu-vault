@@ -30,9 +30,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 4
-- Halaman wiki: 31
-- Aktivitas terakhir: 2026-06-07 (Mengimpor sumber where-patience)
+- Sumber diimpor (ingested): 5
+- Halaman wiki: 44
+- Aktivitas terakhir: 2026-06-07 (Mengimpor kajian Tafsir As-Sa'di tentang Adam dan Iblis)
 
 ---
 

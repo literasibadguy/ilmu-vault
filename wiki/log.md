@@ -23,6 +23,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-07] ingest | tafsir-sadi-iblis-adam
+- Sumber: `.raw/tafsir-sadi-iblis-adam.srt`
+- Ringkasan: [[tafsir-sadi-iblis-adam]]
+- Halaman dibuat: [[tafsir-sadi-iblis-adam]], [[Fitrah Rasa Malu]], [[Kezaliman Diri]], [[Pertobatan Adam]], [[Tazyin Kemaksiatan]], [[Waswasah Setan]], [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Syaikh Abdurrahman bin Nashir As-Sa'di]], [[Nabi Adam AS]], [[Hawa]], [[Qatadah bin Di'amah As-Sadusi]]
+- Halaman diperbarui: [[Iblis]], [[index]], [[overview]], [[hot]]
+- Temuan Kunci: Iblis menggunakan tazyin (pemberian nama indah), sumpah palsu atas nama Allah, dan waswasah untuk merusak fitrah rasa malu manusia dengan menyingkap auratnya; Adam dan Hawa mencontohkan taubat sejati melalui kalimat doa QS. Al-A'raf: 23.
+
 ## [2026-06-07] update | template-alignment
 - Sumber: `_templates/source.md`
 - Halaman diperbarui: [[Pemimpin yang Mengkhianati Rakyatnya]], [[Pride]], [[Perjury]], [[where-patience]]

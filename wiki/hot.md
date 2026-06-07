@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-07T18:35:00
+updated: 2026-06-07T18:45:00
 created: 2026-06-07
 tags:
   - meta
@@ -17,21 +17,20 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-07. Penyelarasan header catatan sumber dengan template `_templates/source.md` terbaru.
+2026-06-07. Impor kajian Tafsir As-Sa'di tentang Adam dan Iblis (`tafsir-sadi-iblis-adam`) oleh Syaikh Abdurrazzaq.
 
 ## Fakta Kunci Terbaru
-- Mengimpor "where-patience" yang memetakan kedudukan sabar di 90 tempat berbeda dalam Al-Qur'an.
-- Konsep baru dibuat: [[Kesabaran]] (Sabr) dan [[Kepemimpinan Agama]] (Al-Imamah fid-Din).
-- Tokoh baru dikatalogkan: [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], dan [[Ibnul Qayyim Al-Jauziyyah]].
-- Tokoh diperbarui: [[Nabi Muhammad SAW]] (ditautkan dengan rujukan Kesabaran).
+- Mengimpor kajian Tafsir As-Sa'di tentang Adam dan Iblis yang merinci taktik Iblis (tazyin, sumpah palsu, hembusan waswasah) dan fitrah rasa malu (menutupi aurat).
+- Konsep baru dibuat: [[Fitrah Rasa Malu]], [[Kezaliman Diri]], [[Pertobatan Adam]], [[Tazyin Kemaksiatan]], dan [[Waswasah Setan]].
+- Tokoh baru dikatalogkan: [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Syaikh Abdurrahman bin Nashir As-Sa'di]], [[Nabi Adam AS]], [[Hawa]], dan [[Qatadah bin Di'amah As-Sadusi]].
+- Tokoh diperbarui: [[Iblis]] (ditautkan dengan taktik penyesatan barunya).
 
 ## Perubahan Terbaru
-- Diperbarui: Penyelarasan header untuk seluruh catatan sumber [[Pemimpin yang Mengkhianati Rakyatnya]], [[Pride]], [[Perjury]], dan [[where-patience]].
-- Dibuat: [[where-patience]] (ringkasan rujukan)
-- Dibuat: [[Kesabaran]], [[Kepemimpinan Agama]] (konsep)
-- Dibuat: [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Ayyub AS]], [[Ibnul Qayyim Al-Jauziyyah]] (entitas)
-- Diperbarui: [[Nabi Muhammad SAW]] (entitas)
+- Dibuat: [[tafsir-sadi-iblis-adam]] (ringkasan rujukan)
+- Dibuat: [[Fitrah Rasa Malu]], [[Kezaliman Diri]], [[Pertobatan Adam]], [[Tazyin Kemaksiatan]], [[Waswasah Setan]] (konsep)
+- Dibuat: [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Syaikh Abdurrahman bin Nashir As-Sa'di]], [[Nabi Adam AS]], [[Hawa]], [[Qatadah bin Di'amah As-Sadusi]] (entitas)
+- Diperbarui: [[Iblis]] (entitas)
 
 ## Alur Kerja Aktif
-- Perencanaan Konten: Merancang naskah video YouTube **KICIKKU** (topik meraih kesuksesan dan kepemimpinan melalui sabar dan yakin) dan utas edukatif X **@jamaahquba** (makna kelipatan pahala kesabaran).
+- Perencanaan Konten: Merancang naskah video YouTube **KICIKKU** (tema taktik Iblis merusak rasa malu dan aurat manusia) dan utas edukatif X **@jamaahquba** (tema bahaya manipulasi nama dosa modern seperti riba dan suap berdasarkan konsep tazyin).
 - Langkah Berikutnya: Melanjutkan penyusunan konten dakwah.
