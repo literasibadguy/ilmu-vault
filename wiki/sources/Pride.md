@@ -58,12 +58,12 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan dosa besar terkait kesom
 
 ## Hadis
 
-- **Hadis Riwayat Bukhari & An-Nasa'i (Ditelan bumi karena angkuh)** — Siksaan bagi orang yang berjalan dengan gaya angkuh dan membanggakan diri.
-- **Hadis Riwayat Muslim (Kesombongan sebesar dzarrah)** — Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan sekecil biji sawi.
-- **Hadis Riwayat Muslim (Hadis Qudsi - Kesombongan adalah jubah-Ku)** — Ancaman Allah bagi siapa saja yang menyaingi keagungan dan kesombongan milik Allah.
-- **Hadis Riwayat Muslim (Orang makan tangan kiri)** — Kisah kelumpuhan tangan seseorang akibat menolak makan dengan tangan kanan karena sombong.
-- **Hadis Riwayat Bukhari & Muslim (Penghuni neraka yang kasar & sombong)** — Kabar bahwa penghuni neraka adalah orang-orang yang kasar dan sombong.
-- **Hadis Riwayat Ibn Khuzayma & Ibn Hibban (Tiga penghuni neraka pertama)** — Orang miskin yang sombong termasuk dalam golongan awal yang masuk neraka.
+- **Hadis Riwayat Bukhari (No. 3485) & Muslim (No. 2088) (Ditelan bumi karena angkuh)** — Siksaan bagi orang yang berjalan dengan gaya angkuh dan membanggakan diri.
+- **Hadis Riwayat Muslim (No. 91) (Kesombongan sebesar dzarrah)** — Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan sekecil biji sawi.
+- **Hadis Riwayat Muslim (No. 2620) (Hadis Qudsi - Kesombongan adalah jubah-Ku)** — Ancaman Allah bagi siapa saja yang menyaingi keagungan dan kesombongan milik Allah.
+- **Hadis Riwayat Muslim (No. 2021) (Orang makan tangan kiri)** — Kisah kelumpuhan tangan seseorang akibat menolak makan dengan tangan kanan karena sombong.
+- **Hadis Riwayat Bukhari (No. 4918) & Muslim (No. 2853) (Penghuni neraka yang kasar & sombong)** — Kabar bahwa penghuni neraka adalah orang-orang yang kasar dan sombong.
+- **Hadis Riwayat Ibn Khuzayma (No. 2482) (Tiga penghuni neraka pertama)** — Orang miskin yang sombong termasuk dalam golongan awal yang masuk neraka.
 
 ## Catatan (Notes)
 Catatan ini sangat penting untuk menyusun konten edukatif di X (@jamaahquba) dan YouTube KICIKKU mengenai penyakit hati, akhlak penuntut ilmu, dan bahaya kesombongan dalam kehidupan sehari-hari.

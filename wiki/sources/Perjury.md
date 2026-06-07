@@ -57,11 +57,11 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan bahaya besar dari kesaks
 
 ## Hadis
 
-- **Hadis Riwayat Tradisi (Setara Syirik)** — Peringatan bahwa kesaksian palsu nilainya setara dengan menyekutukan Allah secara ganda.
-- **Hadis Riwayat Ibn Majah & Al-Hakim (Kaki tidak bergeser)** — Ancaman neraka wajib bagi saksi palsu sebelum kakinya bergeser di Hari Kiamat.
-- **Hadis Riwayat Ibn Majah & Al-Hakim (Tabiat mukmin)** — Penjelasan bahwa seorang mukmin bisa memiliki tabiat apa saja kecuali pengkhianatan dan kebohongan.
-- **Hadis Riwayat Bukhari & Muslim (Potongan api neraka)** — Peringatan bagi siapa saja yang mengambil harta saudaranya melalui putusan hukum yang salah.
-- **Hadis Riwayat Bukhari (Dosa besar terburuk)** — Penempatan kesaksian palsu dalam jajaran dosa besar terburuk bersama syirik dan durhaka kepada orang tua.
+- **Hadis Riwayat Sunan Abu Dawud (No. 3124) & Ibn Majah (No. 2372) (Setara Syirik)** — Peringatan bahwa kesaksian palsu nilainya setara dengan menyekutukan Allah secara ganda.
+- **Hadis Riwayat Ibn Majah (No. 2373) (Kaki tidak bergeser)** — Ancaman neraka wajib bagi saksi palsu sebelum kakinya bergeser di Hari Kiamat.
+- **Hadis Riwayat Ahmad (No. 22180) (Tabiat mukmin)** — Penjelasan bahwa seorang mukmin bisa memiliki tabiat apa saja kecuali pengkhianatan dan kebohongan.
+- **Hadis Riwayat Bukhari (No. 2680) & Muslim (No. 1713) (Potongan api neraka)** — Peringatan bagi siapa saja yang mengambil harta saudaranya melalui putusan hukum yang salah.
+- **Hadis Riwayat Bukhari (No. 2654) & Muslim (No. 87) (Dosa besar terburuk)** — Penempatan kesaksian palsu dalam jajaran dosa besar terburuk bersama syirik dan durhaka kepada orang tua.
 
 ## Catatan (Notes)
 Topik ini sangat penting untuk konten edukasi hukum Islam di kanal YouTube KICIKKU dan akun X @jamaahquba, terutama mengenai pentingnya integritas kesaksian, kejujuran dalam pengadilan, dan bahaya menjarah hak orang lain lewat manipulasi kata-kata.

@@ -57,14 +57,14 @@ Kumpulan dalil Al-Qur'an dan Hadis tentang dosa besar bagi pemimpin yang bertind
 
 ## Hadis
 
-- **Hadis Riwayat Muslim (Siapa menipu kami bukan golongan kami)** — Keharaman bagi pemimpin yang berbuat curang atau menipu rakyatnya.
-- **Hadis Riwayat Bukhari, Muslim & At-Tirmidhi (Kezaliman adalah kegelapan)** — Bahaya tindakan zalim yang menjadi kegelapan di Hari Kiamat.
-- **Hadis Riwayat Bukhari & Muslim (Setiap kalian adalah pemimpin)** — Tanggung jawab kepemimpinan universal yang akan dimintai pertanggungjawaban.
-- **Hadis Riwayat Bukhari & Muslim (Diharamkan surga bagi pemimpin penipu)** — Ancaman dicabutnya hak masuk surga bagi pemimpin yang berkhianat hingga wafatnya.
-- **Hadis Riwayat Muslim (Doa kelapangan & kesulitan bagi pemimpin)** — Doa Nabi SAW agar Allah menyulitkan pemimpin yang mempersulit urusan rakyat.
-- **Hadis Riwayat Ahmad & At-Tirmidhi (Membantu kezaliman)** — Larangan mendukung kebohongan pemimpin zalim dan ancaman terusir dari telaga Rasulullah SAW.
-- **Hadis Riwayat Bukhari & Muslim (Pemimpin yang adil di bawah naungan Allah)** — Kemuliaan pemimpin adil yang dinaungi Allah pada hari tiada naungan selain-Nya.
-- **Hadis Riwayat Bukhari & Muslim (Larangan ambisi kekuasaan)** — Peringatan bahwa ambisi jabatan akan mendatangkan penyesalan besar di Hari Kiamat.
+- **Hadis Riwayat Muslim (No. 101) (Siapa menipu kami bukan golongan kami)** — Keharaman bagi pemimpin yang berbuat curang atau menipu rakyatnya.
+- **Hadis Riwayat Bukhari (No. 2447) & Muslim (No. 2579) (Kezaliman adalah kegelapan)** — Bahaya tindakan zalim yang menjadi kegelapan di Hari Kiamat.
+- **Hadis Riwayat Bukhari (No. 2554) & Muslim (No. 1829) (Setiap kalian adalah pemimpin)** — Tanggung jawab kepemimpinan universal yang akan dimintai pertanggungjawaban.
+- **Hadis Riwayat Bukhari (No. 7150) & Muslim (No. 142) (Diharamkan surga bagi pemimpin penipu)** — Ancaman dicabutnya hak masuk surga bagi pemimpin yang berkhianat hingga wafatnya.
+- **Hadis Riwayat Muslim (No. 1828) (Doa kelapangan & kesulitan bagi pemimpin)** — Doa Nabi SAW agar Allah menyulitkan pemimpin yang mempersulit urusan rakyat.
+- **Hadis Riwayat Ahmad (No. 18072) & At-Tirmidhi (No. 2264) (Membantu kezaliman)** — Larangan mendukung kebohongan pemimpin zalim dan ancaman terusir dari telaga Rasulullah SAW.
+- **Hadis Riwayat Bukhari (No. 660) & Muslim (No. 1031) (Pemimpin yang adil di bawah naungan Allah)** — Kemuliaan pemimpin adil yang dinaungi Allah pada hari tiada naungan selain-Nya.
+- **Hadis Riwayat Bukhari (No. 7148) (Larangan ambisi kekuasaan)** — Peringatan bahwa ambisi jabatan akan mendatangkan penyesalan besar di Hari Kiamat.
 
 ## Catatan (Notes)
 Sumber ini sangat relevan untuk menyusun materi ceramah/kajian (YouTube KICIKKU) dan postingan media sosial (X jamaahquba) terkait keadilan sosial, amanah kepemimpinan dalam Islam, dan bahaya korupsi/kezaliman struktural.
