@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-06-07
+updated: 2026-06-08
 created: 2026-06-07
 tags:
   - meta
@@ -22,6 +22,23 @@ Hanya untuk ditambahkan (append-only). Entri baru diletakkan di bagian paling AT
 Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
+
+## [2026-06-08] write | Artikel Hilah Bourdain
+- Naskah dibuat: [[Artikel Hilah Bourdain]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf artikel panjang X (1570 kata) bertema bahaya rekayasa hukum transaksi (hilah ribawiyah) dan eskatologi Islam bergaya Anthony Bourdain, disusun menggunakan stop-slop skill (tanpa kata keterangan/adverbia, kalimat aktif-langsung, dan tanpa em-dash).
+
+## [2026-06-08] write | Utas Hilah Bukowski
+- Naskah dibuat: [[Utas Hilah Bukowski]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema bahaya rekayasa hukum transaksi (hilah ribawiyah) dan eskatologi Islam bergaya Charles Bukowski, disusun menggunakan stop-slop skill (tanpa kata keterangan/adverbia, kalimat aktif-langsung, dan tanpa em-dash).
+
+## [2026-06-08] ingest | azab-kubur-utsaimin
+- Sumber: `.raw/azab-kubur-utsaimin.srt`
+- Ringkasan: [[azab-kubur-utsaimin]]
+- Halaman dibuat: [[azab-kubur-utsaimin]], [[Barzakh]], [[Azab Kubur]], [[Fitnah Kubur]], [[Fase Perkembangan Janin]], [[Hilah Ribawiyah]], [[Etika Keuangan Islam]], [[Muhammad bin Shalih Al-Utsaimin]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan komprehensif perjalanan ruh di alam Barzakh, ujian kubur, fase peniupan ruh janin di usia 120 hari, larangan menunda pembayaran utang bagi yang mampu, serta kecaman keras atas trik akad riba (hilah ribawiyah).
 
 ## [2026-06-07] write | Utas Tazyin Kemaksiatan
 - Naskah dibuat: [[Utas Tazyin Kemaksiatan]]

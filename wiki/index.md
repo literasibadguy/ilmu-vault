@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-07
+updated: 2026-06-08
 created: 2026-06-07
 tags:
   - meta
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-07 | Total halaman: 46 | Sumber diimpor: 5
+Terakhir diperbarui: 2026-06-08 | Total halaman: 56 | Sumber diimpor: 6
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -24,9 +24,15 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Konsep (Concepts)
 
 - [[Amanah Kepemimpinan]] — Tanggung jawab suci seorang pemimpin (shepherd/pemelihara) terhadap rakyatnya (flock) (status: seed)
+- [[Azab Kubur]] — Siksaan di alam kubur bagi orang kafir dan pelaku dosa besar (status: seed)
 - [[Bahaya Kebohongan]] — Menggunakan dusta untuk memanipulasi hukum dan merampas hak sesama manusia (status: seed)
+- [[Barzakh]] — Alam perantara antara dunia dan akhirat setelah kematian (status: seed)
 - [[Dosa Iblis]] — Arrogansi asal-usul (rasial/penciptaan) yang menolak perintah Allah (status: seed)
+- [[Etika Keuangan Islam]] — Prinsip syariat yang mengatur hak milik, utang-piutang, dan pencatatan transaksi (status: seed)
+- [[Fase Perkembangan Janin]] — Tahapan penciptaan janin selama 120 hari di rahim hingga peniupan ruh (status: seed)
+- [[Fitnah Kubur]] — Ujian berupa pertanyaan kubur tentang Rabb, Agama, dan Nabi oleh dua malaikat (status: seed)
 - [[Fitrah Rasa Malu]] — Dorongan alami manusia untuk menutupi bagian tubuh yang tabu (aurat) (status: seed)
+- [[Hilah Ribawiyah]] — Rekayasa akad transaksi untuk memuluskan praktik riba terselubung (status: seed)
 - [[Kepemimpinan Agama]] — Derajat kepemimpinan dakwah spiritual yang diraih dengan sabar dan yakin (status: seed)
 - [[Kesaksian Palsu]] — Memberikan pernyataan tidak benar di depan hukum yang merugikan pihak lain (status: seed)
 - [[Kesabaran]] — Kekuatan menahan diri dari kemaksiatan, ketaatan ibadah, dan rida atas takdir (status: seed)
@@ -53,6 +59,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Imam Ahmad bin Hanbal]] — Pendiri Mazhab Hanbali, penegak akidah Ahlus Sunnah (status: seed)
 - [[Imam Asy-Syafi'i]] — Pendiri Mazhab Syafi'i, Nashirus Sunnah yang cerdas (status: seed)
 - [[Mu'adz bin Jabal]] — Sahabat ahli fiqih yang diutus ke Yaman (status: seed)
+- [[Muhammad bin Shalih Al-Utsaimin]] — Ulama besar Arab Saudi, pakar fiqih, tafsir, dan akidah (status: seed)
 - [[Nabi Adam AS]] — Manusia pertama, nabi pertama, dan bapak bagi seluruh umat manusia (status: seed)
 - [[Nabi Ayyub AS]] — Simbol ketabahan dan puncak kesabaran mutlak menghadapi musibah (status: seed)
 - [[Nabi Muhammad SAW]] — Utusan Allah, pembawa risalah keadilan sosial dan akhlak mulia (status: seed)
@@ -69,6 +76,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Sumber Rujukan (Sources)
 
+- [[azab-kubur-utsaimin]] — 2026-06-08 | Ceramah Syaikh Utsaimin tentang fase janin, alam barzakh, hari kiamat, dan trik riba | 8 halaman baru dibuat
 - [[Pemimpin yang Mengkhianati Rakyatnya]] — 2026-06-07 | Kumpulan dalil dosa besar pemimpin zalim dan khianat | 9 halaman baru dibuat
 - [[Perjury]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesaksian palsu | 3 halaman baru dibuat
 - [[Pride]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesombongan | 9 halaman baru dibuat
@@ -79,8 +87,10 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Draf Konten (Drafts)
 
+- [[Artikel Hilah Bourdain]] — Artikel panjang tentang bahaya rekayasa hukum transaksi (hilah) dan eskatologi Islam bergaya Anthony Bourdain (status: writing)
 - [[Bahaya-Kesombongan]] — Draf utas X tentang definisi kesombongan, kisah Iblis, dan kisah tangan lumpuh (status: writing)
 - [[Taktik Iblis Merusak Rasa Malu]] — Naskah video YouTube KICIKKU tentang taktik Iblis merusak rasa malu dan aurat manusia (status: writing)
+- [[Utas Hilah Bukowski]] — Draf utas X tentang bahaya rekayasa hukum transaksi (hilah) bergaya Charles Bukowski (status: writing)
 - [[Utas Tazyin Kemaksiatan]] — Draf utas X tentang penamaan indah bagi dosa (tazyin) bergaya Charles Bukowski (status: writing)
 
 ---

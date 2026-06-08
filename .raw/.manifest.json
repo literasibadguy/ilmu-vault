@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "created": "2026-06-08",
+  "description": "Ingest delta tracker and address map for the ilmuzip-vault vault. Do not hand-edit; wiki-ingest maintains this.",
+  "sources": {
+    ".raw/azab-kubur-utsaimin.srt": {
+      "hash": "6ca5f57798a3bf7ad082133212995297",
+      "ingested_at": "2026-06-08",
+      "pages_created": [
+        "wiki/sources/azab-kubur-utsaimin.md",
+        "wiki/entities/Muhammad bin Shalih Al-Utsaimin.md",
+        "wiki/concepts/Barzakh.md",
+        "wiki/concepts/Azab Kubur.md",
+        "wiki/concepts/Fitnah Kubur.md",
+        "wiki/concepts/Fase Perkembangan Janin.md",
+        "wiki/concepts/Hilah Ribawiyah.md",
+        "wiki/concepts/Etika Keuangan Islam.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    }
+  },
+  "address_map": {}
+}
