@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Barzakh"
+title: Barzakh
 complexity: intermediate
-domain: "Akidah / Eskatologi"
+domain: Akidah / Eskatologi
 aliases:
-  - "Alam Kubur"
-  - "Alam Perantara"
+  - Alam Kubur
+  - Alam Perantara
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -17,7 +17,7 @@ related:
   - "[[Azab Kubur]]"
   - "[[Fitnah Kubur]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Barzakh
@@ -40,8 +40,8 @@ Mengimani keberadaan alam Barzakh adalah bagian dari rukun iman kepada Hari Akhi
 
 ## Contoh Kasus
 
-Dalam ceramah **[[azab-kubur-utsaimin]]**, dijelaskan berdasarkan hadis Al-Bara' bin 'Azib bahwa meskipun secara lahiriah (empiris duniawi) kuburan manusia tampak seperti gundukan tanah sempit berukuran 1x2 meter, bagi orang beriman alam Barzakh-nya akan diluaskan sejauh mata memandang dan dihiasi dengan hamparan permadani surga. Hal ini menunjukkan hukum fisik alam Barzakh berbeda sepenuhnya dengan hukum fisik duniawi.
+Dalam ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, dijelaskan berdasarkan hadis Al-Bara' bin 'Azib bahwa meskipun secara lahiriah (empiris duniawi) kuburan manusia tampak seperti gundukan tanah sempit berukuran 1x2 meter, bagi orang beriman alam Barzakh-nya akan diluaskan sejauh mata memandang dan dihiasi dengan hamparan permadani surga. Hal ini menunjukkan hukum fisik alam Barzakh berbeda sepenuhnya dengan hukum fisik duniawi.
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

@@ -21,6 +21,135 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/the-devils-and-the-eye.md": {
+      "hash": "3d800e54a47525abc1c7eaf4ef889a26",
+      "ingested_at": "2026-06-09",
+      "pages_created": [
+        "wiki/sources/The Devils and The Eye.md",
+        "wiki/concepts/Fitnah Pandangan Mata.md",
+        "wiki/concepts/Wahdatul Wujud dan Hulul.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Iblis.md",
+        "wiki/entities/Ibnul Qayyim Al-Jauziyyah.md",
+        "wiki/concepts/Waswasah Setan.md",
+        "wiki/concepts/Tazyin Kemaksiatan.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Marrying-a-woman-to-enable-her-to-remarry-her-former-husband.md": {
+      "hash": "a17221916555996d78501f64fa4ea590",
+      "ingested_at": "2026-06-10",
+      "pages_created": [
+        "wiki/sources/Marrying a Woman to Enable Her to Remarry Her Former Husband.md",
+        "wiki/concepts/Nikah Tahlil.md",
+        "wiki/concepts/Hilah.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Uqba bin Amir.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Sa'id bin al-Musayyab.md",
+        "wiki/entities/Ibrahim an-Nakha'i.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Abdullah bin Sharik al-Amiri.md",
+        "wiki/entities/Isma'il bin Sa'id.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Imam Ahmad bin Hanbal.md",
+        "wiki/entities/Imam Asy-Syafi'i.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Showing-Off.md": {
+      "hash": "b7c1ad0fb8b3d8e7e66703937f868b02",
+      "ingested_at": "2026-06-10",
+      "pages_created": [
+        "wiki/sources/Showing Off.md",
+        "wiki/concepts/Riya.md",
+        "wiki/concepts/Syirik Asghar.md",
+        "wiki/concepts/Ikhlas.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Al-Fudayl bin Iyad.md",
+        "wiki/entities/Al-Khattabi.md",
+        "wiki/entities/Abu Umamah.md",
+        "wiki/entities/Muhammad bin al-Mubarak as-Suri.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Regarding-His-Guidance-in-Guarding-His-Words-Clean.md": {
+      "hash": "5453cc51f26b396bd05da60ecd769410",
+      "ingested_at": "2026-06-11",
+      "pages_created": [
+        "wiki/sources/Regarding His Guidance in Guarding His Words.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Shirk Lafzhi.md",
+        "wiki/concepts/Ad-Dahr.md",
+        "wiki/concepts/Tawakkul.md",
+        "wiki/concepts/Al-Ajz wal Kasal.md",
+        "wiki/concepts/Qadar.md",
+        "wiki/entities/Nabi Ibrahim AS.md",
+        "wiki/entities/Hani bin Yazid.md",
+        "wiki/entities/Abu Ramthah.md",
+        "wiki/entities/Hudhayfah bin al-Yaman.md",
+        "wiki/entities/Adi bin Hatim.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abu Jahl.md",
+        "wiki/entities/Awf bin Malik.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnul Qayyim Al-Jauziyyah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Regarding-His-Guidance-in-Prayer-Clean 1.md": {
+      "hash": "0bbbee068877453222087ede278d5102",
+      "ingested_at": "2026-06-11",
+      "pages_created": [
+        "wiki/sources/Regarding His Guidance in Prayer.md",
+        "wiki/concepts/Sifat Shalat Nabi.md",
+        "wiki/concepts/Iftitah.md",
+        "wiki/concepts/Khusyuk.md",
+        "wiki/concepts/Sujud Sahwi.md",
+        "wiki/concepts/Dzikir Pasca-Shalat.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Zaid bin Thabit.md",
+        "wiki/entities/Marwan bin al-Hakam.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Ibnul Qayyim Al-Jauziyyah.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Hudhayfah bin al-Yaman.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

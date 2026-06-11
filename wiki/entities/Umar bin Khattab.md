@@ -16,6 +16,7 @@ related:
   - "[[Abu Dharr Al-Ghifari]]"
 sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 ---
 
 # Umar bin Khattab
@@ -29,7 +30,11 @@ sources:
 - **Khalifah yang Adil**: Dikenal sering berpatroli menyamar di malam hari (*asas*) untuk melihat kondisi rakyatnya secara langsung secara objektif.
 - **Mendengar Kritikan**: Sangat terbuka terhadap saran dan kritikan dari rakyatnya, bahkan dari rakyat biasa atau kaum wanita.
 - **Sesi dengan Abu Dharr**: Meminta Abu Dharr meriwayatkan hadis tentang pertanggungjawaban berat pemimpin di Hari Kiamat sebagai pengingat bagi dirinya agar tidak tergelincir dalam kezaliman.
+- **Sikap Terhadap Nikah Tahlil**: Menentang keras rekayasa hukum nikah tahlil. Beliau berfatwa bahwa perbuatan tersebut adalah zina dan mengancam akan merajam siapa saja yang melakukannya, baik sang suami bayaran (*muhallil*) maupun mantan suami yang memesannya (*muhallal lahu*).
+- **Pembacaan Doa Iftitah**: Kerap mengeraskan pembacaan doa Iftitah *"Subhanakallahumma wa bihamdika..."* ketika mengimami shalat agar makmum dapat mempelajari lafal dan cara membaca doa istiftah tersebut (**[[Iftitah]]**).
 
 ## Sumber
 
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+- [[Regarding His Guidance in Prayer]]

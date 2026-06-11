@@ -15,6 +15,7 @@ related:
   - "[[Ibnul Qayyim Al-Jauziyyah]]"
 sources:
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 ---
 
 # Imam Ahmad bin Hanbal
@@ -28,7 +29,9 @@ sources:
 - **Kompilasi Hadis Raksasa**: Penulis kitab *Musnad Ahmad*, salah satu kitab kompilasi hadis terbesar yang memuat lebih dari 27.000 hadis.
 - **Penyusun Tafsir Tematik Sabr**: Mengompilasi fakta bahwa kata kesabaran (*sabr*) disebutkan di 90 tempat berbeda dalam Al-Qur'an, yang kemudian dikutip oleh ulama-ulama setelahnya seperti Ibnul Qayyim.
 - **Teladan Kesabaran**: Menghadapi siksaan penjara dan cambuk oleh tiga khalifah dinasti Abbasiyah karena menolak menyatakan bahwa Al-Qur'an adalah makhluk ciptaan.
+- **Sikap Terhadap Nikah Tahlil**: Melarang keras praktik nikah tahlil dan menyatakan pernikahan tahlil tersebut batil (tidak sah). Beliau berfatwa bahwa jika niat suami kedua adalah tahlil, maka ia tetap terlaknat, meskipun sang istri tidak mengetahui niat tersembunyinya tersebut.
 
 ## Sumber
 
 - [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]

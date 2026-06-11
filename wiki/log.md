@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-06-08
+updated: 2026-06-11
 created: 2026-06-07
 tags:
   - meta
@@ -23,6 +23,71 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-11] ingest | Regarding His Guidance in Prayer
+- Sumber: `.raw/Regarding-His-Guidance-in-Prayer-Clean 1.md`
+- Ringkasan: [[Regarding His Guidance in Prayer]]
+- Halaman dibuat: [[Regarding His Guidance in Prayer]], [[Sifat Shalat Nabi]], [[Iftitah]], [[Khusyuk]], [[Sujud Sahwi]], [[Dzikir Pasca-Shalat]], [[Aisyah binti Abu Bakar]], [[Abu Bakar Ash-Shiddiq]], [[Zaid bin Thabit]], [[Marwan bin al-Hakam]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Ibnul Qayyim Al-Jauziyyah]], [[Abu Hurayrah]], [[Anas bin Malik]], [[Ibnu Abbas]], [[Hudhayfah bin al-Yaman]], [[Mu'adz bin Jabal]], [[Umar bin Khattab]], [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Rincian sifat shalat Nabi SAW yang tumakninah, pelarangan peniruan gerakan hewan, variasi doa Iftitah, panduan duduk tashahhud, syariat sujud sahwi, serta wirid/dzikir setelah salam.
+
+## [2026-06-11] write | Utas Al-Ajz wal Kasal Bukowski
+- Naskah dibuat: [[Utas Al-Ajz wal Kasal Bukowski]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]], [[overview]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema kelemahan dan kemalasan (Al-Ajz wal Kasal) bergaya Charles Bukowski, disusun menggunakan stop-slop skill (kalimat aktif, tanpa kata keterangan/adverbia, tanpa em-dash, padat, dan puitis).
+
+## [2026-06-11] write | Utas Adab Berbicara Bourdain
+- Naskah dibuat: [[Utas Adab Berbicara Bourdain]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]], [[overview]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema adab berbicara, tata krama lisan, dan tauhid lafal bergaya Anthony Bourdain, disusun menggunakan stop-slop skill (kalimat aktif, tanpa kata keterangan/adverbia, tanpa em-dash, padat, dan sarat deskripsi sensoris).
+
+## [2026-06-11] ingest | Regarding His Guidance in Guarding His Words
+- Sumber: `.raw/Regarding-His-Guidance-in-Guarding-His-Words-Clean.md`
+- Ringkasan: [[Regarding His Guidance in Guarding His Words]]
+- Halaman dibuat: [[Regarding His Guidance in Guarding His Words]], [[Adab Berbicara]], [[Shirk Lafzhi]], [[Ad-Dahr]], [[Tawakkul]], [[Al-Ajz wal Kasal]], [[Qadar]], [[Nabi Ibrahim AS]], [[Hani bin Yazid]], [[Abu Ramthah]], [[Hudhayfah bin al-Yaman]], [[Adi bin Hatim]], [[Anas bin Malik]], [[Abu Jahl]], [[Awf bin Malik]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Abu Hurayrah]], [[Ibnul Qayyim Al-Jauziyyah]], [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan mengenai adab lisan, larangan kata-kata kasar/vulgar, serta larangan syirik lafal dalam perkataan sehari-hari (Shirk Lafzhi). Pengharaman cela waktu (Ad-Dahr), adab menyikapi takdir dengan rida pasca-peristiwa (mengucapkan Qaddarallahu Wa Ma Sha'a Fa'ala), serta keselarasan tawakal sejati dengan ikhtiar aktif untuk memutus belenggu kelemahan dan kemalasan (Al-Ajz wal Kasal).
+
+## [2026-06-10] write | Utas Riya Bourdain
+- Naskah dibuat: [[Utas Riya Bourdain]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema bahaya penyakit hati (riya') dan keutamaan ikhlas bergaya Anthony Bourdain, disusun menggunakan stop-slop skill (kalimat aktif, tanpa adverbs, tanpa em-dash, padat, dan sarat deskripsi sensoris).
+
+## [2026-06-10] ingest | Showing Off
+- Sumber: `.raw/Showing-Off.md`
+- Ringkasan: [[Showing Off]]
+- Halaman dibuat: [[Showing Off]], [[Riya]], [[Syirik Asghar]], [[Ikhlas]], [[Ali bin Abi Thalib]], [[Al-Fudayl bin Iyad]], [[Al-Khattabi]], [[Abu Umamah]], [[Muhammad bin al-Mubarak as-Suri]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Abu Hurayrah]], [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan mengenai bahaya penyakit hati riya' (pamer) sebagai bentuk syirik kecil (syirik asghar) yang dapat meleburkan seluruh pahala kebaikan. Menyusun karakteristik dan tanda pelaku riya' menurut Ali bin Abi Thalib, penegasan urgensi ikhlas (kemurnian niat), serta teladan salaf dalam menyembunyikan amal ibadah sunyi di malam hari.
+
+## [2026-06-10] ingest | Marrying a woman to enable her to remarry her former husband
+- Sumber: `.raw/Marrying-a-woman-to-enable-her-to-remarry-her-former-husband.md`
+- Ringkasan: [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+- Halaman dibuat: [[Marrying a Woman to Enable Her to Remarry Her Former Husband]], [[Nikah Tahlil]], [[Hilah]], [[Utas Nikah Tahlil Bukowski]], [[Ibnu Mas'ud]], [[Ibnu Abbas]], [[Uqba bin Amir]], [[Al-Hasan al-Basri]], [[Sa'id bin al-Musayyab]], [[Ibrahim an-Nakha'i]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]], [[Abdullah bin Sharik al-Amiri]], [[Isma'il bin Sa'id]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Umar bin Khattab]], [[Ibnu Umar]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Hilah Ribawiyah]], [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Pengharaman mutlak rekayasa pernikahan tahlil (*nikah halalah* atau *tais al-musta'ar*) untuk menghalalkan mantan istri yang ditalak tiga kepada mantan suaminya. Praktik ini dilaknat oleh Rasulullah SAW, disamakan dengan zina oleh para Sahabat, dinyatakan batil mutlak oleh jumhur ulama, dan dianggap batil oleh Mazhab Syafi'i jika dicantumkan dalam akad.
+
+## [2026-06-09] write | Artikel Pandangan Bourdain
+- Naskah dibuat: [[Artikel Pandangan Bourdain]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf artikel panjang X (1406 kata) bertema Fitnah Pandangan Mata, Waswasah Setan, Tazyin Kemaksiatan, dan Wahdatul Wujud dan Hulul bergaya Anthony Bourdain menggunakan stop-slop skill (kalimat aktif, tanpa kata keterangan/adverbia, tanpa em-dash, dan deskripsi sensoris yang kuat).
+
+## [2026-06-09] write | Utas Fitnah Pandangan Bukowski
+- Naskah dibuat: [[Utas Fitnah Pandangan Bukowski]]
+- Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf utas X (10 postingan) bertema Fitnah Pandangan Mata bergaya Charles Bukowski menggunakan stop-slop skill (kalimat aktif, tanpa kata keterangan/adverbia, tanpa em-dash, dan langsung ke intinya).
+
+## [2026-06-09] ingest | the-devils-and-the-eye
+- Sumber: `.raw/the-devils-and-the-eye.md`
+- Ringkasan: [[The Devils and The Eye]]
+- Halaman dibuat: [[The Devils and The Eye]], [[Fitnah Pandangan Mata]], [[Wahdatul Wujud dan Hulul]]
+- Halaman diperbarui: [[Iblis]], [[Ibnul Qayyim Al-Jauziyyah]], [[Waswasah Setan]], [[Tazyin Kemaksiatan]], [[index]], [[overview]], [[hot]], [[log]]
+- Temuan Kunci: Iblis menggunakan indra penglihatan (pandangan mata) sebagai gerbang utama untuk menanamkan syahwat, angan-angan kosong, dan merasionalisasi dosa tersebut sebagai bentuk tadabur keindahan ciptaan, lalu secara bertahap menyesatkan orang berilmu rendah menuju doktrin pantheisme (wahdatul wujud) dan immanentisme (hulul).
+
+## [2026-06-08] save | Sesi: Ingest Kajian Azab Kubur Syaikh Utsaimin
+- Tipe: session
+- Lokasi: wiki/meta/2026-06-08-session-ingest-azab-kubur-utsaimin.md
+- Dari: percakapan tentang impor transkrip ceramah eskatologi Syaikh Utsaimin dan draf konten X
+
 ## [2026-06-08] write | Artikel Hilah Bourdain
 - Naskah dibuat: [[Artikel Hilah Bourdain]]
 - Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
@@ -35,8 +100,8 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ## [2026-06-08] ingest | azab-kubur-utsaimin
 - Sumber: `.raw/azab-kubur-utsaimin.srt`
-- Ringkasan: [[azab-kubur-utsaimin]]
-- Halaman dibuat: [[azab-kubur-utsaimin]], [[Barzakh]], [[Azab Kubur]], [[Fitnah Kubur]], [[Fase Perkembangan Janin]], [[Hilah Ribawiyah]], [[Etika Keuangan Islam]], [[Muhammad bin Shalih Al-Utsaimin]]
+- Ringkasan: [[Ceramah Azab Kubur (Syaikh Utsaimin)]]
+- Halaman dibuat: [[Ceramah Azab Kubur (Syaikh Utsaimin)]], [[Barzakh]], [[Azab Kubur]], [[Fitnah Kubur]], [[Fase Perkembangan Janin]], [[Hilah Ribawiyah]], [[Etika Keuangan Islam]], [[Muhammad bin Shalih Al-Utsaimin]]
 - Halaman diperbarui: [[index]], [[overview]], [[hot]], [[log]]
 - Temuan Kunci: Penjelasan komprehensif perjalanan ruh di alam Barzakh, ujian kubur, fase peniupan ruh janin di usia 120 hari, larangan menunda pembayaran utang bagi yang mampu, serta kecaman keras atas trik akad riba (hilah ribawiyah).
 

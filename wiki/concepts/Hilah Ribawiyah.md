@@ -1,12 +1,12 @@
 ---
 type: concept
-title: "Hilah Ribawiyah"
+title: Hilah Ribawiyah
 complexity: advanced
-domain: "Fiqih Muamalah / Ekonomi"
+domain: Fiqih Muamalah / Ekonomi
 aliases:
-  - "Trik Riba"
-  - "Rekayasa Akad Riba"
-  - "Hilah"
+  - Trik Riba
+  - Rekayasa Akad Riba
+  - Hilah
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -16,8 +16,10 @@ tags:
 status: seed
 related:
   - "[[Tazyin Kemaksiatan]]"
+  - "[[Hilah]]"
+  - "[[Nikah Tahlil]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Hilah Ribawiyah
@@ -39,11 +41,11 @@ Mengakali larangan Allah merupakan dosa besar yang dapat mendatangkan kemurkaan 
 
 ## Contoh Kasus
 
-Dalam ceramah **[[azab-kubur-utsaimin]]**, Syaikh Al-Utsaimin mengkritik keras trik pembelian mobil yang umum terjadi:
+Dalam ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin mengkritik keras trik pembelian mobil yang umum terjadi:
 -   Seseorang ingin membeli mobil tetapi tidak memiliki uang tunai. Ia datang kepada seorang pedagang/lembaga keuangan.
 -   Pedagang tersebut pergi bersama pembeli ke showroom, membeli mobil tersebut secara tunai, lalu langsung menjualnya kembali kepada pembeli tadi secara kredit dengan harga yang telah dimarkup tinggi.
 -   Syaikh Al-Utsaimin menjelaskan bahwa pedagang tersebut hakikatnya tidak berniat melakukan jual-beli mobil; ia hanya memberikan pinjaman tunai berbunga (riba) untuk melunasi mobil showroom tersebut. Transaksi ini dinilai sebagai bentuk **Hilah Ribawiyah** yang batil karena barang dagangan hanya dijadikan formalitas akad saja.
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Azab Kubur"
+title: Azab Kubur
 complexity: intermediate
-domain: "Akidah / Eskatologi"
+domain: Akidah / Eskatologi
 aliases:
-  - "Siksa Kubur"
-  - "Siksa Barzakh"
+  - Siksa Kubur
+  - Siksa Barzakh
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -18,7 +18,7 @@ related:
   - "[[Barzakh]]"
   - "[[Fitnah Kubur]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Azab Kubur
@@ -42,7 +42,7 @@ Mengimani Azab Kubur adalah bagian dari aqidah Ahlus Sunnah wal Jama'ah. Penging
 
 ## Contoh Kasus
 
-Dalam **[[azab-kubur-utsaimin]]**, Syaikh Al-Utsaimin menjelaskan beberapa dosa spesifik yang dapat mendatangkan Azab Kubur, antara lain:
+Dalam **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin menjelaskan beberapa dosa spesifik yang dapat mendatangkan Azab Kubur, antara lain:
 -   **Kencing tidak bersih**: Orang yang tidak menjaga kesucian diri dari percikan air seninya.
 -   **Naminah**: Mengadu domba sesama manusia untuk merusak hubungan persaudaraan.
 -   **Ghibah**: Membicarakan keburukan orang lain.
@@ -50,4 +50,4 @@ Dalam **[[azab-kubur-utsaimin]]**, Syaikh Al-Utsaimin menjelaskan beberapa dosa 
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

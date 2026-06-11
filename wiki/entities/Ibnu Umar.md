@@ -16,6 +16,7 @@ related:
   - "[[Umar bin Khattab]]"
 sources:
   - "[[Pride]]"
+  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 ---
 
 # Ibnu Umar
@@ -28,7 +29,9 @@ sources:
 
 - **Kepatuhan Terhadap Sunna**: Sangat berhati-hati dalam meneladani setiap gerak-gerik Nabi SAW tanpa menambah atau menguranginya.
 - **Penyampai Hadis Akhlak**: Meriwayatkan hadis tentang murka Allah terhadap orang yang sombong dalam berjalan (*strutting*) dan sombong terhadap dirinya sendiri, menegaskan pentingnya tawadhu dalam kehidupan bermasyarakat.
+- **Sikap Terhadap Nikah Tahlil**: Menentang keras rekayasa nikah tahlil. Beliau menegaskan bahwa pernikahan harus berlandaskan rasa suka dan keinginan tulus (desire). Beliau berfatwa bahwa pada zaman Rasulullah SAW, praktik tahlil dikategorikan sama dengan perbuatan zina.
 
 ## Sumber
 
 - [[Pride]]
+- [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]

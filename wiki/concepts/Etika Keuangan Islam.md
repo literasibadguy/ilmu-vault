@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Etika Keuangan Islam"
+title: Etika Keuangan Islam
 complexity: intermediate
-domain: "Fiqih Muamalah / Akhlak"
+domain: Fiqih Muamalah / Akhlak
 aliases:
-  - "Hak Keuangan"
-  - "Utang Piutang dalam Islam"
+  - Hak Keuangan
+  - Utang Piutang dalam Islam
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -16,7 +16,7 @@ status: seed
 related:
   - "[[Kezaliman Diri]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Etika Keuangan Islam
@@ -39,8 +39,8 @@ Etika keuangan dalam Islam menyeimbangkan antara hubungan kepada Allah (*hablum-
 
 ## Contoh Kasus
 
-Dalam ceramah **[[azab-kubur-utsaimin]]**, Syaikh Al-Utsaimin mengutip sabda Nabi SAW: *"Matal al-ghaniyyi zhulmun"* (Penundaan pembayaran utang oleh orang yang kaya/mampu adalah sebuah kezaliman). Syaikh merinci bahwa setiap detik atau menit yang dilewati oleh seorang debitur mampu yang sengaja menunda pembayaran utangnya dicatat oleh malaikat sebagai tindakan kezaliman yang mengikis pahala amalnya.
+Dalam ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin mengutip sabda Nabi SAW: *"Matal al-ghaniyyi zhulmun"* (Penundaan pembayaran utang oleh orang yang kaya/mampu adalah sebuah kezaliman). Syaikh merinci bahwa setiap detik atau menit yang dilewati oleh seorang debitur mampu yang sengaja menunda pembayaran utangnya dicatat oleh malaikat sebagai tindakan kezaliman yang mengikis pahala amalnya.
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

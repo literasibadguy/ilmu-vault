@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: 2026-06-07
-updated: 2026-06-08
+updated: 2026-06-11
 tags:
   - meta
   - overview
@@ -30,9 +30,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 6
-- Halaman wiki: 56
-- Aktivitas terakhir: 2026-06-08 (Mengimpor ceramah Syaikh Utsaimin tentang Azab Kubur)
+- Sumber diimpor (ingested): 11
+- Halaman wiki: 113
+- Aktivitas terakhir: 2026-06-11 (Impor petunjuk Nabi SAW tentang shalat dari Zad al-Ma'ad)
 
 ---
 

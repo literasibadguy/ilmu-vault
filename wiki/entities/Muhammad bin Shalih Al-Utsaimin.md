@@ -1,9 +1,9 @@
 ---
 type: entity
-title: "Muhammad bin Shalih Al-Utsaimin"
+title: Muhammad bin Shalih Al-Utsaimin
 entity_type: person
-role: "Ulama, Ahli Fiqih, Mufassir"
-first_mentioned: "[[azab-kubur-utsaimin]]"
+role: Ulama, Ahli Fiqih, Mufassir
+first_mentioned: "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -13,12 +13,12 @@ tags:
   - aqidah
 status: seed
 related:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
   - "[[Barzakh]]"
   - "[[Azab Kubur]]"
   - "[[Hilah Ribawiyah]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Muhammad bin Shalih Al-Utsaimin
@@ -41,4 +41,4 @@ Syaikh Al-Utsaimin menegaskan bahwa perkara eskatologi (seperti keadaan kubur da
 
 ## Rujukan
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Fase Perkembangan Janin"
+title: Fase Perkembangan Janin
 complexity: basic
-domain: "Tafsir / Akidah"
+domain: Tafsir / Akidah
 aliases:
-  - "Peniupan Ruh"
-  - "Tahapan Penciptaan Janin"
+  - Peniupan Ruh
+  - Tahapan Penciptaan Janin
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -16,7 +16,7 @@ status: seed
 related:
   - "[[Muhammad bin Shalih Al-Utsaimin]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Fase Perkembangan Janin
@@ -43,8 +43,8 @@ Pemahaman konsep ini sangat penting bagi penetapan hukum fikih kedokteran Islam,
 
 ## Contoh Kasus
 
-Dalam ceramah **[[azab-kubur-utsaimin]]**, Syaikh Al-Utsaimin menegaskan bahwa peniupan ruh menandai dimulainya fase kehidupan manusia yang sesungguhnya di dalam rahim. Sebelum usia 120 hari, jika terjadi keguguran, janin tersebut belum dihukumi sebagai manusia yang memiliki ruh; ia tidak perlu dimandikan, disalatkan, atau dikuburkan di pemakaman muslim secara khusus. Namun, jika keguguran terjadi setelah hari ke-120, janin wajib diperlakukan sebagaimana jenazah manusia biasa (diberi nama, dimandikan, dikafani, disalatkan, dan dikubur).
+Dalam ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin menegaskan bahwa peniupan ruh menandai dimulainya fase kehidupan manusia yang sesungguhnya di dalam rahim. Sebelum usia 120 hari, jika terjadi keguguran, janin tersebut belum dihukumi sebagai manusia yang memiliki ruh; ia tidak perlu dimandikan, disalatkan, atau dikuburkan di pemakaman muslim secara khusus. Namun, jika keguguran terjadi setelah hari ke-120, janin wajib diperlakukan sebagaimana jenazah manusia biasa (diberi nama, dimandikan, dikafani, disalatkan, dan dikubur).
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

@@ -26,7 +26,9 @@ sources:
 
 - **Ahli Fiqih Terkemuka**: Nabi SAW bersabda bahwa Mu'adz adalah orang yang paling mengerti tentang halal dan haram di kalangan umatnya.
 - **Peringatan Saat Bertugas**: Ketika mengutusnya ke Yaman, Nabi SAW memberikan pesan penutup yang sangat terkenal: *"Takutlah kamu akan doa orang yang dizalimi, karena tidak ada hijab (penghalang) antara doanya dengan Allah."* Ini menjadi pengingat agar Mu'adz selalu memimpin dengan penuh keadilan sosial.
+- **Teguran Shalat Isha**: Menjadi perawi dari teguran terkenal Nabi SAW saat ia memanjangkan shalat jamaah Isha (membaca Al-Baqarah). Nabi SAW bersabda: *"Apakah engkau ingin menimbulkan fitnah (menyulitkan umat), wahai Mu'adz?"*, yang melandasi prinsip kemudahan dan peringatan membaca surah-surah sedang bagi imam shalat jamaah (**[[Sifat Shalat Nabi]]**).
 
 ## Sumber
 
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[Regarding His Guidance in Prayer]]

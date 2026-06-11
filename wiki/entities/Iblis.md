@@ -17,9 +17,12 @@ related:
   - "[[Tazyin Kemaksiatan]]"
   - "[[Waswasah Setan]]"
   - "[[Fitrah Rasa Malu]]"
+  - "[[Fitnah Pandangan Mata]]"
+  - "[[Wahdatul Wujud dan Hulul]]"
 sources:
   - "[[Pride]]"
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[The Devils and The Eye]]"
 ---
 
 # Iblis
@@ -33,10 +36,11 @@ sources:
 - **Golongan Jin**: Tercipta dari api yang menyala-nyala (*min nari-s-samum*).
 - **Akar Kesombongan**: Menolak sujud kepada Adam AS karena merasa unsur penciptaannya (api) lebih unggul daripada tanah liat.
 - **Musuh Nyata Manusia**: Bersumpah di hadapan Allah untuk menyesatkan anak keturunan Adam AS dari jalan yang lurus hingga Hari Kiamat.
-- **Taktik Deception (Penyesatan)**: Menggunakan bisikan samar (*waswasah*), membingkai diri sebagai penasihat, bersumpah palsu atas nama Allah, serta merekayasa istilah dosa dengan nama yang indah (*tazyin*) untuk mengelabui akal sehat.
+- **Taktik Deception (Penyesatan)**: Menggunakan bisikan samar (*waswasah*), membingkai diri sebagai penasihat, bersumpah palsu atas nama Allah, merekayasa nama dosa (*tazyin*), mengeksploitasi pintu pandangan mata untuk menanamkan syahwat, serta menjerumuskan orang berilmu rendah ke dalam penyimpangan akidah seperti *wahdatul wujud* dan *hulul*.
 - **Target Utama**: Merusak fitrah rasa malu manusia dengan menyingkap pakaian ketakwaan lahir batin sehingga aurat mereka terlihat.
 
 ## Sumber
 
 - [[Pride]]
 - [[tafsir-sadi-iblis-adam]]
+- [[The Devils and The Eye]]

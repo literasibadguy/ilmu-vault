@@ -14,8 +14,10 @@ tags:
 status: seed
 related:
   - "[[Waswasah Setan]]"
+  - "[[Fitnah Pandangan Mata]]"
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[The Devils and The Eye]]"
 ---
 
 # Tazyin Kemaksiatan
@@ -40,12 +42,15 @@ Taktik ini adalah perangkap kognitif utama yang digunakan Iblis sejak awal penci
 - **Riba**: Di dunia modern, riba dikemas sebagai "laba", "bunga", atau "keuntungan investasi".
 - **Sogok/Suap**: Dinamai kembali sebagai "uang tip", "uang kopi", "tanda terima kasih", atau "ikramiyah".
 - **Khamar**: Disebut sebagai "minuman spiritual" atau "gaya hidup".
+- **Pandangan Mata (Gaze)**: Setan merasionalisasi perbuatan memandang lawan jenis secara bebas sebagai "bentuk tadabur keindahan seni ciptaan Allah untuk mengingat Pencipta".
 
 ## Hubungan
 
 - [[Waswasah Setan]] — Kendaraan bisikan untuk menyampaikan manipulasi tazyin.
 - [[Iblis]] — Pencetus pertama taktik tazyin di surga.
+- [[Fitnah Pandangan Mata]] — Menjustifikasi dosa pandangan mata menggunakan kemasan tadabur keindahan ciptaan.
 
 ## Sumber
 
 - [[tafsir-sadi-iblis-adam]]
+- [[The Devils and The Eye]]

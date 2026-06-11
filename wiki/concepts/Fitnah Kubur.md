@@ -1,11 +1,11 @@
 ---
 type: concept
-title: "Fitnah Kubur"
+title: Fitnah Kubur
 complexity: intermediate
-domain: "Akidah / Eskatologi"
+domain: Akidah / Eskatologi
 aliases:
-  - "Pertanyaan Kubur"
-  - "Ujian Liang Lahat"
+  - Pertanyaan Kubur
+  - Ujian Liang Lahat
 created: 2026-06-08
 updated: 2026-06-08
 tags:
@@ -17,7 +17,7 @@ related:
   - "[[Barzakh]]"
   - "[[Azab Kubur]]"
 sources:
-  - "[[azab-kubur-utsaimin]]"
+  - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
 ---
 
 # Fitnah Kubur
@@ -44,8 +44,8 @@ Fitnah Kubur adalah fase penentu (skrining awal) nasib manusia di akhirat. Syaik
 
 ## Contoh Kasus
 
-Dalam riwayat yang dikutip pada ceramah **[[azab-kubur-utsaimin]]**, Nabi SAW bersabda bahwa ketika seorang hamba mukmin menjawab pertanyaan kubur dengan benar, terdengar suara dari langit: *"Hambaku benar, bentangkanlah permadani dari surga dan bukakanlah pintu menuju surga baginya."* Hal ini menegaskan bahwa iman yang tulus membuahkan bantuan langsung dari Allah SWT saat menghadapi hisab kubur.
+Dalam riwayat yang dikutip pada ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Nabi SAW bersabda bahwa ketika seorang hamba mukmin menjawab pertanyaan kubur dengan benar, terdengar suara dari langit: *"Hambaku benar, bentangkanlah permadani dari surga dan bukakanlah pintu menuju surga baginya."* Hal ini menegaskan bahwa iman yang tulus membuahkan bantuan langsung dari Allah SWT saat menghadapi hisab kubur.
 
 ## Sumber
 
-- **[[azab-kubur-utsaimin]]**
+- **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**
