@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-12
 tags:
   - entity
   - sahabat
@@ -15,8 +15,10 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ibnu Mas'ud]]"
   - "[[Ibnu Umar]]"
+  - "[[Pendidikan Anak Perempuan]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
+  - "[[The Ideal Husband]]"
 ---
 
 # Ibnu Abbas
@@ -31,8 +33,10 @@ sources:
 - **Sikap Terhadap Nikah Tahlil**: Menolak keras upaya memanipulasi talak tiga melalui pernikahan rekayasa. Beliau memperingatkan: *"Barangsiapa mencoba menipu Allah, maka Allah akan menipu dirinya."* Beliau menegaskan pernikahan harus dilandasi ketulusan hati, bukan konspirasi.
 - **Guru Tabi'in**: Melahirkan generasi murid yang menjadi ulama-ulama besar Tabi'in, terutama di wilayah Makkah dan Madinah.
 - **Hadis Doa Duduk Antara Dua Sujud**: Meriwayatkan secara sahih bacaan doa permohonan ampun, rahmat, petunjuk, dan rezeki saat duduk di antara dua sujud Nabi SAW (**[[Sifat Shalat Nabi]]**).
+- **Hadis Keutamaan Anak Perempuan**: Periwayat hadis yang menerangkan larangan mengubur hidup-hidup, menghina, atau mendiskriminasi anak perempuan demi anak laki-laki, yang disertai dengan janji masuk Surga bagi yang mematuhinya (**[[Pendidikan Anak Perempuan]]**).
 
 ## Sumber
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Regarding His Guidance in Prayer]]
+- [[The Ideal Husband]]

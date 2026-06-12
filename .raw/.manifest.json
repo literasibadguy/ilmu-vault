@@ -150,6 +150,36 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/the-ideal-husband.md": {
+      "hash": "52ac152bd22e7223403b9c49b503c1da",
+      "ingested_at": "2026-06-12",
+      "pages_created": [
+        "wiki/sources/The Ideal Husband.md",
+        "wiki/concepts/Hak dan Kewajiban Suami.md",
+        "wiki/concepts/Adab Terhadap Istri.md",
+        "wiki/concepts/Adab Pernikahan.md",
+        "wiki/concepts/Poligami dalam Islam.md",
+        "wiki/concepts/Pendidikan Anak Perempuan.md",
+        "wiki/concepts/Hukum Perceraian.md",
+        "wiki/entities/Khadijah binti Khuwailid.md",
+        "wiki/entities/Umm Salamah.md",
+        "wiki/entities/Hafsah binti Umar.md",
+        "wiki/entities/Fatima binti Muhammad.md",
+        "wiki/entities/Saudah binti Zam'ah.md",
+        "wiki/entities/Aqra' bin Habis.md",
+        "wiki/entities/Hasan bin Ali.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

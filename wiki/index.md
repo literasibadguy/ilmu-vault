@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-11
+updated: 2026-06-12
 created: 2026-06-07
 tags:
   - meta
@@ -16,7 +16,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-11 | Total halaman: 113 | Sumber diimpor: 11
+Terakhir diperbarui: 2026-06-12 | Total halaman: 128 | Sumber diimpor: 12
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -25,6 +25,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Konsep (Concepts)
 
 - [[Adab Berbicara]] — Disiplin lisan dalam memilih kata santun, mulia, dan menghindari perkataan kasar atau penyalahgunaan istilah (status: seed)
+- [[Adab Pernikahan]] — Etika menjaga kehormatan lajang, kriteria kesucian agama calon pasangan, dan walimah sederhana (status: seed)
+- [[Adab Terhadap Istri]] — Tuntunan Sunnah dalam berinteraksi dengan istri penuh kasih sayang, kelembutan, musyawarah, dan melarang KDRT kasar (status: seed)
 - [[Ad-Dahr]] — Larangan mencela waktu/zaman karena Allah adalah Pengendali mutlak atas segala peristiwa (status: seed)
 - [[Al-Ajz wal Kasal]] — Penyakit kelemahan ('ajz) dan kemalasan (kasal) yang menjadi sumber kesedihan, kecemasan, kepenakan, dan kekikiran (status: seed)
 - [[Amanah Kepemimpinan]] — Tanggung jawab suci seorang pemimpin (shepherd/pemelihara) terhadap rakyatnya (flock) (status: seed)
@@ -38,8 +40,10 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Fitnah Kubur]] — Ujian berupa pertanyaan kubur tentang Rabb, Agama, dan Nabi oleh dua malaikat (status: seed)
 - [[Fitnah Pandangan Mata]] — Bahaya pelepasan pandangan mata secara bebas yang memicu syahwat dan angan-angan kosong (status: seed)
 - [[Fitrah Rasa Malu]] — Dorongan alami manusia untuk menutupi bagian tubuh yang tabu (aurat) (status: seed)
+- [[Hak dan Kewajiban Suami]] — Hak nafkah finansial mutlak istri dan kewajiban qiwamah suami yang sah (status: seed)
 - [[Hilah]] — Konsep rekayasa hukum/tipu daya untuk menyiasati larangan Allah SWT (status: seed)
 - [[Hilah Ribawiyah]] — Rekayasa akad transaksi untuk memuluskan praktik riba terselubung (status: seed)
+- [[Hukum Perceraian]] — Prosedur talak sunni yang bertahap (revokabel), pembatasan iddah, dan prioritas hak asuh anak kecil pada ibu (status: seed)
 - [[Iftitah]] — Doa pembuka shalat pasca-Takbiratul Ihram yang memiliki berbagai variasi lafal sahih (status: seed)
 - [[Ikhlas]] — Sifat memurnikan niat beramal hanya demi mengharap keridaan Allah SWT (status: seed)
 - [[Kepemimpinan Agama]] — Derajat kepemimpinan dakwah spiritual yang diraih dengan sabar dan yakin (status: seed)
@@ -52,7 +56,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Kezaliman Pemimpin]] — Penyalahgunaan kekuasaan, penipuan terhadap rakyat, dan pengabaian kebutuhan mereka yang diancam dengan siksa neraka (status: seed)
 - [[Khusyuk]] — Keadaan konsentrasi, ketundukan, dan tumakninah di dalam shalat yang melarang gerakan sia-sia (status: seed)
 - [[Nikah Tahlil]] — Pernikahan konspiratif untuk menghalalkan kembali wanita yang ditalak tiga kepada mantan suaminya (status: seed)
+- [[Pendidikan Anak Perempuan]] — Keutamaan menyayangi, membesarkan, mendidik anak perempuan, serta janji Surga bagi orang tua (status: seed)
 - [[Pertobatan Adam]] — Konsep pengakuan kesalahan, penyesalan, dan istigfar yang diajarkan Allah kepada Nabi Adam AS (status: seed)
+- [[Poligami dalam Islam]] — Ketentuan keadilan lahiriah finansial dan giliran waktu bersyarat ketat dengan ancaman Hari Kiamat (status: seed)
 - [[Qadar]] — Penerimaan rida terhadap takdir pasca-peristiwa dan pelarangan berandai-andai (Lauw) yang membuka pintu tipu daya Setan (status: seed)
 - [[Riya]] — Sikap pamer atau mengharapkan pujian manusia dalam beribadah kepada Allah SWT (status: seed)
 - [[Shirk Lafzhi]] — Syirik kecil berupa ungkapan verbal yang secara implisit menyetarakan kedudukan makhluk dengan Allah (status: seed)
@@ -77,15 +83,18 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Abu Ramthah]] — Sahabat nabi dan tabib yang diingatkan bahwa Penyembuh hakiki adalah Allah (status: seed)
 - [[Abu Umamah]] — Sahabat Nabi perawi hadis keutamaan Al-Qur'an dan ketegasan tentang keikhlasan sujud (status: seed)
 - [[Adi bin Hatim]] — Sahabat nabi perawi kisah teguran Nabi terhadap juru khotbah yang tidak santun dalam bertauhid lafal (status: seed)
-- [[Aisyah binti Abu Bakar]] — Ummul Mukminin, istri Nabi, perawi hadis utama fiqih shalat malam dan adab rumah tangga Nabi SAW (status: seed)
+- [[Aisyah binti Abu Bakar]] — Ummul Mukminin, istri Nabi, perawi hadis utama fiqih shalat malam and adab rumah tangga Nabi SAW (status: seed)
 - [[Al-Fudayl bin Iyad]] — Ulama Tabi'ut Tabi'in terkemuka di bidang zuhud dan perumus ikhlas-riya-syirik (status: seed)
 - [[Al-Hasan al-Basri]] — Ulama Tabi'in terkemuka di bidang fiqih dan zuhud (status: seed)
 - [[Al-Khattabi]] — Ulama hadis pensyarah pertama Sunan Abi Dawud & Shahih al-Bukhari (status: seed)
 - [[Ali bin Abi Thalib]] — Sahabat dekat Nabi, Khalifah keempat, pintu kota ilmu, perumus ciri riya' (status: seed)
 - [[Anas bin Malik]] — Sahabat pelayan Nabi perawi doa perlindungan dari kelemahan, kemalasan, kecemasan, dan kesedihan (status: seed)
+- [[Aqra' bin Habis]] — Tokoh Arab keturunan Bani Tamim, ditegur Nabi SAW karena tidak pernah mencium anak-anaknya (status: seed)
 - [[Awf bin Malik]] — Sahabat nabi perawi hadis kepasrahan Hasbiyallah pasca-ikhtiar maksimal dalam perkara pengadilan (status: seed)
+- [[Fatima binti Muhammad]] — Putri bungsu kesayangan Nabi SAW yang diperlakukan dengan penuh penghormatan dan cinta (status: seed)
+- [[Hafsah binti Umar]] — Ummul Mukminin, putri Umar bin Khattab, dikenal berani menyampaikan pendapat dan penjaga mushaf pertama (status: seed)
 - [[Hani bin Yazid]] — Sahabat nabi yang diubah kunyanya dari Abul Hakam menjadi Abu Shuraih karena Allah adalah Al-Hakam (status: seed)
-- [[Hudhayfah bin al-Yaman]] — Sahabat nabi pemegang rahasia Rasulullah, perawi hadis larangan syirik lafal dalam kehendak (status: seed)
+- [[Hasan bin Ali]] — Cucu tertua Nabi SAW (anak Ali dan Fatima), rujukan sabda pentingnya kasih sayang kepada anak (status: seed)
 - [[Hawa]] — Istri Nabi Adam AS yang mendampingi beliau di surga dan bumi (status: seed)
 - [[Iblis]] — Makhluk pertama yang membangkang karena kesombongan (status: seed)
 - [[Ibnu Abbas]] — Sahabat Nabi ahli tafsir, fiqih, dan sepupu Nabi (status: seed)
@@ -97,6 +106,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Imam Asy-Syafi'i]] — Pendiri Mazhab Syafi'i, Nashirus Sunnah yang cerdas (status: seed)
 - [[Imam Malik bin Anas]] — Pendiri Mazhab Maliki, Imam Darul Hijrah Madinah (status: seed)
 - [[Isma'il bin Sa'id]] — Ulama Fiqih, murid/kolega Imam Ahmad bin Hanbal (status: seed)
+- [[Khadijah binti Khuwailid]] — Istri pertama Nabi SAW yang mendampingi beliau 25 tahun dan memeluk Islam pertama kali (status: seed)
 - [[Marwan bin al-Hakam]] — Tokoh Bani Umayyah, Gubernur Madinah, ditegur Zaid bin Thabit karena membiasakan Maghrib surah pendek (status: seed)
 - [[Mu'adz bin Jabal]] — Sahabat ahli fiqih yang diutus ke Yaman (status: seed)
 - [[Muhammad bin Shalih Al-Utsaimin]] — Ulama besar Arab Saudi, pakar fiqih, tafsir, dan akidah (status: seed)
@@ -109,12 +119,14 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Qatadah bin Di'amah As-Sadusi]] — Ulama Tabi'in terkemuka di bidang hadis dan tafsir Al-Qur'an (status: seed)
 - [[Sa'id bin al-Musayyab]] — Pemimpin Tabi'in Madinah, ahli hukum terkemuka (status: seed)
 - [[Salama bin al-Akwa']] — Sahabat Nabi perawi kisah penolakan tangan kanan akibat sombong (status: seed)
+- [[Saudah binti Zam'ah]] — Ummul Mukminin, istri kedua Nabi SAW, pembela kebebasan wanita keluar untuk hajat kebutuhan (status: seed)
 - [[Sufyan ath-Thawri]] — Ulama Salaf ahli hadis, fiqih, dan mujtahid mutlak (status: seed)
 - [[Sulayman bin al-Qasim]] — Ulama salaf perawi ketetapan pahala kesabaran tanpa batas (status: seed)
 - [[Syaikh Abdurrahman bin Nashir As-Sa'di]] — Ulama besar Saudi penulis kitab Tafsir Taisir Al-Karim Ar-Rahman (status: seed)
 - [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]] — Ulama Madinah kontemporer pengajar tetap di Masjid Nabawi (status: seed)
 - [[Umar bin Abdul Aziz]] — Khalifah Bani Umayyah kelima yang menghidupkan kembali keadilan (status: seed)
 - [[Umar bin Khattab]] — Sahabat dekat Nabi dan Khalifah Rasyidah kedua yang adil (status: seed)
+- [[Umm Salamah]] — Ummul Mukminin yang cerdas, penasihat utama di peristiwa Hudaibiyah dan pelindung hak bersuara istri (status: seed)
 - [[Uqba bin Amir]] — Sahabat Nabi perawi hadis al-tais al-musta'ar (status: seed)
 - [[Zaid bin Thabit]] — Sahabat Ansar sekretaris Nabi, kodifikator Al-Qur'an, dan penegak Sunnah shalat Maghrib panjang (status: seed)
 
@@ -132,6 +144,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Showing Off]] — 2026-06-10 | Kumpulan dalil larangan pamer (riya') dan bahaya syirik kecil | 9 halaman baru dibuat
 - [[tafsir-sadi-iblis-adam]] — 2026-06-07 | Penjelasan kisah ujian Adam dan makar Iblis | 11 halaman baru dibuat
 - [[The Devils and The Eye]] — 2026-06-09 | Analisis makar Iblis menipu manusia lewat pandangan mata dan kesesatan akidah | 3 halaman baru dibuat
+- [[The Ideal Husband]] — 2026-06-12 | Standar akhlak suami ideal dalam Islam berdasarkan dalil Al-Qur'an dan Sunnah karya B. Aisha Lemu | 14 halaman baru dibuat
 - [[Urgensi Kesabaran dalam Al-Qur'an]] — 2026-06-07 | Urgensi Kesabaran dalam Al-Qur'an (where-patience) | 6 halaman baru dibuat
 
 ---
@@ -140,6 +153,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 - [[Artikel Hilah Bourdain]] — Artikel panjang tentang bahaya rekayasa hukum transaksi (hilah) dan eskatologi Islam bergaya Anthony Bourdain (status: writing)
 - [[Artikel Pandangan Bourdain]] — Artikel panjang tentang bahaya fitnah pandangan mata, tazyin kemaksiatan, waswasah, dan wahdatul wujud bergaya Anthony Bourdain (status: writing)
+- [[Artikel Sunnah Berkeluarga Bourdain]] — Artikel panjang tentang Sunnah berkeluarga dan adab suami istri bergaya Anthony Bourdain (status: writing)
 - [[Bahaya-Kesombongan]] — Draf utas X tentang definisi kesombongan, kisah Iblis, dan kisah tangan lumpuh (status: writing)
 - [[Taktik Iblis Merusak Rasa Malu]] — Naskah video YouTube KICIKKU tentang taktik Iblis merusak rasa malu dan aurat manusia (status: writing)
 - [[Utas Adab Berbicara Bourdain]] — Draf utas X tentang adab berbicara dan tauhid lafal bergaya Anthony Bourdain (status: writing)

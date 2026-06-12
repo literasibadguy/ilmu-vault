@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-06-11
+updated: 2026-06-12
 created: 2026-06-07
 tags:
   - meta
@@ -22,6 +22,18 @@ Hanya untuk ditambahkan (append-only). Entri baru diletakkan di bagian paling AT
 Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
+
+## [2026-06-12] write | Artikel Sunnah Berkeluarga Bourdain
+- Naskah dibuat: [[Artikel Sunnah Berkeluarga Bourdain]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf artikel panjang X (1189 kata) bertema Sunnah berkeluarga dan adab pasutri bergaya Anthony Bourdain, disusun menggunakan stop-slop skill (kalimat aktif-langsung, tanpa adverbs, tanpa em-dash, padat, dan sarat deskripsi sensoris).
+
+## [2026-06-12] ingest | The Ideal Husband
+- Sumber: `.raw/the-ideal-husband.md`
+- Ringkasan: [[The Ideal Husband]]
+- Halaman dibuat: [[The Ideal Husband]], [[Hak dan Kewajiban Suami]], [[Adab Terhadap Istri]], [[Adab Pernikahan]], [[Poligami dalam Islam]], [[Pendidikan Anak Perempuan]], [[Hukum Perceraian]], [[Khadijah binti Khuwailid]], [[Umm Salamah]], [[Hafsah binti Umar]], [[Fatima binti Muhammad]], [[Saudah binti Zam'ah]], [[Aqra' bin Habis]], [[Hasan bin Ali]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Aisyah binti Abu Bakar]], [[Umar bin Khattab]], [[Abu Hurayrah]], [[Ibnu Abbas]], [[index]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan standar suami ideal dalam Islam yang dicontohkan Nabi SAW: kewajiban nafkah lahir batin secara mutlak, larangan KDRT, pentingnya musyawarah, sikap sabar dan prosedur perceraian yang baik, perlindungan hak asuh anak bagi ibu, keadilan bersyarat ketat dalam poligami, serta anjuran mendidik anak perempuan.
 
 ## [2026-06-11] ingest | Regarding His Guidance in Prayer
 - Sumber: `.raw/Regarding-His-Guidance-in-Prayer-Clean 1.md`

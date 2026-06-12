@@ -5,7 +5,7 @@ entity_type: person
 role: Rasulullah (Utusan Allah)
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
 created: 2026-06-07
-updated: 2026-06-10
+updated: 2026-06-12
 tags:
   - entity
   - tokoh
@@ -26,6 +26,7 @@ sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Showing Off]]"
   - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[The Ideal Husband]]"
 ---
 
 # Nabi Muhammad SAW
@@ -44,6 +45,7 @@ sources:
 - **Peringatan terhadap Syirik Asghar (Riya')**: Menyatakan kekhawatiran terbesarnya terhadap umatnya berupa bahaya [[Syirik Asghar]] (syirik kecil), yaitu [[Riya]] (pamer amal), yang merusak seluruh pahala kebaikan.
 - **Bimbingan Penjagaan Lisan**: Mengajarkan kehati-hatian dalam menggunakan kata-kata sehari-hari guna memurnikan tauhid lafal (**[[Shirk Lafzhi]]**), melarang mencela waktu (**[[Ad-Dahr]]**), dan melarang kata "seandainya" (*Lauw*) yang membuka bisikan Setan terhadap ketetapan Allah (**[[Qadar]]**).
 - **Tuntunan Kesempurnaan Shalat**: Menetapkan rukun-rukun shalat (**[[Sifat Shalat Nabi]]**), melarang mempercepat gerakan seperti mematuknya burung gagak, mensyariatkan doa istiftah (**[[Iftitah]]**), dan mencontohkan sujud lupa (**[[Sujud Sahwi]]**) untuk melatih ketundukan dan kekhusyukan (**[[Khusyuk]]**).
+- **Teladan Suami Ideal**: Mewariskan standar kesempurnaan akhlak berkeluarga (**[[Adab Terhadap Istri]]**), aktif membantu urusan rumah tangga, melarang kekerasan fisik kasar, bersikap sabar, bermusyawarah, mendidik anak perempuan (**[[Pendidikan Anak Perempuan]]**), serta memperingatkan tentang keadilan berpoligami (**[[Poligami dalam Islam]]**).
 
 ## Sumber
 
@@ -55,3 +57,4 @@ sources:
 - [[Showing Off]]
 - [[Regarding His Guidance in Guarding His Words]]
 - [[Regarding His Guidance in Prayer]]
+- [[The Ideal Husband]]

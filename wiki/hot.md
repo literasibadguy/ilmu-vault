@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-11T16:45:00
+updated: 2026-06-12T08:15:00
 created: 2026-06-07
 tags:
   - meta
@@ -17,23 +17,25 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-11. Impor petunjuk Nabi SAW tentang lisan, cela waktu, tawakal dan takdir (**[[Regarding His Guidance in Guarding His Words]]**), draf X (**[[Utas Adab Berbicara Bourdain]]**, **[[Utas Al-Ajz wal Kasal Bukowski]]**), serta sifat shalat, iftitah, khusyuk, sujud sahwi, dan dzikir pasca-shalat (**[[Regarding His Guidance in Prayer]]**).
+2026-06-12. Impor petunjuk syariat mengenai kriteria suami ideal dalam Islam (**[[The Ideal Husband]]**), hak dan kewajiban pernikahan (**[[Adab Pernikahan]]**, **[[Hak dan Kewajiban Suami]]**), perlakuan terhadap istri (**[[Adab Terhadap Istri]]**), batas ketat poligami (**[[Poligami dalam Islam]]**), hak asuh anak dan talak bertahap (**[[Hukum Perceraian]]**), serta menulis draf artikel panjang (**[[Artikel Sunnah Berkeluarga Bourdain]]**).
 
 ## Fakta Kunci Terbaru
-- Mengimpor pemahaman tentang **[[Adab Berbicara]]** dan larangan syirik lafal (**[[Shirk Lafzhi]]**) yang dapat menodai kemurnian tauhid lisan sehari-hari.
-- Menelaah larangan mencela waktu (**[[Ad-Dahr]]**) karena Allah adalah Pengendali waktu, serta menyelaraskan penerimaan takdir (**[[Qadar]]**) pasca-kejadian dengan ucapan *"Qaddarallahu Wa Ma Sha'a Fa'ala"*.
-- Menelaah rincian **[[Sifat Shalat Nabi]]** yang tumakninah dan melarang keras meniru gerakan hewan, serta variasi doa **[[Iftitah]]** yang sahih.
-- Memahami esensi **[[Khusyuk]]** dalam shalat yang menuntut konsentrasi penuh dan peniadaan gerakan sia-sia, serta tata cara **[[Sujud Sahwi]]** untuk menebus kelupaan.
-- Mengamalkan **[[Dzikir Pasca-Shalat]]** sesuai tuntunan sunnah (istigfar, dzikir tauhid, tasbih, tahmid, takbir, dan ayat kursi).
-- Memperbarui profil dan menyelaraskan keterkaitan entitas periwayat hadis shalat: **[[Aisyah binti Abu Bakar]]**, **[[Abu Bakar Ash-Shiddiq]]**, **[[Zaid bin Thabit]]**, dan **[[Marwan bin al-Hakam]]** (yang ditegur karena memperpendek bacaan shalat Maghrib).
+- Memahami tanggung jawab mutlak suami atas nafkah finansial lahir (sandang, pangan, papan) dan perlindungan keluarga (**[[Hak dan Kewajiban Suami]]**).
+- Mengkaji etika pergaulan suci sebelum menikah, pemilihan pasangan atas dasar agama, serta walimah sederhana (**[[Adab Pernikahan]]**).
+- Meneladani Sunnah Nabi SAW dalam membantu urusan rumah tangga, melarang KDRT kasar, bermusyawarah, mendengarkan kritikan istri, dan rekreasi bersama (**[[Adab Terhadap Istri]]**).
+- Menelaah syarat ketat poligami yang menuntut keadilan lahiriah materi dan waktu dengan ancaman lumpuh di Kiamat (**[[Poligami dalam Islam]]**).
+- Memahami prosedur talak sunni yang revokabel, penolakan penarikan mahar, dan keutamaan hak asuh anak kecil pada pihak ibu (**[[Hukum Perceraian]]**).
+- Membiasakan pengasuhan penuh kelembutan, penghormatan, dan jaminan surga bagi yang menyayangi anak perempuan (**[[Pendidikan Anak Perempuan]]**).
+- Memperbarui entitas periwayat hadis dan tokoh kunci: **[[Nabi Muhammad SAW]]**, **[[Aisyah binti Abu Bakar]]**, **[[Umar bin Khattab]]**, **[[Abu Hurayrah]]**, **[[Ibnu Abbas]]**.
+- Menambahkan entitas baru: **[[Khadijah binti Khuwailid]]**, **[[Umm Salamah]]**, **[[Hafsah binti Umar]]**, **[[Fatima binti Muhammad]]**, **[[Saudah binti Zam'ah]]**, **[[Aqra' bin Habis]]**, **[[Hasan bin Ali]]**.
 
 ## Perubahan Terbaru
-- Dibuat: **[[Regarding His Guidance in Guarding His Words]]**, **[[Regarding His Guidance in Prayer]]** (ringkasan rujukan)
-- Dibuat: **[[Adab Berbicara]]**, **[[Shirk Lafzhi]]**, **[[Ad-Dahr]]**, **[[Tawakkul]]**, **[[Al-Ajz wal Kasal]]**, **[[Qadar]]**, **[[Sifat Shalat Nabi]]**, **[[Iftitah]]**, **[[Khusyuk]]**, **[[Sujud Sahwi]]**, **[[Dzikir Pasca-Shalat]]** (konsep)
-- Dibuat: **[[Nabi Ibrahim AS]]**, **[[Hani bin Yazid]]**, **[[Abu Ramthah]]**, **[[Hudhayfah bin al-Yaman]]**, **[[Adi bin Hatim]]**, **[[Anas bin Malik]]**, **[[Abu Jahl]]**, **[[Awf bin Malik]]**, **[[Aisyah binti Abu Bakar]]**, **[[Abu Bakar Ash-Shiddiq]]**, **[[Zaid bin Thabit]]**, **[[Marwan bin al-Hakam]]** (entitas)
-- Dibuat: **[[Utas Adab Berbicara Bourdain]]**, **[[Utas Al-Ajz wal Kasal Bukowski]]** (draf konten X)
-- Diperbarui: **[[Nabi Muhammad SAW]]**, **[[Abu Hurayrah]]**, **[[Ibnul Qayyim Al-Jauziyyah]]**, **[[Anas bin Malik]]**, **[[Ibnu Abbas]]**, **[[Hudhayfah bin al-Yaman]]**, **[[Mu'adz bin Jabal]]**, **[[Umar bin Khattab]]** (entitas)
+- Dibuat: **[[The Ideal Husband]]** (sumber)
+- Dibuat: **[[Hak dan Kewajiban Suami]]**, **[[Adab Terhadap Istri]]**, **[[Adab Pernikahan]]**, **[[Poligami dalam Islam]]**, **[[Pendidikan Anak Perempuan]]**, **[[Hukum Perceraian]]** (konsep)
+- Dibuat: **[[Khadijah binti Khuwailid]]**, **[[Umm Salamah]]**, **[[Hafsah binti Umar]]**, **[[Fatima binti Muhammad]]**, **[[Saudah binti Zam'ah]]**, **[[Aqra' bin Habis]]**, **[[Hasan bin Ali]]** (entitas)
+- Dibuat: **[[Artikel Sunnah Berkeluarga Bourdain]]** (draf konten X)
+- Diperbarui: **[[Nabi Muhammad SAW]]**, **[[Aisyah binti Abu Bakar]]**, **[[Umar bin Khattab]]**, **[[Abu Hurayrah]]**, **[[Ibnu Abbas]]** (entitas)
 
 ## Alur Kerja Aktif
-- Perencanaan Konten: Mengintegrasikan materi adab lisan (**[[Adab Berbicara]]**) dan tawakal sejati (**[[Tawakkul]]**) ke dalam rencana tulisan dakwah @jamaahquba (seperti draf **[[Utas Adab Berbicara Bourdain]]** dan **[[Utas Al-Ajz wal Kasal Bukowski]]**) atau video edukasi YouTube KICIKKU.
-- Langkah Berikutnya: Menghubungkan pentingnya menjaga ucapan dengan kebersihan hati (**[[Ikhlas]]**) dan penjagaan dari kesombongan (**[[Kesombongan]]**), serta menyusun draf konten baru berbasis sifat shalat Nabi SAW yang tumakninah.
+- Produksi Konten: Mengintegrasikan petunjuk Sunnah berkeluarga dan adab pasutri ke dalam rencana tulisan dakwah @jamaahquba (seperti draf **[[Artikel Sunnah Berkeluarga Bourdain]]**) atau video edukasi YouTube KICIKKU.
+- Langkah Berikutnya: Menyelaraskan konsep hak asuh anak dan talak sunni dengan fiqih keluarga yang mapan, serta merancang konten pengasuhan anak perempuan yang islami.

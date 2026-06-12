@@ -36,7 +36,7 @@ Kombinasi keduanya dirumuskan oleh para ulama salaf dalam kaidah emas: *"Dengan 
 
 ## Mengapa Ini Penting
 
-Seorang da'i atau pemimpin tidak akan mampu membimbing masyarakat jika ia goyah saat ditimpa kesulitan (tidak sabar) atau ragu-ragh terhadap kebenaran yang dibawanya (tidak yakin). Kepemimpinan agama yang dilandasi sabar dan yakin akan melahirkan keteguhan sistem sosial dan keselamatan akidah umat.
+Seorang da'i atau pemimpin tidak akan mampu membimbing masyarakat jika ia goyah saat ditimpa kesulitan (tidak sabar) atau ragu-ragu terhadap kebenaran yang dibawanya (tidak yakin). Kepemimpinan agama yang dilandasi sabar dan yakin akan melahirkan keteguhan sistem sosial dan keselamatan akidah umat.
 
 ## Contoh Penerapan Sejarah
 
