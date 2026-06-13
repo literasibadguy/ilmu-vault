@@ -23,6 +23,23 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-13] write | Tindakan Tidak Konvensional untuk Mencapai Target
+- Naskah dibuat: [[Tindakan Tidak Konvensional untuk Mencapai Target]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Penulisan Q&A note menjawab pertanyaan tentang tindakan harian tidak konvensional untuk mencapai target hidup berdasarkan akidah Qadar dan adab makan (Thibbun Nabawi).
+
+## [2026-06-13] write | Kebiasaan Harian Paling Mengubah Hidup
+- Naskah dibuat: [[Kebiasaan Harian Paling Mengubah Hidup]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Penulisan draf artikel naratif mengenai kebiasaan harian paling mengubah hidup: Istia'dzah aktif dari delapan keburukan (Al-'Ajz wal Kasal) dan rantai sebab-akibat spiritualnya, ditulis menggunakan kaidah stop-slop.
+
+## [2026-06-13] ingest | Prophet Muhammad's Recommendations Regarding Food
+- Sumber: `.raw/ProphetMuhammadsRecommendationsRegardingFood.md`
+- Ringkasan: [[Prophet Muhammads Recommendations Regarding Food]]
+- Halaman dibuat: [[Prophet Muhammads Recommendations Regarding Food]], [[Adab Makan dan Minum]], [[Gaya Hidup Nabi dalam Makanan]], [[Kesederhanaan dalam Makan]], [[Penggabungan Makanan]], [[Abu Ayyoob al-Ansaari]], [[Abu Juhayfah]], [[Imaam an-Nawawi]], [[Khaalid ibn al-Waleed]], [[Safiyyah binti Huyayy]]
+- Halaman diperbarui: [[Nabi Muhammad SAW]], [[Aisyah binti Abu Bakar]], [[Al-Hasan al-Basri]], [[Anas bin Malik]], [[Ibnu Abbas]], [[Ibnu Umar]], [[Ibnul Qayyim Al-Jauziyyah]], [[Imam Asy-Syafi'i]], [[Umar bin Khattab]], [[Abu Hurayrah]], [[index]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan mengenai moderasi makan (sepertiga lambung), adab makan bersila di atas lantai dengan tangan kanan dan tiga jari, kesukaan Nabi SAW terhadap roti gandum kasar, kurma, madu, semangka, dan cuka, serta kepedulian sosial terhadap kaum miskin yang kelaparan.
+
 ## [2026-06-12] write | Artikel Sunnah Berkeluarga Bourdain
 - Naskah dibuat: [[Artikel Sunnah Berkeluarga Bourdain]]
 - Halaman diperbarui: [[index]], [[hot]], [[log]]

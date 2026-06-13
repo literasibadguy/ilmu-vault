@@ -1,0 +1,11 @@
+{
+  "id": "screenshot-selection",
+  "name": "Screenshot Selection",
+  "version": "0.2.10",
+  "minAppVersion": "1.5.0",
+  "description": "Capture selected note content as a PNG. Copies to clipboard when possible, with a vault file fallback on mobile.",
+  "author": "HWY1dot0",
+  "authorUrl": "https://github.com/HWY1dot0",
+  "fundingUrl": "https://buymeacoffee.com/hwy1dot0",
+  "isDesktopOnly": false
+}

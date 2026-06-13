@@ -5,7 +5,7 @@ entity_type: person
 role: Ulama / Murid Utama Ibnu Taimiyah
 first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-13
 tags:
   - entity
   - ulama
@@ -18,6 +18,7 @@ sources:
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[The Devils and The Eye]]"
   - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Prophet Muhammads Recommendations Regarding Food]]"
 ---
 
 # Ibnul Qayyim Al-Jauziyyah
@@ -33,6 +34,9 @@ sources:
 - **Analisis Tipu Daya Setan**: Merinci secara mendalam perangkap-perangkap setan (*masyayid asy-syaitan*) dalam kitab *Ighathat al-Lahfan*, termasuk taktik setan mengeksploitasi pandangan mata dan menyesatkan akidah manusia.
 - **Dokumentasi Petunjuk Lisan Nabi**: Menyusun ulasan mendalam dalam kitab *Zadul Ma'ad* mengenai bagaimana Rasulullah SAW memilih kata, mendefinisikan adab berbicara (**[[Adab Berbicara]]**), menyelaraskan lafal tauhid (**[[Shirk Lafzhi]]**), dan menyelaraskan tawakal (**[[Tawakkul]]**) serta takdir (**[[Qadar]]**).
 - **Dokumentasi Sifat Shalat Nabi**: Menulis panduan lengkap shalat sesuai Sunnah di dalam *Zadul Ma'ad* (**[[Sifat Shalat Nabi]]**), menyusun macam-macam doa istiftah (**[[Iftitah]]**), mengupas esensi kekhusyukan (**[[Khusyuk]]**), dan merinci tata cara serta kondisi **[[Sujud Sahwi]]**.
+- **Dokumentasi Petunjuk Makanan Nabi**: Merangkum secara sistematis adab makan, kombinasi makanan yang tepat (seperti melon dengan kurma segar untuk menetralkan suhu dingin-panas), dan detail kebiasaan makan Nabi SAW di dalam kitab *Zadul Ma'ad* (**[[Adab Makan dan Minum]]**). Beliau juga menguraikan bahaya minum saat makan karena dapat mengganggu proses pencernaan lambung.
+- **Penjelasan Minum Tiga Tegukan**: Menguraikan hikmah di balik sunnah Nabi SAW minum dalam tiga tegukan (*anfaas*) dengan jeda bernapas di antara setiap tegukan. Menurut Ibnul Qayyim, metode ini lebih menyehatkan karena air masuk ke lambung secara bertahap sehingga tidak mengganggu panas pencernaan alami, lebih memuaskan dahaga, dan lebih terasa nikmat dibanding minum sekaligus dalam satu tegukan panjang. Beliau juga menegaskan larangan Nabi bernapas ke dalam wadah minum.
+- **Prinsip Makan Apa yang Tersedia**: Menjelaskan bahwa Nabi SAW memakan apa yang ada dan tersedia di tanah tempatnya tinggal, tidak memberatkan diri mencari makanan yang tidak biasa ditemui, dan bersabar apabila tidak ada makanan sama sekali — bahkan mengikat batu di perutnya sebagai penahan lapar saat perang Khandaq. Inilah contoh sempurna keseimbangan antara menerima nikmat Allah dan sabar menghadapi kekurangan.
 
 ## Sumber
 
@@ -40,3 +44,4 @@ sources:
 - [[The Devils and The Eye]]
 - [[Regarding His Guidance in Guarding His Words]]
 - [[Regarding His Guidance in Prayer]]
+- [[Prophet Muhammads Recommendations Regarding Food]]

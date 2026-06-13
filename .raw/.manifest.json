@@ -180,6 +180,39 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/ProphetMuhammadsRecommendationsRegardingFood.md": {
+      "hash": "4f66813fa128c39d9295277f65869ff4",
+      "ingested_at": "2026-06-13",
+      "pages_created": [
+        "wiki/sources/Prophet Muhammads Recommendations Regarding Food.md",
+        "wiki/concepts/Adab Makan dan Minum.md",
+        "wiki/concepts/Gaya Hidup Nabi dalam Makanan.md",
+        "wiki/concepts/Kesederhanaan dalam Makan.md",
+        "wiki/concepts/Penggabungan Makanan.md",
+        "wiki/concepts/Makanan dalam Quran dan Sunnah.md",
+        "wiki/concepts/Bahaya Berlebihan dalam Makanan.md",
+        "wiki/entities/Abu Ayyoob al-Ansaari.md",
+        "wiki/entities/Abu Juhayfah.md",
+        "wiki/entities/Imaam an-Nawawi.md",
+        "wiki/entities/Khaalid ibn al-Waleed.md",
+        "wiki/entities/Safiyyah binti Huyayy.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Ibnul Qayyim Al-Jauziyyah.md",
+        "wiki/entities/Imam Asy-Syafi'i.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

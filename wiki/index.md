@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
-updated: 2026-06-12
+updated: 2026-06-13
 created: 2026-06-07
 tags:
   - meta
@@ -16,7 +16,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-12 | Total halaman: 128 | Sumber diimpor: 12
+Terakhir diperbarui: 2026-06-13 | Total halaman: 142 | Sumber diimpor: 13
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -25,6 +25,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Konsep (Concepts)
 
 - [[Adab Berbicara]] — Disiplin lisan dalam memilih kata santun, mulia, dan menghindari perkataan kasar atau penyalahgunaan istilah (status: seed)
+- [[Adab Makan dan Minum]] — Tata krama, etika, dan sunnah lahiriah-batiniah terkait cara mengonsumsi makanan dan minuman sesuai tuntunan Nabi SAW (status: seed)
 - [[Adab Pernikahan]] — Etika menjaga kehormatan lajang, kriteria kesucian agama calon pasangan, dan walimah sederhana (status: seed)
 - [[Adab Terhadap Istri]] — Tuntunan Sunnah dalam berinteraksi dengan istri penuh kasih sayang, kelembutan, musyawarah, dan melarang KDRT kasar (status: seed)
 - [[Ad-Dahr]] — Larangan mencela waktu/zaman karena Allah adalah Pengendali mutlak atas segala peristiwa (status: seed)
@@ -32,6 +33,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Amanah Kepemimpinan]] — Tanggung jawab suci seorang pemimpin (shepherd/pemelihara) terhadap rakyatnya (flock) (status: seed)
 - [[Azab Kubur]] — Siksaan di alam kubur bagi orang kafir dan pelaku dosa besar (status: seed)
 - [[Bahaya Kebohongan]] — Menggunakan dusta untuk memanipulasi hukum dan merampas hak sesama manusia (status: seed)
+- [[Bahaya Berlebihan dalam Makanan]] — Dampak negatif spiritual, mental, dan fisik akibat mengonsumsi makanan secara berlebihan (status: seed)
 - [[Barzakh]] — Alam perantara antara dunia dan akhirat setelah kematian (status: seed)
 - [[Dosa Iblis]] — Arrogansi asal-usul (rasial/penciptaan) yang menolak perintah Allah (status: seed)
 - [[Dzikir Pasca-Shalat]] — Tuntunan zikir, istigfar, doa perlindungan, dan tasbih-tahmid-takbir setelah salam penutup shalat wajib (status: seed)
@@ -40,6 +42,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Fitnah Kubur]] — Ujian berupa pertanyaan kubur tentang Rabb, Agama, dan Nabi oleh dua malaikat (status: seed)
 - [[Fitnah Pandangan Mata]] — Bahaya pelepasan pandangan mata secara bebas yang memicu syahwat dan angan-angan kosong (status: seed)
 - [[Fitrah Rasa Malu]] — Dorongan alami manusia untuk menutupi bagian tubuh yang tabu (aurat) (status: seed)
+- [[Gaya Hidup Nabi dalam Makanan]] — Kebiasaan makan Rasulullah SAW yang mencerminkan zuhud, kepedulian sosial yang mendalam, dan adab yang sempurna (status: seed)
 - [[Hak dan Kewajiban Suami]] — Hak nafkah finansial mutlak istri dan kewajiban qiwamah suami yang sah (status: seed)
 - [[Hilah]] — Konsep rekayasa hukum/tipu daya untuk menyiasati larangan Allah SWT (status: seed)
 - [[Hilah Ribawiyah]] — Rekayasa akad transaksi untuk memuluskan praktik riba terselubung (status: seed)
@@ -49,14 +52,17 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Kepemimpinan Agama]] — Derajat kepemimpinan dakwah spiritual yang diraih dengan sabar dan yakin (status: seed)
 - [[Kesaksian Palsu]] — Memberikan pernyataan tidak benar di depan hukum yang merugikan pihak lain (status: seed)
 - [[Kesabaran]] — Kekuatan menahan diri dari kemaksiatan, ketaatan ibadah, dan rida atas takdir (status: seed)
+- [[Kesederhanaan dalam Makan]] — Prinsip makan secukupnya untuk menjaga kesehatan tubuh dan menunjang ibadah tanpa berlebih-lebihan (status: seed)
 - [[Kesombongan]] — Keadaan merasa lebih mulia, menolak kebenaran (*batrul haqq*), dan meremehkan manusia (*ghamtu-n-nas*) (status: seed)
 - [[Kesombongan Ulama]] — Bahaya kesombongan intelektual/akademis yang membuat ilmu tidak bermanfaat (status: seed)
 - [[Kewajiban Meluruskan Pemimpin]] — Pentingnya amar ma'ruf nahi munkar dan saling menasihati antara pemimpin dan rakyat (status: seed)
 - [[Kezaliman Diri]] — Tindakan melanggar larangan Allah yang merugikan keselamatan spiritual diri sendiri (status: seed)
 - [[Kezaliman Pemimpin]] — Penyalahgunaan kekuasaan, penipuan terhadap rakyat, dan pengabaian kebutuhan mereka yang diancam dengan siksa neraka (status: seed)
+- [[Makanan dalam Quran dan Sunnah]] — Jenis makanan dan minuman yang direkomendasikan dalam Al-Quran dan hadis Nabi SAW (status: seed)
 - [[Khusyuk]] — Keadaan konsentrasi, ketundukan, dan tumakninah di dalam shalat yang melarang gerakan sia-sia (status: seed)
 - [[Nikah Tahlil]] — Pernikahan konspiratif untuk menghalalkan kembali wanita yang ditalak tiga kepada mantan suaminya (status: seed)
 - [[Pendidikan Anak Perempuan]] — Keutamaan menyayangi, membesarkan, mendidik anak perempuan, serta janji Surga bagi orang tua (status: seed)
+- [[Penggabungan Makanan]] — Prinsip pengaturan kombinasi jenis makanan yang dikonsumsi bersamaan agar pencernaan optimal dan menjaga kesehatan (status: seed)
 - [[Pertobatan Adam]] — Konsep pengakuan kesalahan, penyesalan, dan istigfar yang diajarkan Allah kepada Nabi Adam AS (status: seed)
 - [[Poligami dalam Islam]] — Ketentuan keadilan lahiriah finansial dan giliran waktu bersyarat ketat dengan ancaman Hari Kiamat (status: seed)
 - [[Qadar]] — Penerimaan rida terhadap takdir pasca-peristiwa dan pelarangan berandai-andai (Lauw) yang membuka pintu tipu daya Setan (status: seed)
@@ -76,10 +82,12 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 - [[Abdullah bin Sharik al-Amiri]] — Perawi hadis Tabi'in, perawi fatwa Ibnu Umar (status: seed)
 - [[Abu Ali ad-Daqqaq]] — Ulama salaf dan ahli zuhud guru spiritual al-Qusyairi (status: seed)
+- [[Abu Ayyoob al-Ansaari]] — Sahabat terkemuka Ansar yang rumahnya menjadi tempat tinggal pertama Nabi SAW setelah Hijrah (status: seed)
 - [[Abu Bakar Ash-Shiddiq]] — Khalifah pertama, mertua Nabi, perawi dan pengamal Sunnah membaca surah panjang di shalat Subuh (status: seed)
 - [[Abu Dharr Al-Ghifari]] — Sahabat Nabi yang terkenal dengan kejujuran and kritik sosialnya (status: seed)
 - [[Abu Hurayrah]] — Sahabat Nabi perawi hadis terbanyak tentang akhlak dan keadilan (status: seed)
 - [[Abu Jahl]] — Pemimpin Quraisy penentang dakwah yang diubah julukannya oleh Nabi dari Abul Hakam menjadi Abu Jahl (status: seed)
+- [[Abu Juhayfah]] — Sahabat Nabi (Wahb bin Abdullah) periwayat hadis penting moderasi makan dan zuhud (status: seed)
 - [[Abu Ramthah]] — Sahabat nabi dan tabib yang diingatkan bahwa Penyembuh hakiki adalah Allah (status: seed)
 - [[Abu Umamah]] — Sahabat Nabi perawi hadis keutamaan Al-Qur'an dan ketegasan tentang keikhlasan sujud (status: seed)
 - [[Adi bin Hatim]] — Sahabat nabi perawi kisah teguran Nabi terhadap juru khotbah yang tidak santun dalam bertauhid lafal (status: seed)
@@ -102,10 +110,12 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ibnu Umar]] — Sahabat Nabi perawi hadis kemurkaan Allah terhadap keangkuhan (status: seed)
 - [[Ibnul Qayyim Al-Jauziyyah]] — Ulama spiritual Islam utama murid Ibnu Taimiyah (status: seed)
 - [[Ibrahim an-Nakha'i]] — Ulama Tabi'in ahli fiqih Kufah (status: seed)
+- [[Imaam an-Nawawi]] — Ulama besar mazhab Syafi'i penyusun kitab Syarh Shahih Muslim dan Hadits Arba'in (status: seed)
 - [[Imam Ahmad bin Hanbal]] — Pendiri Mazhab Hanbali, penegak akidah Ahlus Sunnah (status: seed)
 - [[Imam Asy-Syafi'i]] — Pendiri Mazhab Syafi'i, Nashirus Sunnah yang cerdas (status: seed)
 - [[Imam Malik bin Anas]] — Pendiri Mazhab Maliki, Imam Darul Hijrah Madinah (status: seed)
 - [[Isma'il bin Sa'id]] — Ulama Fiqih, murid/kolega Imam Ahmad bin Hanbal (status: seed)
+- [[Khaalid ibn al-Waleed]] — Panglima militer jenius berjuluk Saifullah al-Maslul yang memakan dhab di hadapan Nabi SAW (status: seed)
 - [[Khadijah binti Khuwailid]] — Istri pertama Nabi SAW yang mendampingi beliau 25 tahun dan memeluk Islam pertama kali (status: seed)
 - [[Marwan bin al-Hakam]] — Tokoh Bani Umayyah, Gubernur Madinah, ditegur Zaid bin Thabit karena membiasakan Maghrib surah pendek (status: seed)
 - [[Mu'adz bin Jabal]] — Sahabat ahli fiqih yang diutus ke Yaman (status: seed)
@@ -118,7 +128,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Nabi Musa AS]] — Rasul Ulul 'Azmi yang berlindung dari fitnah orang sombong (status: seed)
 - [[Qatadah bin Di'amah As-Sadusi]] — Ulama Tabi'in terkemuka di bidang hadis dan tafsir Al-Qur'an (status: seed)
 - [[Sa'id bin al-Musayyab]] — Pemimpin Tabi'in Madinah, ahli hukum terkemuka (status: seed)
-- [[Salama bin al-Akwa']] — Sahabat Nabi perawi kisah penolakan tangan kanan akibat sombong (status: seed)
+- [[Safiyyah binti Huyayy]] — Ummul Mukminin (istri Nabi SAW) keturunan Nabi Harun AS yang ahli dalam seni memasak (status: seed)
+- [[Salama bin al-Akwa']] — Sahabat Nabi yang membela kaum muslimin dari penyerang ternak Madinah (status: seed)
 - [[Saudah binti Zam'ah]] — Ummul Mukminin, istri kedua Nabi SAW, pembela kebebasan wanita keluar untuk hajat kebutuhan (status: seed)
 - [[Sufyan ath-Thawri]] — Ulama Salaf ahli hadis, fiqih, dan mujtahid mutlak (status: seed)
 - [[Sulayman bin al-Qasim]] — Ulama salaf perawi ketetapan pahala kesabaran tanpa batas (status: seed)
@@ -139,6 +150,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Pemimpin yang Mengkhianati Rakyatnya]] — 2026-06-07 | Kumpulan dalil dosa besar pemimpin zalim dan khianat | 9 halaman baru dibuat
 - [[Perjury]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesaksian palsu | 3 halaman baru dibuat
 - [[Pride]] — 2026-06-07 | Kumpulan dalil larangan dan dosa besar kesombongan | 9 halaman baru dibuat
+- [[Prophet Muhammads Recommendations Regarding Food]] — 2026-06-13 | Panduan komprehensif Nabi Muhammad SAW mengenai jenis makanan, adab makan, moderasi, dan dimensi spiritual makan | 10 halaman baru dibuat
 - [[Regarding His Guidance in Guarding His Words]] — 2026-06-11 | Bab Zad al-Ma'ad karya Ibnul Qayyim tentang adab lisan, cela waktu, tawakal, kelemahan, kemalasan, dan takdir | 15 halaman baru dibuat
 - [[Regarding His Guidance in Prayer]] — 2026-06-11 | Bab Zad al-Ma'ad karya Ibnul Qayyim tentang Sifat Shalat Nabi, Iftitah, Khusyuk, Sujud Sahwi, dan zikir pasca-shalat | 10 halaman baru dibuat
 - [[Showing Off]] — 2026-06-10 | Kumpulan dalil larangan pamer (riya') dan bahaya syirik kecil | 9 halaman baru dibuat
@@ -151,6 +163,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Draf Konten (Drafts)
 
+- [[Kebiasaan Harian Paling Mengubah Hidup]] — Artikel narasi tentang kebiasaan harian paling mengubah hidup: Istia'dzah dari delapan keburukan dan rantai sebab-akibat spiritual (status: complete)
 - [[Artikel Hilah Bourdain]] — Artikel panjang tentang bahaya rekayasa hukum transaksi (hilah) dan eskatologi Islam bergaya Anthony Bourdain (status: writing)
 - [[Artikel Pandangan Bourdain]] — Artikel panjang tentang bahaya fitnah pandangan mata, tazyin kemaksiatan, waswasah, dan wahdatul wujud bergaya Anthony Bourdain (status: writing)
 - [[Artikel Sunnah Berkeluarga Bourdain]] — Artikel panjang tentang Sunnah berkeluarga dan adab suami istri bergaya Anthony Bourdain (status: writing)
@@ -168,7 +181,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Pertanyaan (Questions)
 
-*Belum ada pertanyaan yang dijawab.*
+- [[Tindakan Tidak Konvensional untuk Mencapai Target]] — Kebiasaan kognitif dan perilaku makan bersahaja harian untuk mengeliminasi penyesalan serta menghancurkan ego (status: complete)
 
 ---
 

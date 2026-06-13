@@ -5,7 +5,7 @@ entity_type: person
 role: Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: 2026-06-11
-updated: 2026-06-12
+updated: 2026-06-13
 tags:
   - entity
   - tokoh
@@ -17,9 +17,12 @@ related:
   - "[[Sifat Shalat Nabi]]"
   - "[[Adab Terhadap Istri]]"
   - "[[Pendidikan Anak Perempuan]]"
+  - "[[Adab Makan dan Minum]]"
+  - "[[Kesederhanaan dalam Makan]]"
 sources:
   - "[[Regarding His Guidance in Prayer]]"
   - "[[The Ideal Husband]]"
+  - "[[Prophet Muhammads Recommendations Regarding Food]]"
 ---
 
 # Aisyah binti Abu Bakar
@@ -36,8 +39,11 @@ sources:
 - **Saksi Perilaku Rumah Tangga Nabi**: Meriwayatkan kebiasaan Nabi SAW membantu pekerjaan rumah tangga, melayani keluarga, dan menjahit pakaian atau sandalnya sendiri (**[[Adab Terhadap Istri]]**).
 - **Kedekatan dan Keceriaan**: Mengisahkan aktivitas rekreasi halal bersama Nabi SAW, seperti balapan lari yang dimenangkan bergantian di antara mereka.
 - **Intelektualitas Tinggi**: Mengasuh pemahaman agama yang mendalam sejak muda berkat bimbingan Nabi SAW, yang menjadikannya salah satu rujukan utama fatwa dan hadis pasca-wafatnya Nabi (**[[Pendidikan Anak Perempuan]]**).
+- **Saksi Kesederhanaan & Kebiasaan Makan Nabi**: Mengisahkan kelaparan yang melanda keluarga Nabi, di mana setelah hijrah keluarga Muhammad SAW tidak pernah makan roti gandum hingga kenyang selama tiga malam berturut-turut. Aisyah menegaskan bahwa tiga bulan sabit berlalu (yaitu sekitar dua bulan penuh) tanpa ada api yang dinyalakan di rumah mereka untuk memasak — mereka hanya bertahan dengan kurma kering dan air, atau sesekali susu pemberian tetangga dari kaum Ansar. Beliau meriwayatkan bahwa setelah Nabi wafat, tidak ada makanan yang tersisa di rak rumah beliau kecuali sedikit gandum (**[[Kesederhanaan dalam Makan]]**).
+- **Kecintaan terhadap Madu dan Makanan Manis**: Aisyah meriwayatkan bahwa Nabi SAW sangat menyukai makanan manis (*halwa*) dan madu. Beliau sendiri juga berbagi kecintaan yang sama terhadap madu dan makanan manis, sehingga menjadi saksi otoritatif mengenai kebiasaan kuliner harian Nabi SAW. Beliau juga mengisahkan kebiasaan Nabi memadukan kurma segar (*ruthab*) dengan semangka (*bittikh*) untuk menetralkan sifat panas dan dingin (**[[Adab Makan dan Minum]]**).
 
 ## Sumber
 
 - [[Regarding His Guidance in Prayer]]
 - [[The Ideal Husband]]
+- [[Prophet Muhammads Recommendations Regarding Food]]
