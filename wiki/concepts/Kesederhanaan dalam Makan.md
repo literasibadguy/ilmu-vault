@@ -8,7 +8,7 @@ aliases:
   - "Prophetic Nutrition"
   - "Makan Sepertiga Lambung"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-14
 tags:
   - concept
   - zuhud
@@ -16,8 +16,11 @@ tags:
 status: seed
 related:
   - "[[Adab Makan dan Minum]]"
+  - "[[Fitnah Syahwat Seksual]]"
+  - "[[Abdal]]"
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[Harms of Greed and Sexual Passion]]"
 ---
 
 # Kesederhanaan dalam Makan
@@ -64,12 +67,43 @@ Prinsip kesederhanaan didasarkan pada pedoman praktis yang diajarkan oleh [[Nabi
   - [[Ibnu Umar]] menolak makan kecuali bersama anak yatim atau orang miskin, dan menolak makan kenyang selama empat bulan berturut-turut.
   - Abu Juhayfah tidak pernah makan kenyang selama 30 tahun setelah mendengar hadis tentang ancaman kelaparan di Hari Kiamat bagi orang yang paling kenyang di dunia.
 - **Sikap Para Ulama Salaf**:
-  - [[Al-Hasan al-Basri]] mengecam keras seorang Muslim yang makan sampai tidak sanggup makan lagi.
+- **Sikap Para Ulama Salaf**:
+  - [[Al-Hasan al-Basri]] mengecam keras seorang Muslim yang makan sampai tidak sanggup makan lagi, serta menyatakan makanan adalah ujian terbesar keturunan Adam.
   - [[Imam Asy-Syafi'i]] menyatakan tidak pernah kenyang selama 16 tahun untuk memelihara kecerdasan intelektual dan kebugaran fisiknya.
+  - Sahal Tastari terbiasa menahan lapar selama 25 hari berturut-turut demi menjaga kedekatan spiritualnya.
+
+## 10 Manfaat Rasa Lapar (Menurut Imam Al-Ghazali)
+
+Dalam *Ihya' Ulumiddin*, [[Imam Al-Ghazali]] merinci sepuluh keutamaan rasa lapar bagi seorang Muslim yang menempuh jalan akhirat:
+1. **Kejernihan Hati & Ketajaman Visi**: Membersihkan hati, menyegarkan pikiran, dan memperkuat hafalan/kecerdasan.
+2. **Kelebihan Rasa Nikmat Munajat**: Menghadirkan rasa manis batin saat menyebut nama Allah (*Dhikr*) dan berdoa (*Munajat*).
+3. **Ketundukan dan Kerendahan Hati**: Menghancurkan kesombongan, keangkuhan, dan membangkitkan rasa ketidakberdayaan di hadapan Allah.
+4. **Empati terhadap Fakir Miskin**: Mencegah kelalaian atas penderitaan orang lain karena selalu merasakan kelaparan.
+5. **Mengendalikan Keinginan Maksiat**: Mematahkan nafsu hewani (termasuk menundukkan organ seksual).
+6. **Meringankan Tidur (Sleeplessness)**: Mencegah tidur berlebihan agar dapat menghidupkan malam dengan shalat Tahajjud.
+7. **Kemudahan Beribadah**: Tubuh terasa ringan dan aktif bergerak menjalankan ketaatan.
+8. **Kesehatan Jasmani & Mengusir Penyakit**: Menghilangkan timbunan sisa makanan di organ pencernaan.
+9. **Kemandirian Finansial (Little Expense)**: Menghemat pengeluaran, membebaskan diri dari ketamakan harta, dan mencegah ketergantungan pada orang lain.
+10. **Altruisme & Sedekah**: Memungkinkan seseorang menyedekahkan porsi makanan berlebihnya kepada anak yatim dan fakir miskin.
+
+## Tahapan Kapasitas dan Waktu Makan
+
+### 1. Tingkatan Porsi Makan
+- **Tingkat Siddiq**: Mengonsumsi hanya apa yang mutlak diperlukan untuk bertahan hidup hari itu (misal: Sahal Tastari membagi adonan tiga dirham menjadi 360 potong kecil untuk satu tahun).
+- **Tingkat Umum (Zuhud)**: Mengonsumsi setengah *mud* (sekitar 25 tola atau 10 suap), setara sepertiga kapasitas lambung.
+- **Tingkat Pertengahan**: Mengonsumsi satu *mud* (sekitar 50 tola) yang memenuhi dua pertiga lambung. Mengonsumsi lebih dari itu dianggap berlebihan (*israf*).
+
+### 2. Tingkatan Frekuensi Waktu Makan
+- **Tingkat Tertinggi**: Makan sekali dalam 3 hari, atau menahan lapar berhari-hari hingga berminggu-minggu (seperti puasa 40 hari).
+- **Tingkat Menengah**: Makan sekali dalam 24 jam (seperti makan di waktu sahur saja).
+- **Tingkat Terendah**: Makan sekali sehari. Makan lebih dari sekali sehari dinilai sebagai kekenyangan yang merusak rutinitas ibadah malam.
 
 ## Hubungan
 - **[[Adab Makan dan Minum]]**: Etika teknis yang menyertai prinsip kesederhanaan ini.
-- **[[Kezaliman Diri]]**: Kerakusan yang merusak kesehatan fisik dan mental merupakan bentuk kezaliman terhadap diri sendiri.
+- **[[Bahaya Berlebihan dalam Makanan]]**: Kebalikan dari prinsip kesederhanaan yang merusak jasmani dan rohani.
+- **[[Fitnah Syahwat Seksual]]**: Gejolak syahwat yang diredam melalui terapi lapar.
+- **[[Abdal]]**: Golongan sufi/wali yang mendasarkan kezuhudannya pada kelaparan bersahaja.
 
 ## Sumber
 - [[Prophet Muhammads Recommendations Regarding Food]]
+- [[Harms of Greed and Sexual Passion]]

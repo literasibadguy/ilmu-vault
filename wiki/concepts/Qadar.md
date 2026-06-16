@@ -1,13 +1,13 @@
 ---
 type: concept
-title: "Qadar"
+title: Qadar
 complexity: intermediate
-domain: "Akidah / Tauhid"
+domain: Akidah / Tauhid
 aliases:
-  - "Takdir"
-  - "Takdir Allah"
-  - "Decrees of Allah"
-  - "Qaddarallahu"
+  - Takdir
+  - Takdir Allah
+  - Decrees of Allah
+  - Qaddarallahu
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -21,7 +21,7 @@ related:
   - "[[Al-Ajz wal Kasal]]"
   - "[[Ad-Dahr]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Qadar (Keimanan pada Takdir)
@@ -51,4 +51,4 @@ Menerima Qadar bukan berarti menyerah pada keadaan tanpa usaha (**[[Al-Ajz wal K
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

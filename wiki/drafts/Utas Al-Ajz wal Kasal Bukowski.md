@@ -1,7 +1,7 @@
 ---
 type: draft
-title: "Utas Al-Ajz wal Kasal Bukowski"
-platform: "X"
+title: Utas Al-Ajz wal Kasal Bukowski
+platform: X
 status: writing
 created: 2026-06-11
 updated: 2026-06-11
@@ -10,13 +10,12 @@ tags:
   - al-ajz-wal-kasal
   - charles-bukowski
   - stop-slop
-
 related:
   - "[[Al-Ajz wal Kasal]]"
   - "[[Tawakkul]]"
   - "[[Qadar]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Utas X: Al-Ajz wal Kasal (Gaya Charles Bukowski)

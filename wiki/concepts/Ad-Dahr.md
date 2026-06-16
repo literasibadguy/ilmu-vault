@@ -1,12 +1,12 @@
 ---
 type: concept
-title: "Ad-Dahr"
+title: Ad-Dahr
 complexity: intermediate
-domain: "Akidah / Tauhid"
+domain: Akidah / Tauhid
 aliases:
-  - "Waktu"
-  - "Mencela Waktu"
-  - "Reviling Time"
+  - Waktu
+  - Mencela Waktu
+  - Reviling Time
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -18,7 +18,7 @@ related:
   - "[[Shirk Lafzhi]]"
   - "[[Qadar]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Ad-Dahr (Mencela Waktu / Zaman)
@@ -50,4 +50,4 @@ Alih-alih menyalahkan hari atau zaman (misalnya berkata: "Hari ini sial sekali",
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

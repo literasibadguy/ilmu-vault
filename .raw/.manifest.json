@@ -213,6 +213,216 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/Supplications-That-Are-Most-Likely-Answered.md": {
+      "hash": "1b9c7c81e4cd4b9f725504723c69e42c",
+      "ingested_at": "2026-06-14",
+      "pages_created": [
+        "wiki/sources/Supplications That Are Most Likely Answered.md",
+        "wiki/concepts/Nama Agung Allah.md",
+        "wiki/concepts/Doa dalam Kesulitan.md",
+        "wiki/entities/Abdullah bin Buraydah.md",
+        "wiki/entities/Asma' bint Yazid.md",
+        "wiki/entities/Nabi Yunus AS.md",
+        "wiki/entities/Abu Mi'laq.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Abu Umamah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/The-Entire-Quran-is-a-Remedy.md": {
+      "hash": "4a58acefe84cf53bee2d27952ae12bd4",
+      "ingested_at": "2026-06-14",
+      "pages_created": [
+        "wiki/sources/The Entire Quran Is a Remedy.md",
+        "wiki/concepts/Al-Quran Sebagai Penyembuh.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Harms-of-Greed-and-Sexual-Passion.md": {
+      "hash": "37299adfba0b3e3850c534883b075aa0",
+      "ingested_at": "2026-06-14",
+      "pages_created": [
+        "wiki/sources/Harms of Greed and Sexual Passion.md",
+        "wiki/concepts/Fitnah Syahwat Seksual.md",
+        "wiki/concepts/Menjaga Pandangan Mata.md",
+        "wiki/concepts/Abdal.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Solaiman bin Yasar.md",
+        "wiki/entities/Luqman.md",
+        "wiki/entities/Malik bin Dinar.md",
+        "wiki/entities/Yahya bin Mu'adh.md",
+        "wiki/entities/Abu Sulayman al-Darani.md",
+        "wiki/entities/Sari Sakti.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Abu Juhayfah.md",
+        "wiki/concepts/Kesederhanaan dalam Makan.md",
+        "wiki/concepts/Bahaya Berlebihan dalam Makanan.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/chapter_12_to_vow_to_other_than_allah_is_an_act_of_shirk.md": {
+      "hash": "d5d6d09eb2df40f756fbe1d49af5656c",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/To Vow to Other Than Allah is an Act of Shirk.md",
+        "wiki/concepts/Syirik Akbar.md",
+        "wiki/concepts/Nadzar.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/chapter_13_to_seek_refuge_in_other_than_allah_is_a_part_of_shirk.md": {
+      "hash": "8e60b020b91c4391bf11422fc1f0b725",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/To Seek Refuge in Other Than Allah is a Part of Shirk.md",
+        "wiki/concepts/Isti'adzah.md",
+        "wiki/entities/Khawlah binti Hakim.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Syirik Akbar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/chapter_14_to_seek_help_in_other_than_allah_is_an_act_of_shirk.md": {
+      "hash": "e12f82f166ec81114759ad3908265c9e",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/To Seek Help in Other Than Allah is an Act of Shirk.md",
+        "wiki/concepts/Istigatsah.md",
+        "wiki/concepts/Du'a.md",
+        "wiki/entities/At-Tabarani.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Syirik Akbar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Neglect-of-the-Prayer.md": {
+      "hash": "a2f15a1555e5212649960ff50ee1b713",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/Neglect of the Prayer.md",
+        "wiki/concepts/Meninggalkan Shalat.md",
+        "wiki/concepts/Shalat Berjamaah.md",
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Sa'd ibn Abi Waqqas.md",
+        "wiki/entities/Ayyub as-Sakhtiyani.md",
+        "wiki/entities/Ishaq ibn Rahawayh.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Sifat Shalat Nabi.md",
+        "wiki/concepts/Azab Kubur.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Sa'id bin al-Musayyab.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Ibrahim an-Nakha'i.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Abandoning-the-Group-Prayer.md": {
+      "hash": "a1c5a24c282b71a7ab453b60a8febfa4",
+      "ingested_at": "2026-06-15",
+      "pages_created": [
+        "wiki/sources/Abandoning the Group Prayer.md",
+        "wiki/entities/Hatim al-Asamm.md",
+        "wiki/entities/Rabi' ibn Khuthaym.md",
+        "wiki/entities/Amr ibn Umm Maktum.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Shalat Berjamaah.md",
+        "wiki/concepts/Meninggalkan Shalat.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Sa'id bin al-Musayyab.md",
+        "wiki/entities/Hafsah binti Umar.md",
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/01-Censure-of-Backbiting.md": {
+      "hash": "c46dfab5258a34c75141f61e285048ed",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Censure of Backbiting.md",
+        "wiki/concepts/Ghibah.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Abu Sa'id Al-Khudri.md",
+        "wiki/entities/Al-Bara' bin Azib.md",
+        "wiki/entities/Sulaym bin Jabir.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Nabi Musa AS.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/02-Meaning-and-Definitions-of-Backbiting.md": {
+      "hash": "436f4986e369d4f19f771569aeccb9fd",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Meaning and Definitions of Backbiting.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

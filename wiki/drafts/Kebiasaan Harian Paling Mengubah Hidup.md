@@ -4,7 +4,7 @@ title: "Memutus Rantai Delapan Belenggu: Ritual Sepuluh Detik yang Mengubah Arah
 status: complete
 created: 2026-06-13
 updated: 2026-06-13
-metaDescription: "Ritual harian paling sederhana namun tidak konvensional untuk menghentikan kecemasan, kelemahan, kemalasan, dan lilitan utang melalui Istia'dzah aktif."
+metaDescription: Ritual harian paling sederhana namun tidak konvensional untuk menghentikan kecemasan, kelemahan, kemalasan, dan lilitan utang melalui Istia'dzah aktif.
 tags:
   - draft
   - kebiasaan
@@ -16,7 +16,7 @@ related:
   - "[[Tawakkul]]"
   - "[[Qadar]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Memutus Rantai Delapan Belenggu: Ritual Sepuluh Detik yang Mengubah Arah Hidup

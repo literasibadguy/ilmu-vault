@@ -5,7 +5,7 @@ entity_type: person
 role: "Rasul Ulul 'Azmi"
 first_mentioned: "[[Pride]]"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-16
 tags:
   - entity
   - nabi
@@ -13,8 +13,10 @@ tags:
 status: seed
 related:
   - "[[Kesombongan]]"
+  - "[[Ghibah]]"
 sources:
   - "[[Pride]]"
+  - "[[Censure of Backbiting]]"
 ---
 
 # Nabi Musa AS
@@ -27,7 +29,9 @@ sources:
 
 - **Pembela Tauhid**: Menghadapi Firaun, peradaban zalim, serta orang-orang sombong yang mendustakan kebenaran.
 - **Berlindung dari Kesombongan**: Mengajarkan doa perlindungan yang diabadikan dalam Al-Qur'an: *"Sesungguhnya aku berlindung kepada Tuhanku dan Tuhanmu dari setiap orang yang sombong yang tidak beriman kepada Hari Perhitungan."* (QS. Ghafir: 27).
+- **Wahyu tentang Pelaku Ghibah**: Allah ﷻ mewahyukan kepadanya mengenai eskatologi pelaku ghibah: jika bertobat ia akan menjadi manusia terakhir yang masuk surga, dan jika bersikeras ia akan menjadi manusia pertama yang dilemparkan ke neraka (**[[Ghibah]]**).
 
 ## Sumber
 
 - [[Pride]]
+- [[Censure of Backbiting]]

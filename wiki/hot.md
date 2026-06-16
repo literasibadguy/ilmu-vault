@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-13T12:35:00
+updated: 2026-06-16T09:50:00
 created: 2026-06-07
 tags:
   - meta
@@ -17,23 +17,21 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-13. Impor petunjuk syariat mengenai makanan, adab makan, moderasi, serta gaya hidup Nabi Muhammad SAW (**[[Prophet Muhammads Recommendations Regarding Food]]**), konsep makan (**[[Kesederhanaan dalam Makan]]**, **[[Adab Makan dan Minum]]**, **[[Penggabungan Makanan]]**, **[[Gaya Hidup Nabi dalam Makanan]]**), serta memperbarui/menambah tokoh periwayat hadis dan sahabat terkait.
+2026-06-16. Ingest Bab ke-15 *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai celaan keras dan definisi terperinci ghibah/menggunjing (**[[Censure of Backbiting]]** & **[[Meaning and Definitions of Backbiting]]**).
 
 ## Fakta Kunci Terbaru
-- Mengkaji prinsip moderasi makan (aturan sepertiga lambung untuk makan, minum, napas) guna menjaga kesehatan tubuh dan ketahanan ibadah (**[[Kesederhanaan dalam Makan]]**).
-- Mempelajari adab makan lahiriah dan batiniah seperti makan bersila (rendah hati), mencuci tangan, tidak mencela hidangan, menggunakan tiga jari tangan kanan, dan berzikir (**[[Adab Makan dan Minum]]**).
-- Menelaah kesukaan Nabi SAW terhadap makanan sederhana (gandum kasar, kurma, zaitun, madu, cuka, semangka) dan metode penggabungan makanan seimbang (**[[Penggabungan Makanan]]**, **[[Gaya Hidup Nabi dalam Makanan]]**).
-- Memperbarui entitas tokoh kunci: **[[Nabi Muhammad SAW]]**, **[[Umar bin Khattab]]**, **[[Abu Hurayrah]]**, **[[Aisyah binti Abu Bakar]]**, **[[Anas bin Malik]]**, **[[Ibnu Abbas]]**, **[[Ibnu Umar]]**, **[[Ibnul Qayyim Al-Jauziyyah]]**, **[[Imam Asy-Syafi'i]]**, **[[Al-Hasan al-Basri]]**.
-- Menambahkan entitas baru: **[[Abu Ayyoob al-Ansaari]]**, **[[Abu Juhayfah]]**, **[[Imaam an-Nawawi]]**, **[[Khaalid ibn al-Waleed]]**, **[[Safiyyah binti Huyayy]]**.
+- Penegasan dosa ghibah yang lebih berat daripada zina karena menyangkut hak sesama manusia. Ghibah diibaratkan seperti memakan bangkai saudaranya sendiri yang telah wafat (**[[Ghibah]]**).
+- Klasifikasi wilayah ghibah secara luas meliputi celaan fisik (pendek, botak), nasab, moral (kikir, pengecut), agama (lalai shalat, wudhu tidak bersih), dunia (banyak makan/tidur), hingga pakaian (jubah kotor, lengan baju lebar).
+- Atsar teguran Nabi SAW terhadap Aisyah karena isyarat fisik "pendek" dan Mu'adz karena perkataan "dia lemah" (**[[Aisyah binti Abu Bakar]]**, **[[Mu'adz bin Jabal]]**).
+- Riwayat ancaman siksa kubur dan kuku tembaga di akhirat bagi pelaku ghibah (**[[Jabir bin Abdullah]]**, **[[Anas bin Malik]]**).
 
 ## Perubahan Terbaru
-- Dibuat: **[[Prophet Muhammads Recommendations Regarding Food]]** (sumber)
-- Dibuat: **[[Kesederhanaan dalam Makan]]**, **[[Adab Makan dan Minum]]**, **[[Penggabungan Makanan]]**, **[[Gaya Hidup Nabi dalam Makanan]]**, **[[Makanan dalam Quran dan Sunnah]]**, **[[Bahaya Berlebihan dalam Makanan]]** (konsep)
-- Dibuat: **[[Abu Ayyoob al-Ansaari]]**, **[[Abu Juhayfah]]**, **[[Imaam an-Nawawi]]**, **[[Khaalid ibn al-Waleed]]**, **[[Safiyyah binti Huyayy]]** (entitas)
-- Dibuat: **[[Kebiasaan Harian Paling Mengubah Hidup]]** (draf konten)
-- Dibuat: **[[Tindakan Tidak Konvensional untuk Mencapai Target]]** (pertanyaan)
-- Diperbarui: **[[Nabi Muhammad SAW]]**, **[[Umar bin Khattab]]**, **[[Abu Hurayrah]]**, **[[Aisyah binti Abu Bakar]]**, **[[Anas bin Malik]]**, **[[Ibnu Abbas]]**, **[[Ibnu Umar]]**, **[[Ibnul Qayyim Al-Jauziyyah]]**, **[[Imam Asy-Syafi'i]]**, **[[Al-Hasan al-Basri]]** (entitas)
+- Dibuat: **[[Censure of Backbiting]]**, **[[Meaning and Definitions of Backbiting]]** (sumber)
+- Dibuat: **[[Ghibah]]** (konsep)
+- Dibuat: **[[Jabir bin Abdullah]]**, **[[Abu Sa'id Al-Khudri]]**, **[[Al-Bara' bin Azib]]**, **[[Sulaym bin Jabir]]** (entitas)
+- Diperbarui: **[[Adab Berbicara]]** (konsep)
+- Diperbarui: **[[Imam Al-Ghazali]]**, **[[Abu Hurayrah]]**, **[[Anas bin Malik]]**, **[[Aisyah binti Abu Bakar]]**, **[[Mu'adz bin Jabal]]**, **[[Al-Hasan al-Basri]]**, **[[Nabi Musa AS]]**, **[[Nabi Muhammad SAW]]** (entitas)
 
 ## Alur Kerja Aktif
-- Produksi Konten: Mengintegrasikan prinsip moderasi makan (*Thibbun Nabawi*) dan adab makan ke dalam tulisan dan media edukasi dakwah.
-- Langkah Berikutnya: Menyelaraskan anjuran penggabungan makanan kenabian dengan penemuan nutrisi modern dan mempublikasikan panduan hidup sehat ala Sunnah.
+- Penataan Etika Lisan: Menyelesaikan integrasi konsep ghibah, buhtan, dan penyebaran desas-desus ke dalam peta etika berbicara Islam.
+- Langkah Berikutnya: Menghubungkan konsep ghibah dengan draf artikel/utas X bertema adab lisan (**[[Utas Adab Berbicara Bourdain]]**).

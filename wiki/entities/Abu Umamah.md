@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis di Wilayah Syam"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-14
 tags:
   - entity
   - sahabat
@@ -13,8 +13,10 @@ status: seed
 related:
   - "[[Riya]]"
   - "[[Ikhlas]]"
+  - "[[Nama Agung Allah]]"
 sources:
   - "[[Showing Off]]"
+  - "[[Supplications That Are Most Likely Answered]]"
 ---
 
 # Abu Umamah
@@ -30,7 +32,9 @@ sources:
   Ujaran ini menjadi pelajaran penting bagi generasi setelahnya untuk tidak memamerkan kekhusyukan ibadah di tempat umum jika tidak diperlukan.
 - **Dakwah Kabilah Bahilah**: Nabi SAW pernah mengutus Abu Umamah untuk mendakwahi kaumnya sendiri. Meskipun awalnya ditolak dan kelaparan, keteguhan dan mukjizat makanan yang didapatkannya membuat seluruh kabilahnya akhirnya memeluk Islam.
 - **Hadis Keutamaan Membaca Al-Qur'an**: Beliau adalah perawi hadis terkenal: *"Bacalah Al-Qur'an, karena ia akan datang pada Hari Kiamat sebagai pemberi syafaat bagi pembacanya."* (HR. Muslim).
+- **Hadis Nama Teragung Allah**: Beliau meriwayatkan hadis bahwa Nama Agung Allah berada di tiga surah Al-Qur'an: Al-Baqarah, Ali 'Imran, dan Ta-Ha, yang oleh periwayat tabiin diidentifikasi sebagai lafal *"Ya Hayy Ya Qayyum"*.
 
 ## Sumber
 
 - [[Showing Off]]
+- [[Supplications That Are Most Likely Answered]]

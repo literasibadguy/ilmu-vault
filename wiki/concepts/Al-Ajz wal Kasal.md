@@ -1,13 +1,13 @@
 ---
 type: concept
-title: "Al-Ajz wal Kasal"
+title: Al-Ajz wal Kasal
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Kelemahan dan Kemalasan"
-  - "Helplessness and Laziness"
-  - "Al-Hamm wal Hazn"
-  - "Anxiety and Sorrow"
+  - Kelemahan dan Kemalasan
+  - Helplessness and Laziness
+  - Al-Hamm wal Hazn
+  - Anxiety and Sorrow
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -20,7 +20,7 @@ related:
   - "[[Tawakkul]]"
   - "[[Qadar]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Al-Ajz wal Kasal (Kelemahan & Kemalasan)
@@ -69,4 +69,4 @@ Untuk memutus mata rantai penyakit ini, Islam mengajarkan:
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

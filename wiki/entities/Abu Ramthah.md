@@ -3,7 +3,7 @@ type: entity
 title: Abu Ramthah
 entity_type: person
 role: Sahabat Nabi / Tabib
-first_mentioned: "[[Regarding His Guidance in Guarding His Words]]"
+first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -15,7 +15,7 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Adab Berbicara]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Abu Ramthah
@@ -31,4 +31,4 @@ sources:
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

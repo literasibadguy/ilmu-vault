@@ -21,6 +21,7 @@ related:
   - "[[Sujud Sahwi]]"
 sources:
   - "[[Regarding His Guidance in Prayer]]"
+  - "[[Neglect of the Prayer]]"
 ---
 
 # Sifat Shalat Nabi (Karakteristik Shalat Sunnah)
@@ -57,9 +58,17 @@ Nabi SAW melarang keras umatnya meniru gerakan hewan tertentu di dalam shalat de
 - **Fox (Rubah)**: Menoleh ke kanan dan ke kiri secara liar (*stealing* dari shalat oleh Setan).
 - **Beast of Prey (Binatang Buas)**: Membentangkan/menempelkan lengan bawah di lantai saat sujud.
 - **Dog (Anjing)**: Duduk *Iq'a* gaya anjing (menempelkan bokong ke lantai dengan menegakkan dua kaki dan menyandarkan tangan ke lantai).
-- **Crow (Gagak)**: Mematuk lantai saat sujud dengan sangat cepat tanpa tumakninah.
+- **Crow (Gagak)**: Mematuk lantai saat sujud dengan sangat cepat tanpa tumakninah (juga dikenal sebagai shalat seperti burung mematuk darah).
 - **Wild Horse (Kuda Liar)**: Melambaikan tangan ke samping saat memberikan salam di akhir shalat.
+
+## Tumakninah Sebagai Rukun Mutlak
+
+Ketidakabsahan shalat yang terburu-buru ditegaskan dalam dalil-dalil syar'i:
+1. **Hadis Al-Musi' Shalatuhu (Orang yang Salah Shalatnya)**: Kisah di mana Nabi SAW menyuruh seorang pria mengulangi shalatnya hingga tiga kali dengan sabda: *"Kembalilah dan shalatlah, karena sesungguhnya engkau belum shalat."* Nabi kemudian mengajarkan bahwa di setiap rukun (ruku', iktidal, sujud, duduk) wajib dilakukan hingga tenang (*tumakninah*) di mana setiap persendian kembali ke tempatnya (HR. Bukhari & Muslim).
+2. **Pencurian Terburuk**: Nabi SAW bersabda: *"Pencuri yang paling buruk adalah orang yang mencuri dari shalatnya."* Sahabat bertanya bagaimana seseorang mencuri dari shalatnya, beliau menjawab: *"Yaitu dengan tidak menyempurnakan ruku' dan sujudnya."* (HR. Ahmad).
+3. **Peringatan Sahabat**: Hudhayfah bin al-Yaman pernah menegur seseorang yang shalat cepat tanpa menyempurnakan ruku' dan sujud selama 40 tahun dengan perkataan: *"Engkau belum shalat sama sekali. Jika engkau mati dalam keadaan shalat seperti ini, engkau mati di luar fitrah (sunnah) Muhammad ﷺ."* (HR. Bukhari).
 
 ## Sumber
 
 - [[Regarding His Guidance in Prayer]]
+- [[Neglect of the Prayer]]

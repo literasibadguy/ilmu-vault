@@ -16,6 +16,7 @@ related:
   - "[[Al-Hasan al-Basri]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
+  - "[[Neglect of the Prayer]]"
 ---
 
 # Ibrahim an-Nakha'i
@@ -29,7 +30,9 @@ sources:
 - **Pewaris Ilmu Ibnu Mas'ud**: Merupakan rantai transmisi penting dari fiqih Kufah yang bersumber dari sahabat Ibnu Mas'ud.
 - **Sikap Terhadap Nikah Tahlil**: Memberikan fatwa yang sangat detail mengenai niat para pelaku tahlil: *"Jika niat salah satu dari tiga pihak (suami pertama, suami kedua, atau wanita tersebut) adalah untuk membuat pernikahan kembali itu halal (tahlil), maka pernikahan kedua tersebut tidak sah (invalid) dan wanita tersebut tetap tidak halal bagi suami pertamanya."*
 - **Sikap Terhadap Hadis**: Meskipun hafal banyak hadis, beliau lebih sering menyampaikan fatwa dalam bentuk kaidah hukum yang mewakili konsensus fiqih para murid Ibnu Mas'ud di Kufah.
+- **Fatwa Hukum Orang Meninggalkan Shalat**: Berpendapat secara tegas bahwa siapa saja yang sengaja meninggalkan shalat fardhu adalah kafir (keluar dari Islam) (**[[Neglect of the Prayer]]**).
 
 ## Sumber
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+- [[Neglect of the Prayer]]

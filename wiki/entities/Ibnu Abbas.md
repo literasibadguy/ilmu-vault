@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: 2026-06-10
-updated: 2026-06-13
+updated: 2026-06-14
 tags:
   - entity
   - sahabat
@@ -17,10 +17,14 @@ related:
   - "[[Ibnu Umar]]"
   - "[[Pendidikan Anak Perempuan]]"
   - "[[Adab Makan dan Minum]]"
+  - "[[Doa dalam Kesulitan]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[The Ideal Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[Supplications That Are Most Likely Answered]]"
+  - "[[Neglect of the Prayer]]"
+  - "[[Abandoning the Group Prayer]]"
 ---
 
 # Ibnu Abbas
@@ -39,6 +43,10 @@ sources:
 - **Periwayat Hadis Berkat Makanan**: Meriwayatkan hadis larangan mengambil dua buah kurma sekaligus (*al-qiran*) tanpa izin dari teman makan lainnya. Beliau juga meriwayatkan sabda Nabi SAW: *"Berkat itu turun di tengah-tengah makanan, maka makanlah dari pinggir-pinggirnya dan jangan dari tengahnya"* — artinya, berkah ditempatkan Allah di bagian tengah hidangan, sehingga diajarkan memulai makan dari tepi piring agar berkat tetap tersebar merata ke seluruh makanan (**[[Adab Makan dan Minum]]**).
 - **Periwayat Doa Setelah Makan**: Meriwayatkan doa yang diajarkan Nabi SAW untuk dibaca setelah selesai makan: *"Alhamdulillahilladzi ath'amana wa saqaana wa ja'alana muslimiin"* (Segala puji bagi Allah yang telah memberi kami makan dan minum dan menjadikan kami orang-orang Islam). Doa ini mengaitkan syukur atas nikmat fisik (makan-minum) dengan syukur atas nikmat spiritual (keislaman).
 - **Hadis Persaudaraan Sosial dalam Makan**: Beliau mengisahkan hadis Nabi SAW mengenai kepekaan sosial: *"Bukanlah seorang mukmin orang yang makan kenyang sedangkan tetangganya kelaparan di sampingnya"* — menegaskan bahwa adab makan dalam Islam tidak hanya menyangkut individu, tetapi juga tanggung jawab sosial terhadap sesama.
+- **Hadis Doa Kesulitan**: Meriwayatkan secara sahih dalam *Sahih Bukhari* dan *Sahih Muslim* doa yang dibaca Rasulullah ﷺ di kala ditimpa kesulitan (*du'a al-karb*): *"Lā ilāha illallāh al-'Adhīm al-Halīm, Lā ilāha illallāh Rabbul-'Arshil-'Adhīm..."* (**[[Doa dalam Kesulitan]]**).
+- **Tafsir Surah Al-Falaq Ayat 3**: Menjelaskan tafsir ayat *"dan dari kejahatan malam apabila telah gelap gulita"*. Beliau menafsirkan kejahatan malam tersebut sebagai gejolak syahwat seksual laki-laki (ereksi organ seksual laki-laki) yang timbul sebagai bahaya tersembunyi malam hari (**[[Fitnah Syahwat Seksual]]**).
+- **Tafsir Melalaikan Shalat**: Menafsirkan kata *"melalaikan"* dalam surah Maryam ayat 59 bukan sebagai meninggalkan shalat secara total, melainkan menunda-nunda pelaksanaan shalat hingga keluar dari waktu wajibnya. Beliau menegaskan bahwa orang yang sengaja meninggalkan shalat akan menjumpai kemurkaan Allah SWT saat menemui-Nya kelak (**[[Neglect of the Prayer]]**).
+- **Teguran terhadap Orang yang Meninggalkan Shalat Jamaah**: Menyatakan secara tegas bahwa seseorang yang berpuasa di siang hari dan shalat malam sepanjang malam tetapi tidak shalat berjamaah atau shalat Jumat di masjid tanpa uzur (takut atau sakit), jika ia wafat dalam keadaan demikian maka ia berada di dalam Neraka (**[[Abandoning the Group Prayer]]**).
 
 ## Sumber
 
@@ -46,3 +54,7 @@ sources:
 - [[Regarding His Guidance in Prayer]]
 - [[The Ideal Husband]]
 - [[Prophet Muhammads Recommendations Regarding Food]]
+- [[Supplications That Are Most Likely Answered]]
+- [[Harms of Greed and Sexual Passion]]
+- [[Neglect of the Prayer]]
+- [[Abandoning the Group Prayer]]

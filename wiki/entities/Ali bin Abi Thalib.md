@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Khalifah Rasyidah Keempat / Otoritas Fiqih & Hikmah"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-14
 tags:
   - entity
   - sahabat
@@ -14,8 +14,11 @@ status: seed
 related:
   - "[[Riya]]"
   - "[[Ikhlas]]"
+  - "[[Doa dalam Kesulitan]]"
 sources:
   - "[[Showing Off]]"
+  - "[[Supplications That Are Most Likely Answered]]"
+  - "[[Neglect of the Prayer]]"
 ---
 
 # Ali bin Abi Thalib
@@ -32,7 +35,11 @@ sources:
   2. Menjadi rajin dan giat beramal ketika berada di tengah-tengah manusia.
   3. Meningkatkan porsi amal ibadah jika dipuji oleh manusia, dan menguranginya jika dikritik atau dicela.
 - **Gaya Hidup Zuhud**: Terkenal sangat sederhana dalam berpakaian dan makanan, meskipun menguasai perbendaharaan baitul mal kekhalifahan yang sangat luas.
+- **Hadis Doa Kesulitan**: Beliau meriwayatkan bahwa Rasulullah ﷺ mengajarkannya doa di kala ditimpa kesulitan hidup: *"Lā ilāha illallāh al-Halīm al-Karīm, Subhānallāh, Tabārakallāh Rabbul-'Arshil-'Adhīm, Alhamdulillāhi Rabbil-'ālamīn"* (**[[Doa dalam Kesulitan]]**).
+- **Pandangan Terhadap Pelaku Meninggalkan Shalat**: Menyatakan secara tegas bahwa siapa saja yang tidak mendirikan shalat adalah kafir. Ketika ditanya mengenai seorang wanita yang menolak shalat, beliau menjawab: *"Siapa yang tidak shalat maka dia telah kafir."* (**[[Meninggalkan Shalat]]**).
 
 ## Sumber
 
 - [[Showing Off]]
+- [[Supplications That Are Most Likely Answered]]
+- [[Neglect of the Prayer]]

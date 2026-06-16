@@ -3,7 +3,7 @@ type: entity
 title: Awf bin Malik
 entity_type: person
 role: Sahabat Nabi / Perawi Hadis
-first_mentioned: "[[Regarding His Guidance in Guarding His Words]]"
+first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -15,7 +15,7 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Tawakkul]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Awf bin Malik
@@ -30,4 +30,4 @@ sources:
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

@@ -1,7 +1,7 @@
 ---
 type: question
-title: "Tindakan Tidak Konvensional untuk Mencapai Target"
-question: "Berdasarkan wiki, jika Anda seorang manusia, tindakan tidak konvensional apa yang akan Anda lakukan setiap hari untuk mencapai target Anda?"
+title: Tindakan Tidak Konvensional untuk Mencapai Target
+question: Berdasarkan wiki, jika Anda seorang manusia, tindakan tidak konvensional apa yang akan Anda lakukan setiap hari untuk mencapai target Anda?
 answer_quality: solid
 created: 2026-06-13
 updated: 2026-06-13
@@ -17,7 +17,7 @@ related:
   - "[[Adab Makan dan Minum]]"
   - "[[Al-Ajz wal Kasal]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
 ---
 
@@ -29,10 +29,10 @@ sources:
 
 Untuk mencapai target hidup secara efektif, terdapat dua tindakan harian sangat tidak konvensional di dunia modern yang diajarkan oleh syariat dan tercatat dalam wiki ini:
 
-### 1. Eliminasi Kata "Seandainya" (*Lauw*) secara Total
+### 1. Tidak berbicara Kata "Seandainya" (*Lauw*) secara Total
 Manusia sering menghabiskan energi psikologis untuk menyesali peristiwa masa lalu yang tidak dapat diubah (melahirkan *Hazn* atau kesedihan) atau mencemaskan masa depan (melahirkan *Hamm* atau kecemasan). 
 
-Sesuai tuntunan dalam **[[Regarding His Guidance in Guarding His Words]]** mengenai **[[Qadar]]**:
+Sesuai tuntunan dalam **[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]** mengenai **[[Qadar]]**:
 * Setiap kali terjadi kesalahan atau kegagalan harian, lisan harus dilarang mengucapkan kata "seandainya" (*Lauw*), karena ungkapan tersebut membuka pintu bagi manipulasi dan bisikan setan yang melumpuhkan tekad.
 * Sikap mental segera dialihkan ke penerimaan realitas secara rida (*Qadarullah*) dan langsung berfokus pada eksekusi tindakan berikutnya secara aktif (**[[Tawakkul]]**).
 

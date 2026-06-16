@@ -7,7 +7,7 @@ aliases:
   - Wahb bin Abdullah
   - Abu Juhaifah
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-14
 tags:
   - sahabat
   - sirah
@@ -22,6 +22,7 @@ related:
   - "[[Gaya Hidup Nabi dalam Makanan]]"
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[Harms of Greed and Sexual Passion]]"
 ---
 
 # Abu Juhayfah

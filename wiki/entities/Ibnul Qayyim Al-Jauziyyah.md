@@ -17,7 +17,7 @@ related:
 sources:
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[The Devils and The Eye]]"
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
 ---
 
@@ -42,6 +42,6 @@ sources:
 
 - [[Urgensi Kesabaran dalam Al-Qur'an]]
 - [[The Devils and The Eye]]
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Regarding His Guidance in Prayer]]
 - [[Prophet Muhammads Recommendations Regarding Food]]

@@ -3,6 +3,6 @@
     "vault-colors"
   ],
   "cssTheme": "Minimal",
-  "theme": "system",
-  "accentColor": "#f1f0ef"
+  "theme": "moonstone",
+  "accentColor": "#484747"
 }

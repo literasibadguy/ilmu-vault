@@ -19,6 +19,7 @@ related:
   - "[[Fitnah Kubur]]"
 sources:
   - "[[Ceramah Azab Kubur (Syaikh Utsaimin)]]"
+  - "[[Neglect of the Prayer]]"
 ---
 
 # Azab Kubur
@@ -47,7 +48,9 @@ Dalam **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin menjelask
 -   **Naminah**: Mengadu domba sesama manusia untuk merusak hubungan persaudaraan.
 -   **Ghibah**: Membicarakan keburukan orang lain.
 -   **Menunda Utang**: Keengganan membayar utang meski berkecukupan (**[[Etika Keuangan Islam]]**).
+-   **Melalaikan Shalat**: Menunda shalat wajib hingga keluar waktunya atau meninggalkannya secara sengaja. Pelakunya diancam dengan penyempitan kubur hingga rusuk saling bersilang, kuburnya dinyalakan api siang dan malam, serta disiksa oleh ular botak berbisa bernama *asy-Syuja' al-Aqra'* yang menyiksanya karena melalaikan waktu-waktu shalat (seperti menunda shalat Subuh hingga matahari terbit) (**[[Neglect of the Prayer]]**).
 
 ## Sumber
 
 - **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**
+- **[[Neglect of the Prayer]]**

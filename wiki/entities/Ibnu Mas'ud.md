@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-14
 tags:
   - entity
   - sahabat
@@ -14,8 +14,12 @@ status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ibnu Abbas]]"
+  - "[[Doa dalam Kesulitan]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
+  - "[[Supplications That Are Most Likely Answered]]"
+  - "[[Neglect of the Prayer]]"
+  - "[[Abandoning the Group Prayer]]"
 ---
 
 # Ibnu Mas'ud
@@ -29,7 +33,13 @@ sources:
 - **Kedekatan dengan Rasulullah**: Sangat dekat dengan Nabi SAW hingga sering disangka sebagai anggota keluarga Nabi. Beliau adalah pemegang sandal dan siwak Nabi.
 - **Perawi Hadis Nikah Tahlil**: Meriwayatkan hadis shahih tentang laknat Rasulullah SAW terhadap pelaku nikah tahlil (*muhallil*) dan mantan suami yang menyuruh atau diuntungkan oleh praktik tersebut (*muhallal lahu*).
 - **Pendiri Fiqih Irak**: Pemikirannya menjadi basis pembentukan pemikiran fiqih di wilayah Irak (Kufah) yang sangat menekankan pemahaman substansi hukum (*illat hukum*).
+- **Hadis Doa Mengatasi Kesedihan**: Beliau meriwayatkan doa perlindungan yang diajarkan Rasulullah ﷺ dari kesedihan, duka cita, dan kegelisahan, yaitu doa berserah diri yang meminta agar Al-Qur'an dijadikan penyejuk hati dan penghilang gundah (*"Allāhumma innī 'abduk, ibnu 'abdik..."*). Beliau juga menyatakan: *"Tidak ada seorang pun nabi di antara para nabi yang tertimpa kesulitan kecuali ia meminta pertolongan dengan bertasbih kepada Allah."* (**[[Doa dalam Kesulitan]]**).
+- **Pandangan Terhadap Pentingnya Shalat**: Menegaskan status keagamaan bagi orang yang sengaja meninggalkan shalat: *"Siapa yang tidak mendirikan shalat maka tidak ada agama (deen) baginya."* Beliau sepakat bahwa melalaikan shalat secara total adalah kekufuran (**[[Neglect of the Prayer]]**).
+- **Tuntunan Sunnah Shalat Berjamaah**: Menegaskan bahwa shalat berjamaah di masjid adalah bagian dari sunnah petunjuk (*sunanul huda*). Beliau memperingatkan: *"Jika kalian shalat di rumah kalian masing-masing... berarti kalian telah meninggalkan Sunnah Nabi kalian. Dan jika kalian meninggalkan Sunnah Nabi kalian, niscaya kalian akan sesat."* Di masa sahabat, hanya orang munafik nyata atau orang sakit parah yang tidak hadir shalat berjamaah (**[[Shalat Berjamaah]]**).
 
 ## Sumber
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+- [[Supplications That Are Most Likely Answered]]
+- [[Neglect of the Prayer]]
+- [[Abandoning the Group Prayer]]

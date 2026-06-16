@@ -1,12 +1,12 @@
 ---
 type: concept
-title: "Shirk Lafzhi"
+title: Shirk Lafzhi
 complexity: intermediate
-domain: "Tauhid / Akidah"
+domain: Tauhid / Akidah
 aliases:
-  - "Syirik Lafal"
-  - "Syirik dalam Ucapan"
-  - "Shirk in Speech"
+  - Syirik Lafal
+  - Syirik dalam Ucapan
+  - Shirk in Speech
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -19,7 +19,7 @@ related:
   - "[[Syirik Asghar]]"
   - "[[Adab Berbicara]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Shirk Lafzhi (Syirik Lafal / Ucapan)
@@ -55,4 +55,4 @@ Syariat memberikan solusi dengan menggantinya menggunakan kata hubung urutan/ber
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

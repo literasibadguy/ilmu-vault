@@ -1,24 +1,27 @@
 ---
 type: concept
-title: "Adab Berbicara"
+title: Adab Berbicara
 complexity: basic
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Menjaga Lisan"
-  - "Adab al-Kalam"
-  - "Guarding Words"
+  - Menjaga Lisan
+  - Adab al-Kalam
+  - Guarding Words
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-16
 tags:
   - concept
   - akhlak
   - adab
-status: seed
+status: developing
 related:
   - "[[Shirk Lafzhi]]"
   - "[[Qadar]]"
+  - "[[Ghibah]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
+  - "[[Censure of Backbiting]]"
+  - "[[Meaning and Definitions of Backbiting]]"
 ---
 
 # Adab Berbicara (Etiket & Penjagaan Lisan)
@@ -46,7 +49,10 @@ Berdasarkan petunjuk **[[Nabi Muhammad SAW]]**, terdapat beberapa prinsip utama 
 - **Kasus Gelar Sayyid**: Nabi SAW bersabda: *"Janganlah kalian memanggil orang munafik dengan sebutan Sayyid (Tuan/Pemimpin), karena jika ia menjadi tuan kalian, berarti kalian telah membuat Rabb kalian murka."*
 - **Kasus Istilah Kedokteran**: Kepada orang yang mengaku dirinya dokter (*physician*), Nabi SAW menegur: *"Engkau hanyalah seorang pendamping (companion), sedangkan Dokter sejati adalah Dzat yang menciptakan dirinya (yaitu Allah)."* Hal ini mengajarkan adab lafal agar tidak menisbatkan kemampuan mutlak menyembuhkan kepada makhluk.
 - **Nama Anggur (Karm)**: Nabi melarang menyebut pohon anggur dengan *Karm*, karena kata *Karm* bermakna "kemuliaan/kedermawanan", yang secara hakiki hanya layak disematkan pada hati seorang mukmin, serta untuk menghapus konotasi positif anggur sebagai bahan khamr pada zaman Jahiliyah.
+- **Larangan Ghibah (Menggunjing)**: Islam melarang membicarakan kelemahan atau cela orang lain saat ia tidak ada, meskipun pembicaraan tersebut adalah kebenaran. Larangan ini diperinci secara komprehensif dalam bahasan **[[Ghibah]]**.
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
+- [[Censure of Backbiting]]
+- [[Meaning and Definitions of Backbiting]]

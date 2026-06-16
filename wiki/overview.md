@@ -30,9 +30,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 11
-- Halaman wiki: 113
-- Aktivitas terakhir: 2026-06-11 (Impor petunjuk Nabi SAW tentang shalat dari Zad al-Ma'ad)
+- Sumber diimpor (ingested): 15
+- Halaman wiki: 151
+- Aktivitas terakhir: 2026-06-14 (Impor dalil Nama Agung Allah, doa dalam kesulitan, dan Al-Qur'an sebagai obat penawar lahir batin)
 
 ---
 

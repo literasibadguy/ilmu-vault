@@ -1,12 +1,12 @@
 ---
 type: concept
-title: "Tawakkul"
+title: Tawakkul
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akidah"
+domain: Tazkiyatun Nafs / Akidah
 aliases:
-  - "Trust in Allah"
-  - "Tawakkul Sejati"
-  - "Berserah Diri"
+  - Trust in Allah
+  - Tawakkul Sejati
+  - Berserah Diri
 created: 2026-06-11
 updated: 2026-06-11
 tags:
@@ -19,7 +19,7 @@ related:
   - "[[Al-Ajz wal Kasal]]"
   - "[[Qadar]]"
 sources:
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Tawakkul (Kepasrahan Aktif)
@@ -56,4 +56,4 @@ Tawakkul yang sejati adalah obat mujarab dari **[[Al-Ajz wal Kasal]]** (kelemaha
 
 ## Sumber
 
-- [[Regarding His Guidance in Guarding His Words]]
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
