@@ -25,6 +25,8 @@ sources:
   - "[[Meaning and Definitions of Backbiting]]"
   - "[[Backbiting Not Limited to Speech]]"
   - "[[Causes Motivating Backbiting]]"
+  - "[[Remedy for Backbiting Restraining the Tongue]]"
+  - "[[Unlawfulness of Backbiting in the Heart]]"
 ---
 
 # Ghibah (Menggunjing)
@@ -49,6 +51,16 @@ Berdasarkan penjelasan **[[Imam Al-Ghazali]]**, ghibah mencakup celaan terhadap 
 4. **Urusan Agama (Dīn)**: Menyebutnya sebagai pencuri, pembohong, pemabuk, pengkhianat, meremehkan shalat atau zakat, tidak menyempurnakan ruku/sujud, tidak bersuci dari najis secara benar, atau durhaka kepada orang tua.
 5. **Urusan Dunia**: Menyebutnya tidak sopan, banyak bicara, rakus makan, suka tidur di waktu yang tidak tepat, atau salah menempatkan diri dalam majelis.
 6. **Pakaian**: Mengritik lengan bajunya terlalu lebar, jubahnya menyeret tanah, atau pakaiannya kotor.
+
+
+## Ghibah dalam Hati (Ghibat al-Qalb)
+
+Ghibah tidak hanya diharamkan dalam bentuk lisan, isyarat, atau tulisan, tetapi juga diharamkan dalam bentuk batiniah, yaitu **Ghibah dalam Hati** (*Ghibat al-Qalb*) atau berprasangka buruk (*su'uzhan*) terhadap seorang Muslim tanpa bukti nyata (**[[Unlawfulness of Backbiting in the Heart]]**).
+
+- **Definisi**: Berprasangka buruk adalah menetapkan keyakinan di dalam hati mengenai keburukan orang lain tanpa adanya pembuktian hukum syariat yang sah. Selama suatu perbuatan masih memungkinkan alternatif penafsiran yang baik, hati dilarang meyakini keburukan tersebut.
+- **Kasus Mulut Berbau Khamr**: Al-Ghazali memberikan permisalan seseorang yang mulutnya berbau khamr. Secara syariat, ia tidak boleh dituduh meminum khamr karena ada kemungkinan ia hanya berkumur lalu meludahkannya, atau dipaksa. Keyakinan batiniah tentang kefasikan orang tersebut tetap haram tanpa adanya saksi hukum yang sah.
+- **Tanda Memverifikasi Prasangka**: Seseorang terjerumus dosa ghibah hati ketika ia mulai memverifikasi (*tasdeeq*) prasangka tersebut dalam keyakinan dan sikapnya. Tandanya adalah terjadinya perubahan sikap batin terhadap saudaranya, seperti menjauhinya (*shunning*), merasa tidak nyaman bersamanya, enggan mengunjunginya, atau berkurangnya rasa hormat kepadanya.
+- **Terapi Mengatasi Su'uzhan**: Ketika bisikan prasangka buruk melintas di hati, seseorang harus segera mendoakan kebaikan bagi saudaranya tersebut dan memperlakukannya dengan lebih baik. Hal ini akan membuat setan jengkel dan lari karena bisikannya justru memicu amal kebajikan.
 
 ## Dalil Celaan Terhadap Ghibah
 
@@ -91,6 +103,26 @@ Merupakan makar setan yang sangat halus karena menunggangi kemuliaan agama untuk
 - **Keheranan atas Maksiat**: Mengaku heran demi urusan agama terhadap perilaku seseorang, namun tergoda menyebutkan namanya: *"Sangat menakjubkan orang berilmu seperti Fulan bisa jatuh pada kesalahan itu."*
 - **Rasa Iba & Kasih Sayang (*Compassion*)**: Mengekspresikan kesedihan dan keprihatinan atas kesusahan/kemaksiatan seseorang, namun membeberkan namanya: *"Hatiku sangat pilu melihat musibah maksiat yang menimpa si Fulan."*
 - **Marah demi Allah**: Melampiaskan kemarahan syariat atas kemungkaran dengan membongkar dan melabeli pelaku secara buruk di depan umum, alih-alih menasihatinya secara tersembunyi.
+
+
+## Terapi dan Penyembuhan Ghibah
+
+Imam Al-Ghazali membagi metode penyembuhan penyakit hati ghibah menjadi dua pendekatan utama:
+
+### 1. Terapi Umum (Berbasis Ilmu & Introspeksi)
+- **Kesadaran Eskatologis**: Merenungkan bahwa ghibah akan menghancurkan pahala amal shaleh pelaku di akhirat. Pahala kebaikan pelaku akan ditransfer kepada korban ghibah (**[[Remedy for Backbiting Restraining the Tongue]]**). Jika pahala pelaku habis, dosa-dosa korban akan dipindahkan ke timbangan pelaku, yang dapat menjerumuskannya ke dalam Neraka.
+- **Introspeksi Cacat Diri**: Sibuk mengoreksi kekurangan rohani diri sendiri (*tazkiyatun nafs*) sehingga merasa malu untuk mencela cacat orang lain. Jika merasa bersih dari cacat, ia harus bersyukur dan tidak mengotori kesuciannya dengan dosa ghibah yang merupakan seburuk-buruknya cacat rohani.
+- **Mencela Fisik adalah Mencela Pencipta**: Menyadari bahwa menghina penampilan fisik seseorang pada hakikatnya adalah mencela Allah SWT sebagai Pencipta (*al-Khaliq*) yang mendesain bentuk tersebut.
+
+### 2. Terapi Khusus (Mengobati Akar Motif)
+- **Kemarahan**: Diterapi dengan menahan diri demi takut akan kemurkaan Allah SWT yang jauh lebih besar. Menekan amarah mendatangkan pahala bidadari (*huri*) di surga pada Hari Kiamat.
+- **Persetujuan Kelompok**: Menyadari bahwa mencari keridaan manusia dengan mendatangkan kemurkaan Allah adalah kebodohan. Ia harus menegur temannya yang berghibah demi menyelamatkan mereka dari maksiat.
+- **Pembelaan Diri**: Menyadari bahwa menuduh orang lain demi tampak bersih di dunia hanya akan menghancurkan keselamatannya di akhirat.
+- **Alasan Ikut-Ikutan**: Menolak taklid buta pada pelaku maksiat karena meniru keburukan orang lain adalah kebodohan seperti domba yang ikut terjun dari tebing gunung.
+- **Kesombongan**: Menyadari bahwa menjatuhkan orang lain untuk meninggikan diri sendiri justru menghapuskan kemuliaannya di hadapan Allah dan merusak reputasinya di mata manusia.
+- **Kedengkian**: Menyadari bahwa dengki mendatangkan siksaan ganda (penderitaan batin di dunia dan hukuman di akhirat). Ghibah justru menguntungkan orang yang didengki karena mentransfer pahala pelaku kepadanya.
+- **Candaan & Gurauan**: Merenungkan kehinaan di Hari Kiamat di mana ia akan dipermalukan di hadapan seluruh makhluk dan diseret ke Neraka akibat menertawakan saudaranya.
+- **Iba/Marah demi Allah/Takjub**: Menjaga agar dorongan mulia ini tidak disusupi bisikan setan untuk menyebutkan nama pelaku secara tidak sah. Pelaku wajib menyembunyikan nama orang yang dibicarakan untuk menjaga pahala kebaikannya.
 
 ## Pengecualian Hukum Ghibah
 

@@ -24,6 +24,8 @@ sources:
   - "[[Meaning and Definitions of Backbiting]]"
   - "[[Backbiting Not Limited to Speech]]"
   - "[[Causes Motivating Backbiting]]"
+  - "[[Remedy for Backbiting Restraining the Tongue]]"
+  - "[[Unlawfulness of Backbiting in the Heart]]"
 ---
 
 # Adab Berbicara (Etiket & Penjagaan Lisan)
@@ -34,11 +36,13 @@ sources:
 
 ## Prinsip Utama
 
-Berdasarkan petunjuk **[[Nabi Muhammad SAW]]**, terdapat beberapa prinsip utama dalam menjaga lisan:
+- Berdasarkan petunjuk **[[Nabi Muhammad SAW]]**, terdapat beberapa prinsip utama dalam menjaga lisan:
 1. **Memilih Kata dengan Cermat**: Membiasakan diri menyaring kata-kata sebelum diucapkan, mengutamakan ungkapan yang santun, bermakna mulia, dan menghindari perkataan kaum kasar/awam.
 2. **Proporsional dalam Gelar**: Menghindari penggunaan gelar atau panggilan mulia bagi orang yang tidak berhak (misalnya, memanggil orang munafik dengan sebutan "Sayyid" atau orang kafir/bodoh dengan "Hakeem" / bijaksana).
 3. **Menjaga Kesucian Nama Allah**: Mengagungkan nama dan sifat Allah dengan tidak menggunakannya dalam julukan makhluk yang melampaui batas, seperti melarang julukan "Abul Hakam" (Bapak Kebijaksanaan) karena kebijaksanaan dan hukum mutlak hanya milik Allah (*Al-Hakam*).
 4. **Menghindari Ungkapan Kasar/Kotor**: Menjauhkan diri dari perkataan vulgar (*fahisy*) meskipun memiliki maksud yang sama (misalnya, Nabi SAW menganjurkan mengganti kata *"Khabuthat Nafsee"* yang bermakna 'jiwaku telah buruk/busuk' dengan *"Lasiqat Nafsee"* yang bermakna 'jiwaku sedang sempit/lelah').
+5. **Terapi Lisan (Menahan Diri)**: Menyadari kerugian eskatologis berupa gugurnya pahala amal shaleh akibat ghibah, serta senantiasa mengutamakan koreksi cacat diri (*tazkiyatun nafs*) sebelum mengoreksi orang lain (**[[Remedy for Backbiting Restraining the Tongue]]**).
+6. **Adab Menasihati secara Rahasia (Nasihat)**: Menasihati saudara yang melakukan kesalahan secara rahasia (privat) demi menyembunyikan aibnya, diliputi rasa sedih di dalam hati, bukan dengan rasa bangga diri atau merasa lebih tinggi (**[[Unlawfulness of Backbiting in the Heart]]**).
 
 ## Mengapa Ini Penting
 
@@ -61,3 +65,5 @@ Berdasarkan petunjuk **[[Nabi Muhammad SAW]]**, terdapat beberapa prinsip utama 
 - [[Meaning and Definitions of Backbiting]]
 - [[Backbiting Not Limited to Speech]]
 - [[Causes Motivating Backbiting]]
+- [[Remedy for Backbiting Restraining the Tongue]]
+- [[Unlawfulness of Backbiting in the Heart]]

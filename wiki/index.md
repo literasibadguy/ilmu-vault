@@ -16,7 +16,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-16 | Total halaman: 198 | Sumber diimpor: 25
+Terakhir diperbarui: 2026-06-16 | Total halaman: 200 | Sumber diimpor: 27
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -199,6 +199,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Prophet Muhammads Recommendations Regarding Food]] — 2026-06-13 | Panduan komprehensif Nabi Muhammad SAW mengenai jenis makanan, adab makan, moderasi, dan dimensi spiritual makan | 10 halaman baru dibuat
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]] — 2026-06-11 | Bab Zad al-Ma'ad karya Ibnul Qayyim tentang adab lisan, cela waktu, tawakal, kelemahan, kemalasan, dan takdir | 15 halaman baru dibuat
 - [[Regarding His Guidance in Prayer]] — 2026-06-11 | Bab Zad al-Ma'ad karya Ibnul Qayyim tentang Sifat Shalat Nabi, Iftitah, Khusyuk, Sujud Sahwi, dan zikir pasca-shalat | 10 halaman baru dibuat
+- [[Remedy for Backbiting Restraining the Tongue]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang terapi umum dan terapi khusus untuk menghentikan ghibah | 1 halaman baru dibuat
 - [[Showing Off]] — 2026-06-10 | Kumpulan dalil larangan pamer (riya') dan bahaya syirik kecil | 9 halaman baru dibuat
 - [[Supplications That Are Most Likely Answered]] — 2026-06-14 | Kumpulan dalil dan hadis mengenai Nama Agung Allah, doa saat kesulitan (karb), doa Nabi Yunus AS, dan kisah mustajab Abu Mi'laq | 7 halaman baru dibuat
 - [[To Seek Help in Other Than Allah is an Act of Shirk]] — 2026-06-15 | Bab 14 Kitab at-Tawhid tentang larangan istigatsah dan doa kepada selain Allah | 3 konsep & 1 entitas baru dibuat
@@ -208,6 +209,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[The Devils and The Eye]] — 2026-06-09 | Analisis makar Iblis menipu manusia lewat pandangan mata dan kesesatan akidah | 3 halaman baru dibuat
 - [[The Entire Quran Is a Remedy]] — 2026-06-14 | Penjelasan kebahasaan surat Al-Isra': 82 dan Fussilat: 44 mengenai mukjizat penyembuhan menyeluruh dari Al-Qur'an | 2 halaman baru dibuat
 - [[The Ideal Husband]] — 2026-06-12 | Standar akhlak suami ideal dalam Islam berdasarkan dalil Al-Qur'an dan Sunnah karya B. Aisha Lemu | 14 halaman baru dibuat
+- [[Unlawfulness of Backbiting in the Heart]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang keharaman ghibah hati (su'uzhan), tanda verifikasi prasangka, dan adab menasihati secara privat | 1 halaman baru dibuat
 - [[Urgensi Kesabaran dalam Al-Qur'an]] — 2026-06-07 | Urgensi Kesabaran dalam Al-Qur'an (where-patience) | 6 halaman baru dibuat
 
 ---

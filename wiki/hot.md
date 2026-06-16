@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-16T09:53:00
+updated: 2026-06-16T10:05:00
 created: 2026-06-07
 tags:
   - meta
@@ -17,19 +17,19 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-16. Ingest bagian ke-3 dan ke-4 dari Bab XV *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai perluasan media ghibah ke non-verbal, aturan pendengar ghibah, dan motif psikologis di balik ghibah (**[[Backbiting Not Limited to Speech]]** & **[[Causes Motivating Backbiting]]**).
+2026-06-16. Ingest bagian ke-5 dan ke-6 dari Bab XV *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai terapi mengatasi ghibah dengan menahan lisan, keharaman ghibah hati (su'uzhan), serta adab menasihati secara privat (**[[Remedy for Backbiting Restraining the Tongue]]** & **[[Unlawfulness of Backbiting in the Heart]]**).
 
 ## Fakta Kunci Terbaru
-- Perluasan media ghibah dari lisan ke non-verbal (isyarat tangan, lirikan mata, mimikri fisik) dan tulisan pena ("pena adalah salah satu dari dua lisan manusia") (**[[Backbiting Not Limited to Speech]]**).
-- Aturan ketat bagi pendengar ghibah: dianggap ikut menanggung dosa pelaku kecuali jika membantah dengan lisan, membenci dalam hati, atau meninggalkan tempat. Diam atau berisyarat stop sementara hati ingin mendengar adalah kemunafikan (**[[Ghibah]]**).
-- Pembagian 8 motif psikologis pelaku ghibah awam (venting rage, peer approval, preventive attacks, boasts, envy, jokes, mockery) dan 3 motif psikologis halus pelaku ghibah kalangan khusus/the elect (heran atas maksiat, iba/belas kasih palsu, marah demi Allah yang diekspresikan dengan membongkar aib pelaku) (**[[Causes Motivating Backbiting]]**).
-- Riwayat teguran Nabi SAW terhadap Abu Bakar dan Umar atas komentar "selalu tertidur" (*sleepy person*) (**[[Abu Bakar Ash-Shiddiq]]**, **[[Umar bin Khattab]]**).
+- Pembagian terapi ghibah menjadi terapi umum (kesadaran eskatologis akan rontoknya pahala, introspeksi cacat diri, menyadari mencela fisik adalah mencela Pencipta) serta terapi khusus penangkal 8 motif psikologis utama (**[[Remedy for Backbiting Restraining the Tongue]]**).
+- Keharaman ghibah hati (*ghibat al-qalb* atau *su'uzhan*), di mana prasangka buruk batiniah disetarakan keharamannya dengan penumpahan darah dan perampasan harta sesama Muslim (**[[Ghibah]]**).
+- Tanda verifikasi prasangka buruk batiniah, yaitu adanya perubahan sikap batin (menjauhi, merasa tidak nyaman, berkurangnya rasa hormat). Cara mengusirnya adalah dengan segera mendoakan kebaikan bagi orang tersebut (**[[Unlawfulness of Backbiting in the Heart]]**).
+- Adab menasihati (*nasihat*) pelaku maksiat secara rahasia/tersembunyi yang diliputi rasa sedih di dalam hati, bukan dengan rasa bangga diri atau merasa lebih mulia (**[[Adab Berbicara]]**).
 
 ## Perubahan Terbaru
-- Dibuat: **[[Backbiting Not Limited to Speech]]**, **[[Causes Motivating Backbiting]]** (sumber)
+- Dibuat: **[[Remedy for Backbiting Restraining the Tongue]]**, **[[Unlawfulness of Backbiting in the Heart]]** (sumber)
 - Diperbarui: **[[Ghibah]]**, **[[Adab Berbicara]]** (konsep)
-- Diperbarui: **[[Abu Bakar Ash-Shiddiq]]**, **[[Umar bin Khattab]]**, **[[Aisyah binti Abu Bakar]]**, **[[Imam Al-Ghazali]]**, **[[Nabi Muhammad SAW]]** (entitas)
+- Diperbarui: **[[Imam Al-Ghazali]]**, **[[Nabi Muhammad SAW]]** (entitas)
 
 ## Alur Kerja Aktif
-- Penataan Etika Lisan: Menyelesaikan integrasi perluasan konsep ghibah non-verbal, hukum pendengar ghibah, dan pemetaan motif psikologis ghibah ke dalam disiplin adab berbicara Islam.
+- Penataan Etika Lisan: Menyelesaikan integrasi terapi lisan (penahan ghibah), keharaman ghibah hati, dan adab menasihati secara privat ke dalam disiplin adab berbicara Islam.
 - Langkah Berikutnya: Melakukan validasi tautan internal (link checker) untuk memastikan keutuhan struktur ilmu zip-vault.

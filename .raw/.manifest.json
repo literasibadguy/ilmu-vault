@@ -458,6 +458,38 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/05-Remedy-for-Backbiting-Restraining-the-Tongue.md": {
+      "hash": "d4274accefd3ed79eb1726110c6f5897",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Remedy for Backbiting Restraining the Tongue.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/06-Unlawfulness-of-Backbiting-in-the-Heart.md": {
+      "hash": "f0df1b9fbf24e29aecd30369d35596ad",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Unlawfulness of Backbiting in the Heart.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

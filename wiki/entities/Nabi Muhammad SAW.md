@@ -40,6 +40,8 @@ sources:
   - "[[Meaning and Definitions of Backbiting]]"
   - "[[Backbiting Not Limited to Speech]]"
   - "[[Causes Motivating Backbiting]]"
+  - "[[Remedy for Backbiting Restraining the Tongue]]"
+  - "[[Unlawfulness of Backbiting in the Heart]]"
 ---
 
 # Nabi Muhammad SAW
@@ -54,6 +56,8 @@ sources:
 - **Pengharam dan Pengecam Ghibah**: Mendefinisikan ghibah sebagai menceritakan saudara mukmin dengan hal yang dibencinya, mengancam ghibah sebagai dosa sosial yang lebih berat dari zina, memperlihatkan hukuman pencakar wajah (kuku tembaga), menolak nilai puasa orang yang menggunjing, serta melarang keras segala celaan fisik maupun non-fisik sekecil apa pun (**[[Ghibah]]**).
 - **Pemberi Batasan Ghibah Non-Verbal & Hukum Pendengar**: Menegaskan keharaman ghibah dalam segala bentuknya, termasuk isyarat tangan, peniruan fisik (mimikri), dan tulisan. Rasulullah ﷺ bersabda, *"Pendengar adalah salah satu dari dua orang yang melakukan ghibah."* Beliau juga memberikan pelajaran nyata ketika menegur Abu Bakar dan Umar atas perkataan mereka bahwa seseorang "selalu mengantuk" (*sleepy person*) dengan menyatakan bahwa mereka telah memakan daging saudaranya (**[[Backbiting Not Limited to Speech]]**).
 - **Pemberi Peringatan terhadap Motif-Motif Ghibah**: Menjelaskan dan melarang motif-motif psikologis yang mendorong seseorang melakukan ghibah, baik motif umum seperti kemarahan dan persetujuan kelompok, maupun motif halus yang dibisikkan setan seperti mengekspresikan ketakjuban, belas kasih palsu, atau kemarahan karena Allah secara tidak proporsional (**[[Causes Motivating Backbiting]]**).
+- **Pengajar Terapi Lisan & Penahan Amarah**: Mengajarkan bahwa menahan lisan dari ghibah adalah mutlak demi menjaga pahala amal shaleh dari kepunahan eskatologis ("kebinasaan pahala"). Beliau menjanjikan kedudukan mulia di surga bagi orang yang menekan amarahnya ketika ia mampu melaksanakannya (**[[Remedy for Backbiting Restraining the Tongue]]**).
+- **Pelindung Kehormatan Batin (Larangan Su'uzhan)**: Melarang keras berprasangka buruk (*su'uzhan*) terhadap seorang Muslim, menyamakan kedudukan kesucian kehormatan batin dengan kesucian darah dan harta. Beliau bersabda: *"Sesungguhnya Allah mengharamkan darah, harta, dan berprasangka buruk terhadap seorang Muslim."* Beliau juga menetapkan etika admonisi/nasihat rahasia secara santun (**[[Unlawfulness of Backbiting in the Heart]]**).
 - **Pengecam Kesombongan**: Menyampaikan ancaman keras bahwa orang yang memiliki kesombongan sekecil biji sawi di hatinya tidak akan masuk surga, serta memperingatkan tentang keagungan Allah yang tidak boleh disaingi oleh makhluk-Nya.
 - **Penegak Keadilan Hukum**: Mengecam keras kesaksian palsu (*syahadatus zuur*) sebagai salah satu dosa besar terburuk yang merusak tatanan keadilan hukum sosial.
 - **Pengajar Kesabaran**: Menegaskan bahwa pertolongan dan kemenangan diraih bersama kesabaran (*an-nashru ma'ash-shabr*).
@@ -92,3 +96,5 @@ sources:
 - [[Meaning and Definitions of Backbiting]]
 - [[Backbiting Not Limited to Speech]]
 - [[Causes Motivating Backbiting]]
+- [[Remedy for Backbiting Restraining the Tongue]]
+- [[Unlawfulness of Backbiting in the Heart]]

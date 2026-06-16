@@ -23,6 +23,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-16] ingest | Remedy for Backbiting & Unlawfulness of Heart-Backbiting (Ihya' Ulumiddin Chapter 15)
+- Sumber: `.raw/05-Remedy-for-Backbiting-Restraining-the-Tongue.md`, `.raw/06-Unlawfulness-of-Backbiting-in-the-Heart.md`
+- Ringkasan: [[Remedy for Backbiting Restraining the Tongue]], [[Unlawfulness of Backbiting in the Heart]]
+- Halaman dibuat: (tidak ada halaman entitas/konsep baru)
+- Halaman diperbarui: [[Ghibah]], [[Adab Berbicara]], [[Imam Al-Ghazali]], [[Nabi Muhammad SAW]], [[index]], [[hot]], [[log]]
+- Temuan Kunci: Penjelasan mendalam terapi penawar ghibah yang mencakup terapi umum (kesadaran eskatologis akan kebinasaan pahala amal shaleh, introspeksi cacat diri, menyadari mencela fisik adalah mencela Pencipta) serta terapi khusus penangkal 8 motif psikologis utama. Mengkaji ghibah dalam hati (*ghibat al-qalb* atau *su'uzhan*) sebagai dosa haram yang setara dengan penumpahan darah dan perampasan harta. Menguraikan tanda verifikasi prasangka batin (perubahan sikap, shunning), panduan tawaquf atas tuduhan tanpa saksi sah, metode mengusir prasangka (doa kebaikan bagi saudaranya), serta adab menasihati (*nasihat*) secara privat dengan penuh kesedihan, bukan superioritas.
+
 ## [2026-06-16] ingest | Non-Verbal Backbiting, Listening Rules & Motives of Ghibah (Ihya' Ulumiddin Chapter 15)
 - Sumber: `.raw/03-Backbiting-Not-Limited-to-Speech.md`, `.raw/04-Causes-Motivating-Backbiting.md`
 - Ringkasan: [[Backbiting Not Limited to Speech]], [[Causes Motivating Backbiting]]
