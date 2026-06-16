@@ -38,6 +38,8 @@ sources:
   - "[[To Seek Help in Other Than Allah is an Act of Shirk]]"
   - "[[Censure of Backbiting]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Backbiting Not Limited to Speech]]"
+  - "[[Causes Motivating Backbiting]]"
 ---
 
 # Nabi Muhammad SAW
@@ -50,6 +52,8 @@ sources:
 
 - **Prinsip Ri'ayah**: Mengajarkan bahwa kepemimpinan adalah bentuk pengabdian dan penjagaan (*ri'ayah*) atas hak-hari rakyat, bukan kemuliaan personal.
 - **Pengharam dan Pengecam Ghibah**: Mendefinisikan ghibah sebagai menceritakan saudara mukmin dengan hal yang dibencinya, mengancam ghibah sebagai dosa sosial yang lebih berat dari zina, memperlihatkan hukuman pencakar wajah (kuku tembaga), menolak nilai puasa orang yang menggunjing, serta melarang keras segala celaan fisik maupun non-fisik sekecil apa pun (**[[Ghibah]]**).
+- **Pemberi Batasan Ghibah Non-Verbal & Hukum Pendengar**: Menegaskan keharaman ghibah dalam segala bentuknya, termasuk isyarat tangan, peniruan fisik (mimikri), dan tulisan. Rasulullah ﷺ bersabda, *"Pendengar adalah salah satu dari dua orang yang melakukan ghibah."* Beliau juga memberikan pelajaran nyata ketika menegur Abu Bakar dan Umar atas perkataan mereka bahwa seseorang "selalu mengantuk" (*sleepy person*) dengan menyatakan bahwa mereka telah memakan daging saudaranya (**[[Backbiting Not Limited to Speech]]**).
+- **Pemberi Peringatan terhadap Motif-Motif Ghibah**: Menjelaskan dan melarang motif-motif psikologis yang mendorong seseorang melakukan ghibah, baik motif umum seperti kemarahan dan persetujuan kelompok, maupun motif halus yang dibisikkan setan seperti mengekspresikan ketakjuban, belas kasih palsu, atau kemarahan karena Allah secara tidak proporsional (**[[Causes Motivating Backbiting]]**).
 - **Pengecam Kesombongan**: Menyampaikan ancaman keras bahwa orang yang memiliki kesombongan sekecil biji sawi di hatinya tidak akan masuk surga, serta memperingatkan tentang keagungan Allah yang tidak boleh disaingi oleh makhluk-Nya.
 - **Penegak Keadilan Hukum**: Mengecam keras kesaksian palsu (*syahadatus zuur*) sebagai salah satu dosa besar terburuk yang merusak tatanan keadilan hukum sosial.
 - **Pengajar Kesabaran**: Menegaskan bahwa pertolongan dan kemenangan diraih bersama kesabaran (*an-nashru ma'ash-shabr*).
@@ -86,3 +90,5 @@ sources:
 - [[To Seek Help in Other Than Allah is an Act of Shirk]]
 - [[Censure of Backbiting]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Backbiting Not Limited to Speech]]
+- [[Causes Motivating Backbiting]]

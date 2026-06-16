@@ -22,6 +22,8 @@ sources:
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Censure of Backbiting]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Backbiting Not Limited to Speech]]"
+  - "[[Causes Motivating Backbiting]]"
 ---
 
 # Adab Berbicara (Etiket & Penjagaan Lisan)
@@ -50,9 +52,12 @@ Berdasarkan petunjuk **[[Nabi Muhammad SAW]]**, terdapat beberapa prinsip utama 
 - **Kasus Istilah Kedokteran**: Kepada orang yang mengaku dirinya dokter (*physician*), Nabi SAW menegur: *"Engkau hanyalah seorang pendamping (companion), sedangkan Dokter sejati adalah Dzat yang menciptakan dirinya (yaitu Allah)."* Hal ini mengajarkan adab lafal agar tidak menisbatkan kemampuan mutlak menyembuhkan kepada makhluk.
 - **Nama Anggur (Karm)**: Nabi melarang menyebut pohon anggur dengan *Karm*, karena kata *Karm* bermakna "kemuliaan/kedermawanan", yang secara hakiki hanya layak disematkan pada hati seorang mukmin, serta untuk menghapus konotasi positif anggur sebagai bahan khamr pada zaman Jahiliyah.
 - **Larangan Ghibah (Menggunjing)**: Islam melarang membicarakan kelemahan atau cela orang lain saat ia tidak ada, meskipun pembicaraan tersebut adalah kebenaran. Larangan ini diperinci secara komprehensif dalam bahasan **[[Ghibah]]**.
+- **Ghibah Pena & Isyarat**: Penjagaan lisan meluas hingga ke lisan tulisan (pena) karena pena dianggap sebagai salah satu dari dua lisan manusia. Peniruan gerak fisik (seperti berjalan pincang secara meniru) atau isyarat tangan/mata untuk mencela juga diharamkan sebagaimana ucapan lisan.
 
 ## Sumber
 
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Censure of Backbiting]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Backbiting Not Limited to Speech]]
+- [[Causes Motivating Backbiting]]

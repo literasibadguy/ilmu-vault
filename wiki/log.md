@@ -23,6 +23,13 @@ Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
 
+## [2026-06-16] ingest | Non-Verbal Backbiting, Listening Rules & Motives of Ghibah (Ihya' Ulumiddin Chapter 15)
+- Sumber: `.raw/03-Backbiting-Not-Limited-to-Speech.md`, `.raw/04-Causes-Motivating-Backbiting.md`
+- Ringkasan: [[Backbiting Not Limited to Speech]], [[Causes Motivating Backbiting]]
+- Halaman dibuat: (tidak ada halaman entitas/konsep baru)
+- Halaman diperbarui: [[Ghibah]], [[Adab Berbicara]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Aisyah binti Abu Bakar]], [[Imam Al-Ghazali]], [[Nabi Muhammad SAW]], [[index]], [[hot]], [[log]]
+- Temuan Kunci: Perluasan batasan ghibah ke media non-verbal seperti isyarat tangan, peniruan fisik (mimikri), dan tulisan pena ("pena adalah salah satu dari dua lidah"). Menegaskan dosa pendengar ghibah yang setara pelaku jika rida/diam, kecuali membantah secara lisan, membenci dalam hati, atau meninggalkan majelis. Membedah 8 motif psikologis umum pelaku ghibah (amarah, persetujuan kelompok, kedengkian, pembelaan diri, kesombongan, candaan, hinaan) serta 3 motif psikologis halus yang menjebak kalangan khusus/ahli ibadah (heran atas maksiat, kasih sayang/iba palsu, marah demi Allah dengan membongkar nama pelaku).
+
 ## [2026-06-16] ingest | Censure, Meaning and Definitions of Backbiting (Ihya' Ulumiddin Chapter 15)
 - Sumber: `.raw/01-Censure-of-Backbiting.md`, `.raw/02-Meaning-and-Definitions-of-Backbiting.md`
 - Ringkasan: [[Censure of Backbiting]], [[Meaning and Definitions of Backbiting]]

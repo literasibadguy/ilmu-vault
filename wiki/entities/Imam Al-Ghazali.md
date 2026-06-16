@@ -20,6 +20,8 @@ sources:
   - "[[Harms of Greed and Sexual Passion]]"
   - "[[Censure of Backbiting]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Backbiting Not Limited to Speech]]"
+  - "[[Causes Motivating Backbiting]]"
 ---
 
 # Imam Al-Ghazali
@@ -32,6 +34,8 @@ sources:
 
 - **Karya Utama**: Menulis kitab *Ihya' Ulumiddin*, di mana Kitab Pematah Dua Syahwat (*Greed for Food and Sexual Passion*) merupakan salah satu bab di dalamnya yang mendeskripsikan bahaya nafsu perut dan birahi.
 - **Kajian Bencana Lisan (Ghibah)**: Menguraikan bab bencana lisan kelima belas tentang bahaya **[[Ghibah]]**, mengklasifikasikan wilayah ghibah secara rinci (fisik, nasab, moral, agama, dunia, pakaian), serta menerangkan dosa ghibah yang lebih berat dibanding zina.
+- **Analisis Ghibah Non-Verbal & Hukum Pendengar**: Menguraikan bahwa ghibah dapat terjadi melalui isyarat tangan, peniruan fisik (mimikri), serta tulisan ("pena adalah salah satu dari dua lidah"). Beliau menegaskan bahwa pendengar ghibah juga memikul dosa yang sama dengan pelakunya kecuali jika ia mengingkarinya dengan lisan, membencinya dalam hati, atau meninggalkan majelis tersebut (**[[Backbiting Not Limited to Speech]]**).
+- **Klasifikasi Motif Ghibah**: Mengidentifikasi secara sistematis 8 motif psikologis umum pelaku ghibah (seperti meluapkan kemarahan, persetujuan kelompok/teman sebaya, membela diri dari tuduhan, kesombongan, kedengkian, lelucon, dan ejekan) serta 3 motif halus yang sering menjebak kaum terpilih/ulama (ketakjuban atas dosa orang lain, kasih sayang palsu yang memamerkan nama pelaku, dan marah demi Allah tetapi menyebutkan nama subjek secara tidak perlu) (**[[Causes Motivating Backbiting]]**).
 - **Metodologi Tazkiyah**: Memadukan dalil Al-Qur'an dan Hadis dengan perkataan serta kisah para ulama salaf terdahulu guna menerapi penyakit-penyakit hati.
 - **Pandangan tentang Lapar**: Menilai lapar (*hunger*) sebagai salah satu perbendaharaan Allah yang paling berharga untuk membuka pintu hikmah dan melemahkan tipu daya setan.
 
@@ -47,3 +51,5 @@ sources:
 - [[Harms of Greed and Sexual Passion]]
 - [[Censure of Backbiting]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Backbiting Not Limited to Speech]]
+- [[Causes Motivating Backbiting]]

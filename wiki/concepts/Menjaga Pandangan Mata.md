@@ -19,7 +19,7 @@ related:
   - "[[Fitnah Syahwat Seksual]]"
 sources:
   - "[[Harms of Greed and Sexual Passion]]"
-  - "[[Regarding His Guidance in Guarding His Words]]"
+  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 ---
 
 # Menjaga Pandangan Mata

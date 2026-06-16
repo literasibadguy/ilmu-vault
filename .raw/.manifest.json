@@ -423,6 +423,41 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/03-Backbiting-Not-Limited-to-Speech.md": {
+      "hash": "bd17fb22b61c9d26f13c224b6b79d3a0",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Backbiting Not Limited to Speech.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/04-Causes-Motivating-Backbiting.md": {
+      "hash": "8da5f67d29e3490c92f39d79a9c4b40a",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Causes Motivating Backbiting.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {}

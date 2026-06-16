@@ -26,6 +26,7 @@ sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[To Vow to Other Than Allah is an Act of Shirk]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Backbiting Not Limited to Speech]]"
 ---
 
 # Aisyah binti Abu Bakar
@@ -38,6 +39,7 @@ sources:
 
 - **Periwayat Ibadah Rumah Tangga**: Menjadi rujukan utama fiqih mengenai detail shalat malam (*tahajud*), tata cara wudhu, dan adab rumah tangga Nabi SAW.
 - **Teguran Ghibah Secara Langsung**: Mengisahkan dirinya ditegur keras oleh Nabi SAW karena mengomentari postur pendek seorang wanita. Nabi SAW memperingatkannya bahwa ucapannya tersebut sangat busuk hingga dapat mencemari air laut jika dicampurkan ke dalamnya, mendefinisikan batas tegas keharaman **[[Ghibah]]**.
+- **Teguran Ghibah Non-Verbal & Mimikri**: Mengisahkan bahwa ia pernah mengisyaratkan dengan tangannya untuk menunjukkan bahwa seorang tamu wanita bertubuh pendek, lalu Nabi SAW bersabda, "Kamu telah melakukan ghibah terhadapnya." Beliau juga ditegur oleh Nabi SAW saat meniru gerakan fisik seseorang, di mana Nabi bersabda bahwa beliau tidak akan senang meniru orang lain meskipun diberi imbalan besar, menegaskan keharaman ghibah non-verbal dan tindakan peniruan fisik (**[[Backbiting Not Limited to Speech]]**).
 - **Periwayat Shalat & Salam**: Meriwayatkan hadis mengenai kemudahan dan detail gerakan shalat Nabi, salah satunya adalah hadis tentang salam (*Tasleem*) satu kali yang dilakukan Nabi dalam shalat malam (**[[Sifat Shalat Nabi]]**).
 - **Membukakan Pintu Saat Shalat**: Mengisahkan kedekatan fisik mereka, di mana saat ia mengetuk pintu rumah, Nabi SAW yang sedang melaksanakan shalat sunnah bergeser membukakan pintu untuknya dan kembali melanjutkan shalat tanpa membatalkannya.
 - **Saksi Perilaku Rumah Tangga Nabi**: Meriwayatkan kebiasaan Nabi SAW membantu pekerjaan rumah tangga, melayani keluarga, dan menjahit pakaian atau sandalnya sendiri (**[[Adab Terhadap Istri]]**).
@@ -54,3 +56,4 @@ sources:
 - [[Prophet Muhammads Recommendations Regarding Food]]
 - [[To Vow to Other Than Allah is an Act of Shirk]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Backbiting Not Limited to Speech]]

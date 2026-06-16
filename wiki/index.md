@@ -16,7 +16,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-16 | Total halaman: 195 | Sumber diimpor: 23
+Terakhir diperbarui: 2026-06-16 | Total halaman: 198 | Sumber diimpor: 25
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -141,6 +141,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ishaq ibn Rahawayh]] — Ulama besar mujtahid Khorasan, ahli hadis, dan guru utama penyusun Kutubus Sittah (status: seed)
 - [[Isma'il bin Sa'id]] — Ulama Fiqih, murid/kolega Imam Ahmad bin Hanbal (status: seed)
 - [[Jabir bin Abdullah]] — Sahabat Nabi periwayat hadis perbandingan ghibah-zina dan hadis siksa kubur (status: seed)
+- [[Ka'b al-Ahbar]] — Ulama tabi'in keturunan Yahudi Yaman periwayat Israiliyat dan ahli kitab (status: seed)
 - [[Khaalid ibn al-Waleed]] — Panglima militer jenius berjuluk Saifullah al-Maslul yang memakan dhab di hadapan Nabi SAW (status: seed)
 - [[Khadijah binti Khuwailid]] — Istri pertama Nabi SAW yang mendampingi beliau 25 tahun dan memeluk Islam pertama kali (status: seed)
 - [[Khawlah binti Hakim]] — Sahabiyah periwayat doa isti'adzah tauhid saat memasuki suatu tempat (status: seed)
@@ -184,8 +185,10 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Sumber Rujukan (Sources)
 
 - [[Abandoning the Group Prayer]] — 2026-06-15 | Bab ke-65 dan 66 Kitab al-Kaba'ir tentang larangan meninggalkan shalat jamaah dan Jumat tanpa uzur | 4 halaman baru dibuat
-- [[Ceramah Azab Kubur (Syaikh Utsaimin)]] — 2026-06-08 | Ceramah Syaikh Utsaimin tentang fase janin, alam barzakh, hari kiamat, dan trik riba | 8 halaman baru dibuat
+- [[Backbiting Not Limited to Speech]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang perluasan media ghibah ke bentuk isyarat, tulisan, mimikri, dan dosa pendengar | 1 halaman baru dibuat
+- [[Causes Motivating Backbiting]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang pemetaan 8 motif umum dan 3 motif halus pelaku ghibah | 1 halaman baru dibuat
 - [[Censure of Backbiting]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang celaan keras ghibah, analogi bangkai, dan dosa sosialnya | 6 halaman baru dibuat
+- [[Ceramah Azab Kubur (Syaikh Utsaimin)]] — 2026-06-08 | Ceramah Syaikh Utsaimin tentang fase janin, alam barzakh, hari kiamat, dan trik riba | 8 halaman baru dibuat
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]] — 2026-06-10 | Kompilasi dalil keharaman rekayasa pernikahan tahlil | 11 halaman baru dibuat
 - [[Meaning and Definitions of Backbiting]] — 2026-06-16 | Bab ke-15 Kitab Ihya' Ulumiddin tentang definisi, klasifikasi, dan batasan ghibah | 1 halaman baru dibuat
 - [[Neglect of the Prayer]] — 2026-06-15 | Bab ke-4 Kitab al-Kaba'ir tentang melalaikan dan meninggalkan shalat serta ancaman siksa kubur dan neraka | 8 halaman baru dibuat
