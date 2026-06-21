@@ -4,8 +4,8 @@ title: "Nabi Musa AS"
 entity_type: person
 role: "Rasul Ulul 'Azmi"
 first_mentioned: "[[Pride]]"
-created: 2026-06-07
-updated: 2026-06-16
+created: "2026-06-07"
+updated: "2026-06-18"
 tags:
   - entity
   - nabi
@@ -17,7 +17,11 @@ related:
 sources:
   - "[[Pride]]"
   - "[[Censure of Backbiting]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
 ---
+
+
 
 # Nabi Musa AS
 

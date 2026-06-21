@@ -3,6 +3,26 @@
   "created": "2026-06-08",
   "description": "Ingest delta tracker and address map for the ilmuzip-vault vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/Pride.md": {
+      "hash": "8d38ef85c5f4dd1d10f44a6fe49660e5",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Pride.md",
+        "wiki/concepts/Kesombongan.md",
+        "wiki/concepts/Kesombongan Ulama.md",
+        "wiki/concepts/Dosa Iblis.md",
+        "wiki/entities/Salama bin al-Akwa'.md",
+        "wiki/entities/Iblis.md",
+        "wiki/entities/Nabi Musa AS.md",
+        "wiki/entities/Nabi Adam AS.md",
+        "wiki/drafts/Bahaya-Kesombongan.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Abu Hurayrah.md"
+      ]
+    },
     ".raw/azab-kubur-utsaimin.srt": {
       "hash": "6ca5f57798a3bf7ad082133212995297",
       "ingested_at": "2026-06-08",
@@ -490,7 +510,383 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/07-Justifications-Authorizing-Backbiting.md": {
+      "hash": "7a954a45d40e42bd18fab8f05c2119a0",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Justifications Authorizing Backbiting.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/08-Expiation-for-Backbiting.md": {
+      "hash": "8cd059a23c41ce333ebad30caf257401",
+      "ingested_at": "2026-06-16",
+      "pages_created": [
+        "wiki/sources/Expiation for Backbiting.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Sa'id bin al-Musayyab.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/01_introduction_and_silence.md": {
+      "hash": "634e12d808e361b9349f251ed2e4301d",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Introduction and Silence.md",
+        "wiki/concepts/Keutamaan Diam.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Isa AS.md",
+        "wiki/entities/Abdullah bin Salam.md",
+        "wiki/entities/Ahnaf bin Qais.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Uqba bin Amir.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Abu Dharr Al-Ghifari.md",
+        "wiki/entities/Al-Bara' bin Azib.md",
+        "wiki/entities/Ibnu Abbas.md"
+      ]
+    },
+    ".raw/02_harms_1_to_3_talk.md": {
+      "hash": "b2c4d62e00200d102611091984081882",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 1 to 3 Unnecessary Excessive and Sinful Talk.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Abdullah bin Salam.md",
+        "wiki/entities/Abu Dharr Al-Ghifari.md",
+        "wiki/entities/Al-Hasan al-Basri.md"
+      ]
+    },
+    ".raw/03_harms_4_to_6_disputes_and_speech.md": {
+      "hash": "a8d478cbd67282f8ccb0c4d598011b21",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 4 to 6 Disputes and Affectation in Speech.md",
+        "wiki/concepts/Pertengkaran dan Perdebatan.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Luqman.md"
+      ]
+    },
+    ".raw/04_harms_7_to_9_obscene_cursing_poetry.md": {
+      "hash": "7bdbd7026eaecab6c5829539d98d38f2",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 7 to 9 Obscenity Cursing and Poetry.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Ibnu Abbas.md"
+      ]
+    },
+    ".raw/05_harms_10_to_13_joking_ridicule_secrets_promises.md": {
+      "hash": "168449f7a1a8b31edc7b1f52b65573bf",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 10 to 13 Joking Ridicule Secrets and Promises.md",
+        "wiki/concepts/Candaan dan Olok-olok.md",
+        "wiki/entities/Abu Salma.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Fatima binti Muhammad.md"
+      ]
+    },
+    ".raw/06_harm_14_lying_and_falsehood.md": {
+      "hash": "5dbb0339b748f1eb13c9728028e5c4ba",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harm 14 Lying and Falsehood.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/concepts/Bahaya Kebohongan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Luqman.md",
+        "wiki/entities/Nabi Musa AS.md"
+      ]
+    },
+    ".raw/07_harm_15_backbiting.md": {
+      "hash": "bc61a6ef2e78fde35bff75d0b852e84f",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harm 15 Backbiting.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Sa'id bin al-Musayyab.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Abu Sa'id Al-Khudri.md",
+        "wiki/entities/Al-Bara' bin Azib.md",
+        "wiki/entities/Nabi Musa AS.md"
+      ]
+    },
+    ".raw/08_harm_16_slander_and_tale_bearing.md": {
+      "hash": "6e6ed19e10965133ed7b1e64ac48a663",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harm 16 Slander and Tale Bearing.md",
+        "wiki/concepts/Fitnah dan Namimah.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Al-Hasan al-Basri.md"
+      ]
+    },
+    ".raw/09_harms_17_and_18_hypocrisy_and_praise.md": {
+      "hash": "1b5229fc9b250941485da8926281730d",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 17 and 18 Hypocrisy and Praise.md",
+        "wiki/concepts/Bermuka Dua dan Pujian.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md"
+      ]
+    },
+    ".raw/10_harms_19_and_20_carelessness_and_attributes.md": {
+      "hash": "fc7d2749c9589dce2fafc5ba7e6cb5e1",
+      "ingested_at": "2026-06-18",
+      "pages_created": [
+        "wiki/sources/Harms 19 and 20 Carelessness and Attributes.md",
+        "wiki/concepts/Kelalaian Bicara dan Spekulasi.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Berbicara.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Umar bin Khattab.md"
+      ]
+    },
+    ".raw/The_Preparation_for_and_remembrance_of_death.md": {
+      "hash": "77536050b9b0017b7a85b8a93f31abb5",
+      "ingested_at": "2026-06-19",
+      "pages_created": [
+        "wiki/sources/The Preparation for and Remembrance of Death.md",
+        "wiki/concepts/Mengingat Maut.md",
+        "wiki/concepts/Persiapan Kematian.md",
+        "wiki/entities/Imam An-Nasa'i.md",
+        "wiki/entities/Imam Ibnu Majah.md",
+        "wiki/entities/Imam At-Tirmidzi.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/What_reminds_people_of_death_and_the_hereafter.md": {
+      "hash": "02ecf32a083b112b465a137837be1c6a",
+      "ingested_at": "2026-06-19",
+      "pages_created": [
+        "wiki/sources/What Reminds People of Death and the Hereafter.md",
+        "wiki/concepts/Ziarah Kubur.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Imam Muslim.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Imam Ibnu Majah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/extracted_chapters_In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday.md": {
+      "hash": "0df2e56c3431e9db7f79f981bb114e21",
+      "ingested_at": "2026-06-20",
+      "pages_created": [
+        "wiki/sources/In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday.md",
+        "wiki/concepts/Sakaratul Maut.md",
+        "wiki/concepts/Ujian dan Sakit Sebagai Penggugur Dosa.md",
+        "wiki/concepts/Husnudzon Kepada Allah.md",
+        "wiki/concepts/Raja' dan Khauf.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Jabir bin Abdullah.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Gambling.md": {
+      "hash": "e3526f3da1d3cb81e701e87d3fae9e95",
+      "ingested_at": "2026-06-20",
+      "pages_created": [
+        "wiki/sources/Major-Sin-20-Gambling.md",
+        "wiki/concepts/Judi dan Maysir.md",
+        "wiki/concepts/Catur dan Dadu.md",
+        "wiki/entities/Abu Musa al-Ash'ari.md",
+        "wiki/entities/Mujahid.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibrahim an-Nakha'i.md",
+        "wiki/entities/Ishaq ibn Rahawayh.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Abu Hurayrah.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Drinking-Alcohol.md": {
+      "hash": "14bae016590e69ebbd2823ef7338e924",
+      "ingested_at": "2026-06-20",
+      "pages_created": [
+        "wiki/sources/Major-Sin-19-Drinking-Alcohol.md",
+        "wiki/concepts/Khamr dan Intoksikasi.md",
+        "wiki/concepts/Bahaya Khamr.md",
+        "wiki/concepts/Ganja dan Hashish.md",
+        "wiki/entities/Abdullah bin Amr.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Abu Musa al-Ash'ari.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Abu Sa'id Al-Khudri.md",
+        "wiki/entities/Umm Salamah.md",
+        "wiki/entities/Al-Fudayl bin Iyad.md"
+      ]
     }
   },
-  "address_map": {}
+  "address_map": {
+    "wiki/sources/Introduction and Silence.md": "c-000001",
+    "wiki/concepts/Keutamaan Diam.md": "c-000002",
+    "wiki/concepts/Bencana Lisan.md": "c-000003",
+    "wiki/entities/Nabi Isa AS.md": "c-000004",
+    "wiki/entities/Abdullah bin Salam.md": "c-000005",
+    "wiki/entities/Ahnaf bin Qais.md": "c-000006",
+    "wiki/sources/Harms 1 to 3 Unnecessary Excessive and Sinful Talk.md": "c-000007",
+    "wiki/sources/Harms 4 to 6 Disputes and Affectation in Speech.md": "c-000008",
+    "wiki/concepts/Pertengkaran dan Perdebatan.md": "c-000009",
+    "wiki/sources/Harms 7 to 9 Obscenity Cursing and Poetry.md": "c-000010",
+    "wiki/sources/Harms 10 to 13 Joking Ridicule Secrets and Promises.md": "c-000011",
+    "wiki/concepts/Candaan dan Olok-olok.md": "c-000012",
+    "wiki/entities/Abu Salma.md": "c-000013",
+    "wiki/sources/Harm 14 Lying and Falsehood.md": "c-000014",
+    "wiki/sources/Harm 15 Backbiting.md": "c-000015",
+    "wiki/sources/Harm 16 Slander and Tale Bearing.md": "c-000016",
+    "wiki/concepts/Fitnah dan Namimah.md": "c-000017",
+    "wiki/sources/Harms 17 and 18 Hypocrisy and Praise.md": "c-000018",
+    "wiki/concepts/Bermuka Dua dan Pujian.md": "c-000019",
+    "wiki/sources/Harms 19 and 20 Carelessness and Attributes.md": "c-000020",
+    "wiki/concepts/Kelalaian Bicara dan Spekulasi.md": "c-000021",
+    "wiki/sources/The Preparation for and Remembrance of Death.md": "c-000022",
+    "wiki/concepts/Mengingat Maut.md": "c-000023",
+    "wiki/concepts/Persiapan Kematian.md": "c-000024",
+    "wiki/entities/Imam An-Nasa'i.md": "c-000025",
+    "wiki/entities/Imam Ibnu Majah.md": "c-000026",
+    "wiki/entities/Imam At-Tirmidzi.md": "c-000027",
+    "wiki/sources/What Reminds People of Death and the Hereafter.md": "c-000028",
+    "wiki/concepts/Ziarah Kubur.md": "c-000029",
+    "wiki/concepts/Zuhud.md": "c-000030",
+    "wiki/entities/Imam Muslim.md": "c-000031",
+    "wiki/sources/In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday.md": "c-000032",
+    "wiki/concepts/Sakaratul Maut.md": "c-000033",
+    "wiki/concepts/Ujian dan Sakit Sebagai Penggugur Dosa.md": "c-000034",
+    "wiki/concepts/Husnudzon Kepada Allah.md": "c-000035",
+    "wiki/concepts/Raja' dan Khauf.md": "c-000036",
+    "wiki/sources/Major-Sin-20-Gambling.md": "c-000037",
+    "wiki/concepts/Judi dan Maysir.md": "c-000038",
+    "wiki/concepts/Catur dan Dadu.md": "c-000039",
+    "wiki/entities/Abu Musa al-Ash'ari.md": "c-000040",
+    "wiki/entities/Mujahid.md": "c-000041",
+    "wiki/sources/Major-Sin-19-Drinking-Alcohol.md": "c-000042",
+    "wiki/concepts/Khamr dan Intoksikasi.md": "c-000043",
+    "wiki/concepts/Bahaya Khamr.md": "c-000044",
+    "wiki/concepts/Ganja dan Hashish.md": "c-000045",
+    "wiki/entities/Abdullah bin Amr.md": "c-000046"
+  }
 }

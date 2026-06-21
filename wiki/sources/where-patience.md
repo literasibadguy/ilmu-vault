@@ -3,7 +3,7 @@ type: source
 title: "Urgensi Kesabaran dalam Al-Qur'an (where-patience)"
 source_type: article
 author: "Imam Ibnul Qayyim Al-Jauziyyah"
-date_published: 2026-06-07
+date_published: 2026-06-18
 url: ""
 confidence: high
 key_claims:
@@ -11,8 +11,8 @@ key_claims:
   - "Kepemimpinan spiritual dalam agama (al-imamah fid-din) hanya dapat diraih melalui gabungan antara kesabaran dan keyakinan (yaqin)."
   - "Pahala orang yang bersabar tidak memiliki batas perhitungan (terbuka), digambarkan seperti curahan air hujan yang deras."
   - "Kesabaran adalah fondasi perlindungan terbaik dari tipu daya dan makar musuh."
-created: 2026-06-07
-updated: 2026-06-07
+created: 2026-06-18
+updated: 2026-06-18
 tags:
   - source
   - kesabaran
@@ -46,6 +46,7 @@ Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'
 - [[Ibnul Qayyim Al-Jauziyyah]] — Penulis asli dari pembahasan kompilasi urgensi sabar dalam Al-Qur'an ini.
 - [[Abu Ali ad-Daqqaq]] — Ulama salaf yang menyatakan orang sabar adalah pemenang di dunia dan akhirat karena kebersamaan Allah dengan mereka.
 - [[Sulayman bin al-Qasim]] — Ulama salaf yang mengibaratkan pahala kesabaran tanpa batas seperti curah hujan yang lebat.
+- [[Luqman]] — Tokoh bijaksana dalam Al-Qur'an yang mewasiatkan kepada anaknya untuk bersabar atas apa yang menimpanya.
 
 ## Ilmu yang Diperkenalkan
 
@@ -90,4 +91,5 @@ Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'
 - **Hadis Riwayat At-Tirmidhi (No. 2516) (Kemenangan bersama kesabaran)** — Penegasan Nabi SAW kepada Ibnu Abbas bahwa pertolongan dan jalan keluar selalu datang bersama kesabaran.
 
 ## Catatan
+
 Rujukan kompilasi ayat sabar ini adalah bahan utama yang sangat berharga untuk draf materi ceramah/kajian panjang di YouTube KICIKKU tentang psikologi Islam, manajemen stres iman, dan meraih kesuksesan hidup secara syar'i.

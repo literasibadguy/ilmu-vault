@@ -4,8 +4,8 @@ title: "Sa'id bin al-Musayyab"
 entity_type: person
 role: "Ulama Tabi'in / Pemimpin Ahli Fiqih Madinah"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-10
+created: "2026-06-10"
+updated: "2026-06-18"
 tags:
   - entity
   - tabiin
@@ -18,7 +18,10 @@ sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
+  - "[[Expiation for Backbiting]]"
+  - "[[Harm 15 Backbiting]]"
 ---
+
 
 # Sa'id bin al-Musayyab
 
@@ -33,9 +36,11 @@ sources:
 - **Keteguhan Sikap**: Dikenal mandiri secara finansial dengan berdagang minyak zaitun agar terhindar dari ketergantungan pada harta penguasa. Beliau berkali-kali menolak jabatan resmi dari dinasti Bani Umayyah meskipun harus menghadapi siksaan fisik dan penjara.
 - **Tafsir Menunda Shalat**: Menjelaskan bentuk melalaikan shalat (QS. Maryam: 59) sebagai perilaku menunda-nunda shalat (tidak shalat Zuhr hingga masuk waktu Asar, Asar hingga Maghrib, Maghrib hingga Isya, Isya hingga Fajr, dan Fajr hingga terbit matahari). Ia memperingatkan bahwa pelaku penundaan shalat yang terus-menerus tanpa tobat diancam dimasukkan ke Lembah Ghayy di Neraka (**[[Meninggalkan Shalat]]**).
 - **Tafsir Ayat Kehinaan Penolak Sujud**: Menafsirkan Surah Al-Qalam ayat 42-43 mengenai ketidakmampuan bersujud di Hari Kiamat sebagai orang-orang yang mendengar seruan adzan dikumandangkan tetapi tidak menjawabnya (tidak mendatangi masjid) padahal tubuh mereka sehat walafiat (**[[Shalat Berjamaah]]**).
+- **Sikap Tegas Terhadap Pemaafan Ghibah**: Memiliki prinsip batin yang teguh dalam urusan keadilan akhirat, di mana beliau bersaksi tidak memaafkan orang yang menzalimi kehormatan dirinya di dunia demi menjaga hak penuntutan di hadapan keadilan Allah di Hari Kiamat (**[[Expiation for Backbiting]]**).
 
 ## Sumber
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
+- [[Expiation for Backbiting]]

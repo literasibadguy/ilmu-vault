@@ -8,7 +8,7 @@ aliases:
   - "Syahadatus Zuur"
   - "Perjury"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-18
 tags:
   - concept
   - hukum
@@ -17,7 +17,7 @@ status: seed
 related:
   - "[[Bahaya Kebohongan]]"
 sources:
-  - "[[Perjury]]"
+  - "[[perjury]]"
 ---
 
 # Kesaksian Palsu (Syahadatus Zuur)
@@ -33,15 +33,19 @@ Kesaksian palsu beroperasi dengan mengeksploitasi celah pengadilan manusia:
 2. **Merampas Hak**: Keterangan palsu tersebut meyakinkan hakim untuk memutus perkara secara salah, yang berakibat pada beralihnya harta atau hilangnya kehormatan/darah orang yang tidak bersalah.
 3. **Meniadakan Keputusan Hakim**: Secara syar'i, keputusan hakim tidak mengubah status barang haram menjadi halal. Jika seseorang memenangkan sengketa lewat saksi palsu, ia tetap berdosa dan barang tersebut adalah sepotong api neraka bagi dirinya.
 
-## Mengapa Ini Penting
+## Kedahsyatan Dosa Kesaksian Palsu
 
-Kesaksian palsu merusak sendi-sendi keadilan dalam bernegara dan bermasyarakat. Islam menaruh perhatian yang sangat tinggi pada tegaknya keadilan (*al-'adalah*). Rasulullah SAW mengulang-ulang kalimat *"Ingatlah, kesaksian palsu!"* dengan nada sangat keras dan berulang kali guna menekankan bahwa kemusnahan keadilan sosial bermula ketika kejujuran saksi telah diperjualbelikan.
+Kesaksian palsu merupakan kejahatan luar biasa karena mengandung beberapa dimensi dosa sekaligus (sebagaimana dirinci dalam *Al-Musannaf*):
+- **Setara dengan Syirik Ganda**: Rasulullah SAW menegaskan bahwa perjury setara dengan mempersekutukan Allah secara ganda.
+- **Mengandung Kebohongan Besar**: Melanggar larangan berdusta. Padahal seorang mukmin tidak boleh berwatak pendusta.
+- **Menzalimi Orang Lain**: Merampas harta, merusak kehormatan, bahkan dapat menghilangkan jiwa orang lain yang tidak bersalah.
+- **Menghalalkan yang Haram**: Menghalalkan perkara-perkara yang telah dilindungi kesuciannya oleh Allah (jiwa, harta, kehormatan).
 
 ## Dampak di Akhirat
 
-- **Neraka Wajib**: Saksi palsu diancam tidak akan bergeser kakinya saat bangkit dari kubur melainkan telah diwajibkan masuk ke dalam neraka.
-- **Pemberian Potongan Api**: Mengambil hak milik muslim lain melalui jalur kesaksian dusta disamakan dengan sengaja memotong bagian tubuh untuk dibakar di neraka.
+- **Neraka Wajib**: Saksi palsu diancam tidak akan bergeser kakinya saat bangkit dari kubur pada Hari Kiamat melainkan telah diwajibkan masuk ke dalam neraka (HR. Ibn Majah & Al-Hakim).
+- **Pemberian Potongan Api**: Mengambil hak milik muslim lain melalui jalur keputusan hakim yang didasarkan pada kesaksian dusta disamakan dengan sengaja mengambil potongan api neraka (HR. Al-Bukhari & Muslim).
 
 ## Sumber
 
-- [[Perjury]]
+- [[perjury]]

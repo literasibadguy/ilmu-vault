@@ -5,7 +5,7 @@ entity_type: person
 role: "Imam / Ahli Hadis / Sejarawan Islam"
 first_mentioned: "[[Neglect of the Prayer]]"
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-18
 tags:
   - entity
   - tokoh
@@ -18,6 +18,9 @@ related:
 sources:
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
+  - "[[perjury]]"
+- "[[Major-Sin-20-Gambling]]"
+- "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
 
 # Imam Adh-Dhahabi
@@ -28,7 +31,7 @@ sources:
 
 ## Fakta Kunci
 
-- **Penulis Kitab al-Kaba'ir**: Menyusun kitab legendaris tentang dosa-dosa besar dalam Islam, di mana dosa melalaikan dan meninggalkan shalat ditempatkan di bab ke-4 (**[[Neglect of the Prayer]]**), serta dosa meninggalkan shalat berjamaah tanpa uzur di masjid ditempatkan di bab ke-65 dan ke-66 (**[[Abandoning the Group Prayer]]**).
+- **Penulis Kitab al-Kaba'ir**: Menyusun kitab legendaris tentang dosa-dosa besar dalam Islam, di mana dosa melalaikan dan meninggalkan shalat ditempatkan di bab ke-4 (**[[Neglect of the Prayer]]**), dosa meninggalkan shalat berjamaah tanpa uzur di masjid ditempatkan di bab ke-65 dan ke-66 (**[[Abandoning the Group Prayer]]**), larangan kesaksian palsu (perjury) ditempatkan di bab tersendiri (**[[perjury]]**), serta larangan minuman keras (**[[Major-Sin-19-Drinking-Alcohol]]**) dan perjudian (**[[Major-Sin-20-Gambling]]**) masing-masing di bab ke-19 dan ke-20.
 - **Karya Monumental**: Menulis puluhan kitab penting, di antaranya *Siyar A'lam an-Nubala'* (Biografi Tokoh-Tokoh Mulia) dan *Tarikh al-Islam* (Sejarah Islam).
 - **Metodologi Kritik Hadis**: Diakui sebagai ulama rujukan tertinggi dalam menentukan kredibilitas perawi hadis (*rijalul hadits*), menggabungkan ketelitian ilmu hadis dengan objektivitas sejarah.
 
@@ -41,3 +44,6 @@ sources:
 
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
+- [[perjury]]
+- [[Major-Sin-20-Gambling]]
+- [[Major-Sin-19-Drinking-Alcohol]]

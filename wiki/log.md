@@ -1,8 +1,8 @@
 ---
 type: meta
 title: "Operation Log"
-updated: 2026-06-16
-created: 2026-06-07
+created: "2026-06-07"
+updated: "2026-06-21"
 tags:
   - meta
   - log
@@ -13,7 +13,119 @@ related:
   - "[[overview]]"
 ---
 
+
 # Catatan Operasi (Operation Log)
+
+## [2026-06-21] write | Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan (X Article)
+- Naskah dibuat: [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]]
+- Halaman diperbarui: [[index]], [[log]], [[overview]], [[hot]]
+- Deskripsi: Penulisan draf artikel X panjang (1000+ kata) bertema kezuhudan sosial dan bahaya adiksi kemaksiatan menggunakan gaya elemental street realist (McCarthy, Bourdain, Bukowski) yang memadukan kritik sosial perkotaan dengan visual slot digital (maysir), permainan catur (shatranj), miras (khamr), ganja (hashish), ghibah, dan visual layar (striatum otak).
+
+## [2026-06-20] ingest | Major Sin 19: Drinking Alcohol
+- Sumber: `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Drinking-Alcohol.md`
+- Ringkasan: [[Major-Sin-19-Drinking-Alcohol]]
+- Halaman dibuat: [[Major-Sin-19-Drinking-Alcohol]], [[Khamr dan Intoksikasi]], [[Bahaya Khamr]], [[Ganja dan Hashish]], [[Abdullah bin Amr]]
+- Halaman diperbarui: [[Imam Adh-Dhahabi]], [[Ibnu Umar]], [[Ibnu Abbas]], [[Abu Hurayrah]], [[Abu Musa al-Ash'ari]], [[Jabir bin Abdullah]], [[Abu Sa'id Al-Khudri]], [[Umm Salamah]], [[Al-Fudayl bin Iyad]]
+- Temuan Kunci: Pengharaman keras khamr sebagai induk segala kekejian, laknat bagi sepuluh pihak industri khamr, larangan pemanfaatan medis, penyamaan kedudukan ganja/hashish dengan khamr karena merusak akal, dan kisah mayat peminum khamr dipalingkan dari kiblat di barzakh.
+
+## [2026-06-20] ingest | Major Sin 20: Gambling
+- Sumber: `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Gambling.md`
+- Ringkasan: [[Major-Sin-20-Gambling]]
+- Halaman dibuat: [[Major-Sin-20-Gambling]], [[Judi dan Maysir]], [[Catur dan Dadu]], [[Abu Musa al-Ash'ari]], [[Mujahid]]
+- Halaman diperbarui: [[Imam Adh-Dhahabi]], [[Ali bin Abi Thalib]], [[Ibnu Umar]], [[Ibnu Abbas]], [[Ibrahim an-Nakha'i]], [[Ishaq ibn Rahawayh]], [[Imam Malik bin Anas]], [[Abu Hurayrah]]
+- Temuan Kunci: Pengharaman mutlak segala perjudian (maysir), catur dihukumi makruh/haram oleh mayoritas ulama salaf, serta kisah mengerikan pecandu catur yang berteriak "Skakmat!" di akhir hayatnya.
+
+## [2026-06-20] ingest | In the Remembrance of the Affairs of the Dead and Doomsday
+- Sumber: `.raw/extracted_chapters_In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday.md`
+- Ringkasan: [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday|In the Remembrance of the Affairs of the Dead and Doomsday]]
+- Halaman dibuat: [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday|In the Remembrance of the Affairs of the Dead and Doomsday]], [[Sakaratul Maut]], [[Ujian dan Sakit Sebagai Penggugur Dosa]], [[Husnudzon Kepada Allah]], [[Raja' dan Khauf]]
+- Halaman diperbarui: [[Aisyah binti Abu Bakar]], [[Nabi Muhammad SAW]], [[Abu Hurayrah]], [[Anas bin Malik]], [[Jabir bin Abdullah]]
+- Temuan Kunci: Sakaratul maut memiliki rasa sakit terdahsyat, musibah sakit fisik menggugurkan dosa layaknya pohon merontokkan daun, serta kewajiban berhusnudzon dan memadukan khauf & raja' menjelang ajal.
+
+## [2026-06-19] ingest | What Reminds People of Death and the Hereafter
+- Sumber: `.raw/What_reminds_people_of_death_and_the_hereafter.md`
+- Ringkasan: [[What Reminds People of Death and the Hereafter]]
+- Halaman dibuat: [[What Reminds People of Death and the Hereafter]], [[Ziarah Kubur]], [[Zuhud]], [[Imam Muslim]]
+- Halaman diperbarui: [[Abu Hurayrah]], [[Ibnu Mas'ud]], [[Nabi Muhammad SAW]], [[Imam Ibnu Majah]]
+- Temuan Kunci: Ziarah kubur direvisi hukumnya menjadi anjuran karena menumbuhkan sikap zuhud di dunia dan mengingatkan akhirat.
+
+## [2026-06-19] ingest | The Preparation for and Remembrance of Death
+- Sumber: `.raw/The_Preparation_for_and_remembrance_of_death.md`
+- Ringkasan: [[The Preparation for and Remembrance of Death]]
+- Halaman dibuat: [[The Preparation for and Remembrance of Death]], [[Mengingat Maut]], [[Persiapan Kematian]], [[Imam An-Nasa'i]], [[Imam Ibnu Majah]], [[Imam At-Tirmidzi]]
+- Halaman diperbarui: [[Abu Hurayrah]], [[Ibnu Umar]], [[Imam Malik bin Anas]], [[Nabi Muhammad SAW]]
+- Temuan Kunci: Kematian adalah terputusnya ruh dari jasad dan perpindahan dari dunia ke akhirat. Mukmin yang paling cerdas adalah yang paling banyak mengingat mati dan mempersiapkan bekal terbaik.
+
+## [2026-06-18] ingest | Introduction and Silence
+- Sumber: `.raw/01_introduction_and_silence.md`
+- Ringkasan: [[Introduction and Silence]]
+- Halaman dibuat: [[Introduction and Silence]], [[Keutamaan Diam]], [[Bencana Lisan]], [[Nabi Isa AS]], [[Abdullah bin Salam]], [[Ahnaf bin Qais]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Mu'adz bin Jabal]], [[Ibnu Mas'ud]], [[Uqba bin Amir]], [[Umar bin Abdul Aziz]], [[Al-Hasan al-Basri]], [[Sufyan ath-Thawri]], [[Abu Dharr Al-Ghifari]], [[Al-Bara' bin Azib]], [[Ibnu Abbas]]
+- Temuan Kunci: Lisan adalah ciptaan Allah yang menakjubkan dengan kekuatan tanpa batas untuk kebaikan maupun keburukan.
+
+## [2026-06-18] ingest | Harms 1 to 3 Unnecessary Excessive and Sinful Talk
+- Sumber: `.raw/02_harms_1_to_3_talk.md`
+- Ringkasan: [[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]
+- Halaman dibuat: [[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]], [[Ibnu Abbas]], [[Abdullah bin Salam]], [[Abu Dharr Al-Ghifari]], [[Al-Hasan al-Basri]]
+- Temuan Kunci: Bicara sia-sia (unnecessary talk) membuang waktu berharga yang seharusnya digunakan untuk zikir dan berpikir tentang Allah.
+
+## [2026-06-18] ingest | Harms 4 to 6 Disputes and Affectation in Speech
+- Sumber: `.raw/03_harms_4_to_6_disputes_and_speech.md`
+- Ringkasan: [[Harms 4 to 6 Disputes and Affectation in Speech]]
+- Halaman dibuat: [[Harms 4 to 6 Disputes and Affectation in Speech]], [[Pertengkaran dan Perdebatan]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]], [[Imam Malik bin Anas]], [[Umar bin Abdul Aziz]], [[Luqman]]
+- Temuan Kunci: Pertengkaran dan perdebatan kusir (quarrels and disputes) memicu permusuhan, mengeraskan hati, dan menghilangkan ketakwaan.
+
+## [2026-06-18] ingest | Harms 7 to 9 Obscenity Cursing and Poetry
+- Sumber: `.raw/04_harms_7_to_9_obscene_cursing_poetry.md`
+- Ringkasan: [[Harms 7 to 9 Obscenity Cursing and Poetry]]
+- Halaman dibuat: [[Harms 7 to 9 Obscenity Cursing and Poetry]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Abu Bakar Ash-Shiddiq]], [[Aisyah binti Abu Bakar]], [[Ibnu Abbas]]
+- Temuan Kunci: Perkataan kotor (obscenity) dan caci maki adalah pertanda kemunafikan rohani dan hilangnya rasa malu.
+
+## [2026-06-18] ingest | Harms 10 to 13 Joking Ridicule Secrets and Promises
+- Sumber: `.raw/05_harms_10_to_13_joking_ridicule_secrets_promises.md`
+- Ringkasan: [[Harms 10 to 13 Joking Ridicule Secrets and Promises]]
+- Halaman dibuat: [[Harms 10 to 13 Joking Ridicule Secrets and Promises]], [[Candaan dan Olok-olok]], [[Abu Salma]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]], [[Aisyah binti Abu Bakar]], [[Ibnu Abbas]], [[Anas bin Malik]], [[Al-Hasan al-Basri]], [[Fatima binti Muhammad]]
+- Temuan Kunci: Candaan berlebihan (excessive joking) mematikan hati, menghilangkan kewibawaan rohani, dan dapat memicu permusuhan.
+
+## [2026-06-18] ingest | Harm 14 Lying and Falsehood
+- Sumber: `.raw/06_harm_14_lying_and_falsehood.md`
+- Ringkasan: [[Harm 14 Lying and Falsehood]]
+- Halaman dibuat: [[Harm 14 Lying and Falsehood]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Bahaya Kebohongan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Mu'adz bin Jabal]], [[Luqman]], [[Nabi Musa AS]]
+- Temuan Kunci: Dusta (lying/falsehood) adalah pondasi kemunafikan rohani dan dosa besar yang menyempitkan rezeki.
+
+## [2026-06-18] ingest | Harm 15 Backbiting
+- Sumber: `.raw/07_harm_15_backbiting.md`
+- Ringkasan: [[Harm 15 Backbiting]]
+- Halaman dibuat: [[Harm 15 Backbiting]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Ghibah]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Aisyah binti Abu Bakar]], [[Anas bin Malik]], [[Abu Hurayrah]], [[Ibnu Abbas]], [[Sa'id bin al-Musayyab]], [[Al-Hasan al-Basri]], [[Jabir bin Abdullah]], [[Abu Sa'id Al-Khudri]], [[Al-Bara' bin Azib]], [[Nabi Musa AS]]
+- Temuan Kunci: Ghibah (menggunjing) merupakan pelanggaran terhadap kehormatan sesama Muslim, yang status keharamannya setara dengan darah (jiwa) dan harta.
+
+## [2026-06-18] ingest | Harm 16 Slander and Tale Bearing
+- Sumber: `.raw/08_harm_16_slander_and_tale_bearing.md`
+- Ringkasan: [[Harm 16 Slander and Tale Bearing]]
+- Halaman dibuat: [[Harm 16 Slander and Tale Bearing]], [[Fitnah dan Namimah]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]], [[Al-Hasan al-Basri]]
+- Temuan Kunci: Adu domba (namimah/tale-bearing) adalah memindahkan pembicaraan orang lain untuk merusak hubungan dan memicu permusuhan.
+
+## [2026-06-18] ingest | Harms 17 and 18 Hypocrisy and Praise
+- Sumber: `.raw/09_harms_17_and_18_hypocrisy_and_praise.md`
+- Ringkasan: [[Harms 17 and 18 Hypocrisy and Praise]]
+- Halaman dibuat: [[Harms 17 and 18 Hypocrisy and Praise]], [[Bermuka Dua dan Pujian]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Abu Hurayrah]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]]
+- Temuan Kunci: Bermuka dua (two-faced speech) berupa bersikap manis di depan orang namun mencelanya di belakang adalah tanda kemunafikan rohani.
+
+## [2026-06-18] ingest | Harms 19 and 20 Carelessness and Attributes
+- Sumber: `.raw/10_harms_19_and_20_carelessness_and_attributes.md`
+- Ringkasan: [[Harms 19 and 20 Carelessness and Attributes]]
+- Halaman dibuat: [[Harms 19 and 20 Carelessness and Attributes]], [[Kelalaian Bicara dan Spekulasi]]
+- Halaman diperbarui: [[Adab Berbicara]], [[Bencana Lisan]], [[Nabi Muhammad SAW]], [[Imam Al-Ghazali]], [[Umar bin Khattab]]
+- Temuan Kunci: Kelalaian dalam berbicara (carelessness in speech) seperti salah menggunakan istilah keagamaan dapat membahayakan akidah seorang Muslim.
+
 
 Navigasi: [[index|Indeks]] | [[hot|Konteks Terbaru]] | [[overview|Ringkasan]]
 
@@ -22,6 +134,28 @@ Hanya untuk ditambahkan (append-only). Entri baru diletakkan di bagian paling AT
 Format entri: `## [YYYY-MM-DD] operasi | Judul`
 
 ---
+
+## [2026-06-17] question | Satu Hal Kecil yang Membedakan Orang Sukses (Zero Cognitive Debt)
+- Halaman dibuat: [[Satu Hal Kecil yang Membedakan Orang Sukses]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Menganalisis hal kecil tersembunyi yang membedakan orang sangat sukses (ultra-successful) dari perspektif wiki, yaitu "Zero Cognitive Debt" (Bebas dari Hutang Kognitif) melalui penggabungan prinsip sedekah kehormatan Abu Damdam dan akidah qadar.
+
+## [2026-06-17] question | Kebiasaan Harian Paling Unconventional untuk Sukses (Coffee Talk Edition)
+- Halaman dibuat: [[Kebiasaan Harian Paling Unconventional untuk Sukses]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Sintesis kasual dan santai (Coffee Talk) mengenai ritual harian paling tidak konvensional (unconventional) untuk kesuksesan seorang Muslim berbasis integrasi konsep Istia'dzah aktif (melawan al-ajz wal kasal) dan akidah qadar (mengeliminasi kata seandainya / lauw).
+
+## [2026-06-17] draft | Artikel Ghibah Realist (Ghibah X Article)
+- Naskah dibuat: [[Artikel Ghibah Realist Backup]]
+- Halaman diperbarui: [[index]], [[hot]], [[log]]
+- Deskripsi: Menulis draf artikel X panjang (2400+ kata) bertema bahaya ghibah lisan, ghibah hati, motif gunjingan, pengecualian syariat (rukhsah), dan kafarat berdasarkan Ihya' Ulumiddin Imam Al-Ghazali menggunakan gaya *elemental street realist* yang memadukan McCarthy parataxis, Bourdain sensory, dan Bukowski plainness, serta melengkapinya dengan verifikasi neurobiologis sirkuit penghargaan otak (Nucleus Accumbens dan dopamin).
+
+## [2026-06-16] ingest | Ghibah Justifications & Expiation (Ihya' Ulumiddin Chapter 15)
+- Sumber: `.raw/07-Justifications-Authorizing-Backbiting.md`, `.raw/08-Expiation-for-Backbiting.md`
+- Ringkasan: [[Justifications Authorizing Backbiting]], [[Expiation for Backbiting]]
+- Halaman dibuat: (tidak ada halaman entitas/konsep baru)
+- Halaman diperbarui: [[Ghibah]], [[Adab Berbicara]], [[Sa'id bin al-Musayyab]], [[Imam Al-Ghazali]], [[Nabi Muhammad SAW]], [[index]], [[hot]], [[log]]
+- Temuan Kunci: Menganalisis 6 pengecualian khusus (rukhsah) di mana ghibah dibenarkan demi kemaslahatan syariat yang sah (al-tazallum/adukan kezaliman, al-i'anah/perubahan maksiat, al-istifta'/meminta fatwa seperti kasus Hind mengadukan Abu Sufyan, al-tahdhir/peringatan keburukan pergaulan/barang dagangan/kelayakan nikah, al-ta'rif/gelar akademik fisik perawi hadis al-A'raj/al-A'masy, mujaharah bil-fisq/pelaku maksiat terang-terangan). Menyusun prosedur kafarat (kaffarah) penebus dosa ghibah secara praktis dengan memohon maaf secara langsung dan memuji kebaikan korban secara bersungguh-sungguh guna melunakkan hatinya. Mengkaji ketegangan fiqih pemaafan di kalangan salaf (Sa'id bin al-Musayyib yang tidak memaafkan demi keadilan akhirat, Ibn Sirin yang enggan menghalalkan apa yang diharamkan Allah sebelum terjadi), serta menafsirkan sedekah kehormatan Abu Damdam sebagai pembebasan tuntutan balas akhirat, bukan lisensi bebas berghibah.
 
 ## [2026-06-16] ingest | Remedy for Backbiting & Unlawfulness of Heart-Backbiting (Ihya' Ulumiddin Chapter 15)
 - Sumber: `.raw/05-Remedy-for-Backbiting-Restraining-the-Tongue.md`, `.raw/06-Unlawfulness-of-Backbiting-in-the-Heart.md`

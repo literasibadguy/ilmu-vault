@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Abu Bakar Ash-Shiddiq
+title: "Abu Bakar Ash-Shiddiq"
 entity_type: person
-role: Khalifah Rasyidah Pertama / Sahabat Terdekat Nabi SAW
+role: "Khalifah Rasyidah Pertama / Sahabat Terdekat Nabi SAW"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
-created: 2026-06-11
-updated: 2026-06-16
+created: "2026-06-11"
+updated: "2026-06-18"
 tags:
   - entity
   - tokoh
@@ -19,7 +19,13 @@ related:
 sources:
   - "[[Regarding His Guidance in Prayer]]"
   - "[[Backbiting Not Limited to Speech]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harm 15 Backbiting]]"
 ---
+
+
+
 
 # Abu Bakar Ash-Shiddiq
 

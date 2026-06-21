@@ -17,6 +17,7 @@ related:
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Neglect of the Prayer]]"
+- "[[Major-Sin-20-Gambling]]"
 ---
 
 # Ibrahim an-Nakha'i
@@ -31,8 +32,10 @@ sources:
 - **Sikap Terhadap Nikah Tahlil**: Memberikan fatwa yang sangat detail mengenai niat para pelaku tahlil: *"Jika niat salah satu dari tiga pihak (suami pertama, suami kedua, atau wanita tersebut) adalah untuk membuat pernikahan kembali itu halal (tahlil), maka pernikahan kedua tersebut tidak sah (invalid) dan wanita tersebut tetap tidak halal bagi suami pertamanya."*
 - **Sikap Terhadap Hadis**: Meskipun hafal banyak hadis, beliau lebih sering menyampaikan fatwa dalam bentuk kaidah hukum yang mewakili konsensus fiqih para murid Ibnu Mas'ud di Kufah.
 - **Fatwa Hukum Orang Meninggalkan Shalat**: Berpendapat secara tegas bahwa siapa saja yang sengaja meninggalkan shalat fardhu adalah kafir (keluar dari Islam) (**[[Neglect of the Prayer]]**).
+- **Pandangan Terhadap Catur**: Menghukumi permainan catur sebagai perbuatan yang terlaknat secara syariat (**[[Major-Sin-20-Gambling]]**).
 
 ## Sumber
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Neglect of the Prayer]]
+- [[Major-Sin-20-Gambling]]

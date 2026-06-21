@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Anas bin Malik
+title: "Anas bin Malik"
 entity_type: person
-role: Sahabat Nabi / Pelayan Rasulullah
+role: "Sahabat Nabi / Pelayan Rasulullah"
 first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
-created: 2026-06-11
-updated: 2026-06-16
+created: "2026-06-11"
+updated: "2026-06-18"
 tags:
   - entity
   - tokoh
@@ -17,6 +17,7 @@ related:
   - "[[Adab Makan dan Minum]]"
   - "[[Nama Agung Allah]]"
   - "[[Ghibah]]"
+  - "[[Raja' dan Khauf]]"
 sources:
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Regarding His Guidance in Prayer]]"
@@ -24,7 +25,12 @@ sources:
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Harms of Greed and Sexual Passion]]"
   - "[[Censure of Backbiting]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
 ---
+
+
 
 # Anas bin Malik
 
@@ -43,6 +49,7 @@ sources:
 - **Minum dalam Tiga Tegukan**: Mengisahkan kebiasaan Nabi SAW minum air secara bertahap dalam tiga kali tegukan (*anfaas*) sambil bernapas di luar wadah minum, dan menyatakan bahwa cara tersebut lebih menyehatkan dan lebih memuaskan dahaga.
 - **Hadis Nama Agung Allah**: Beliau meriwayatkan kesaksian saat seseorang berdoa dalam shalat dengan menyembah Allah semata, memuji-Nya sebagai Pencipta langit dan bumi, serta menyebut nama-Nya *Ya Dhal-Jalāli wa al-Ikrām*, di mana Rasulullah ﷺ mengonfirmasi bahwa orang tersebut meminta dengan Nama Agung Allah. Beliau juga meriwayatkan perintah Nabi ﷺ agar kita memperbanyak dan konsisten mengucapkan lafal tersebut.
 - **Riwayat Kelaparan Nabi**: Beliau meriwayatkan kisah ketika Fatimah membawa sekerat roti kepada Nabi ﷺ, lalu beliau bersabda: *"Ini adalah makanan pertama yang masuk ke dalam perut ayahmu setelah tiga hari."* Beliau juga bersaksi bahwa keluarga Nabi ﷺ tidak pernah memakan roti gandum selama tiga hari berturut-turut hingga beliau wafat (**[[Kesederhanaan dalam Makan]]**).
+- **Hadis Harapan dan Rasa Takut Saat Sekarat**: Meriwayatkan hadis tentang seorang pemuda yang sedang sakaratul maut di mana ia memadukan perasaan takut akan dosanya dengan harapan akan rahmat Allah, dan Nabi SAW menjamin bahwa Allah akan mengabulkan harapannya serta melindunginya dari ketakutannya (**[[Raja' dan Khauf]]**).
 
 ## Sumber
 

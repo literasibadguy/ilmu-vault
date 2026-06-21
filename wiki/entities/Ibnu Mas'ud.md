@@ -4,8 +4,8 @@ title: "Ibnu Mas'ud"
 entity_type: person
 role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-14
+created: "2026-06-10"
+updated: "2026-06-19"
 tags:
   - entity
   - sahabat
@@ -15,12 +15,21 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ibnu Abbas]]"
   - "[[Doa dalam Kesulitan]]"
+  - "[[Ziarah Kubur]]"
+  - "[[Zuhud]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[What Reminds People of Death and the Hereafter]]"
 ---
+
+
+
 
 # Ibnu Mas'ud
 
@@ -36,6 +45,7 @@ sources:
 - **Hadis Doa Mengatasi Kesedihan**: Beliau meriwayatkan doa perlindungan yang diajarkan Rasulullah ﷺ dari kesedihan, duka cita, dan kegelisahan, yaitu doa berserah diri yang meminta agar Al-Qur'an dijadikan penyejuk hati dan penghilang gundah (*"Allāhumma innī 'abduk, ibnu 'abdik..."*). Beliau juga menyatakan: *"Tidak ada seorang pun nabi di antara para nabi yang tertimpa kesulitan kecuali ia meminta pertolongan dengan bertasbih kepada Allah."* (**[[Doa dalam Kesulitan]]**).
 - **Pandangan Terhadap Pentingnya Shalat**: Menegaskan status keagamaan bagi orang yang sengaja meninggalkan shalat: *"Siapa yang tidak mendirikan shalat maka tidak ada agama (deen) baginya."* Beliau sepakat bahwa melalaikan shalat secara total adalah kekufuran (**[[Neglect of the Prayer]]**).
 - **Tuntunan Sunnah Shalat Berjamaah**: Menegaskan bahwa shalat berjamaah di masjid adalah bagian dari sunnah petunjuk (*sunanul huda*). Beliau memperingatkan: *"Jika kalian shalat di rumah kalian masing-masing... berarti kalian telah meninggalkan Sunnah Nabi kalian. Dan jika kalian meninggalkan Sunnah Nabi kalian, niscaya kalian akan sesat."* Di masa sahabat, hanya orang munafik nyata atau orang sakit parah yang tidak hadir shalat berjamaah (**[[Shalat Berjamaah]]**).
+- **Hadis Ziarah Kubur & Zuhud**: Meriwayatkan hadis dari Nabi SAW tentang anjuran berziarah kubur karena hal itu berkhasiat menumbuhkan zuhud di dunia dan mengingatkan akhirat (**[[Ziarah Kubur]]**, **[[Zuhud]]**).
 
 ## Sumber
 
@@ -43,3 +53,4 @@ sources:
 - [[Supplications That Are Most Likely Answered]]
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
+- [[What Reminds People of Death and the Hereafter]]

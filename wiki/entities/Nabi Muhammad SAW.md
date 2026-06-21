@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Nabi Muhammad SAW
+title: "Nabi Muhammad SAW"
 entity_type: person
-role: Rasulullah (Utusan Allah)
+role: "Rasulullah (Utusan Allah)"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
-created: 2026-06-07
-updated: 2026-06-16
+created: "2026-06-07"
+updated: "2026-06-19"
 tags:
   - entity
   - tokoh
@@ -19,10 +19,14 @@ related:
   - "[[Abu Hurayrah]]"
   - "[[Ibnu Umar]]"
   - "[[Ghibah]]"
+  - "[[Sakaratul Maut]]"
+  - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
+  - "[[Husnudzon Kepada Allah]]"
+  - "[[Raja' dan Khauf]]"
 sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Pride]]"
-  - "[[Perjury]]"
+  - "[[perjury]]"
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Showing Off]]"
@@ -42,7 +46,31 @@ sources:
   - "[[Causes Motivating Backbiting]]"
   - "[[Remedy for Backbiting Restraining the Tongue]]"
   - "[[Unlawfulness of Backbiting in the Heart]]"
+  - "[[Justifications Authorizing Backbiting]]"
+  - "[[Expiation for Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harm 16 Slander and Tale Bearing]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[Harms 19 and 20 Carelessness and Attributes]]"
+  - "[[The Preparation for and Remembrance of Death]]"
+  - "[[What Reminds People of Death and the Hereafter]]"
 ---
+
+
+
+
+
+
+
+
+
+
 
 # Nabi Muhammad SAW
 
@@ -58,6 +86,8 @@ sources:
 - **Pemberi Peringatan terhadap Motif-Motif Ghibah**: Menjelaskan dan melarang motif-motif psikologis yang mendorong seseorang melakukan ghibah, baik motif umum seperti kemarahan dan persetujuan kelompok, maupun motif halus yang dibisikkan setan seperti mengekspresikan ketakjuban, belas kasih palsu, atau kemarahan karena Allah secara tidak proporsional (**[[Causes Motivating Backbiting]]**).
 - **Pengajar Terapi Lisan & Penahan Amarah**: Mengajarkan bahwa menahan lisan dari ghibah adalah mutlak demi menjaga pahala amal shaleh dari kepunahan eskatologis ("kebinasaan pahala"). Beliau menjanjikan kedudukan mulia di surga bagi orang yang menekan amarahnya ketika ia mampu melaksanakannya (**[[Remedy for Backbiting Restraining the Tongue]]**).
 - **Pelindung Kehormatan Batin (Larangan Su'uzhan)**: Melarang keras berprasangka buruk (*su'uzhan*) terhadap seorang Muslim, menyamakan kedudukan kesucian kehormatan batin dengan kesucian darah dan harta. Beliau bersabda: *"Sesungguhnya Allah mengharamkan darah, harta, dan berprasangka buruk terhadap seorang Muslim."* Beliau juga menetapkan etika admonisi/nasihat rahasia secara santun (**[[Unlawfulness of Backbiting in the Heart]]**).
+- **Pemberi Pengecualian Ghibah demi Maslahat**: Menetapkan batasan ketat kapan ghibah dibolehkan demi kemaslahatan syariat, seperti memberi izin kepada Hind binti Utbah untuk menceritakan kekikiran suaminya (Abu Sufyan) demi fatwa nafkah, serta membolehkan menceritakan maksiat pelaku maksiat terbuka (**[[Justifications Authorizing Backbiting]]**).
+- **Syariat Kafarat Ghibah & Abu Damdam**: Menjelaskan kafarat ghibah melalui permohonan maaf dan memuji korban, serta memuji keteladanan Abu Damdam yang menyedekahkan kehormatannya setiap hari demi memaafkan dosa lisan saudaranya (**[[Expiation for Backbiting]]**).
 - **Pengecam Kesombongan**: Menyampaikan ancaman keras bahwa orang yang memiliki kesombongan sekecil biji sawi di hatinya tidak akan masuk surga, serta memperingatkan tentang keagungan Allah yang tidak boleh disaingi oleh makhluk-Nya.
 - **Penegak Keadilan Hukum**: Mengecam keras kesaksian palsu (*syahadatus zuur*) sebagai salah satu dosa besar terburuk yang merusak tatanan keadilan hukum sosial.
 - **Pengajar Kesabaran**: Menegaskan bahwa pertolongan dan kemenangan diraih bersama kesabaran (*an-nashru ma'ash-shabr*).
@@ -73,12 +103,15 @@ sources:
 - **Tuntunan Doa Mustajab & Penyembuhan**: Mengajarkan doa-doa mustajab di kala tertimpa kesulitan (**[[Doa dalam Kesulitan]]**) yang mengandung **[[Nama Agung Allah]]**, menganjurkan doa bertobat Nabi Yunus AS, membimbing doa pelipur lara (HR. Ahmad, dari Ibnu Mas'ud), serta menegaskan kedudukan mukjizat Al-Qur'an sebagai penawar utama lahir batin (**[[Al-Quran Sebagai Penyembuh]]**).
 - **Bimbingan Melawan Nafsu & Syahwat**: Mengajarkan perang melawan hawa nafsu dengan lapar dan dahaga, menyamakannya dengan jihad di jalan Allah. Rasulullah ﷺ bersabda bahwa setan mengalir dalam tubuh manusia seperti aliran darah, maka sempitkanlah jalannya dengan lapar. Beliau memperingatkan bahaya pandangan mata sebagai panah beracun iblis, menetapkan bagian-bagian zina dari pancaindra (**[[Menjaga Pandangan Mata]]**), memperingatkan fitnah wanita bagi umatnya, serta menjanjikan perlindungan naungan Arsy bagi orang yang menolak zina karena takut kepada Allah (**[[Fitnah Syahwat Seksual]]**).
 - **Pelindung Kemurnian Tauhid**: Melarang keras segala bentuk penyembahan selain Allah, termasuk tindakan mengarahkan nadzar (**[[Nadzar]]**), permohonan perlindungan batin (**[[Isti'adzah]]**), dan seruan pertolongan dalam kesulitan (**[[Istigatsah]]**) kepada selain Allah SWT. Nabi SAW secara tegas melarang para sahabat menggunakan istilah "istigatsah" kepada dirinya dalam perkara gaib demi menutup segala celah pengultusan makhluk (**[[Syirik Akbar]]**).
+- **Syariat Mengingat Maut & Ziarah Kubur**: Menegaskan perintah memperbanyak mengingat pemutus kelezatan duniawi (yaitu kematian) (**[[Mengingat Maut]]**), menerangkan hakikat kearifan iman sebagai bekal kesiapan menghadapi ajal (**[[Persiapan Kematian]]**), serta merevisi hukum ziarah kubur dari larangan menjadi perintah guna melembutkan hati dan memicu zuhud (**[[Ziarah Kubur]]**, **[[Zuhud]]**).
+- **Kedahsyatan Sakaratul Maut & Adab Batin Sekarat**: Mencontohkan langsung kepedihan proses pencabutan nyawa (**[[Sakaratul Maut]]**), serta membimbing umatnya agar memiliki prasangka baik (**[[Husnudzon Kepada Allah]]**) dan memadukan rasa takut akan dosa dengan harapan ampunan (**[[Raja' dan Khauf]]**) menjelang ajal.
+- **Musibah dan Sakit Penghapus Dosa**: Menegaskan bahwa setiap duri yang menusuk atau musibah penyakit fisik yang diderita mukmin di dunia merupakan media penggugur kesalahan-kesalahannya (**[[Ujian dan Sakit Sebagai Penggugur Dosa]]**).
  
 ## Sumber
  
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
 - [[Pride]]
-- [[Perjury]]
+- [[perjury]]
 - [[Urgensi Kesabaran dalam Al-Qur'an]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Showing Off]]
@@ -98,3 +131,8 @@ sources:
 - [[Causes Motivating Backbiting]]
 - [[Remedy for Backbiting Restraining the Tongue]]
 - [[Unlawfulness of Backbiting in the Heart]]
+- [[Justifications Authorizing Backbiting]]
+- [[Expiation for Backbiting]]
+- [[The Preparation for and Remembrance of Death]]
+- [[What Reminds People of Death and the Hereafter]]
+- [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]

@@ -17,7 +17,7 @@ related:
   - "[[Amanah Kepemimpinan]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
 # Kezaliman Pemimpin
@@ -48,4 +48,4 @@ Dampak dari kezaliman pemimpin berlipat ganda karena menyangkut hak-hak orang ba
 
 ## Sumber
 
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]

@@ -1,14 +1,14 @@
 ---
 type: concept
-title: Ghibah
+title: "Ghibah"
 complexity: intermediate
 domain: Tazkiyatun Nafs / Akhlak
 aliases:
   - Menggunjing
   - Backbiting
   - Ghiba
-created: 2026-06-16
-updated: 2026-06-16
+created: "2026-06-16"
+updated: "2026-06-18"
 tags:
   - concept
   - akhlak
@@ -27,7 +27,11 @@ sources:
   - "[[Causes Motivating Backbiting]]"
   - "[[Remedy for Backbiting Restraining the Tongue]]"
   - "[[Unlawfulness of Backbiting in the Heart]]"
+  - "[[Justifications Authorizing Backbiting]]"
+  - "[[Expiation for Backbiting]]"
+  - "[[Harm 15 Backbiting]]"
 ---
+
 
 # Ghibah (Menggunjing)
 
@@ -126,11 +130,29 @@ Imam Al-Ghazali membagi metode penyembuhan penyakit hati ghibah menjadi dua pend
 
 ## Pengecualian Hukum Ghibah
 
-Membicarakan aib atau kekurangan orang lain hanya diperbolehkan demi kemaslahatan syariat yang mendesak, seperti:
-1. **Meminta Fatwa atau Hukum**: Mengadukan masalah kepada ulama atau hakim demi mendapat solusi hukum (*aḥkām*), seperti tindakan istri Abu Sufyan yang mengadukan sifat kikir suaminya kepada Nabi SAW.
-2. **Menghilangkan Kezaliman**: Melaporkan kejahatan atau kezaliman kepada pihak berwenang.
+Membicarakan keburukan atau kekurangan orang lain hanya diperbolehkan demi kemaslahatan syariat yang benar (*sound aim*), di antaranya:
+1. **Mengadukan Kezaliman (*Al-Tazallum*)**: Melaporkan kezaliman atau kejahatan kepada penguasa atau hakim demi memperoleh keadilan.
+2. **Meminta Bantuan untuk Mengubah Kemungkaran (*Al-I'anah 'ala Taghyir al-Munkar*)**: Menceritakan keburukan seseorang kepada pihak yang dinilai mampu menghentikan kemungkarannya.
+3. **Meminta Fatwa Hukum (*Al-Istifta'*)**: Menjelaskan masalah kepada mufti demi mendapat solusi hukum, seperti tindakan Hind binti Utbah mengadukan suaminya, Abu Sufyan, yang kikir kepada Nabi SAW (**[[Justifications Authorizing Backbiting]]**). Disarankan menggunakan isyarat umum tanpa nama, namun penyebutan nama diperbolehkan jika dibutuhkan.
+4. **Memperingatkan kaum Muslimin dari Keburukan (*Al-Tahdhir*)**:
+   - Memperingatkan murid dari ahli bid'ah atau pelaku maksiat terbuka agar agamanya tidak rusak.
+   - Mengungkapkan cacat barang dagangan (seperti budak yang gemar mencuri) kepada pembeli.
+   - Memberikan nasihat (*nasihat*) secara objektif mengenai kesaksian hukum di pengadilan, kelayakan pernikahan, atau amanah titipan harta.
+5. **Menyebut Gelar Fisik yang Melekat (*Al-Ta'rif*)**: Memanggil perawi hadis menggunakan gelar cacat fisiknya (seperti *al-A'raj* / si pincang, atau *al-A'masy* / si mata kabur) jika sudah menjadi nama identifikasi yang dikenal luas dan bertujuan akademik, bukan untuk merendahkan.
+6. **Pelaku Maksiat Terbuka (*Mujaharah bil-Fisq*)**: Tidak berdosa membicarakan maksiat yang dipamerkan secara terbuka oleh pelakunya (seperti germo, pemilik bar, pemabuk publik). Rasulullah ﷺ bersabda, *"Barangsiapa melemparkan jilbab rasa malu dari wajahnya, maka tidak ada ghibah baginya."* Namun, membicarakan aib tersembunyinya tetap haram.
 
 Pengecualian ini didasarkan pada kebutuhan mendesak dan tidak boleh dilakukan hanya untuk meremehkan atau menghina (*demean*) kehormatan orang tersebut.
+
+## Kafarat (Kaffarah) Penebus Dosa Ghibah
+
+Sebagai dosa sosial yang berkaitan dengan hak sesama manusia, dosa ghibah tidak cukup ditebus dengan bertaubat kepada Allah SWT saja, melainkan harus menyelesaikan sangkut-pautnya dengan korban ghibah (**[[Expiation for Backbiting]]**):
+
+- **Memohon Maaf (Pardon)**: Meminta maaf secara langsung kepada korban hukumnya adalah sunnah/sukarela (*voluntary*) dan sangat dianjurkan. Caranya adalah memuji kebaikan korban secara bersungguh-sungguh (*effusive commendation*) dan menunjukkan kasih sayang yang tulus kepadanya hingga hatinya rida.
+- **Penyelesaian Jika Pemaafan Ditolak**: Jika pelaku telah berupaya meminta maaf secara maksimal namun korban tetap menolak memaafkan, usaha keras pelaku tersebut dicatat sebagai amal kebaikan di timbangannya guna menebus dosa ghibah pada Hari Kiamat.
+- **Stance Ulama Salaf**:
+  - **Sa'id bin al-Musayyib** berprinsip untuk tidak memaafkan orang yang menzaliminya di dunia demi menjaga hak keadilan di akhirat.
+  - **Ibn Sirin** berpandangan bahwa ghibah diharamkan oleh Allah, dan manusia tidak berhak menghalalkan apa yang diharamkan Allah sebelum dosa itu terjadi.
+- **Sedekah Kehormatan Abu Damdam**: Kisah Abu Damdam yang menyedekahkan kehormatannya setiap hari bermakna ia merelakan hak tuntutannya di akhirat demi membebaskan saudaranya, bukan memberikan lisensi legal bagi orang lain untuk berghibah tentang dirinya.
 
 ## Tokoh Terkait
 
@@ -144,3 +166,4 @@ Pengecualian ini didasarkan pada kebutuhan mendesak dan tidak boleh dilakukan ha
 - **[[Al-Bara' bin Azib]]** — Periwayat hadis ancaman pembongkaran aib di rumah sendiri.
 - **[[Aisyah binti Abu Bakar]]** — Istri Nabi yang ditegur secara langsung karena memberikan isyarat fisik pendek pada seorang wanita.
 - **[[Al-Hasan al-Basri]]** — Tabi'in yang membagi lisan menjadi ghibah, buhtan, dan penyebaran gosip.
+- **[[Sa'id bin al-Musayyab]]** — Ulama Tabi'in Madinah yang memiliki pandangan tegas mengenai penolakan pemaafan ghibah demi keadilan akhirat.

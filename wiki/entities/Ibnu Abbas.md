@@ -4,8 +4,8 @@ title: "Ibnu Abbas"
 entity_type: person
 role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-14
+created: "2026-06-10"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -25,7 +25,19 @@ sources:
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Major-Sin-20-Gambling]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
+
+
+
+
+
 
 # Ibnu Abbas
 
@@ -47,6 +59,8 @@ sources:
 - **Tafsir Surah Al-Falaq Ayat 3**: Menjelaskan tafsir ayat *"dan dari kejahatan malam apabila telah gelap gulita"*. Beliau menafsirkan kejahatan malam tersebut sebagai gejolak syahwat seksual laki-laki (ereksi organ seksual laki-laki) yang timbul sebagai bahaya tersembunyi malam hari (**[[Fitnah Syahwat Seksual]]**).
 - **Tafsir Melalaikan Shalat**: Menafsirkan kata *"melalaikan"* dalam surah Maryam ayat 59 bukan sebagai meninggalkan shalat secara total, melainkan menunda-nunda pelaksanaan shalat hingga keluar dari waktu wajibnya. Beliau menegaskan bahwa orang yang sengaja meninggalkan shalat akan menjumpai kemurkaan Allah SWT saat menemui-Nya kelak (**[[Neglect of the Prayer]]**).
 - **Teguran terhadap Orang yang Meninggalkan Shalat Jamaah**: Menyatakan secara tegas bahwa seseorang yang berpuasa di siang hari dan shalat malam sepanjang malam tetapi tidak shalat berjamaah atau shalat Jumat di masjid tanpa uzur (takut atau sakit), jika ia wafat dalam keadaan demikian maka ia berada di dalam Neraka (**[[Abandoning the Group Prayer]]**).
+- **Tindakan Pemusnahan Catur**: Membakar papan catur yang diwarisi oleh anak yatim di bawah pengasuhannya, menegaskan bahwa kepemilikan barang tidak bermanfaat tersebut wajib dimusnahkan sebagaimana layaknya khamr (**[[Major-Sin-20-Gambling]]**).
+- **Hadis Keharaman Bisnis Khamr**: Meriwayatkan hadis pelarangan total transaksi bisnis minuman keras, di mana Nabi SAW melaknat sepuluh golongan terkait khamr, termasuk pembawa, pemeras, penjual, pembeli, hingga pemakan uang hasil penjualan khamr (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
 
@@ -58,3 +72,5 @@ sources:
 - [[Harms of Greed and Sexual Passion]]
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
+- [[Major-Sin-20-Gambling]]
+- [[Major-Sin-19-Drinking-Alcohol]]

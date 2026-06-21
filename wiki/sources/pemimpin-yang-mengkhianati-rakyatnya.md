@@ -11,7 +11,7 @@ key_claims:
   - "Tanggung jawab kepemimpinan sangat berat di akhirat; ketidakadilan akan menjadi kegelapan di Hari Kiamat."
   - "Rakyat dilarang membenarkan kebohongan pemimpin yang zalim dan membantu kezaliman mereka."
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-18
 tags:
   - source
   - dosa-besar

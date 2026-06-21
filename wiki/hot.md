@@ -1,8 +1,8 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-16T10:05:00
-created: 2026-06-07
+created: "2026-06-07"
+updated: "2026-06-21"
 tags:
   - meta
   - hot-cache
@@ -11,25 +11,23 @@ related:
   - "[[index]]"
   - "[[log]]"
 ---
-
 # Konteks Terbaru (Hot Cache)
 
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-16. Ingest bagian ke-5 dan ke-6 dari Bab XV *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai terapi mengatasi ghibah dengan menahan lisan, keharaman ghibah hati (su'uzhan), serta adab menasihati secara privat (**[[Remedy for Backbiting Restraining the Tongue]]** & **[[Unlawfulness of Backbiting in the Heart]]**).
+2026-06-21. Menulis draf artikel X baru berjudul [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]] bergaya *elemental street realist* yang memadukan kritik sosial urban dengan ancaman teologis slot online (maysir), catur/dadu (shatranj/nard), miras (khamr), ganja (hashish), ghibah, dan kecanduan layar (zina mata / striatum otak) berbasis Kitab al-Kaba'ir dan Ihya' Ulumiddin.
 
 ## Fakta Kunci Terbaru
-- Pembagian terapi ghibah menjadi terapi umum (kesadaran eskatologis akan rontoknya pahala, introspeksi cacat diri, menyadari mencela fisik adalah mencela Pencipta) serta terapi khusus penangkal 8 motif psikologis utama (**[[Remedy for Backbiting Restraining the Tongue]]**).
-- Keharaman ghibah hati (*ghibat al-qalb* atau *su'uzhan*), di mana prasangka buruk batiniah disetarakan keharamannya dengan penumpahan darah dan perampasan harta sesama Muslim (**[[Ghibah]]**).
-- Tanda verifikasi prasangka buruk batiniah, yaitu adanya perubahan sikap batin (menjauhi, merasa tidak nyaman, berkurangnya rasa hormat). Cara mengusirnya adalah dengan segera mendoakan kebaikan bagi orang tersebut (**[[Unlawfulness of Backbiting in the Heart]]**).
-- Adab menasihati (*nasihat*) pelaku maksiat secara rahasia/tersembunyi yang diliputi rasa sedih di dalam hati, bukan dengan rasa bangga diri atau merasa lebih mulia (**[[Adab Berbicara]]**).
+- Perjudian (*maysir*) dalam segala bentuk adalah haram dan dikategorikan memakan harta sesama secara batil (**[[Judi dan Maysir]]**). Permainan papan dadu/catur dihukumi makruh/haram, disertai ancaman buruknya sakaratul maut pecandu catur (**[[Catur dan Dadu]]**).
+- Minuman keras (*khamr*) dilaknat dari hulu ke hilir (sepuluh golongan), haram dijadikan obat, serta ganja/hashish disamakan hukumnya dengan khamr karena merusak fungsi akal sehat (**[[Khamr dan Intoksikasi]]**, **[[Ganja dan Hashish]]**).
+- Sanksi sosial bagi pecandu khamr berupa larangan menjenguk saat mereka sakit dan larangan menyapa (*salam*) (**[[Bahaya Khamr]]**).
 
 ## Perubahan Terbaru
-- Dibuat: **[[Remedy for Backbiting Restraining the Tongue]]**, **[[Unlawfulness of Backbiting in the Heart]]** (sumber)
-- Diperbarui: **[[Ghibah]]**, **[[Adab Berbicara]]** (konsep)
-- Diperbarui: **[[Imam Al-Ghazali]]**, **[[Nabi Muhammad SAW]]** (entitas)
+- Dibuat: [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]].
+- Diperbarui: **[[index]]**, **[[log]]**, **[[hot]]**, **[[overview]]**.
 
 ## Alur Kerja Aktif
-- Penataan Etika Lisan: Menyelesaikan integrasi terapi lisan (penahan ghibah), keharaman ghibah hati, dan adab menasihati secara privat ke dalam disiplin adab berbicara Islam.
-- Langkah Berikutnya: Melakukan validasi tautan internal (link checker) untuk memastikan keutuhan struktur ilmu zip-vault.
+- Integrasi materi larangan perjudian, khamr, catur/dadu, dan ganja ke dalam draf-draf artikel bertema kemudaratan sosial dan moral di wiki/drafts/.
+- Langkah Berikutnya: Menyusun artikel/utas kognitif bertema kezuhudan sosial dan bahaya adiksi kemaksiatan.
+

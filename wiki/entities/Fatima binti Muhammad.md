@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Fatima binti Muhammad
+title: "Fatima binti Muhammad"
 entity_type: person
-role: Putri Nabi SAW
+role: "Putri Nabi SAW"
 first_mentioned: "[[The Ideal Husband]]"
-created: 2026-06-12
-updated: 2026-06-12
+created: "2026-06-12"
+updated: "2026-06-18"
 tags:
   - entity
   - tokoh
@@ -17,7 +17,9 @@ related:
   - "[[Hasan bin Ali]]"
 sources:
   - "[[The Ideal Husband]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
 ---
+
 
 # Fatima binti Muhammad
 

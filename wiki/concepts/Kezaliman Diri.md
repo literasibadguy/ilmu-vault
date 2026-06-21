@@ -16,7 +16,7 @@ related:
   - "[[Pertobatan Adam]]"
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
 # Kezaliman Diri
@@ -48,4 +48,4 @@ Mengakui kezaliman diri adalah langkah awal yang mutlak untuk mendapatkan ampuna
 ## Sumber
 
 - [[tafsir-sadi-iblis-adam]]
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]

@@ -4,8 +4,8 @@ title: "Abu Dharr Al-Ghifari"
 entity_type: person
 role: "Sahabat Nabi SAW"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
-created: 2026-06-07
-updated: 2026-06-07
+created: "2026-06-07"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -15,7 +15,11 @@ related:
   - "[[Umar bin Khattab]]"
 sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
 ---
+
+
 
 # Abu Dharr Al-Ghifari
 

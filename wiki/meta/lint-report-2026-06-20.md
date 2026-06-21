@@ -1,0 +1,320 @@
+---
+type: meta
+title: "Lint Report 2026-06-20"
+created: "2026-06-20"
+updated: "2026-06-20"
+tags: [meta, lint]
+status: developing
+---
+
+# Lint Report: 2026-06-20
+
+## Summary
+- Pages scanned: 257
+- Issues found: 268
+- Auto-fixed: 0
+- Needs review: 268
+
+## Orphan Pages
+- [[Artikel Ghibah Realist]]: no inbound links.
+- [[Artikel Ghibah Realist Backup]]: no inbound links.
+- [[Artikel Hilah Bourdain]]: no inbound links.
+- [[Artikel Kezuhudan Realist]]: no inbound links.
+- [[Artikel Pandangan Bourdain]]: no inbound links.
+- [[Artikel Shalat Realist]]: no inbound links.
+- [[Artikel Sunnah Berkeluarga Bourdain]]: no inbound links.
+- [[Artikel Tauhid Praktis Bourdain]]: no inbound links.
+- [[Bahaya-Kesombongan]]: no inbound links.
+- [[Imaam an-Nawawi]]: no inbound links.
+- [[Introduction and Silence]]: no inbound links.
+- [[Khaalid ibn al-Waleed]]: no inbound links.
+- [[Satu Hal Kecil yang Membedakan Orang Sukses]]: no inbound links.
+- [[Taktik Iblis Merusak Rasa Malu]]: no inbound links.
+- [[Utas Adab Berbicara Bourdain]]: no inbound links.
+- [[Utas Al-Ajz wal Kasal Bukowski]]: no inbound links.
+- [[Utas Fitnah Pandangan Bukowski]]: no inbound links.
+- [[Utas Hilah Bukowski]]: no inbound links.
+- [[Utas Nikah Tahlil Bukowski]]: no inbound links.
+- [[Utas Riya Bourdain]]: no inbound links.
+- [[Utas Tazyin Kemaksiatan]]: no inbound links.
+- [[overview]]: no inbound links.
+
+## Dead Links
+- [[Ibn Taymiyyah]] referenced in [[Artikel Ghibah Realist]] but does not exist.
+- [[Ibn Taymiyyah]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Ibn Taymiyyah]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[Kebiasaan Harian Paling Unconventional untuk Sukses]] referenced in [[log]] but does not exist.
+- [[Kebiasaan Harian Paling Unconventional untuk Sukses]] referenced in [[index]] but does not exist.
+- [[Kebiasaan Harian Paling Unconventional untuk Sukses]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Kebiasaan Harian Paling Unconventional untuk Sukses]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[Kebiasaan Harian Paling Unconventional untuk Sukses]] referenced in [[Satu Hal Kecil yang Membedakan Orang Sukses]] but does not exist.
+- [[Mansur bin Malaz]] referenced in [[index]] but does not exist.
+- [[Mansur bin Malaz]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[log]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[index]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[Mu'adz bin Jabal]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[Abu Dharr Al-Ghifari]] but does not exist.
+- [[Pemimpin yang Mengkhianati Rakyatnya]] referenced in [[Nabi Muhammad SAW]] but does not exist.
+- [[QS. Al-An'am: 93]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[QS. Al-An'am: 93]] referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
+- [[QS. Al-Ma'idah: 106]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[QS. Al-Ma'idah: 106]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[QS. Al-Ma'idah: 106]] referenced in [[The Preparation for and Remembrance of Death]] but does not exist.
+- [[QS. Al-Waqi'ah: 83]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[QS. Al-Waqi'ah: 83]] referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
+- [[QS. Qaf: 19]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[QS. Qaf: 19]] referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
+- [[Sa'id bin al-Musayyib]] referenced in [[Artikel Ghibah Realist]] but does not exist.
+- [[Sa'id bin al-Musayyib]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Sa'id bin al-Musayyib]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[Safwan bin Sulaiman]] referenced in [[index]] but does not exist.
+- [[Safwan bin Sulaiman]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[log]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[index]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[lint-report-2026-06-19]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[lint-report-2026-06-20]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Ibnul Qayyim Al-Jauziyyah]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Imam Asy-Syafi'i]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Sulayman bin al-Qasim]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Abu Ali ad-Daqqaq]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Nabi Muhammad SAW]] but does not exist.
+- [[Urgensi Kesabaran dalam Al-Qur'an]] referenced in [[Imam Ahmad bin Hanbal]] but does not exist.
+
+## Missing Pages
+- "Ibn Taymiyyah": mentioned in [[Artikel Ghibah Realist]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "Kebiasaan Harian Paling Unconventional untuk Sukses": mentioned in [[Satu Hal Kecil yang Membedakan Orang Sukses]], [[index]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]], [[log]]. Suggest: create a page.
+- "Mansur bin Malaz": mentioned in [[index]], [[lint-report-2026-06-19]]. Suggest: create a page.
+- "Pemimpin yang Mengkhianati Rakyatnya": mentioned in [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]], [[Nabi Muhammad SAW]], [[index]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]], [[log]]. Suggest: create a page.
+- "QS. Al-An'am: 93": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "QS. Al-Ma'idah: 106": mentioned in [[The Preparation for and Remembrance of Death]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "QS. Al-Waqi'ah: 83": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "QS. Qaf: 19": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "Sa'id bin al-Musayyib": mentioned in [[Artikel Ghibah Realist]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]]. Suggest: create a page.
+- "Safwan bin Sulaiman": mentioned in [[index]], [[lint-report-2026-06-19]]. Suggest: create a page.
+- "Urgensi Kesabaran dalam Al-Qur'an": mentioned in [[Abu Ali ad-Daqqaq]], [[Ibnul Qayyim Al-Jauziyyah]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Muhammad SAW]], [[Sulayman bin al-Qasim]], [[index]], [[lint-report-2026-06-19]], [[lint-report-2026-06-20]], [[log]]. Suggest: create a page.
+
+## Frontmatter Gaps
+- [[Prophet Muhammads Recommendations Regarding Food]]: missing fields: created, updated
+- [[Supplications That Are Most Likely Answered]]: missing fields: created, updated
+- [[The Entire Quran Is a Remedy]]: missing fields: created, updated
+
+## Address Validity
+- Counter state: `c-000047` (peek: 47)
+- Highest c- address observed: `c-000046`
+- Post-rollout pages checked: 248 (46 passing, 202 errors)
+- Legacy pages pending backfill: 3
+
+### Errors
+- [[overview]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Utas Fitnah Pandangan Bukowski]]: missing address. Page created 2026-06-09 (post-rollout); address required.
+- [[Artikel Hilah Bourdain]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Artikel Tauhid Praktis Bourdain]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Artikel Pandangan Bourdain]]: missing address. Page created 2026-06-09 (post-rollout); address required.
+- [[Utas Nikah Tahlil Bukowski]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Artikel Kezuhudan Realist]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Utas Adab Berbicara Bourdain]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Utas Tazyin Kemaksiatan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Artikel Ghibah Realist Backup]]: missing address. Page created 2026-06-17 (post-rollout); address required.
+- [[Taktik Iblis Merusak Rasa Malu]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Bahaya-Kesombongan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Utas Riya Bourdain]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Utas Al-Ajz wal Kasal Bukowski]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Artikel Sunnah Berkeluarga Bourdain]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Artikel Shalat Realist]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Utas Hilah Bukowski]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Kebiasaan Harian Paling Mengubah Hidup]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Artikel Ghibah Realist]]: missing address. Page created 2026-06-17 (post-rollout); address required.
+- [[Kesabaran]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Tawakkul]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Bahaya Berlebihan dalam Makanan]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Dzikir Pasca-Shalat]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Kewajiban Meluruskan Pemimpin]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Bahaya Kebohongan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Sifat Shalat Nabi]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Hilah Ribawiyah]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Etika Keuangan Islam]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Adab Pernikahan]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Adab Makan dan Minum]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Pendidikan Anak Perempuan]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Syirik Akbar]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Kezaliman Pemimpin]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Fitnah Pandangan Mata]]: missing address. Page created 2026-06-09 (post-rollout); address required.
+- [[Nama Agung Allah]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Fase Perkembangan Janin]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Fitnah Kubur]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Iftitah]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Gaya Hidup Nabi dalam Makanan]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Syirik Asghar]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Waswasah Setan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Penggabungan Makanan]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Menjaga Pandangan Mata]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Adab Berbicara]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Qadar]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Du'a]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Hilah]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Hak dan Kewajiban Suami]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Khusyuk]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Azab Kubur]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Fitrah Rasa Malu]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Wahdatul Wujud dan Hulul]]: missing address. Page created 2026-06-09 (post-rollout); address required.
+- [[Istigatsah]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Hukum Perceraian]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Riba]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Nadzar]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Barzakh]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Meninggalkan Shalat]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Riya]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Poligami dalam Islam]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Ikhlas]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Pertobatan Adam]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Shirk Lafzhi]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Makanan dalam Quran dan Sunnah]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Kesombongan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Isti'adzah]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Adab Terhadap Istri]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Amanah Kepemimpinan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Al-Quran Sebagai Penyembuh]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Kezaliman Diri]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Kesaksian Palsu]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Dosa Iblis]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Kesederhanaan dalam Makan]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Kepemimpinan Agama]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abdal]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Fitnah Syahwat Seksual]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Ghibah]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Al-Ajz wal Kasal]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Tazyin Kemaksiatan]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Shalat Berjamaah]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Ad-Dahr]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Kesombongan Ulama]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Doa dalam Kesulitan]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Nikah Tahlil]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Sujud Sahwi]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[To Seek Refuge in Other Than Allah is a Part of Shirk]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[pemimpin-yang-mengkhianati-rakyatnya]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Abandoning the Group Prayer]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Meaning and Definitions of Backbiting]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Harms of Greed and Sexual Passion]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[The Ideal Husband]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Backbiting Not Limited to Speech]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[To Vow to Other Than Allah is an Act of Shirk]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[where-patience]]: missing address. Page created 2026-06-18 (post-rollout); address required.
+- [[To Seek Help in Other Than Allah is an Act of Shirk]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Pride]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Causes Motivating Backbiting]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[The Devils and The Eye]]: missing address. Page created 2026-06-09 (post-rollout); address required.
+- [[Ceramah Azab Kubur (Syaikh Utsaimin)]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[tafsir-sadi-iblis-adam]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Censure of Backbiting]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Showing Off]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Regarding His Guidance in Prayer]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Justifications Authorizing Backbiting]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Unlawfulness of Backbiting in the Heart]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Neglect of the Prayer]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Remedy for Backbiting Restraining the Tongue]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Expiation for Backbiting]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[perjury]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Umar bin Khattab]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Ibnu Umar]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Sa'd ibn Abi Waqqas]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Sulaym bin Jabir]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Nabi Ayyub AS]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Sari Sakti]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Aqra' bin Habis]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Ishaq ibn Rahawayh]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Amr ibn Umm Maktum]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Abdullah bin Buraydah]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Qatadah bin Di'amah As-Sadusi]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Yahya bin Mu'adh]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Anas bin Malik]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Luqman]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Imaam an-Nawawi]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Ibnul Qayyim Al-Jauziyyah]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Solaiman bin Yasar]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Adi bin Hatim]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Umar bin Abdul Aziz]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abdullah bin Sharik al-Amiri]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Nabi Musa AS]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Imam Asy-Syafi'i]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Isma'il bin Sa'id]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Abu Bakar Ash-Shiddiq]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Ayyub as-Sakhtiyani]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Nabi Adam AS]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Nabi Ibrahim AS]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Abu Umamah]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Khawlah binti Hakim]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Aisyah binti Abu Bakar]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Ali bin Abi Thalib]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Hatim al-Asamm]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Hasan bin Ali]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Iblis]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Uqba bin Amir]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Syaikh Abdurrahman bin Nashir As-Sa'di]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abu Sulayman al-Darani]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Sa'id bin al-Musayyab]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Saudah binti Zam'ah]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Abdullah bin al-Mubarak]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Awf bin Malik]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Rabi' ibn Khuthaym]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Hani bin Yazid]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Muhammad bin Shalih Al-Utsaimin]]: missing address. Page created 2026-06-08 (post-rollout); address required.
+- [[Zaid bin Thabit]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Mu'adz bin Jabal]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[B. Aisha Lemu]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[At-Tabarani]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Fatima binti Muhammad]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Ibnu Abbas]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Ka'b al-Ahbar]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Sufyan ath-Thawri]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Sulayman bin al-Qasim]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Al-Bara' bin Azib]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Al-Khattabi]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Hafsah binti Umar]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Asma' bint Yazid]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Hawa]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Malik bin Dinar]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Imam Adh-Dhahabi]]: missing address. Page created 2026-06-15 (post-rollout); address required.
+- [[Al-Hasan al-Basri]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Imam Malik bin Anas]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Abu Ayyoob al-Ansaari]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Ibnu Mas'ud]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Safiyyah binti Huyayy]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Hudhayfah bin al-Yaman]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Nabi Yunus AS]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Jabir bin Abdullah]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Khaalid ibn al-Waleed]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Muhammad bin al-Mubarak as-Suri]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Abu Ali ad-Daqqaq]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abu Jahl]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Umm Salamah]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Abu Dharr Al-Ghifari]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Salama bin al-Akwa']]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Khadijah binti Khuwailid]]: missing address. Page created 2026-06-12 (post-rollout); address required.
+- [[Nabi Muhammad SAW]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Imam Al-Ghazali]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Ibrahim an-Nakha'i]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Al-Fudayl bin Iyad]]: missing address. Page created 2026-06-10 (post-rollout); address required.
+- [[Imam Ahmad bin Hanbal]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abu Ramthah]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Marwan bin al-Hakam]]: missing address. Page created 2026-06-11 (post-rollout); address required.
+- [[Abu Mi'laq]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+- [[Abu Hurayrah]]: missing address. Page created 2026-06-07 (post-rollout); address required.
+- [[Abu Juhayfah]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Abu Sa'id Al-Khudri]]: missing address. Page created 2026-06-16 (post-rollout); address required.
+- [[Satu Hal Kecil yang Membedakan Orang Sukses]]: missing address. Page created 2026-06-17 (post-rollout); address required.
+- [[Tindakan Tidak Konvensional untuk Mencapai Target]]: missing address. Page created 2026-06-13 (post-rollout); address required.
+- [[Amalan Harian Muslim untuk Mencapai Target]]: missing address. Page created 2026-06-14 (post-rollout); address required.
+
+### Pending backfill (informational)
+- 3 legacy pages without addresses.
+
+## Semantic Tiling
+See [[tiling-report-2026-06-20]] for the full pair listing.
+- Errors (>=0.90): 0 pairs
+- Review (0.80-0.90): 0 pairs
+- Calibrated: false

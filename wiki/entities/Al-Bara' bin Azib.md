@@ -4,8 +4,8 @@ title: "Al-Bara' bin Azib"
 entity_type: person
 role: "Sahabat Nabi / Ahli Hadis Kufah"
 first_mentioned: "[[Censure of Backbiting]]"
-created: 2026-06-16
-updated: 2026-06-16
+created: "2026-06-16"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -16,7 +16,11 @@ related:
   - "[[Ghibah]]"
 sources:
   - "[[Censure of Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harm 15 Backbiting]]"
 ---
+
+
 
 # Al-Bara' bin Azib
 

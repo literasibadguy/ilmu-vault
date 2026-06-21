@@ -34,7 +34,9 @@ Pertobatan yang mendapat taufik dari Allah SWT berjalan melalui langkah-langkah 
 
 ## Mengapa Ini Penting
 
-Pertobatan adalah satu-satunya jalan keselamatan bagi keturunan Adam dari kehancuran akibat dosa. Konsep ini membedakan karakter keturunan Adam (yang bertaubat dan diangkat derajatnya oleh Allah) dengan karakter Iblis (yang sombong, membangkang, dan terus menambah kemaksiatan setelah berdosa).
+Pertobatan adalah satu-satunya jalan keselamatan bagi keturunan Adam dari kehancuran akibat dosa. Sebagaimana ditegaskan oleh [[Qatadah bin Di'amah As-Sadusi]], jika bukan karena taubat, niscaya tidak akan ada satu orang pun dari hamba Allah yang selamat. 
+
+Konsep ini membedakan karakter keturunan Adam (yang jika berbuat dosa langsung merasa malu, bertaubat, dan diangkat derajatnya oleh Allah) dengan karakter Iblis (yang jika berbuat dosa justru terus-menerus dalam kesombongan, membangkang, dan menambah kemaksiatannya).
 
 ## Contoh
 

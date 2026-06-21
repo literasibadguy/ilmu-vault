@@ -4,8 +4,8 @@ title: "Imam Al-Ghazali"
 entity_type: person
 role: "Ulama, Teolog, Filosof, dan Sufi Master"
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
-created: 2026-06-14
-updated: 2026-06-16
+created: "2026-06-14"
+updated: "2026-06-18"
 tags:
   - entity
   - ulama
@@ -24,7 +24,29 @@ sources:
   - "[[Causes Motivating Backbiting]]"
   - "[[Remedy for Backbiting Restraining the Tongue]]"
   - "[[Unlawfulness of Backbiting in the Heart]]"
+  - "[[Justifications Authorizing Backbiting]]"
+  - "[[Expiation for Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harm 16 Slander and Tale Bearing]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[Harms 19 and 20 Carelessness and Attributes]]"
 ---
+
+
+
+
+
+
+
+
+
+
 
 # Imam Al-Ghazali
 
@@ -40,6 +62,8 @@ sources:
 - **Klasifikasi Motif Ghibah**: Mengidentifikasi secara sistematis 8 motif psikologis umum pelaku ghibah (seperti meluapkan kemarahan, persetujuan kelompok/teman sebaya, membela diri dari tuduhan, kesombongan, kedengkian, lelucon, dan ejekan) serta 3 motif halus yang sering menjebak kaum terpilih/ulama (ketakjuban atas dosa orang lain, kasih sayang palsu yang memamerkan nama pelaku, dan marah demi Allah tetapi menyebutkan nama subjek secara tidak perlu) (**[[Causes Motivating Backbiting]]**).
 - **Metode Terapi Ghibah**: Merumuskan terapi umum dan terapi khusus penawar penyakit ghibah. Terapi umum menitikberatkan kesadaran eskatologis (pemindahan pahala di akhirat) dan introspeksi cacat rohani diri sendiri, sedangkan terapi khusus mengobati akar 8 motif pelaku ghibah (**[[Remedy for Backbiting Restraining the Tongue]]**).
 - **Konsep Ghibah dalam Hati (Su'uzhan)**: Menetapkan keharaman berprasangka buruk (*su'uzhan* atau *ghibat al-qalb*) terhadap seorang Muslim, merinci batas pembuktian hukum, dan menyusun panduan adab menasihati (*nasihat*) secara tersembunyi demi menjaga kehormatan sesama (**[[Unlawfulness of Backbiting in the Heart]]**).
+- **Perincian Pengecualian Ghibah**: Mengklasifikasikan 6 pengecualian khusus di mana ghibah diperbolehkan demi kemaslahatan syariat (*sound aim*), termasuk untuk al-istifta' (meminta fatwa), al-tahdhir (peringatan keburukan), al-ta'rif (gelar perawi), dan mujaharah bil-fisq (pelaku maksiat terbuka) (**[[Justifications Authorizing Backbiting]]**).
+- **Prosedur Kafarat Ghibah**: Menjelaskan kafarat (kaffarah) sosial menebus dosa ghibah dengan meminta maaf langsung dan memuji korban secara bersungguh-sungguh. Beliau mendokumentasikan pandangan salaf (seperti Sa'id bin al-Musayyib dan Ibn Sirin) serta teladan sedekah kehormatan Abu Damdam (**[[Expiation for Backbiting]]**).
 - **Metodologi Tazkiyah**: Memadukan dalil Al-Qur'an dan Hadis dengan perkataan serta kisah para ulama salaf terdahulu guna menerapi penyakit-penyakit hati.
 - **Pandangan tentang Lapar**: Menilai lapar (*hunger*) sebagai salah satu perbendaharaan Allah yang paling berharga untuk membuka pintu hikmah dan melemahkan tipu daya setan.
 
@@ -59,3 +83,5 @@ sources:
 - [[Causes Motivating Backbiting]]
 - [[Remedy for Backbiting Restraining the Tongue]]
 - [[Unlawfulness of Backbiting in the Heart]]
+- [[Justifications Authorizing Backbiting]]
+- [[Expiation for Backbiting]]

@@ -3,9 +3,9 @@ type: entity
 title: "Umar bin Abdul Aziz"
 entity_type: person
 role: "Khalifah Bani Umayyah / Khalifah Kelima"
-first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
-created: 2026-06-07
-updated: 2026-06-07
+first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
+created: "2026-06-07"
+updated: "2026-06-18"
 tags:
   - entity
   - tokoh
@@ -15,8 +15,12 @@ related:
   - "[[Amanah Kepemimpinan]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
 ---
+
+
 
 # Umar bin Abdul Aziz
 
@@ -32,4 +36,4 @@ sources:
 
 ## Sumber
 
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]

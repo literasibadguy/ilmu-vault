@@ -30,10 +30,13 @@ Fitrah rasa malu bekerja secara otomatis dalam kesadaran manusia:
 1. **Respons Malu Alami**: Manusia merasa tidak nyaman, risi, dan merasa buruk jika auratnya tersingkap di depan orang lain.
 2. **Dorongan Menutupi Diri**: Ketika aurat terbuka, manusia secara refleks segera mencari penutup (sebagaimana Adam dan Hawa yang langsung memetik daun-daun surga untuk menutupi tubuh).
 3. **Keterkaitan Lahir Batin**: Ketakwaan batin (pakaian takwa) memengaruhi penjagaan aurat lahiriah. Hilangnya ketakwaan batiniah akan memicu runtuhnya rasa malu lahiriah.
+4. **Lamul 'Aqibah (Lam Akibat)**: Dalam QS. Al-A'raf: 20, kata *liyubdiya* ("untuk menampakkan") diawali huruf *Lam* yang bermakna konsekuensi/akibat. Hal ini menandakan bahwa tersingkapnya aurat adalah akibat mutlak yang dirancang setan ketika membisikkan dosa, karena maksiat melucuti pakaian takwa batiniah dan berdampak pada lepasnya pakaian lahiriah.
 
 ## Mengapa Ini Penting
 
-Iblis sangat memahami bahwa merusak rasa malu dan menyingkap aurat adalah cara paling efektif untuk merusak moralitas dan kesucian manusia. Kampanye ketelanjangan modern bertentangan langsung dengan fitrah penciptaan manusia.
+Iblis sangat memahami bahwa merusak rasa malu dan menyingkap aurat adalah cara paling efektif untuk merusak moralitas dan kesucian manusia. Kampanye ketelanjangan modern bertentangan langsung dengan fitrah penciptaan manusia. 
+
+Dalam bahasa Arab, aurat disebut *sau-ah* (dari kata *sa'a*) karena fitrah manusia yang sehat secara otomatis akan merasa buruk, terpukul, dan tidak menyukai jika hal tersebut tersingkap dan terlihat oleh orang lain.
 
 ## Contoh
 

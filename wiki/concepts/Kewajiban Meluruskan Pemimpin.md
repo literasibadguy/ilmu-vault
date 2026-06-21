@@ -17,7 +17,7 @@ related:
   - "[[Amanah Kepemimpinan]]"
   - "[[Kezaliman Pemimpin]]"
 sources:
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
 # Kewajiban Meluruskan Pemimpin
@@ -43,4 +43,4 @@ Tanpa adanya kontrol sosial dan koreksi moral dari rakyat, kekuasaan cenderung k
 
 ## Sumber
 
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]

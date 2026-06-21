@@ -4,8 +4,8 @@ title: "Uqba bin Amir"
 entity_type: person
 role: "Sahabat Nabi / Perawi Hadis / Panglima Militer"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-10
+created: "2026-06-10"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -15,7 +15,9 @@ related:
   - "[[Nabi Muhammad SAW]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
+  - "[[Introduction and Silence]]"
 ---
+
 
 # Uqba bin Amir
 

@@ -15,7 +15,7 @@ status: seed
 related:
   - "[[Kepemimpinan Agama]]"
 sources:
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Kesabaran (Sabr)
@@ -43,4 +43,4 @@ Kesabaran diposisikan sangat tinggi dalam Al-Qur'an (disebutkan di 90 tempat). K
 
 ## Sumber
 
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]

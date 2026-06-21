@@ -1,14 +1,14 @@
 ---
 type: concept
-title: Adab Berbicara
+title: "Adab Berbicara"
 complexity: basic
 domain: Tazkiyatun Nafs / Akhlak
 aliases:
   - Menjaga Lisan
   - Adab al-Kalam
   - Guarding Words
-created: 2026-06-11
-updated: 2026-06-16
+created: "2026-06-11"
+updated: "2026-06-18"
 tags:
   - concept
   - akhlak
@@ -26,7 +26,29 @@ sources:
   - "[[Causes Motivating Backbiting]]"
   - "[[Remedy for Backbiting Restraining the Tongue]]"
   - "[[Unlawfulness of Backbiting in the Heart]]"
+  - "[[Justifications Authorizing Backbiting]]"
+  - "[[Expiation for Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harm 16 Slander and Tale Bearing]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[Harms 19 and 20 Carelessness and Attributes]]"
 ---
+
+
+
+
+
+
+
+
+
+
 
 # Adab Berbicara (Etiket & Penjagaan Lisan)
 
@@ -57,6 +79,8 @@ sources:
 - **Nama Anggur (Karm)**: Nabi melarang menyebut pohon anggur dengan *Karm*, karena kata *Karm* bermakna "kemuliaan/kedermawanan", yang secara hakiki hanya layak disematkan pada hati seorang mukmin, serta untuk menghapus konotasi positif anggur sebagai bahan khamr pada zaman Jahiliyah.
 - **Larangan Ghibah (Menggunjing)**: Islam melarang membicarakan kelemahan atau cela orang lain saat ia tidak ada, meskipun pembicaraan tersebut adalah kebenaran. Larangan ini diperinci secara komprehensif dalam bahasan **[[Ghibah]]**.
 - **Ghibah Pena & Isyarat**: Penjagaan lisan meluas hingga ke lisan tulisan (pena) karena pena dianggap sebagai salah satu dari dua lisan manusia. Peniruan gerak fisik (seperti berjalan pincang secara meniru) atau isyarat tangan/mata untuk mencela juga diharamkan sebagaimana ucapan lisan.
+- **Pengecualian Ghibah yang Dibolehkan**: Pembicaraan aib orang lain diizinkan hanya untuk kemaslahatan nyata, seperti pengaduan kezaliman, permintaan bantuan perbaikan maksiat, pencarian fatwa hukum (al-istifta'), pemberian nasihat objektif (pernikahan/amanah), kesaksian pengadilan, serta menyebutkan dosa pelaku maksiat terang-terangan (**[[Justifications Authorizing Backbiting]]**).
+- **Kafarat dan Permohonan Maaf**: Dosa lisan (ghibah) diselesaikan dengan bertaubat kepada Allah dan meminta maaf kepada korban secara baik (memuji dan menunjukkan kasih sayang hingga hatinya rida). Kisah Abu Damdam mengajarkan keutamaan menyedekahkan kehormatan diri dengan memaafkan kesalahan lisan orang lain (**[[Expiation for Backbiting]]**).
 
 ## Sumber
 
@@ -67,3 +91,5 @@ sources:
 - [[Causes Motivating Backbiting]]
 - [[Remedy for Backbiting Restraining the Tongue]]
 - [[Unlawfulness of Backbiting in the Heart]]
+- [[Justifications Authorizing Backbiting]]
+- [[Expiation for Backbiting]]

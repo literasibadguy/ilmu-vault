@@ -4,8 +4,8 @@ title: "Jabir bin Abdullah"
 entity_type: person
 role: "Sahabat Nabi / Perawi Hadis"
 first_mentioned: "[[Censure of Backbiting]]"
-created: 2026-06-16
-updated: 2026-06-16
+created: "2026-06-16"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -14,9 +14,14 @@ status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ghibah]]"
+  - "[[Husnudzon Kepada Allah]]"
 sources:
   - "[[Censure of Backbiting]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
+- "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
+
 
 # Jabir bin Abdullah
 
@@ -28,8 +33,12 @@ sources:
 
 - **Hadis Celaan Ghibah**: Meriwayatkan sabda Nabi SAW tentang bahaya ghibah yang dinilai lebih berat daripada dosa zina karena pelaku ghibah memerlukan pemaafan langsung dari korbannya sebelum diampuni Allah.
 - **Kisah Siksa Kubur**: Bersama Nabi SAW dalam sebuah perjalanan dan meriwayatkan hadis tentang siksa kubur dua jenazah yang dihukum bukan karena dosa besar duniawi, melainkan karena salah satunya gemar melakukan ghibah (menggunjing orang) dan yang lainnya tidak membersihkan sisa urine.
+- **Hadis Perintah Husnudzon Sebelum Wafat**: Meriwayatkan wasiat penting Rasulullah SAW tiga hari sebelum wafatnya agar setiap Muslim tidak meninggal dunia melainkan dalam keadaan berprasangka baik terhadap rahmat Allah SWT (**[[Husnudzon Kepada Allah]]**).
 - **Kesetiaan Dakwah**: Terlibat aktif dalam berbagai peristiwa penting sejarah Islam awal di Madinah dan menjadi guru bagi generasi Tabi'in.
+- **Hadis Penolakan Shalat Pemabuk**: Meriwayatkan hadis Rasulullah SAW bahwa shalat dan amal kebajikan seorang pemabuk tidak diterima di sisi Allah hingga ia kembali dalam keadaan sadar (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
 
 - [[Censure of Backbiting]]
+- [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]
+- [[Major-Sin-19-Drinking-Alcohol]]

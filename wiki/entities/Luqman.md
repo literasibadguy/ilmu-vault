@@ -4,8 +4,8 @@ title: "Luqman"
 entity_type: person
 role: "Tokoh Bijaksana (Al-Hakim) dalam Al-Qur'an"
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
-created: 2026-06-14
-updated: 2026-06-14
+created: "2026-06-14"
+updated: "2026-06-18"
 tags:
   - entity
   - quranic-figure
@@ -15,7 +15,11 @@ related:
   - "[[Bahaya Berlebihan dalam Makanan]]"
 sources:
   - "[[Harms of Greed and Sexual Passion]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Harm 14 Lying and Falsehood]]"
 ---
+
+
 
 # Luqman
 

@@ -17,7 +17,7 @@ related:
   - "[[Kesabaran]]"
   - "[[Amanah Kepemimpinan]]"
 sources:
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
 
 # Kepemimpinan Agama (Al-Imamah fid-Din)
@@ -45,4 +45,4 @@ Seorang da'i atau pemimpin tidak akan mampu membimbing masyarakat jika ia goyah 
 
 ## Sumber
 
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]

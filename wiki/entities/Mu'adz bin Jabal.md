@@ -4,8 +4,8 @@ title: "Mu'adz bin Jabal"
 entity_type: person
 role: "Sahabat Nabi / Utusan ke Yaman"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
-created: 2026-06-07
-updated: 2026-06-16
+created: "2026-06-07"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -17,7 +17,11 @@ sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Regarding His Guidance in Prayer]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harm 14 Lying and Falsehood]]"
 ---
+
+
 
 # Mu'adz bin Jabal
 

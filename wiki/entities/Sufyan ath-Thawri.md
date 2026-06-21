@@ -4,8 +4,8 @@ title: "Sufyan ath-Thawri"
 entity_type: person
 role: "Ulama Salaf / Ahli Hadis & Fiqih / Mujtahid Mutlak"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-10
+created: "2026-06-10"
+updated: "2026-06-18"
 tags:
   - entity
   - salaf
@@ -16,7 +16,9 @@ related:
   - "[[Imam Ahmad bin Hanbal]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
+  - "[[Introduction and Silence]]"
 ---
+
 
 # Sufyan ath-Thawri
 

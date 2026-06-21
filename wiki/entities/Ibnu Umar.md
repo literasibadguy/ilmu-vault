@@ -4,8 +4,8 @@ title: "Ibnu Umar"
 entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Utama"
 first_mentioned: "[[Pride]]"
-created: 2026-06-07
-updated: 2026-06-13
+created: "2026-06-07"
+updated: "2026-06-19"
 tags:
   - entity
   - sahabat
@@ -16,17 +16,22 @@ related:
   - "[[Umar bin Khattab]]"
   - "[[Adab Makan dan Minum]]"
   - "[[Kesederhanaan dalam Makan]]"
+  - "[[Mengingat Maut]]"
+  - "[[Persiapan Kematian]]"
 sources:
   - "[[Pride]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[The Preparation for and Remembrance of Death]]"
+- "[[Major-Sin-20-Gambling]]"
+- "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
 
 # Ibnu Umar
 
 ## Tinjauan
 
-**Ibnu Umar** (Abdullah bin Umar bin Khattab) adalah putra dari Khalifah Umar bin Khattab, sahabat terkemuka Nabi SAW, dan salah satu perawi hadis paling produktif dalam sejarah Islam (*Al-Muktsirun fil Hadits*). Beliau sangat dikenal karena ketelitiannya yang tinggi dalam meniru sunna Rasulullah SAW dalam setiap aspek kehidupan praktis sehari-hari.
+**Ibnu Umar** (Abdullah bin Umar bin Khattab) adalah putra dari Khalifah Umar bin Khattab, sahabat terkemuka Nabi SAW, and salah satu perawi hadis paling produktif dalam sejarah Islam (*Al-Muktsirun fil Hadits*). Beliau sangat dikenal karena ketelitiannya yang tinggi dalam meniru sunna Rasulullah SAW dalam setiap aspek kehidupan praktis sehari-hari.
 
 ## Fakta Kunci
 
@@ -36,9 +41,15 @@ sources:
 - **Zuhud dan Kebiasaan Makan bersama Kaum Miskin**: Meniru kesederhanaan Nabi SAW secara ketat dalam makanan. Beliau terbiasa tidak makan kecuali jika ditemani oleh orang miskin di mejanya — apabila ada orang membawa makanan kepadanya, beliau meminta agar seorang fakir atau miskin didatangkan terlebih dahulu untuk makan bersamanya. Beliau juga meriwayatkan hadis keharaman makan dan minum dengan tangan kiri (karena merupakan kebiasaan Setan) (**[[Adab Makan dan Minum]]**).
 - **Menolak Jawaarish (Obat Pencernaan)**: Ketika ditawari *jawaarish* (obat pencernaan untuk mengatasi kekenyangan), Ibnu Umar menolaknya sambil berkata: *"Aku tidak pernah makan kenyang selama empat bulan terakhir"* — bukan karena kemiskinan, melainkan karena beliau mengetahui bahwa zaman Nabi SAW ada kaum yang sering kelaparan, sehingga beliau menahan diri dari makan kenyang demi empati (**[[Kesederhanaan dalam Makan]]**).
 - **Hadis Mukmin Makan dengan Satu Lambung**: Meriwayatkan sabda Nabi SAW: *"Orang mukmin makan dengan satu lambung, sedangkan orang kafir makan dengan tujuh lambung"* — artinya, orang beriman makan secukupnya karena menyadari bahwa makanan adalah amanah, sedangkan orang yang tidak beriman menuruti nafsu perutnya tanpa batas.
+- **Hadis Mengingat Maut & Persiapan Akhirat**: Meriwayatkan perkataan Rasulullah SAW bahwa mukmin yang paling cerdas (*akyaf*) adalah yang paling banyak mengingat kematian (**[[Mengingat Maut]]**) dan yang paling mempersiapkan dirinya untuk hari setelah kematian (**[[Persiapan Kematian]]**).
+- **Pandangan Terhadap Catur & Dadu**: Menolak keras permainan papan dan menyamakan catur lebih buruk daripada dadu (*shatranj syarrun min al-nard*), serta menyebut backgammon/dadu sama dengan melumuri diri dengan lemak babi (**[[Major-Sin-20-Gambling]]**).
+- **Hadis Keharaman Khamr**: Meriwayatkan sabda Rasulullah SAW tentang keharaman minuman keras secara mutlak baik sedikit maupun banyak, dan menegaskan makna *khamr* mencakup segala zat pemutus akal (intoksikan) baik padat maupun cair (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
 
 - [[Pride]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Prophet Muhammads Recommendations Regarding Food]]
+- [[The Preparation for and Remembrance of Death]]
+- [[Major-Sin-20-Gambling]]
+- [[Major-Sin-19-Drinking-Alcohol]]

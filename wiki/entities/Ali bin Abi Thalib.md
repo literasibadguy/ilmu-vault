@@ -18,7 +18,8 @@ related:
 sources:
   - "[[Showing Off]]"
   - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Neglect of the Prayer]]"
+  - [[Neglect of the Prayer]]
+- [[Major-Sin-20-Gambling]]
 ---
 
 # Ali bin Abi Thalib
@@ -37,9 +38,11 @@ sources:
 - **Gaya Hidup Zuhud**: Terkenal sangat sederhana dalam berpakaian dan makanan, meskipun menguasai perbendaharaan baitul mal kekhalifahan yang sangat luas.
 - **Hadis Doa Kesulitan**: Beliau meriwayatkan bahwa Rasulullah ﷺ mengajarkannya doa di kala ditimpa kesulitan hidup: *"Lā ilāha illallāh al-Halīm al-Karīm, Subhānallāh, Tabārakallāh Rabbul-'Arshil-'Adhīm, Alhamdulillāhi Rabbil-'ālamīn"* (**[[Doa dalam Kesulitan]]**).
 - **Pandangan Terhadap Pelaku Meninggalkan Shalat**: Menyatakan secara tegas bahwa siapa saja yang tidak mendirikan shalat adalah kafir. Ketika ditanya mengenai seorang wanita yang menolak shalat, beliau menjawab: *"Siapa yang tidak shalat maka dia telah kafir."* (**[[Meninggalkan Shalat]]**).
+- **Pandangan Terhadap Catur**: Menyebut catur sebagai perjudian orang Persia (*shatranj maysiru-l-a'jam*) dan menegaskan keharamannya. Ali memperingatkan orang yang menyibukkan diri bermain catur dengan membacakan Surah Al-Anbiya' ayat 52 mengenai patung-patung yang disembah, menegaskan catur tidak mencerminkan tujuan penciptaan manusia (**[[Major-Sin-20-Gambling]]**).
 
 ## Sumber
 
 - [[Showing Off]]
 - [[Supplications That Are Most Likely Answered]]
 - [[Neglect of the Prayer]]
+- [[Major-Sin-20-Gambling]]

@@ -4,8 +4,8 @@ title: "Al-Hasan al-Basri"
 entity_type: person
 role: "Ulama Tabi'in / Ahli Fiqih & Zuhud"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: 2026-06-10
-updated: 2026-06-16
+created: "2026-06-10"
+updated: "2026-06-18"
 tags:
   - entity
   - tabiin
@@ -23,7 +23,21 @@ sources:
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Harms of Greed and Sexual Passion]]"
   - "[[Meaning and Definitions of Backbiting]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harm 16 Slander and Tale Bearing]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
 ---
+
+
+
+
+
+
+
 
 # Al-Hasan al-Basri
 

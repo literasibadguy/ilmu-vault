@@ -3,9 +3,9 @@ type: entity
 title: "Umar bin Khattab"
 entity_type: person
 role: "Khalifah Rasyidah Kedua"
-first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
-created: 2026-06-07
-updated: 2026-06-16
+first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
+created: "2026-06-07"
+updated: "2026-06-18"
 tags:
   - entity
   - sahabat
@@ -18,14 +18,30 @@ related:
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Ghibah]]"
 sources:
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[The Ideal Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
   - "[[Backbiting Not Limited to Speech]]"
+  - "[[Introduction and Silence]]"
+  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
+  - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harm 16 Slander and Tale Bearing]]"
+  - "[[Harms 19 and 20 Carelessness and Attributes]]"
 ---
+
+
+
+
+
+
+
+
 
 # Umar bin Khattab
 
@@ -49,7 +65,7 @@ sources:
  
 ## Sumber
  
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Regarding His Guidance in Prayer]]
 - [[The Ideal Husband]]

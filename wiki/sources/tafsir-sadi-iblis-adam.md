@@ -64,6 +64,15 @@ Penjelasan Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr mengenai penafsiran Syaikh
 - **QS. Thaha: 120** — Bisikan Iblis kepada Adam tentang "pohon keabadian" (*Sajarat al-Khuld*).
 - **QS. Fathir: 5-6** — Peringatan Allah tentang tipu daya dunia dan permusuhan mutlak Iblis.
 
+## Analisis Kebahasaan & Detail Tafsir
+
+1. **Lamul 'Aqibah (Lam Akibat)**: Penggunaan huruf *Lam* pada kata *liyubdiya* ("untuk menampakkan", QS. Al-A'raf: 20) bermakna akibat/konsekuensi. Iblis merayu Adam dan Hawa dengan akibat buruk yang sudah ia ketahui sebelumnya, yaitu tersingkapnya aurat mereka.
+2. **Sumpah Palsu Pertama**: Iblis adalah makhluk pertama dalam sejarah penciptaan yang bersumpah dusta menggunakan nama Allah. Hal ini membuat Adam dan Hawa tertipu karena kesucian hati mereka tidak membayangkan ada makhluk yang berani bersumpah palsu atas nama Allah.
+3. **Kelicikan Redaksi Sumpah**: Setan menggunakan taukid (penegasan) dan berkata *"Sesungguhnya aku termasuk orang yang memberi nasehat kepada kalian"* (QS. Al-A'raf: 21), bukan *"Aku adalah penasihat kalian"*. Penggunaan frasa *"termasuk orang"* memberikan kesan bahwa saran tersebut didukung oleh banyak pihak dan ia hanyalah salah satu di antaranya.
+4. **Makna Fadallahuma**: Kata ini berarti menurunkan derajat keduanya secara perlahan dari kedudukan spiritual luhur yang bersih dari maksiat menuju derajat rendah yang tercemar noda dosa.
+5. **Pergeseran Kata Ganti (Pohon ini vs Pohon itu)**: Saat menggoda, setan memakai kata dekat (*pohon ini*) karena ia berada di dekatnya. Namun, saat Allah menegur Adam dan Hawa, Dia memakai kata jauh (*pohon itu*) karena keduanya telah menjauh dari tempat pohon tersebut karena rasa malu dan penyesalan.
+6. **Istigfar sebagai Jalan Keselamatan Tunggal**: Dinukil dari tabiat mukmin menurut Qatadah bin Di'amah As-Sadusi, jika seorang hamba terjerumus dalam dosa, jalan keluarnya hanyalah istigfar dan taubat. Tanpa taubat dari Allah, tidak ada satu pun makhluk yang akan selamat.
+
 ## Hadis
 
 - **Hadis Riwayat Bukhari (No. 6306)** — Doa sayyidul istighfar yang berisi ikrar pengakuan dosa (*i'tiraf*) di hadapan Allah. (Pembicara mengutip bagian pengakuan dosa dalam sayyidul istighfar).

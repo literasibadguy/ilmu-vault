@@ -17,7 +17,7 @@ related:
   - "[[Kezaliman Pemimpin]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
-  - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
+  - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
 # Amanah Kepemimpinan
@@ -43,4 +43,4 @@ Amanah kepemimpinan menentukan keselamatan kolektif suatu masyarakat. Jika amana
 
 ## Sumber
 
-- [[Pemimpin yang Mengkhianati Rakyatnya]]
+- [[pemimpin-yang-mengkhianati-rakyatnya]]

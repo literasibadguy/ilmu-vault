@@ -16,6 +16,7 @@ related:
   - "[[Ikhlas]]"
 sources:
   - "[[Showing Off]]"
+- "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
 
 # Al-Fudayl bin Iyad
@@ -30,7 +31,9 @@ sources:
   > "Meninggalkan suatu amal kebajikan karena takut dilihat manusia adalah [[Riya]]. Sedangkan melakukan amal kebajikan karena manusia (agar dipuji) adalah [[Syirik Asghar|Syirik]]. Dan [[Ikhlas]] adalah ketika Allah menyelamatkanmu dari kedua kondisi tersebut."
 - **Guru dan Kolega**: Menimba ilmu dari para ulama besar masanya, termasuk Ja'far ash-Shadiq, Sufyan ath-Thawri, dan Imam Malik bin Anas. Murid-muridnya meliputi Imam Asy-Syafi'i dan Yahya bin Ma'in.
 - **Kewaraan di Hadapan Penguasa**: Terkenal sangat zuhud dan berani memberikan nasihat yang melunakkan hati Khalifah Abbasiyah Harun al-Rasyid, seraya menolak pemberian harta dari sultan demi menjaga kejernihan hatinya.
+- **Saksi Kematian Buruk Murid**: Menyaksikan secara langsung sakaratul maut salah satu muridnya yang paling cerdas namun wafat dalam keadaan kafir (*su'ul khatimah*) karena terbiasa meminum segelas khamr medis setiap tahun atas anjuran dokter (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
 
 - [[Showing Off]]
+- [[Major-Sin-19-Drinking-Alcohol]]

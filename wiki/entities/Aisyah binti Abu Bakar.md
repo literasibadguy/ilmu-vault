@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Aisyah binti Abu Bakar
+title: "Aisyah binti Abu Bakar"
 entity_type: person
-role: Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama
+role: "Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
-created: 2026-06-11
-updated: 2026-06-16
+created: "2026-06-11"
+updated: "2026-06-18"
 tags:
   - entity
   - tokoh
@@ -20,6 +20,7 @@ related:
   - "[[Adab Makan dan Minum]]"
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Ghibah]]"
+  - "[[Sakaratul Maut]]"
 sources:
   - "[[Regarding His Guidance in Prayer]]"
   - "[[The Ideal Husband]]"
@@ -27,7 +28,14 @@ sources:
   - "[[To Vow to Other Than Allah is an Act of Shirk]]"
   - "[[Meaning and Definitions of Backbiting]]"
   - "[[Backbiting Not Limited to Speech]]"
+  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
+  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
 ---
+
+
+
 
 # Aisyah binti Abu Bakar
 
@@ -48,6 +56,7 @@ sources:
 - **Saksi Kesederhanaan & Kebiasaan Makan Nabi**: Mengisahkan kelaparan yang melanda keluarga Nabi, di mana setelah hijrah keluarga Muhammad SAW tidak pernah makan roti gandum hingga kenyang selama tiga malam berturut-turut. Aisyah menegaskan bahwa tiga bulan sabit berlalu (yaitu sekitar dua bulan penuh) tanpa ada api yang dinyalakan di rumah mereka untuk memasak — mereka hanya bertahan dengan kurma kering dan air, atau sesekali susu pemberian tetangga dari kaum Ansar. Beliau meriwayatkan bahwa setelah Nabi wafat, tidak ada makanan yang tersisa di rak rumah beliau kecuali sedikit gandum (**[[Kesederhanaan dalam Makan]]**).
 - **Kecintaan terhadap Madu dan Makanan Manis**: Aisyah meriwayatkan bahwa Nabi SAW sangat menyukai makanan manis (*halwa*) dan madu. Beliau sendiri juga berbagi kecintaan yang sama terhadap madu dan makanan manis, sehingga menjadi saksi otoritatif mengenai kebiasaan kuliner harian Nabi SAW. Beliau juga mengisahkan kebiasaan Nabi memadukan kurma segar (*ruthab*) dengan semangka (*bittikh*) untuk menetralkan sifat panas dan dingin (**[[Adab Makan dan Minum]]**).
 - **Periwayat Hadis Nadzar**: Meriwayatkan hadis sahih Al-Bukhari yang menegaskan kewajiban memenuhi nadzar ketaatan kepada Allah dan keharaman menunaikan nadzar kemaksiatan (**[[To Vow to Other Than Allah is an Act of Shirk]]**).
+- **Saksi Sakaratul Maut Nabi SAW**: Meriwayatkan detik-detik akhir hayat Rasulullah SAW di mana beliau membasuh wajahnya dengan air dari wadah di sampingnya seraya menegaskan bahwa kematian memiliki kepedihan (*agonis*) yang luar biasa (**[[Sakaratul Maut]]**).
 
 ## Sumber
 

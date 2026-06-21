@@ -1,11 +1,11 @@
 ---
 type: entity
-title: Abu Hurayrah
+title: "Abu Hurayrah"
 entity_type: person
-role: Sahabat Nabi / Perawi Hadis Terbanyak
+role: "Sahabat Nabi / Perawi Hadis Terbanyak"
 first_mentioned: "[[Pride]]"
-created: 2026-06-07
-updated: 2026-06-16
+created: "2026-06-07"
+updated: "2026-06-19"
 tags:
   - entity
   - sahabat
@@ -19,6 +19,9 @@ related:
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Nama Agung Allah]]"
   - "[[Ghibah]]"
+  - "[[Mengingat Maut]]"
+  - "[[Ziarah Kubur]]"
+  - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
 sources:
   - "[[Pride]]"
   - "[[Showing Off]]"
@@ -27,7 +30,14 @@ sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Censure of Backbiting]]"
+  - "[[Harm 15 Backbiting]]"
+  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[The Preparation for and Remembrance of Death]]"
+  -- "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
+- "[[Major-Sin-20-Gambling]]"
+- "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
+
 
 # Abu Hurayrah
 
@@ -48,6 +58,10 @@ sources:
 - **Kisah Kelaparan Ekstrem & Minum Susu Ahlus Suffah**: Mengisahkan perjuangan beratnya menahan lapar hingga terkadang berbaring menekan perutnya di tanah atau mengikatkan batu pada perutnya. Dalam keadaan lapar yang parah, beliau pernah menghampiri [[Abu Bakar Ash-Shiddiq]] dan bertanya tentang sebuah ayat Al-Qur'an — bukan karena tidak mengetahui tafsirnya, melainkan berharap Abu Bakar akan memahami kondisinya dan mengundangnya makan. Namun Abu Bakar hanya menjawab pertanyaan tersebut dan berlalu. Beliau kemudian menghampiri [[Umar bin Khattab]] dengan cara yang sama, namun hasilnya serupa. Akhirnya Nabi SAW sendiri yang mengenali raut lapar di wajahnya dan mengundangnya makan. Di kesempatan lain, beliau meriwayatkan kisah terkenal di mana Nabi SAW membagikan semangkuk susu pemberian seseorang kepada seluruh *Ahlus Suffah* secara bergiliran — beliau disuruh mengantarkan susu itu kepada setiap penghuni Suffah satu per satu hingga semuanya kenyang, baru kemudian Nabi SAW meminum sisanya sambil tersenyum dan menyuruh Abu Hurayrah sendiri menghabiskan apa yang tersisa (**[[Kesederhanaan dalam Makan]]**).
 - **Hadis Ya Dhal-Jalali wa al-Ikram & Ya Hayy Ya Qayyum**: Meriwayatkan anjuran Nabi ﷺ untuk memperbanyak ucapan *"Ya Dhal-Jalāli wa al-Ikrām"*. Beliau juga meriwayatkan bahwa apabila Nabi ﷺ dihadapkan pada urusan penting atau mencemaskan, beliau akan mendongak ke langit seraya berucap *"Subhān Allāh al-'Adhīm"*, dan jika bersungguh-sungguh berdoa beliau melafalkan *"Ya Hayy Ya Qayyum"*.
 - **Kebiasaan Tahajjud & Sahur Nabi**: Beliau meriwayatkan bahwa Nabi ﷺ mendirikan shalat Tahajjud dengan berdiri sangat lama hingga kedua kakinya bengkak, serta Nabi ﷺ tidak makan setelah berbuka puasa seperti kebiasaan orang-orang pada umumnya, melainkan beliau hanya makan pada waktu sahur saja (**[[Kesederhanaan dalam Makan]]**).
+- **Hadis Mengingat Maut & Ziarah Kubur**: Meriwayatkan hadis dari Nabi SAW tentang perintah memperbanyak mengingat pemutus kelezatan duniawi (yaitu kematian) (**[[Mengingat Maut]]**) serta kisah ziarah makam ibunda Nabi SAW yang menegaskan anjuran ziarah kubur untuk mengingat kematian (**[[Ziarah Kubur]]**).
+- **Hadis Ujian Kehidupan dan Penghapus Dosa**: Meriwayatkan sabda Nabi SAW bahwa barangsiapa yang Allah kehendaki kebaikan baginya, maka Dia akan menimpakan musibah cobaan kepadanya di dunia sebagai media pembersihan kesalahan (**[[Ujian dan Sakit Sebagai Penggugur Dosa]]**).
+- **Hadis Larangan Catur & Dadu**: Meriwayatkan larangan memberi salam kepada pemain dadu/catur serta memperingatkan tentang kehadiran setan beserta pasukannya di sekeliling arena perjudian tersebut (**[[Major-Sin-20-Gambling]]**).
+- **Hadis Menyamakan Pecandu Khamr dengan Penyembah Berhala**: Meriwayatkan hadis Rasulullah SAW yang menyamakan pecandu minuman keras (*mudminul khamr*) dengan penyembah berhala yang diancam tidak akan mencium wangi surga (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
 
@@ -60,3 +74,8 @@ sources:
 - [[Supplications That Are Most Likely Answered]]
 - [[Harms of Greed and Sexual Passion]]
 - [[Censure of Backbiting]]
+- [[The Preparation for and Remembrance of Death]]
+- [[What Reminds People of Death and the Hereafter]]
+- [[Major-Sin-20-Gambling]]
+- [[Major-Sin-19-Drinking-Alcohol]]
+
