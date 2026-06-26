@@ -1,4 +1,4 @@
-# Ilmuzip Vault
+# Ilmuzip
 
 **Ilmuzip Vault** adalah pilar penyimpanan pengetahuan (*compounding knowledge base*) dan mesin riset dinamis untuk kajian keislaman, koleksi transkrip ceramah. Vault ini dirancang untuk memetakan konsep-konsep keagamaan secara mendalam dan mengalirkan hasil riset tersebut menjadi konten edukasi publik.
 
@@ -26,7 +26,6 @@ ilmuzip-vault/
     ├── sources/        # Ringkasan sintesis buku, kajian, atau artikel
     ├── concepts/       # Istilah, konsep, dan prinsip keislaman
     ├── entities/       # Profil ulama, tokoh sejarah, organisasi, dan kanal
-    ├── drafts/         # Draf naskah video YouTube, utas X, dan artikel
     ├── comparisons/    # Analisis perbandingan dan pemetaan topik
     ├── questions/      # Jawaban atas pertanyaan penelitian keagamaan
     └── meta/           # Laporan kesehatan (lint), dasbor, kalender konten

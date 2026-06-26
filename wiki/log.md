@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 7 & 8 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-vol1-chapter-1-part-7.md`, `.raw/ihya-vol1-chapter-1-part-8.md`
+- Ringkasan: [[Manners-of-Teachers-and-Students]], [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]
+- Halaman dibuat: [[Manners-of-Teachers-and-Students]], [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]], [[Adab Penuntut Ilmu]], [[Adab Pengajar]], [[Esensi Jiwa]], [[Khidir AS]], [[Ulama Dunia]], [[Ulama Akhirat]], [[Shaqiq al-Balkhi]], [[Bal'am bin Ba'ura]], [[Utsman bin Affan]]
+- Halaman diperbarui: [[Nabi Musa AS]], [[Ali bin Abi Thalib]], [[Abu Bakar Ash-Shiddiq]], [[Ibnu Mas'ud]], [[Hatim al-Asamm]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Imam Malik bin Anas]], [[Imam Ahmad bin Hanbal]], [[Yahya bin Mu'adh]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Sahl bin Abdullah at-Tustari]]
+- Temuan Kunci: Impor etika murid (10 kewajiban) dan pendidik (8 kewajiban) serta konsep esensi batin jiwa dari Part 7, ditambah penjelasan detail tentang bahaya ulama jahat yang bermotif duniawi (ulama al-dunya) dan tanda-tanda khusus ulama akhirat sejati yang zuhud dan lurus (ulama al-akhirah), termasuk 8 hikmah batin Hatim al-Asamm dari Part 8.
+
 ## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 5 & 6 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-vol1-chapter-1-part-5.md`, `.raw/ihya-vol1-chapter-1-part-6.md`
 - Ringkasan: [[Blameworthy Sciences and Changing Meanings]], [[Harms of Polemics and Evils of Debates]]

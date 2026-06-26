@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 56
-- Halaman wiki: 332
-- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 3 & 4 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali tentang ilmu tercela, pergeseran makna istilah, dan bahaya perdebatan)
+- Sumber diimpor (ingested): 58
+- Halaman wiki: 343
+- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 5 & 6 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali tentang adab murid-guru, esensi jiwa, serta bahaya ulama duniawi dan tanda ulama akhirat)
 
 ---
 

@@ -1128,6 +1128,54 @@
         "wiki/entities/Umar bin Khattab.md",
         "wiki/entities/Ali bin Abi Thalib.md"
       ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-7.md": {
+      "hash": "e9988f6bb8dede4416a894cb73784bf0",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Manners-of-Teachers-and-Students.md",
+        "wiki/concepts/Adab Penuntut Ilmu.md",
+        "wiki/concepts/Adab Pengajar.md",
+        "wiki/concepts/Esensi Jiwa.md",
+        "wiki/entities/Khidir AS.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Musa AS.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-8.md": {
+      "hash": "a81ff5a2381d1da6347caf48b52da230",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter.md",
+        "wiki/concepts/Ulama Dunia.md",
+        "wiki/concepts/Ulama Akhirat.md",
+        "wiki/entities/Shaqiq al-Balkhi.md",
+        "wiki/entities/Bal'am bin Ba'ura.md",
+        "wiki/entities/Utsman bin Affan.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Hatim al-Asamm.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Imam Ahmad bin Hanbal.md",
+        "wiki/entities/Yahya bin Mu'adh.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Nabi Isa AS.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md",
+        "wiki/entities/Sahl bin Abdullah at-Tustari.md"
+      ]
     }
   },
   "address_map": {
@@ -1270,6 +1318,18 @@
     "wiki/concepts/Bahaya Debat.md": "c-000138",
     "wiki/entities/Sa'ad bin Ibrahim.md": "c-000139",
     "wiki/entities/Abdullah bin Rawahah.md": "c-000140",
-    "wiki/entities/Atha bin Abi Rabah.md": "c-000141"
+    "wiki/entities/Atha bin Abi Rabah.md": "c-000141",
+    "wiki/sources/Manners-of-Teachers-and-Students.md": "c-000142",
+    "wiki/concepts/Adab Penuntut Ilmu.md": "c-000143",
+    "wiki/concepts/Adab Pengajar.md": "c-000144",
+    "wiki/concepts/Esensi Jiwa.md": "c-000145",
+    "wiki/entities/Khidir AS.md": "c-000146",
+    "wiki/sources/Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter.md": "c-000147",
+    "wiki/concepts/Ulama Dunia.md": "c-000148",
+    "wiki/concepts/Ulama Akhirat.md": "c-000149",
+    "wiki/entities/Shaqiq al-Balkhi.md": "c-000150",
+    "wiki/entities/Bal'am bin Ba'ura.md": "c-000151",
+    "wiki/entities/Utsman bin Affan.md": "c-000152",
+    "wiki/drafts/Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan.md": "c-000047"
   }
 }

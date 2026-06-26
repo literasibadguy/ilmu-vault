@@ -16,19 +16,20 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-26. Mengimpor Bab I Bagian 3 & 4 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang klasifikasi ilmu tercela beserta sebab-sebabnya (**[[Blameworthy Sciences and Changing Meanings]]**) dan bahaya debat kusir spekulatif serta syarat debat yang benar (**[[Harms of Polemics and Evils of Debates]]**).
+2026-06-26. Mengimpor Bab I Bagian 5 & 6 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang adab murid dan guru (**[[Manners-of-Teachers-and-Students]]**) serta bahaya ulama duniawi dan tanda-tanda khusus ulama akhirat sejati (**[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]**).
 
 ## Fakta Kunci Terbaru
-- Ilmu diklasifikasikan sebagai tercela (**[[Ilmu Tercela]]**) karena merugikan orang lain (sihir), membahayakan pencarinya (astrologi spekulatif), atau tidak berguna karena melanggar prioritas (kewajiban utama).
-- Terjadi pergeseran makna istilah penting (**[[Pergeseran Makna Istilah]]**) seperti **[[Fiqh]]**, **[[Ilm]]**, **[[Tauhid]]**, **[[Dzikir]]**, dan **[[Hikmah]]** dari orientasi batin akhirat menjadi orientasi duniawi, perdebatan jurisprudensi, teologi spekulatif, dan popularitas sosial.
-- Sikap tawakal tauhid yang matang ditunjukkan oleh **[[Abu Bakar Ash-Shiddiq]]** ketika sakit dengan menyerahkan diagnosis dan penyembuhan murni kepada Allah.
-- Perdebatan keagamaan spekulatif (**[[Bahaya Debat]]**) berisiko tinggi melahirkan sepuluh penyakit hati utama seperti hasad, kibr (kesombongan), riya, nifaq, dan kemunafikan praktis.
-- Khalifah **[[Ali bin Abi Thalib]]** mengusir seluruh pendongeng dari masjid Basra demi menjaga kemurnian masjid dan hanya menyisakan **[[Al-Hasan al-Basri]]** yang khotbahnya murni mengulas akhirat.
+- Etika penuntut ilmu agama mencakup sepuluh tugas lahir-batin (**[[Adab Penuntut Ilmu]]**), diawali dengan mensucikan hati dari akhlak tercela karena menuntut ilmu batin adalah ibadah pikiran.
+- Etika pengajar mencakup delapan tugas utama (**[[Adab Pengajar]]**), dipimpin oleh sifat kasih sayang batiniah layaknya orang tua kandung, ikhlas tanpa mengharap upah lahiriah, mengajar sesuai tingkat akal murid, dan menyelaraskan perkataan dengan amal nyata.
+- Jiwa manusia memiliki esensi batiniah gaib luhur (**[[Esensi Jiwa]]**) sebagai wadah amanah agung dan penerima ilmu laduni.
+- Ulama dibagi menjadi **[[Ulama Dunia]]** (tamak akan harta dan jabatan, diibaratkan seperti anjing rakus, batu menyumbat air, atau manusia diubah menjadi babi) dan **[[Ulama Akhirat]]** (zuhud, tulus, takut kepada Allah, meyakini akhirat bertolak belakang dengan kemewahan dunia).
+- Dialog legendaris antara **[[Shaqiq al-Balkhi]]** dan muridnya **[[Hatim al-Asamm]]** tentang delapan pelajaran hikmah praktis batiniah yang merangkum esensi ajaran seluruh kitab suci samawi.
+- Keteladanan zuhud ditunjukkan oleh **[[Imam Malik bin Anas]]** yang patuh pada nasihat kesederhanaan, serta **[[Sahl bin Abdullah at-Tustari]]** yang menekankan pentingnya mengamalkan ilmu dengan penuh keikhlasan.
 
 ## Perubahan Terbaru
-- Dibuat: [[Blameworthy Sciences and Changing Meanings]], [[Harms of Polemics and Evils of Debates]], [[Ilmu Tercela]], [[Pergeseran Makna Istilah]], [[Fiqh]], [[Tauhid]], [[Dzikir]], [[Hikmah]], [[Bahaya Debat]], [[Sa'ad bin Ibrahim]], [[Abdullah bin Rawahah]], [[Atha bin Abi Rabah]].
-- Diperbarui: [[Al-Hasan al-Basri]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Anas bin Malik]].
+- Dibuat: [[Manners-of-Teachers-and-Students]], [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]], [[Adab Penuntut Ilmu]], [[Adab Pengajar]], [[Esensi Jiwa]], [[Khidir AS]], [[Ulama Dunia]], [[Ulama Akhirat]], [[Shaqiq al-Balkhi]], [[Bal'am bin Ba'ura]], [[Utsman bin Affan]].
+- Diperbarui: [[Nabi Musa AS]], [[Ali bin Abi Thalib]], [[Abu Bakar Ash-Shiddiq]], [[Ibnu Mas'ud]], [[Hatim al-Asamm]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Imam Malik bin Anas]], [[Imam Ahmad bin Hanbal]], [[Yahya bin Mu'adh]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Sahl bin Abdullah at-Tustari]].
 
 ## Alur Kerja Aktif
-- Kajian mendalam mengenai pergeseran sejarah makna istilah keagamaan, bahaya perdebatan hukum spekulatif bagi kebersihan hati, dan batasan ilmu-ilmu syariat.
+- Pengkajian etika keilmuan lahir-batin, pemurnian niat penuntut ilmu, pencegahan kemunafikan intelektual ulama duniawi, serta penyerahan tawakal batin mengikuti keteladanan salaf.
 - Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.
