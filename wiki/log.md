@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 9 & 10 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-vol1-chapter-1-part-9.md`, `.raw/ihya-vol1-chapter-1-part-10.md`
+- Ringkasan: [[Signs-of-the-Learned-of-the-Hereafter-Part-2]], [[Intellect-and-its-Noble-Nature]]
+- Halaman dibuat: [[Signs-of-the-Learned-of-the-Hereafter-Part-2]], [[Intellect-and-its-Noble-Nature]], [[Keyakinan Batin]], [[Akal]], [[Bishr al-Hafi]], [[Ibrahim bin Adham]], [[Abdur Rahman bin Abi Laila]], [[Abu Hafs al-Naysaburi]], [[Al-Awza'i]], [[Tamim ad-Dari]]
+- Halaman diperbarui: [[Ulama Akhirat]], [[Sa'd ibn Abi Waqqas]], [[Hudhayfah bin al-Yaman]], [[Ash-Sha'bi]], [[Sa'id bin al-Musayyab]], [[Makhul al-Shami]], [[Al-Hasan al-Basri]], [[Umar bin Abdul Aziz]], [[Sufyan ath-Thawri]], [[Imam Ahmad bin Hanbal]], [[Imam Malik bin Anas]], [[Abu al-Darda]], [[Anas bin Malik]], [[Sahl bin Abdullah at-Tustari]], [[Luqman]], [[Abu Sulayman al-Darani]], [[Marwan bin al-Hakam]], [[Abu Sa'id Al-Khudri]], [[Al-Bara' bin Azib]], [[Aisyah binti Abu Bakar]], [[Abu Hurayrah]]
+- Temuan Kunci: Menyelesaikan pemaparan 12 tanda Ulama Akhirat sejati dari Part 9 (tanda 5-12) termasuk bahaya kedekatan dengan penguasa, kewaspadaan berfatwa, ilmu batin/penelitian hati, konsep keyakinan batin (*yaqin*) beserta tingkatannya, serta larangan berbuat bid'ah. Mengimpor pemaparan keutamaan Akal (*Aql*) dari Part 10 sebagai tiang penyangga agama, mendefinisikan 4 kategori makna akal, perbandingan antara akal dan syariat (mata vs cahaya), serta disparitas kapasitas akal bawaan manusia.
+
 ## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 7 & 8 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-vol1-chapter-1-part-7.md`, `.raw/ihya-vol1-chapter-1-part-8.md`
 - Ringkasan: [[Manners-of-Teachers-and-Students]], [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]

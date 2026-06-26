@@ -16,20 +16,19 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-26. Mengimpor Bab I Bagian 5 & 6 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang adab murid dan guru (**[[Manners-of-Teachers-and-Students]]**) serta bahaya ulama duniawi dan tanda-tanda khusus ulama akhirat sejati (**[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]**).
+2026-06-26. Mengimpor kelanjutan Bab I Bagian 6 & 7 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang 12 tanda Ulama Akhirat sejati (**[[Signs-of-the-Learned-of-the-Hereafter-Part-2]]**) serta keutamaan Akal (**[[Intellect-and-its-Noble-Nature]]**).
 
 ## Fakta Kunci Terbaru
-- Etika penuntut ilmu agama mencakup sepuluh tugas lahir-batin (**[[Adab Penuntut Ilmu]]**), diawali dengan mensucikan hati dari akhlak tercela karena menuntut ilmu batin adalah ibadah pikiran.
-- Etika pengajar mencakup delapan tugas utama (**[[Adab Pengajar]]**), dipimpin oleh sifat kasih sayang batiniah layaknya orang tua kandung, ikhlas tanpa mengharap upah lahiriah, mengajar sesuai tingkat akal murid, dan menyelaraskan perkataan dengan amal nyata.
-- Jiwa manusia memiliki esensi batiniah gaib luhur (**[[Esensi Jiwa]]**) sebagai wadah amanah agung dan penerima ilmu laduni.
-- Ulama dibagi menjadi **[[Ulama Dunia]]** (tamak akan harta dan jabatan, diibaratkan seperti anjing rakus, batu menyumbat air, atau manusia diubah menjadi babi) dan **[[Ulama Akhirat]]** (zuhud, tulus, takut kepada Allah, meyakini akhirat bertolak belakang dengan kemewahan dunia).
-- Dialog legendaris antara **[[Shaqiq al-Balkhi]]** dan muridnya **[[Hatim al-Asamm]]** tentang delapan pelajaran hikmah praktis batiniah yang merangkum esensi ajaran seluruh kitab suci samawi.
-- Keteladanan zuhud ditunjukkan oleh **[[Imam Malik bin Anas]]** yang patuh pada nasihat kesederhanaan, serta **[[Sahl bin Abdullah at-Tustari]]** yang menekankan pentingnya mengamalkan ilmu dengan penuh keikhlasan.
+- Pemaparan 12 tanda **[[Ulama Akhirat]]** sejati selesai dibahas, mencakup kewajiban menjauhi penguasa, berhati-hati dalam berfatwa dan tidak malu berkata "saya tidak tahu" (**[[Abdur Rahman bin Abi Laila]]**, **[[Ash-Sha'bi]]**), mengamati hati dan menempuh batin (*khalwah/mujahadah*), keyakinan batin (*yaqin*) yang kokoh (**[[Keyakinan Batin]]**), kerendahan hati, mengetahui perusak amal (**[[Hudhayfah bin al-Yaman]]**), mengandalkan mata hati batin (*bashirah*), serta menjauhi bid'ah (**[[Abu Sa'id Al-Khudri]]**).
+- Akal (**[[Akal]]**) adalah tiang penyangga utama bagi manusia dan agama, serta dasar kemuliaan manusia di dunia dan akhirat (**[[Tamim ad-Dari]]**, **[[Umar bin Khattab]]**).
+- Akal terbagi ke dalam empat kategori makna: insting alami untuk ilmu teoritis, pengetahuan aksiomatik (misal: 2 > 1), pengetahuan eksperiensial/pengalaman hidup, dan kekuatan batin pengendalian diri demi kemaslahatan akhirat.
+- Hubungan akal dan syariat bagaikan indra penglihatan (mata) dan cahaya matahari; keduanya saling membutuhkan untuk menyingkap kebenaran.
+- Kapasitas akal bawaan lahir setiap manusia memiliki perbedaan tingkat (disparitas) yang nyata.
 
 ## Perubahan Terbaru
-- Dibuat: [[Manners-of-Teachers-and-Students]], [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]], [[Adab Penuntut Ilmu]], [[Adab Pengajar]], [[Esensi Jiwa]], [[Khidir AS]], [[Ulama Dunia]], [[Ulama Akhirat]], [[Shaqiq al-Balkhi]], [[Bal'am bin Ba'ura]], [[Utsman bin Affan]].
-- Diperbarui: [[Nabi Musa AS]], [[Ali bin Abi Thalib]], [[Abu Bakar Ash-Shiddiq]], [[Ibnu Mas'ud]], [[Hatim al-Asamm]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Imam Malik bin Anas]], [[Imam Ahmad bin Hanbal]], [[Yahya bin Mu'adh]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Sahl bin Abdullah at-Tustari]].
+- Dibuat: [[Signs-of-the-Learned-of-the-Hereafter-Part-2]], [[Intellect-and-its-Noble-Nature]], [[Keyakinan Batin]], [[Akal]], [[Bishr al-Hafi]], [[Ibrahim bin Adham]], [[Abdur Rahman bin Abi Laila]], [[Abu Hafs al-Naysaburi]], [[Al-Awza'i]], [[Tamim ad-Dari]].
+- Diperbarui: [[Ulama Akhirat]], [[Sa'd ibn Abi Waqqas]], [[Hudhayfah bin al-Yaman]], [[Ash-Sha'bi]], [[Sa'id bin al-Musayyab]], [[Makhul al-Shami]], [[Al-Hasan al-Basri]], [[Umar bin Abdul Aziz]], [[Sufyan ath-Thawri]], [[Imam Ahmad bin Hanbal]], [[Imam Malik bin Anas]], [[Abu al-Darda]], [[Anas bin Malik]], [[Sahl bin Abdullah at-Tustari]], [[Luqman]], [[Abu Sulayman al-Darani]], [[Marwan bin al-Hakam]], [[Abu Sa'id Al-Khudri]], [[Al-Bara' bin Azib]], [[Aisyah binti Abu Bakar]], [[Abu Hurayrah]].
 
 ## Alur Kerja Aktif
-- Pengkajian etika keilmuan lahir-batin, pemurnian niat penuntut ilmu, pencegahan kemunafikan intelektual ulama duniawi, serta penyerahan tawakal batin mengikuti keteladanan salaf.
+- Pengkajian dan internalisasi 12 tanda Ulama Akhirat sejati, penguatan keyakinan batin (*yaqin*) serta penjagaan akal sehat dari dominasi hawa nafsu dan inovasi bid'ah.
 - Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.

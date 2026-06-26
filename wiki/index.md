@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-26 | Total halaman: 343 | Sumber diimpor: 58
+Terakhir diperbarui: 2026-06-26 | Total halaman: 353 | Sumber diimpor: 60
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -25,6 +25,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 - [[Abdal]]  — **Abdal** (bentuk jamak dari *Badal* atau *Badil*) adalah golongan wali Allah atau kaum sufi/asketis tingkat tinggi yang memiliki kedudukan mulia di sisi Allah SWT. Mereka dikenal karena kezuhudan ... (status: seed)
 - [[Ad-Dahr]]  — **Ad-Dahr** secara bahasa berarti waktu, masa, atau zaman. Dalam akidah Islam, terdapat larangan keras bagi seorang Muslim untuk mencela, mengutuk, atau memaki waktu ketika ditimpa kemalangan atau ... (status: seed)
+- [[Akal]]  — **Akal** (*Aql*) adalah substansi rohani atau cahaya spiritual yang dianugerahkan Allah sebagai alat utama untuk memperoleh pengetahuan dan mengendalikan hawa nafsu... (status: evergreen)
 - [[Adab Berbicara]]  — **Adab Berbicara** (atau *Adab al-Kalam*) adalah disiplin akhlak Islam dalam menjaga lisan dari ucapan yang buruk, kasar, kotor, sia-sia, atau tidak selaras dengan prinsip tauhid dan syariat. Islam... (status: developing)
 - [[Adab Makan dan Minum]]  — Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diajarkan oleh Nabi Muhammad ﷺ terkait cara manusia mengonsumsi makanan dan minuman. Dalam Islam, makan bukan sekadar akti... (status: seed)
 - [[Adab Pengajar]]  — **Adab Pengajar** adalah delapan kewajiban etis dan pedagogis bagi para pendidik agar ilmu yang disampaikan berkah dan bermanfaat bagi akhirat murid... (status: evergreen)
@@ -88,6 +89,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Keutamaan Mengajar]]  — **Keutamaan Mengajar** (Ta'lim / Irsyad) dalam tradisi intelektual Islam diposisikan sebagai kelanjutan langsung dari misi kerasulan (kenabian). Menurut **[[Imam Al-Ghazali]]**, seorang pendidik sp... (status: developing)
 - [[Keutamaan Menuntut Ilmu]]  — **Keutamaan Menuntut Ilmu** (Thalabul Ilmi) adalah salah satu konsep sentral dalam ajaran Islam yang menekankan pencarian kebenaran teologis dan praktis demi mendekatkan diri kepada Allah SWT. Dala... (status: developing)
 - [[Kewajiban Meluruskan Pemimpin]]  — **Kewajiban Meluruskan Pemimpin** adalah tugas keagamaan dan sosial bagi setiap muslim, khususnya para ulama dan rakyat, untuk menasihati, mengkritik, dan meluruskan kebijakan pemimpin yang menyimp... (status: seed)
+- [[Keyakinan Batin]]  — **Keyakinan Batin** (*Yaqin*) adalah kemantapan iman di dalam hati tanpa menyisakan keraguan, yang menjadi akar dari seluruh amalan agama... (status: evergreen)
 - [[Kezaliman Diri]]  — **Kezaliman Diri** (*Zhulmul Nafsi*) adalah tindakan seorang hamba yang merugikan atau membahayakan keselamatan spiritualnya sendiri dengan melanggar larangan Allah SWT dan melakukan perbuatan maks... (status: seed)
 - [[Kezaliman Pemimpin]]  — **Kezaliman Pemimpin** adalah tindakan menyalahgunakan kekuasaan, melakukan penipuan (*ghasyd*) terhadap rakyat, merampas hak-hak publik tanpa dasar kebenaran, serta mengabaikan kebutuhan dan kesej... (status: seed)
 - [[Khamr dan Intoksikasi]]  — **Khamr dan Intoksikasi** (*khamr* dan *muskirat*) mengacu pada konsep teologis dan hukum Islam mengenai zat apa pun yang memabukkan atau menutupi/mengurangi fungsi akal sehat (*takhmiir al-aql*). ... (status: seed)
@@ -144,6 +146,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Abdullah bin Rawahah]]  — **Abdullah bin Rawahah** (Abdullah bin Rawahah bin Imru'ul Qais al-Anshari al-Khazraji, wafat 8 H / 629 M di Mu'tah) adalah salah satu sahabat utama Nabi Muhammad ﷺ dari kalangan Anshar... (status: seed)
 - [[Abdullah bin Salam]]  — **Abdullah bin Salam** adalah sahabat Nabi SAW dari kalangan rabi/pendeta utama Yahigi Bani Qainuqa di Madinah sebelum memeluk Islam. Beliau dikenal sangat alim, jujur, dan memiliki pemahaman menda... (status: seed)
 - [[Abdullah bin Sharik al-Amiri]]  — **Abdullah bin Sharik al-Amiri** adalah seorang perawi hadis dan atsar dari kalangan Tabi'in. Beliau meriwayatkan riwayat-riwayat penting dari para sahabat Nabi, termasuk Abdullah bin Umar (Ibnu Um... (status: seed)
+- [[Abdur Rahman bin Abi Laila]]  — **Abdur Rahman bin Abi Laila** adalah seorang tabi'in senior terkemuka asal Kufah, ahli fiqih, dan perawi hadis yang meriwayatkan sikap wara' sahabat Nabi... (status: evergreen)
 - [[Abdur-Rahman Ibn Awf]]  — **Abdur-Rahman Ibn Awf** (wafat 32 H / 652 M di Madinah) adalah salah satu sahabat utama Nabi SAW yang termasuk dalam kelompok sepuluh orang yang dijamin masuk surga (*al-'asyaroh al-mubasysyaruna ... (status: seed)
 - [[Abu al-Aswad al-Du'ali]]  — **Abu al-Aswad al-Du'ali** (nama asli: *Zalim bin Amr bin Sufyan*) adalah seorang Tabi'in senior dan sekutu dekat Khalifah Ali bin Abi Thalib. Beliau secara historis diakui sebagai peletak batu per... (status: seed)
 - [[Abu al-Darda]]  — **Abu al-Darda** (nama lengkap: *Uwaymir bin Malik al-Khazraji*) adalah salah satu sahabat terkemuka Nabi Muhammad SAW yang terkenal karena kezuhudannya, kebijaksanaan rohani (*wisdom*), serta peng... (status: seed)
@@ -170,6 +173,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ahnaf bin Qais]]  — **Ahnaf bin Qais** (w. 72 H) adalah pemimpin besar suku Bani Tamim dan tabi'in terkemuka yang dikenal di seluruh jazirah Arab karena kelembutan hatinya (*hilm*), kecerdasan diplomatik, serta ketakw... (status: seed)
 - [[Aisyah binti Abu Bakar]]  — **Aisyah binti Abu Bakar** (Ummul Mukminin, wafat 58 H / 678 M) adalah istri ketiga **[[Nabi Muhammad SAW]]** dan putri dari **[[Abu Bakar Ash-Shiddiq]]**. Beliau diakui sebagai salah satu wanita p... (status: seed)
 - [[Al-Bara' bin Azib]]  — **Al-Bara' bin Azib** (Al-Bara' bin Azib bin al-Harits al-Anshari) adalah seorang sahabat dekat Nabi SAW dari kaum Anshar yang kemudian menetap di Kufah. Beliau adalah periwayat hadis yang produkti... (status: seed)
+- [[Al-Awza'i]]  — **Al-Awza'i** (Imam Al-Awza'i) adalah pendiri Mazhab Awza'i yang zuhud, ahli ibadah malam, dan tegas menolak kedekatan dengan penguasa... (status: evergreen)
 - [[Al-Fudayl bin Iyad]]  — **Al-Fudayl bin Iyad** (Fudhail bin Iyadh bin Mas'ud al-Yarbuqi, lahir di Samarqand sekitar 107 H / 726 M, wafat di Mekkah 187 H / 803 M) adalah seorang ulama hadis terkemuka dan tokoh kezuhudan ag... (status: seed)
 - [[Al-Harith al-Muhasibi]]  — **Al-Harith al-Muhasibi** (Abu Abdillah al-Harith bin Asad al-Muhasibi al-Baghdadi, lahir di Basra 165 H / 781 M, wafat di Baghdad 243 H / 857 M) adalah seorang sufi terkemuka, teolog, dan pelopor ... (status: seed)
 - [[Al-Hasan al-Basri]]  — **Al-Hasan al-Basri** (Abu Sa'id al-Hasan bin Abil Hasan Yasar, lahir di Madinah 21 H / 642 M, wafat di Basra 110 H / 728 M) adalah salah satu ulama Tabi'in paling berpengaruh dalam sejarah Islam. ... (status: seed)
@@ -193,6 +197,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[B. Aisha Lemu]]  — **B. Aisha Lemu** (Bridget Aisha Lemu) adalah seorang penulis, pendidik, dan tokoh Muslim asal Inggris yang aktif berkontribusi dalam pendidikan Islam, khususnya bagi mualaf dan perempuan Muslim. I... (status: seed)
 - [[Bal'am bin Ba'ura]]  — **Bal'am bin Ba'ura** adalah ulama Bani Israil yang berilmu namun terjatuh dalam kehinaan duniawi karena menuruti hawa nafsu (QS. Al-A'raf: 175)... (status: evergreen)
 - [[Bilal bin Rabah]]  — **Bilal bin Rabah** (wafat 20 H / 641 M di Damaskus) adalah sahabat dekat Rasulullah ﷺ asal Abisinia (Etiopia) yang memeluk Islam di awal dakwah dan disiksa secara keji oleh majikannya Umayah bin K... (status: seed)
+- [[Bishr al-Hafi]]  — **Bishr al-Hafi** (Bashr-b-Hares) adalah sufi terkemuka dari Bagdad yang terkenal karena kezuhudannya yang ekstrem dan penolakannya terhadap kepemimpinan yang manipulatif... (status: evergreen)
 - [[Burayda bin al-Husaib]]  — **Burayda bin al-Husaib** (Buraydah bin al-Hushaib al-Aslami, wafat 62 H) adalah seorang sahabat Nabi SAW yang memeluk Islam bersama rombongan kaumnya ketika menyegat perjalanan Hijrah Rasulullah S... (status: seed)
 - [[Fath al-Mawsili]]  — **Fath al-Mawsili** (sering ditulis *Fathul Musolli*, wafat sekitar 220 H / 835 M) adalah seorang sufi terkemuka, zahid (ahli zuhud), dan ulama salaf asal Mosul, Irak. Beliau sezaman dengan Sufyan ... (status: seed)
 - [[Fatima binti Muhammad]]  — **Fatima binti Muhammad** (Fatima az-Zahra, wafat 11 H / 632 M) adalah putri bungsu kesayangan **[[Nabi Muhammad SAW]]** dari pernikahannya dengan **[[Khadijah binti Khuwailid]]**. Beliau menikah d... (status: seed)
@@ -212,6 +217,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ibnu Umar]]  — **Ibnu Umar** (Abdullah bin Umar bin Khattab) adalah putra dari Khalifah Umar bin Khattab, sahabat terkemuka Nabi SAW, and salah satu perawi hadis paling produktif dalam sejarah Islam (*Al-Muktsiru... (status: seed)
 - [[Ibnul Qayyim Al-Jauziyyah]]  — **Ibnul Qayyim Al-Jauziyyah** (Syamsuddin Abu Abdullah Muhammad bin Abi Bakr) adalah seorang teolog, ahli hukum hambali, dan penulis prolifik Islam. Beliau merupakan murid terdekat dan paling utama... (status: seed)
 - [[Ibrahim an-Nakha'i]]  — **Ibrahim an-Nakha'i** (Ibrahim bin Yazid bin Qais an-Nakha'i, lahir sekitar 47 H / 667 M, wafat 96 H / 714 M) adalah ulama besar Tabi'in dari Irak yang ahli dalam bidang hukum Islam (fiqih). Belia... (status: seed)
+- [[Ibrahim bin Adham]]  — **Ibrahim bin Adham** (Ibrahim-b-Adam) adalah pelopor gerakan tasawuf awal dari Balkh yang terkenal karena kezuhudannya meninggalkan kemegahan istana... (status: evergreen)
 - [[Imaam an-Nawawi]]  — **Imaam an-Nawawi** (Yahya bin Syaraf al-Nawawi) adalah seorang ulama besar mazhab Syafi'i yang terkenal di bidang fiqih dan hadis. Karya beliau yang paling monumental di antaranya adalah kitab *Sy... (status: seed)
 - [[Imam Abu Hanifa]]  — **Imam Abu Hanifa** (Nu'man bin Tsabit bin Zuta bin Marzuban, lahir di Kufah 80 H / 699 M, wafat di Baghdad 150 H / 767 M) adalah salah satu mujtahid mutlak teragung, pendiri Mazhab Fiqih Hanafi, d... (status: seed)
 - [[Imam Adh-Dhahabi]]  — **Imam Adh-Dhahabi** (Syamsuddin Abu Abdillah Muhammad bin Ahmad bin Utsman bin Qaymaz adz-Dzahabi, lahir 673 H / 1274 M, wafat 748 H / 1348 M) adalah seorang ulama besar, sejarawan Islam, ahli had... (status: seed)
@@ -275,6 +281,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Syaikh Abdurrahman bin Nashir As-Sa'di]]  — Syaikh Abdurrahman bin Nashir As-Sa'di (1307–1376 H) merupakan seorang ulama besar, ahli fiqih, dan mufasir asal Unaizah, Arab Saudi. Beliau sangat terkenal karena karya tulisnya yang lugas dan ber... (status: seed)
 - [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]]  — Prof. Dr. Abdurrazzaq bin Abdulmuhsin al-Badr merupakan seorang ulama kontemporer terkemuka dari Madinah, Arab Saudi. Beliau aktif sebagai profesor Aqidah di Universitas Islam Madinah dan merupakan... (status: seed)
 - [[Talhah bin Ubaidillah]]  — **Talhah bin Ubaidillah** (wafat 36 H / 656 M di Perang Jamal) adalah sahabat dekat Nabi SAW yang bergelar *Talhah al-Fayyadh* (Talhah yang dermawan) karena kedermawanannya yang tanpa batas. Beliau... (status: seed)
+- [[Tamim ad-Dari]]  — **Tamim ad-Dari** adalah sahabat Nabi SAW asal Palestina, mantan pendeta Kristen yang berwawasan luas, terkenal karena riwayat Dajjal dan mimbar pertama... (status: evergreen)
 - [[Umar bin Abdul Aziz]]  — **Umar bin Abdul Aziz** (juga dikenal sebagai Umar II) adalah Khalifah dari Dinasti Bani Umayyah yang memerintah antara tahun 717-720 M. Beliau sering dijuluki sebagai *Khalifah Rasyidah Kelima* ka... (status: seed)
 - [[Umar bin Khattab]]  — **Umar bin Khattab** adalah sahabat dekat Nabi SAW dan Khalifah Rasyidah kedua yang memimpin ekspansi kekhalifahan Islam secara luar biasa. Beliau dikenal dengan ketegasannya menegakkan keadilan hu... (status: seed)
 - [[Umm Salamah]]  — **Umm Salamah** (Hindun binti Abi Umayyah, wafat sekitar 62 H / 681 M) adalah salah satu istri **[[Nabi Muhammad SAW]]** yang dikenal memiliki kecerdasan tajam, kebijaksanaan dalam berpendapat, ser... (status: seed)
@@ -315,6 +322,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Harms of Greed and Sexual Passion]]  — **Harms of Greed and Sexual Passion** (Bahaya Nafsu Perut dan Syahwat Kemaluan) merupakan Bab III dari bagian *Destructive Evils* dalam kitab monumental *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]... (status: seed)
 - [[Harms of Polemics and Evils of Debates]]  — Ringkasan dari Bab I Bagian 4 *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai bahaya ilmu jidal/debat teologis, sejarah perdebatan fiqih, serta 8 syarat debat mencari ridha Allah... (status: evergreen)
 - [[In the Remembrance of the Affairs of the Dead and Doomsday]]  — Kompilasi tiga bab esensial mengenai sakaratul maut, pengguguran dosa melalui rasa sakit, serta adab batin mukmin berupa husnudzon, raja' (harapan), dan khauf (takut) menjelang kematian. Bersumber ... (status: seed)
+- [[Intellect and its Noble Nature]]  — Ringkasan Bab I Bagian 7 Ihya' Ulumiddin mengenai kemuliaan esensial akal batin, definisi empat dimensi akal, serta disparitas akal manusia... (status: evergreen)
 - [[Introduction and Silence]]  — Bagian pendahuluan dari Bab XV (Bencana Lisan) dalam kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**. Bagian ini menguraikan keagungan lisan sebagai agen akal serta keutamaan diam (*merits of... (status: seed)
 - [[Justifications Authorizing Backbiting]]  — **Justifications Authorizing Backbiting** (Pembenaran yang Membolehkan Ghibah) merupakan bagian penjelasan rukhsah (keringanan) dari Bab XV (Bencana Lisan Kelima Belas: Ghibah) dalam kitab *Ihya' U... (status: seed)
 - [[Lives and Virtues of the Great Imams]]  — Ringkasan dari Bab I Bagian 2 (Seksi 2 Lanjutan) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai karakter, kezuhudan, ketakwaan, serta keluhuran akhlak lima pendiri mazhab dan ulama salaf ... (status: evergreen)
@@ -338,6 +346,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Regarding His Guidance in Prayer]]  — Bab dari kitab *Zad al-Ma'ad* karya **[[Ibnul Qayyim Al-Jauziyyah]]** yang mendokumentasikan secara rinci petunjuk **[[Nabi Muhammad SAW]]** dalam melaksanakan ibadah shalat (**[[Sifat Shalat Nabi]... (status: seed)
 - [[Remedy for Backbiting Restraining the Tongue]]  — **Remedy for Backbiting Restraining the Tongue** (Terapi Mengatasi Ghibah dengan Menahan Lisan) merupakan bagian dari Bab XV (Bencana Lisan Kelima Belas: Ghibah) dalam kitab *Ihya' Ulumiddin* karya... (status: seed)
 - [[Showing Off (Pamer/Riya)]]  — Kumpulan dalil Al-Qur'an, Hadis, dan perkataan ulama salaf tentang bahaya **[[Riya]]** (pamer/pencitraan dalam beribadah) dan **[[Syirik Asghar]]** (syirik kecil). Teks ini menjelaskan definisi riy... (status: seed)
+- [[Signs of the Learned of the Hereafter Part 2]]  — Ringkasan Bab I Bagian 6 (Seksi 6 Lanjutan) Ihya' Ulumiddin mengenai tanda ke-5 hingga ke-12 Ulama Akhirat... (status: evergreen)
 - [[Supplications That Are Most Likely Answered]]  — Dokumen ini memaparkan kumpulan doa dan zikir yang paling mustajab (paling berpeluang dikabulkan oleh Allah SWT) berdasarkan hadis-hadis sahih. Fokus utamanya adalah penjelasan mengenai konsep **[[... (status: complete)
 - [[Tafsir As-Sa'di: Kisah Adam dan Iblis]]  — Penjelasan Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr mengenai penafsiran Syaikh As-Sa'di tentang kisah Nabi Adam AS, Hawa, dan Iblis dalam Surah Al-A'raf ayat 19-23. Transkrip ini merinci taktik I... (status: seed)
 - [[The Devils and The Eye]]  — Kutipan teks klasik karya [[Ibnul Qayyim Al-Jauziyyah]] (dari kitab *Ighathat al-Lahfan*) yang menggambarkan monolog/strategi [[Iblis]] dalam menyesatkan manusia melalui pintu pandangan mata. Teks ... (status: seed)

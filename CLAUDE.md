@@ -1,8 +1,8 @@
 # Ilmuzip Vault: LLM Wiki
 
 Metode: Gabungan Penelitian (Mode E) & Produksi Konten (Mode F)
-Tujuan: Penelitian tentang ilmu keislaman, koleksi ceramah/kajian, serta draf artikel, postingan, dan video (KICIKKU, @jamaahquba).
-Pemilik: Firas Raf Islam
+Tujuan: Penelitian tentang ilmu keislaman, koleksi ceramah/kajian, serta draf artikel, postingan, dan video (KICIKKU, [@ilmuzip](https://x.com/ilmuzip)).
+Pemilik: [Firasraf](https://linkedin.com/in/penulis)
 Dibuat: 2026-06-07
 
 ## Struktur Folder
@@ -18,7 +18,7 @@ ilmuzip-vault/
 │   ├── sources/        # Ringkasan kajian, buku, atau artikel yang disintesis
 │   ├── concepts/       # Istilah, konsep, dan prinsip keislaman
 │   ├── entities/       # Ulama, ustadz, tokoh sejarah, organisasi, kanal
-│   ├── drafts/         # Draf artikel, utas/postingan X (@jamaahquba), naskah YouTube (KICIKKU)
+│   ├── drafts/         # Draf artikel, utas/postingan X (@ilmuzip), naskah YouTube (KICIKKU)
 │   ├── comparisons/    # Analisis perbandingan dan pemetaan topik
 │   ├── questions/      # Jawaban atas pertanyaan penelitian keagamaan/sejarah
 │   └── meta/           # Dasbor, templat, kalender konten, laporan kesehatan wiki

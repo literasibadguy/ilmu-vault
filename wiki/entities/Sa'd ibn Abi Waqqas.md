@@ -16,6 +16,7 @@ related:
   - "[[Umar bin Khattab]]"
 sources:
   - "[[Neglect of the Prayer]]"
+  - "[[Signs of the Learned of the Hereafter Part 2]]"
 ---
 
 # Sa'd ibn Abi Waqqas
@@ -29,6 +30,7 @@ sources:
 - **Penanya Tafsir Surah Al-Ma'un**: Menjadi perantara ilmu dengan bertanya langsung kepada Rasulullah SAW mengenai maksud orang yang lalai dalam shalatnya (QS. Al-Ma'un: 4-5), yang kemudian dijawab Nabi SAW bahwa itu bermakna *"orang yang menunda-nunda shalatnya keluar dari waktunya"* (**[[Neglect of the Prayer]]**).
 - **Doa yang Mustajab**: Rasulullah SAW pernah mendoakan Sa'd: *"Ya Allah, tepatkanlah lemparan panahnya dan kabulkanlah doanya."* Oleh karena itu, Sa'd dikenal di kalangan sahabat sebagai orang yang doanya sangat cepat dikabulkan.
 - **Pendidikan Shalat**: Meriwayatkan hadis mengenai perintah mendidik anak shalat pada usia 7 tahun dan memukulnya pada usia 10 tahun jika melalaikannya.
+- **Sikap Zuhud Terhadap Rulers**: Menolak mendatangi rumah penguasa dan menolak mengejar kesenangan duniawi yang beliau ibaratkan seperti bangkai (*corpse*) yang dikelilingi orang-orang. Beliau memilih menanggung bahaya kelaparan daripada terjerumus pada kemunafikan batin (**[[Signs of the Learned of the Hereafter Part 2]]**).
 
 ## Hubungan
 
@@ -38,3 +40,4 @@ sources:
 ## Sumber
 
 - [[Neglect of the Prayer]]
+- [[Signs of the Learned of the Hereafter Part 2]]

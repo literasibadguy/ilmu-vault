@@ -1176,6 +1176,46 @@
         "wiki/overview.md",
         "wiki/entities/Sahl bin Abdullah at-Tustari.md"
       ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-9.md": {
+      "hash": "058d976804ab40d08049cfea2ab46866",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Signs-of-the-Learned-of-the-Hereafter-Part-2.md",
+        "wiki/concepts/Keyakinan Batin.md",
+        "wiki/entities/Bishr al-Hafi.md",
+        "wiki/entities/Ibrahim bin Adham.md",
+        "wiki/entities/Abdur Rahman bin Abi Laila.md",
+        "wiki/entities/Abu Hafs al-Naysaburi.md",
+        "wiki/entities/Al-Awza'i.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ulama Akhirat.md",
+        "wiki/entities/Sa'd ibn Abi Waqqas.md",
+        "wiki/entities/Hudhayfah bin al-Yaman.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-10.md": {
+      "hash": "ab53c37571254e5210fe2ee2a412a2f8",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Intellect-and-its-Noble-Nature.md",
+        "wiki/concepts/Akal.md",
+        "wiki/entities/Tamim ad-Dari.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Al-Bara' bin Azib.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -1330,6 +1370,16 @@
     "wiki/entities/Shaqiq al-Balkhi.md": "c-000150",
     "wiki/entities/Bal'am bin Ba'ura.md": "c-000151",
     "wiki/entities/Utsman bin Affan.md": "c-000152",
-    "wiki/drafts/Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan.md": "c-000047"
+    "wiki/drafts/Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan.md": "c-000047",
+    "wiki/sources/Signs-of-the-Learned-of-the-Hereafter-Part-2.md": "c-000153",
+    "wiki/concepts/Keyakinan Batin.md": "c-000154",
+    "wiki/entities/Bishr al-Hafi.md": "c-000155",
+    "wiki/entities/Ibrahim bin Adham.md": "c-000156",
+    "wiki/entities/Abdur Rahman bin Abi Laila.md": "c-000157",
+    "wiki/entities/Abu Hafs al-Naysaburi.md": "c-000158",
+    "wiki/entities/Al-Awza'i.md": "c-000159",
+    "wiki/sources/Intellect-and-its-Noble-Nature.md": "c-000160",
+    "wiki/concepts/Akal.md": "c-000161",
+    "wiki/entities/Tamim ad-Dari.md": "c-000162"
   }
 }

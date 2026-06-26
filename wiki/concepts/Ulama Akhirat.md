@@ -20,7 +20,7 @@ address: c-000149
 
 ## Tanda-Tanda Utama Ulama Akhirat
 
-Al-Ghazali merinci beberapa tanda kepribadian dan metodologi hidup dari Ulama Akhirat:
+Al-Ghazali merinci 12 tanda kepribadian dan metodologi hidup dari Ulama Akhirat:
 
 1. **Zuhud Terhadap Dunia**:
    Mereka tidak mencari kesenangan, harta, atau popularitas lewat ilmunya. Mereka meyakini bahwa dunia dan akhirat adalah dua hal yang bertolak belakang. Beliau menggambarkan oposisi ini lewat empat analogi klasik:
@@ -37,6 +37,30 @@ Al-Ghazali merinci beberapa tanda kepribadian dan metodologi hidup dari Ulama Ak
 
 4. **Kesederhanaan Hidup**:
    Mereka membatasi diri dari kemewahan makanan, pakaian, perhiasan, dan tempat tinggal. Mereka mengikuti jejak hidup sederhana para sahabat dan generasi awal Islam. Keteladanan ini ditunjukkan oleh **[[Imam Malik bin Anas]]** yang mengakui bahwa meskipun kenikmatan halal diperbolehkan, memilih kesederhanaan (*zuhud*) jauh lebih mulia di mata Allah.
+
+5. **Menjauhkan Diri dari Penguasa**:
+   Mereka tidak mendekati pintu istana para penguasa atau mencari kerelaan hati mereka, demi menjaga independensi iman dan mencegah hipokrisi. Keteladanan ini dicontohkan oleh **[[Sa'd ibn Abi Waqqas]]** yang menolak mendekati rumah para penguasa meskipun diancam kelaparan.
+
+6. **Tidak Terburu-buru Memberikan Fatwa**:
+   Mereka sangat berhati-hati dalam memutuskan perkara hukum syariat. Jika ragu, mereka dengan jujur mengatakan "Saya tidak tahu" (yang menurut **[[Ash-Sha'bi]]** adalah setengah dari ilmu) atau merujuk pertanyaan tersebut kepada ulama lain yang lebih kompeten, sebagaimana teladan **[[Abdur Rahman bin Abi Laila]]** dan para sahabat di Kufah.
+
+7. **Menyibukkan Diri dengan Ilmu Batin dan Pengamatan Hati**:
+   Mereka mengutamakan pembersihan jiwa (*tazkiyah*) dan menempuh jalan kesunyian batin (*khalwah*) serta latihan rohani (*mujahadah*). Aktivitas ini dapat memicu mengalirnya hikmah batin, inspirasi ilahi (*ilham*), serta penyingkapan kebenaran (*kashf*), sebagaimana yang ditekankan oleh **[[Sahl bin Abdullah at-Tustari]]** dan dirasakan secara mendalam oleh **[[Bishr al-Hafi]]**.
+
+8. **Memiliki Keyakinan Batin yang Kokoh** (**[[Keyakinan Batin]]** / *Yaqin*):
+   Mereka mendedikasikan hidupnya untuk memperkuat keyakinan hakiki mereka kepada Allah, tauhid, janji akhirat, serta jaminan rezeki. Keyakinan batin yang kuat inilah yang menjadi penggerak utama amal saleh mereka.
+
+9. **Memancarkan Ketakutan Kepada Allah (*Khauf*) dan Kerendahan Hati**:
+   Efek rasa takut kepada Allah tampak nyata pada penampilan lahiriah, cara berjalan, tutur kata, keheningan, serta kerendahan hati mereka kepada guru maupun murid.
+
+10. **Mempelajari Cara Menghindari Kerusakan Amal**:
+    Mereka fokus memahami hal-hal yang dapat merusak amal seperti kemunafikan batin dan tipu daya setan. Pengetahuan mendalam tentang keburukan ini dipelajari demi menjaga kemurnian amal, meniru teladan **[[Hudhayfah bin al-Yaman]]** yang mempelajari hal-hal buruk dari Rasulullah agar tidak terjerumus ke dalamnya.
+
+11. **Mengandalkan Insight Batin (*Bashirah*)**:
+    Mereka mengutamakan pemahaman langsung yang terpancar dari hati yang bersih dan diterangi cahaya ilahi, ketimbang sekadar bersandar pada hafalan tekstual dari buku-buku kompilasi baru (yang mulai marak ditulis setelah tahun 120 Hijriah).
+
+12. **Sangat Menjaga Diri dari Bid'ah (Inovasi Agama)**:
+    Mereka berpegang teguh pada amalan para sahabat Nabi dan menolak inovasi baru dalam masalah ibadah/agama sekalipun disepakati oleh mayoritas manusia di zamannya, seperti keteladanan ketegasan **[[Abu Sa'id Al-Khudri]]** dalam menghadapi pembaharuan mimbar shalat hari raya oleh khalifah.
 
 ## Keteladanan 8 Pelajaran Hatim al-Asamm
 

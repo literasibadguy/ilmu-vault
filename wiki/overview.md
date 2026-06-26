@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 58
-- Halaman wiki: 343
-- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 5 & 6 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali tentang adab murid-guru, esensi jiwa, serta bahaya ulama duniawi dan tanda ulama akhirat)
+- Sumber diimpor (ingested): 60
+- Halaman wiki: 353
+- Aktivitas terakhir: 2026-06-26 (Mengimpor kelanjutan Bab I Bagian 6 & 7 Kitab Ihya' Ulumiddin tentang 12 tanda Ulama Akhirat sejati dan keutamaan Akal)
 
 ---
 
