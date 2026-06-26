@@ -5,18 +5,20 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
-updated: "2026-06-19"
+updated: "2026-06-26"
 tags:
   - entity
   - sahabat
   - perawi
 status: seed
+address: c-000096
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ibnu Abbas]]"
   - "[[Doa dalam Kesulitan]]"
   - "[[Ziarah Kubur]]"
   - "[[Zuhud]]"
+  - "[[Keutamaan Menuntut Ilmu]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Supplications That Are Most Likely Answered]]"
@@ -26,6 +28,8 @@ sources:
   - "[[Harm 14 Lying and Falsehood]]"
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[What Reminds People of Death and the Hereafter]]"
+  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
+  - "[[Excellence of Learning]]"
 ---
 
 
@@ -46,6 +50,8 @@ sources:
 - **Pandangan Terhadap Pentingnya Shalat**: Menegaskan status keagamaan bagi orang yang sengaja meninggalkan shalat: *"Siapa yang tidak mendirikan shalat maka tidak ada agama (deen) baginya."* Beliau sepakat bahwa melalaikan shalat secara total adalah kekufuran (**[[Neglect of the Prayer]]**).
 - **Tuntunan Sunnah Shalat Berjamaah**: Menegaskan bahwa shalat berjamaah di masjid adalah bagian dari sunnah petunjuk (*sunanul huda*). Beliau memperingatkan: *"Jika kalian shalat di rumah kalian masing-masing... berarti kalian telah meninggalkan Sunnah Nabi kalian. Dan jika kalian meninggalkan Sunnah Nabi kalian, niscaya kalian akan sesat."* Di masa sahabat, hanya orang munafik nyata atau orang sakit parah yang tidak hadir shalat berjamaah (**[[Shalat Berjamaah]]**).
 - **Hadis Ziarah Kubur & Zuhud**: Meriwayatkan hadis dari Nabi SAW tentang anjuran berziarah kubur karena hal itu berkhasiat menumbuhkan zuhud di dunia dan mengingatkan akhirat (**[[Ziarah Kubur]]**, **[[Zuhud]]**).
+- Meriwayatkan bahwa laknat akan berbalik kepada orang Yahudi dan Nasrani karena menyembunyikan deskripsi kedatangan Nabi SAW (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
+- **Himbauan Belajar Sebelum Ajal**: Mendorong umat Islam untuk menuntut ilmu sebelum maut menjemput, karena tiada orang dilahirkan berilmu. Beliau bersumpah bahwa para syuhada akan menginginkan dibangkitkan kembali sebagai ulama di akhirat karena melihat kedudukan mulia ulama (**[[Excellence of Learning]]**).
 
 ## Sumber
 
@@ -54,3 +60,5 @@ sources:
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
 - [[What Reminds People of Death and the Hereafter]]
+- [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
+- [[Excellence of Learning]]

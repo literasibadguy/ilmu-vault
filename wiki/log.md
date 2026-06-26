@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-06-21"
+updated: "2026-06-26"
 tags:
   - meta
   - log
@@ -15,6 +15,34 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 1 & 2 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-vol1-chapter-1-part-1.md`, `.raw/ihya-vol1-chapter-1-part-2.md`
+- Ringkasan: [[Excellence of Learning]], [[Excellence of Teaching]]
+- Halaman dibuat: [[Excellence of Learning]], [[Excellence of Teaching]], [[Keutamaan Menuntut Ilmu]], [[Keutamaan Mengajar]], [[Abu al-Darda]], [[Abu al-Aswad al-Du'ali]], [[Fath al-Mawsili]], [[Kamil bin Ziyad]]
+- Halaman diperbarui: [[Imam Al-Ghazali]], [[Ali bin Abi Thalib]], [[Ibnu Abbas]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Abu Hurayrah]], [[Umar bin Khattab]]
+- Temuan Kunci: Impor dua bagian dari Bab I Ihya' Ulumiddin tentang keutamaan menuntut ilmu (thalabul ilmi) dan keutamaan mengajar (ta'lim). Dilengkapi dengan argumen teologis para sahabat dan ulama salaf serta pembuktian rasional Al-Ghazali mengenai kemuliaan pengajaran sebagai perantara jiwa menuju Allah SWT.
+
+## [2026-06-23] ingest | Batch Ingest: Major Sins 38, 45 (Imam Adh-Dhahabi)
+- Sumber: `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Perfidy-and-not-fulfilling-a-promise.md`, `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Teaching-for-the-sake-of-this-world-and-concealing-knowledge.md`
+- Ringkasan: [[Major-Sin-45-Perfidy-and-Breaking-Promises]], [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
+- Halaman dibuat: [[Major-Sin-45-Perfidy-and-Breaking-Promises]], [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]], [[Pengkhianatan dan Ingkar Janji]], [[Menyembunyikan Ilmu dan Niat Duniawi]], [[Az-Zajjaj]], [[Ad-Dahhak]], [[Muqatil ibn Hayyan]], [[Ar-Rabi' ibn Anas]], [[Ash-Sha'bi]], [[Hilal ibn al-'Ala']]
+- Halaman diperbarui: [[Imam Adh-Dhahabi]], [[Al-Wahidi]], [[Ibnu Abbas]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Mujahid]], [[Abu Umamah]]
+- Temuan Kunci: Impor bab dosa besar 38 (menyembunyikan ilmu agama demi memburu kesenangan duniawi) dan bab dosa besar 45 (larangan keras khianat amanah dan ingkar janji sebagai ciri kemunafikan praktis).
+
+## [2026-06-23] ingest | Batch Ingest: Major Sins 27, 28, 31 (Imam Adh-Dhahabi)
+- Sumber: `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Tax-Collecting.md`, `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Consuming-Unlawful-Property.md`, `.raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Corrupt-Judgement.md`
+- Ringkasan: [[Major-Sin-27-Tax-Collecting]], [[Major-Sin-28-Consuming-Unlawful-Property]], [[Major-Sin-31-Corrupt-Judgement]]
+- Halaman dibuat: [[Major-Sin-27-Tax-Collecting]], [[Major-Sin-28-Consuming-Unlawful-Property]], [[Major-Sin-31-Corrupt-Judgement]], [[Pajak Zhalim dan Pungutan Liar]], [[Mengonsumsi Harta Haram]], [[Korupsi dan Suap dalam Peradilan]], [[Al-Wahidi]], [[Yusuf ibn Asbat]], [[Wahb ibn al-Ward]], [[Zayd ibn Arqam]], [[Ka'b ibn 'Ujra]], [[Burayda bin al-Husaib]], [[Muhammad ibn Wasi']], [[Makhul al-Shami]], [[Malik ibn al-Mundhir]], [[Wahb ibn Munabbih]]
+- Halaman diperbarui: [[Imam Adh-Dhahabi]], [[Jabir bin Abdullah]], [[Anas bin Malik]], [[Abdullah bin al-Mubarak]], [[Abu Bakar Ash-Shiddiq]], [[Sufyan ath-Thawri]], [[Mu'adz bin Jabal]], [[Ayyub as-Sakhtiyani]], [[Al-Fudayl bin Iyad]], [[Umar bin Abdul Aziz]], [[Aisyah binti Abu Bakar]]
+- Temuan Kunci: Impor tiga bab kitab al-Kaba'ir seputar kezhaliman pemungutan pajak/liar (mukus), bahaya konsumsi harta haram bagi penolakan doa/amal ibadah beserta keteladanan wara' para sahabat, serta ancaman neraka bagi hakim (qadi) yang menyimpang dari syariat Allah.
+
+## [2026-06-21] ingest | Settle the Argument (How to Settle the Argument)
+- Sumber: `.raw/chapter_21_settle_the_argument.md`
+- Ringkasan: [[Settle the Argument]]
+- Halaman dibuat: [[Settle the Argument]], [[Syukur]], [[Ujian Kekayaan dan Kemiskinan]], [[Abu Al-Faraj Ibn Al-Jawzi]], [[Al-Junaid al-Baghdadi]], [[Ash-Shibli]], [[Abu Uthman al-Hiri]], [[Sahl bin Abdullah at-Tustari]], [[Abdur-Rahman Ibn Awf]], [[Bilal bin Rabah]], [[Talhah bin Ubaidillah]], [[Abdullah bin az-Zubair]], [[Khalid Ibn Yazid]]
+- Halaman diperbarui: [[Abu Hurayrah]], [[Ibnu Abbas]], [[Ibnu Umar]], [[Muhammad bin al-Mubarak as-Suri]], [[Kesabaran]]
+- Temuan Kunci: Penjelasan mendalam pilar sabar-syukur, teologi ujian kekayaan/kemiskinan di mana takwa adalah tolok ukur utama, serta pembersihan nama sahabat Abdur-Rahman bin Awf dari hadits palsu merangkak yang didukung bukti warisan emas sahabat lainnya.
 
 ## [2026-06-21] write | Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan (X Article)
 - Naskah dibuat: [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]]

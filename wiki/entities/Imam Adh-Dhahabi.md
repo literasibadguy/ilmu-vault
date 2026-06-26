@@ -5,7 +5,7 @@ entity_type: person
 role: "Imam / Ahli Hadis / Sejarawan Islam"
 first_mentioned: "[[Neglect of the Prayer]]"
 created: 2026-06-15
-updated: 2026-06-18
+updated: "2026-06-23"
 tags:
   - entity
   - tokoh
@@ -21,6 +21,11 @@ sources:
   - "[[perjury]]"
 - "[[Major-Sin-20-Gambling]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Major-Sin-27-Tax-Collecting]]"
+  - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
+  - "[[Major-Sin-31-Corrupt-Judgement]]"
+  - "[[Major-Sin-45-Perfidy-and-Breaking-Promises]]"
+  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
 ---
 
 # Imam Adh-Dhahabi
@@ -34,6 +39,11 @@ sources:
 - **Penulis Kitab al-Kaba'ir**: Menyusun kitab legendaris tentang dosa-dosa besar dalam Islam, di mana dosa melalaikan dan meninggalkan shalat ditempatkan di bab ke-4 (**[[Neglect of the Prayer]]**), dosa meninggalkan shalat berjamaah tanpa uzur di masjid ditempatkan di bab ke-65 dan ke-66 (**[[Abandoning the Group Prayer]]**), larangan kesaksian palsu (perjury) ditempatkan di bab tersendiri (**[[perjury]]**), serta larangan minuman keras (**[[Major-Sin-19-Drinking-Alcohol]]**) dan perjudian (**[[Major-Sin-20-Gambling]]**) masing-masing di bab ke-19 dan ke-20.
 - **Karya Monumental**: Menulis puluhan kitab penting, di antaranya *Siyar A'lam an-Nubala'* (Biografi Tokoh-Tokoh Mulia) dan *Tarikh al-Islam* (Sejarah Islam).
 - **Metodologi Kritik Hadis**: Diakui sebagai ulama rujukan tertinggi dalam menentukan kredibilitas perawi hadis (*rijalul hadits*), menggabungkan ketelitian ilmu hadis dengan objektivitas sejarah.
+- Menyusun larangan dan ancaman bagi pelaku pungutan liar dan pajak zhalim di bab ke-27 (**[[Major-Sin-27-Tax-Collecting]]**).
+- Menjelaskan bahaya konsumsi harta haram bagi spiritualitas di bab ke-28 (**[[Major-Sin-28-Consuming-Unlawful-Property]]**).
+- Menulis ancaman neraka bagi hakim (qadi) yang tidak menetapkan hukum secara adil di bab ke-31 (**[[Major-Sin-31-Corrupt-Judgement]]**).
+- Menyusun dosa pengkhianatan amanah dan pengingkaran kesepakatan di bab ke-45 (**[[Major-Sin-45-Perfidy-and-Breaking-Promises]]**).
+- Membahas larangan keras menyembunyikan ilmu agama dan menuntutnya demi urusan duniawi di bab ke-38 (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
 
 ## Hubungan
 
@@ -47,3 +57,8 @@ sources:
 - [[perjury]]
 - [[Major-Sin-20-Gambling]]
 - [[Major-Sin-19-Drinking-Alcohol]]
+- [[Major-Sin-27-Tax-Collecting]]
+- [[Major-Sin-28-Consuming-Unlawful-Property]]
+- [[Major-Sin-31-Corrupt-Judgement]]
+- [[Major-Sin-45-Perfidy-and-Breaking-Promises]]
+- [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]

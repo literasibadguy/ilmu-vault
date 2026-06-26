@@ -5,7 +5,7 @@ entity_type: person
 role: "Ulama Tabi'in / Ahli Fiqih Basra"
 first_mentioned: "[[Neglect of the Prayer]]"
 created: 2026-06-15
-updated: 2026-06-15
+updated: "2026-06-23"
 tags:
   - entity
   - tabiin
@@ -18,6 +18,7 @@ related:
   - "[[Sufyan ath-Thawri]]"
 sources:
   - "[[Neglect of the Prayer]]"
+  - "[[Major-Sin-31-Corrupt-Judgement]]"
 ---
 
 # Ayyub as-Sakhtiyani
@@ -31,6 +32,7 @@ sources:
 - **Ketegasan Hukum Shalat**: Berpendapat keras mengenai orang yang sengaja meninggalkan shalat wajib, menyetujui fatwa kekufuran (keluar dari Islam) bagi pelakunya, sebagaimana yang disuarakan oleh ulama sezamannya seperti Ibrahim an-Nakha'i (**[[Meninggalkan Shalat]]**).
 - **Rujukan Hadis Basra**: Dinilai oleh ulama sezamannya sebagai "pemimpin para penghafal hadis di Basra". Imam Sufyan bin Uyainah menyatakan tidak pernah bertemu ulama seperti Ayyub.
 - **Kezuhudan Praktis**: Dikenal memiliki gaya hidup sederhana, tidak mau menerima pemberian dari penguasa, dan memfokuskan harinya untuk mengajar hadis dan ibadah sunnah.
+- Menegaskan bahwa orang yang paling berilmu adalah mereka yang paling berupaya keras menghindari jabatan peradilan (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Hubungan
 
@@ -40,3 +42,4 @@ sources:
 ## Sumber
 
 - [[Neglect of the Prayer]]
+- [[Major-Sin-31-Corrupt-Judgement]]

@@ -5,7 +5,7 @@ entity_type: person
 role: "Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: "2026-06-11"
-updated: "2026-06-18"
+updated: "2026-06-23"
 tags:
   - entity
   - tokoh
@@ -32,6 +32,7 @@ sources:
   - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
   - "[[Harm 15 Backbiting]]"
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
+  - "[[Major-Sin-31-Corrupt-Judgement]]"
 ---
 
 
@@ -57,6 +58,7 @@ sources:
 - **Kecintaan terhadap Madu dan Makanan Manis**: Aisyah meriwayatkan bahwa Nabi SAW sangat menyukai makanan manis (*halwa*) dan madu. Beliau sendiri juga berbagi kecintaan yang sama terhadap madu dan makanan manis, sehingga menjadi saksi otoritatif mengenai kebiasaan kuliner harian Nabi SAW. Beliau juga mengisahkan kebiasaan Nabi memadukan kurma segar (*ruthab*) dengan semangka (*bittikh*) untuk menetralkan sifat panas dan dingin (**[[Adab Makan dan Minum]]**).
 - **Periwayat Hadis Nadzar**: Meriwayatkan hadis sahih Al-Bukhari yang menegaskan kewajiban memenuhi nadzar ketaatan kepada Allah dan keharaman menunaikan nadzar kemaksiatan (**[[To Vow to Other Than Allah is an Act of Shirk]]**).
 - **Saksi Sakaratul Maut Nabi SAW**: Meriwayatkan detik-detik akhir hayat Rasulullah SAW di mana beliau membasuh wajahnya dengan air dari wadah di sampingnya seraya menegaskan bahwa kematian memiliki kepedihan (*agonis*) yang luar biasa (**[[Sakaratul Maut]]**).
+- Meriwayatkan hadis tentang beratnya hisab bagi hakim yang adil di hari Kiamat hingga berharap tidak pernah menghakimi perkara walau sebutir kurma (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Sumber
 
@@ -66,3 +68,4 @@ sources:
 - [[To Vow to Other Than Allah is an Act of Shirk]]
 - [[Meaning and Definitions of Backbiting]]
 - [[Backbiting Not Limited to Speech]]
+- [[Major-Sin-31-Corrupt-Judgement]]

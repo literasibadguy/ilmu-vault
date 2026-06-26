@@ -5,18 +5,21 @@ entity_type: person
 role: "Khalifah Rasyidah Kedua"
 first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 created: "2026-06-07"
-updated: "2026-06-18"
+updated: "2026-06-26"
 tags:
   - entity
   - sahabat
   - khalifah
 status: seed
+address: c-000102
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Abu Dharr Al-Ghifari]]"
   - "[[Adab Terhadap Istri]]"
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Ghibah]]"
+  - "[[Keutamaan Menuntut Ilmu]]"
+  - "[[Keutamaan Mengajar]]"
 sources:
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
@@ -33,6 +36,8 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[Harm 16 Slander and Tale Bearing]]"
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
+  - "[[Excellence of Learning]]"
+  - "[[Excellence of Teaching]]"
 ---
 
 
@@ -62,6 +67,7 @@ sources:
 - **Ketegasan Terhadap Pentingnya Shalat**: Menegaskan bahwa siapa pun yang meninggalkan shalat tidak memiliki bagian apa pun dalam Islam. Beliau berfatwa: *"Siapa yang meninggalkan shalat maka tidak ada deen baginya. Shalat adalah penopang agama."* Komitmen ini ditunjukkan secara nyata ketika beliau bersikeras tetap shalat dalam keadaan luka tusukan yang mengucurkan darah segar setelah ditikam (**[[Neglect of the Prayer]]**).
 - **Teguran Dosa Pendengar Ghibah**: Ditegur oleh Nabi SAW bersama Abu Bakar Ash-Shiddiq karena bersepakat/mendengar ucapan "si Fulan selalu tertidur" (satu berbicara dan satu mendengarkan). Nabi SAW menegaskan keduanya telah memakan daging bangkai saudara mereka, mengajarkan prinsip keharaman mendengarkan **[[Ghibah]]**.
 - **Kafarat Kebun Kurma**: Suatu hari pergi mengunjungi kebun kurmanya dan kembali setelah orang-orang selesai shalat Asar berjamaah. Karena merasa bersalah telah melalaikan shalat berjamaah, beliau bersaksi untuk menyedekahkan seluruh kebun kurmanya tersebut kepada kaum miskin sebagai kafarat (penebus dosa) (**[[Shalat Berjamaah]]**).
+- **Pahala Mendorong Orang Belajar**: Mengajarkan bahwa siapa saja yang mempelajari suatu hadis atau ilmu, lalu ia menganjurkan/membimbing orang lain untuk mengamalkannya, maka ia akan memperoleh aliran pahala yang setara dengan pahala pelaku amal tersebut (**[[Excellence of Teaching]]**).
  
 ## Sumber
  
@@ -73,3 +79,5 @@ sources:
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
 - [[Backbiting Not Limited to Speech]]
+- [[Excellence of Learning]]
+- [[Excellence of Teaching]]

@@ -5,20 +5,24 @@ entity_type: person
 role: "Sahabat Nabi / Utusan ke Yaman"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
 created: "2026-06-07"
-updated: "2026-06-18"
+updated: "2026-06-26"
 tags:
   - entity
   - sahabat
 status: seed
+address: c-000105
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ghibah]]"
+  - "[[Keutamaan Mengajar]]"
 sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Regarding His Guidance in Prayer]]"
   - "[[Meaning and Definitions of Backbiting]]"
   - "[[Introduction and Silence]]"
   - "[[Harm 14 Lying and Falsehood]]"
+  - "[[Major-Sin-31-Corrupt-Judgement]]"
+  - "[[Excellence of Teaching]]"
 ---
 
 
@@ -35,9 +39,14 @@ sources:
 - **Peringatan Saat Bertugas**: Ketika mengutusnya ke Yaman, Nabi SAW memberikan pesan penutup yang sangat terkenal: *"Takutlah kamu akan doa orang yang dizalimi, karena tidak ada hijab (penghalang) antara doanya dengan Allah."* Ini menjadi pengingat agar Mu'adz selalu memimpin dengan penuh keadilan sosial.
 - **Teguran Shalat Isha**: Menjadi perawi dari teguran terkenal Nabi SAW saat ia memanjangkan shalat jamaah Isha (membaca Al-Baqarah). Nabi SAW bersabda: *"Apakah engkau ingin menimbulkan fitnah (menyulitkan umat), wahai Mu'adz?"*, yang melandasi prinsip kemudahan dan peringatan membaca surah-surah sedang bagi imam shalat jamaah (**[[Sifat Shalat Nabi]]**).
 - **Hadis Ghibah tentang Orang Lemah**: Meriwayatkan hadis ketika ia atau sahabat lain mengomentari kelemahan seseorang dengan ucapan "alangkah lemahnya dia!", lalu Nabi SAW langsung menegaskan: *"Kalian telah menggunjing (melakukan ghibah) pada saudaramu."* (**[[Ghibah]]**).
+- Meriwayatkan sabda Rasulullah SAW mengenai kedahsyatan ancaman bagi hakim (qadi) yang berbuat zhalim di mana ia akan tergelincir ke dalam jurang neraka Jahanam (**[[Major-Sin-31-Corrupt-Judgement]]**).
+- **Hadis Keutamaan Membimbing Jiwa (Hidayah Yaman)**: Rasulullah ﷺ menasihatinya sebelum pergi bertugas ke Yaman: *"Jika Allah memberikan petunjuk kepada satu orang melalui bantuanmu, itu jauh lebih baik bagimu daripada dunia dan segala isinya"* (**[[Excellence of Teaching]]**).
+- **Perkataan tentang Ta'lim**: Menyatakan bahwa mengajarkan ilmu kepada orang yang belum mengetahuinya adalah sedekah rohani (*alms-giving*), dan mengajarkannya kepada yang berhak adalah jalan mendekatkan diri kepada Allah (**[[Excellence of Teaching]]**).
 
 ## Sumber
 
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
 - [[Regarding His Guidance in Prayer]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Major-Sin-31-Corrupt-Judgement]]
+- [[Excellence of Teaching]]

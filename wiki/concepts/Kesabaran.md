@@ -7,8 +7,7 @@ aliases:
   - Sabar
   - Sabr
 created: 2026-06-07
-updated: 2026-06-07
-tags:
+updated: "2026-06-21"\ntags:
   - concept
   - akhlak
 status: seed
@@ -17,7 +16,7 @@ related:
 sources:
   - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 ---
-
+  - "[[Settle the Argument]]"\n
 # Kesabaran (Sabr)
 
 ## Definisi
@@ -37,7 +36,7 @@ Kesabaran diposisikan sangat tinggi dalam Al-Qur'an (disebutkan di 90 tempat). K
 
 ## Karakteristik Pahala Kesabaran
 
-- **Shalawat, Rahmat, dan Petunjuk**: Allah mengumpulkan tiga hal ini bagi mereka yang mengucapkan *istirja'* (Inna lillahi wa inna ilaihi raji'un) dan bersabar atas musibah.
+- **Keterkaitan Erat dengan Syukur**: Syukur tanpa kesabaran adalah sia-sia, begitupula sebaliknya. Sabar dalam ibadah dan menjauhi dosa adalah pilar utama kesyukuran (**[[Syukur]]**).\n- **Shalawat, Rahmat, dan Petunjuk**: Allah mengumpulkan tiga hal ini bagi mereka yang mengucapkan *istirja'* (Inna lillahi wa inna ilaihi raji'un) dan bersabar atas musibah.
 - **Naungan Khusus**: Pemimpin yang adil dan sabar mendapatkan naungan dari Allah di Hari Kiamat.
 - **Kecintaan Allah**: Menjadi sebab langsung diraihnya kecintaan Allah secara personal kepada hamba-Nya.
 

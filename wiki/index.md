@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-06-21"
+updated: "2026-06-26"
 tags:
   - meta
   - index
@@ -17,7 +17,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-21 | Total halaman: 256 | Sumber diimpor: 40
+Terakhir diperbarui: 2026-06-26 | Total halaman: 306 | Sumber diimpor: 52
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -25,7 +25,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Konsep (Concepts)
 
-- [[Bencana Lisan]] — Katalog komprehensif dua puluh bencana lisan (aflat al-lisan) berdasarkan Ihya Ulumiddin karya Imam Al-Ghazali (status: developing)
+  - [[Syukur]] — Pengertian syukur hati, lisan, dan anggota tubuh, perbedaan syakir-syakur, serta hubungannya dengan kesabaran (status: seed)\n  - [[Ujian Kekayaan dan Kemiskinan]] — Pemetaan teologis kelapangan dan kesempitan rezeki sebagai pilar cobaan dunia (status: seed)\n- [[Bencana Lisan]] — Katalog komprehensif dua puluh bencana lisan (aflat al-lisan) berdasarkan Ihya Ulumiddin karya Imam Al-Ghazali (status: developing)
 - [[Bermuka Dua dan Pujian]] — Bahaya teologis bersikap bermuka dua (al-lisanain) serta sanjungan berlebihan yang merusak keikhlasan rohani (status: seed)
 - [[Candaan dan Olok-olok]] — Batasan syar'i tentang candaan sehat (mizah) dan keharaman mutlak mengolok-olok sesama Muslim (sukhriyyah) (status: seed)
 - [[Catur dan Dadu]] — Fikih hukum permainan papan, ketangkasan, dan keberuntungan tanpa taruhan menurut perbandingan mazhab (status: seed)
@@ -73,16 +73,18 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Kesederhanaan dalam Makan]] — Prinsip makan secukupnya untuk menjaga kesehatan tubuh dan menunjang ibadah tanpa berlebih-lebihan (status: seed)
 - [[Kesombongan]] — Keadaan merasa lebih mulia, menolak kebenaran (*batrul haqq*), dan meremehkan manusia (*ghamtu-n-nas*) (status: seed)
 - [[Kesombongan Ulama]] — Bahaya kesombongan intelektual/akademis yang membuat ilmu tidak bermanfaat (status: seed)
+- [[Keutamaan Mengajar]] — Keluhuran misi membimbing jiwa menuju Allah, analogi rasional organ hati, dan hierarki pemerintahan rohani (status: developing)
+- [[Keutamaan Menuntut Ilmu]] — Hakikat pencarian ilmu agama, perbandingan ilmu vs harta (Sayyidina Ali), dan kebutuhan hati laksana asupan makan (status: developing)
 - [[Kewajiban Meluruskan Pemimpin]] — Pentingnya amar ma'ruf nahi munkar dan saling menasihati antara pemimpin dan rakyat (status: seed)
 - [[Kezaliman Diri]] — Tindakan melanggar larangan Allah yang merugikan keselamatan spiritual diri sendiri (status: seed)
 - [[Kezaliman Pemimpin]] — Penyalahgunaan kekuasaan, penipuan terhadap rakyat, dan pengabaian kebutuhan mereka yang diancam dengan siksa neraka (status: seed)
 - [[Khamr dan Intoksikasi]] — Pengertian teologis khamr, kriteria zat pemutus akal sehat, dan perluasan hukum untuk zat padat maupun cair (status: seed)
 - [[Makanan dalam Quran dan Sunnah]] — Jenis makanan dan minuman yang direkomendasikan dalam Al-Quran dan hadis Nabi SAW (status: seed)
-- [[Khusyuk]] — Keadaan konsentrasi, ketundukan, dan tumakninah di dalam shalat yang melarang gerakan sia-sia (status: seed)
+- [[Khusyuk]] — Keadaan konsentrasi, ketundukan, dan tumakninah di dalam shalat yang melarang gerakan sia-sia (status: seed)\n  - [[Korupsi dan Suap dalam Peradilan]] — Larangan pemutusan hukum secara zhalim, penolakan syariat, dan penerimaan suap oleh hakim (status: seed)
 - [[Nama Agung Allah]] — Nama Allah teragung (Ism A'zam) yang apabila dibacakan di awal doa akan menjamin dikabulkannya doa dan dipenuhinya permintaan (status: seed)
 - [[Nadzar]] — Komitmen sukarela seseorang untuk melakukan ibadah atau ketaatan demi mendekatkan diri kepada Allah SWT (status: mature)
 - [[Nikah Tahlil]] — Pernikahan konspiratif untuk menghalalkan kembali wanita yang ditalak tiga kepada mantan suaminya (status: seed)kan kembali wanita yang ditalak tiga kepada mantan suaminya (status: seed)
-- [[Pendidikan Anak Perempuan]] — Keutamaan menyayangi, membesarkan, mendidik anak perempuan, serta janji Surga bagi orang tua (status: seed)
+- [[Pajak Zhalim dan Pungutan Liar]] — Konsep syariat tentang penarikan harta secara paksa tanpa dasar hak yang dibenarkan (status: seed)\n  - [[Pendidikan Anak Perempuan]] — Keutamaan menyayangi, membesarkan, mendidik anak perempuan, serta janji Surga bagi orang tua (status: seed)\n  - [[Pengkhianatan dan Ingkar Janji]] — Bahaya pengkhianatan amanah dan ingkar janji serta implikasi moralnya dalam kehidupan sosial Muslim (status: seed)
 - [[Penggabungan Makanan]] — Prinsip pengaturan kombinasi jenis makanan yang dikonsumsi bersamaan agar pencernaan optimal dan menjaga kesehatan (status: seed)
 - [[Persiapan Kematian]] — Upaya aktif mengumpulkan bekal amal saleh dan tobat nasuha sebelum datangnya kematian (status: seed)
 - [[Pertobatan Adam]] — Konsep pengakuan kesalahan, penyesalan, dan istigfar yang diajarkan Allah kepada Nabi Adam AS (status: seed)
@@ -114,6 +116,18 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Tokoh & Lembaga (Entities)
 
+- [[Abu Al-Faraj Ibn Al-Jawzi]] — Imam Hanbali pengumpul hadits palsu pembela Abdur-Rahman bin Awf (status: seed)
+- [[Abu al-Darda]] — Sahabat Nabi ahli ibadah, hakim Damaskus pertama, perawi hadis keutamaan ilmu dan jihad (status: seed)
+- [[Abu al-Aswad al-Du'ali]] — Tabi'in senior pelopor tata bahasa (Nahwu) Arab dan perumus kekuasaan ilmu atas raja (status: seed)
+- [[Abu Uthman al-Hiri]] — Ulama zahid Khorasan pembagi derajat syukur awam vs khawas (status: seed)
+- [[Al-Junaid al-Baghdadi]] — Ulama salaf Baghdad peletak dasar utama tasawuf Sunni yang moderat (status: seed)
+- [[Ash-Shibli]] — Ulama salaf zuhud Baghdad sahabat dekat Al-Junaid al-Baghdadi (status: seed)
+- [[Sahl bin Abdullah at-Tustari]] — Ulama salaf ahli tafsir, hadits, dan zuhud asal Iran (status: seed)
+- [[Abdur-Rahman Ibn Awf]] — Sahabat utama dijamin surga yang dermawan pembantah fitnah hadits merangkak (status: seed)
+- [[Bilal bin Rabah]] — Muadzin pertama teladan kesabaran orang miskin dijamin surga (status: seed)
+- [[Talhah bin Ubaidillah]] — Sahabat dijamin surga pemilik kekayaan emas melimpah (status: seed)
+- [[Abdullah bin az-Zubair]] — Sahabat khalifah di Makkah pemilik warisan halal melimpah (status: seed)
+- [[Khalid Ibn Yazid]] — Perawi hadits Umayyah tidak tepercaya pembawa hadits palsu merangkak (status: seed)
 - [[Abdullah bin Salam]] — Sahabat Nabi SAW yang dijamin surga karena kelurusan batin dan menjauhi hal sia-sia (status: seed)
 - [[Abu Salma]] — Orang shaleh masa salaf awal yang konsisten menahan tawa selama 40 tahun karena takut akan akhirat (status: seed)
 - [[Ahnaf bin Qais]] — Pemimpin Bani Tamim utama tabi'in yang dikenal santun dan menjaga lisannya (status: seed)
@@ -150,6 +164,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[At-Tabarani]] — Imam ahli hadis periwayat hadis penolakan Nabi terhadap istigatsah para sahabat kepada dirinya (status: seed)
 - [[Awf bin Malik]] — Sahabat nabi perawi hadis kepasrahan Hasbiyallah pasca-ikhtiar maksimal dalam perkara pengadilan (status: seed)
 - [[Ayyub as-Sakhtiyani]] — Ulama besar Tabi'in dari Basra yang ahli hadis, zuhud, dan berpendapat tegas tentang shalat (status: seed)
+- [[Fath al-Mawsili]] — Ulama zuhud dan Sufi Mosul perumus analogi hati mati tanpa ilmu (status: seed)
 - [[Fatima binti Muhammad]] — Putri bungsu kesayangan Nabi SAW yang diperlakukan dengan penuh penghormatan dan cinta (status: seed)
 - [[Hafsah binti Umar]] — Ummul Mukminin, putri Umar bin Khattab, dikenal berani menyampaikan pendapat dan penjaga mushaf pertama (status: seed)
 - [[Hani bin Yazid]] — Sahabat nabi yang diubah kunyanya dari Abul Hakam menjadi Abu Shuraih karena Allah adalah Al-Hakam (status: seed)
@@ -175,6 +190,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Isma'il bin Sa'id]] — Ulama Fiqih, murid/kolega Imam Ahmad bin Hanbal (status: seed)
 - [[Jabir bin Abdullah]] — Sahabat Nabi periwayat hadis perbandingan ghibah-zina dan hadis siksa kubur (status: seed)
 - [[Ka'b al-Ahbar]] — Ulama tabi'in keturunan Yahudi Yaman periwayat Israiliyat dan ahli kitab (status: seed)
+- [[Kamil bin Ziyad]] — Tabi'in sahabat dekat Sayyidina Ali periwayat wasiat keutamaan ilmu vs harta (status: seed)
 - [[Khaalid ibn al-Waleed]] — Panglima militer jenius berjuluk Saifullah al-Maslul yang memakan dhab di hadapan Nabi SAW (status: seed)
 - [[Khadijah binti Khuwailid]] — Istri pertama Nabi SAW yang mendampingi beliau 25 tahun dan memeluk Islam pertama kali (status: seed)
 - [[Khawlah binti Hakim]] — Sahabiyah periwayat doa isti'adzah tauhid saat memasuki suatu tempat (status: seed)
@@ -208,9 +224,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Zaid bin Thabit]] — Sahabat Ansar sekretaris Nabi, kodifikator Al-Qur'an, dan penegak Sunnah shalat Maghrib panjang (status: seed)
 - [[Imam Al-Ghazali]] — Ulama teolog, filosof, dan sufi terkemuka penulis kitab Ihya' Ulumiddin (status: seed)
 - [[Solaiman bin Yasar]] — Ulama Tabi'in di Madinah yang terkenal dengan ketampanan rupa dan kisah ketakwaannya menolak zina di al-Abwa' (status: seed)
-- [[Luqman]] — Tokoh bijak dalam Al-Qur'an yang memperingatkan anaknya tentang bahaya perut kenyang (status: seed)
-- [[Malik bin Dinar]] — Ulama Sufi Basra murid Hasan al-Basri yang menolak makan anggur selama 50 tahun (status: seed)
-- [[Yahya bin Mu'adh]] — Ulama Sufi dari Rayy yang membagi rasa lapar menjadi tiga maqam spiritual (status: seed)
+- [[Luqman]] — Tokoh bijak dalam Al-Qur'an yang memperingatkan anaknya tentang bahaya perut kenyang (status: seed)\n  - [[Makhul al-Shami]] — Ulama tabi'in terkemuka dan pakar fiqih negeri Syam yang wara' menolak jabatan peradilan (status: seed)
+- [[Malik bin Dinar]] — Ulama Sufi Basra murid Hasan al-Basri yang menolak makan anggur selama 50 tahun (status: seed)\n  - [[Malik ibn al-Mundhir]] — Gubernur Basra masa Umayyah yang memaksa Muhammad bin Wasi' menjabat qadi (status: seed)
+- [[Yahya bin Mu'adh]] — Ulama Sufi dari Rayy yang membagi rasa lapar menjadi tiga maqam spiritual (status: seed)\n  - [[Yusuf ibn Asbat]] — Ulama tabi'in zuhud dari Syam yang menekankan pengaruh makanan halal terhadap penolakan gangguan setan (status: seed)
 - [[Abu Sulayman al-Darani]] — Tokoh asketis Syam yang merumuskan enam bahaya kekenyangan (status: seed)
 - [[Sari Sakti]] — Tokoh Sufi Baghdad yang mengajarkan penghematan waktu mengunyah makanan demi bertasbih (status: seed)
 
@@ -218,6 +234,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 ## Sumber Rujukan (Sources)
 
+- [[Excellence of Learning]] — 2026-06-26 | Bab I Bagian 1 Ihya' Ulumiddin tentang kedudukan agung orang berilmu, kewajiban thalabul ilmi, dan perbandingan ilmu vs harta | 6 halaman baru dibuat
+- [[Excellence of Teaching]] — 2026-06-26 | Bab I Bagian 2 Ihya' Ulumiddin tentang keutamaan mengajar, hakikat nilai kebaikan, dan rasionalisasi profesi pendidik | 2 halaman baru dibuat
+- [[Settle the Argument]] — 2026-06-21 | Debat teologis syukur vs sabar, ujian kaya-miskin, dan bantahan hadits merangkak | 13 halaman baru dibuat
 - [[Major-Sin-20-Gambling]] — 2026-06-20 | Bab ke-20 Kitab al-Kaba'ir tentang larangan keras perjudian, dadu, dan catur | 5 halaman baru dibuat
 - [[Major-Sin-19-Drinking-Alcohol]] — 2026-06-20 | Bab ke-19 Kitab al-Kaba'ir tentang larangan keras meminum khamr, bahaya medis/ekonomi, dan ganja | 5 halaman baru dibuat
 - [[Harm 14 Lying and Falsehood]] — 2026-06-18 | Bab bencana lisan 14: dusta, rukhsah kebohongan, dan ekuivokasi | 2 halaman baru dibuat

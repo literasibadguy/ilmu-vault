@@ -5,8 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Utama"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
-updated: "2026-06-19"
-tags:
+updated: "2026-06-21"\ntags:
   - entity
   - sahabat
   - perawi
@@ -26,7 +25,7 @@ sources:
 - "[[Major-Sin-20-Gambling]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
-
+  - "[[Settle the Argument]]"\n
 # Ibnu Umar
 
 ## Tinjauan
@@ -35,7 +34,7 @@ sources:
 
 ## Fakta Kunci
 
-- **Kepatuhan Terhadap Sunna**: Sangat berhati-hati dalam meneladani setiap gerak-gerik Nabi SAW tanpa menambah atau menguranginya.
+- **Hadits Precedensi Muhajirin Miskin**: Meriwayatkan hadits bahwa orang-orang miskin Muhajirin mendahului orang kaya masuk Surga dengan selisih 40 tahun, serta hadits keutamaan pemimpin yang adil di Hari Kiamat (**[[Ujian Kekayaan dan Kemiskinan]]**).\n- **Kepatuhan Terhadap Sunna**: Sangat berhati-hati dalam meneladani setiap gerak-gerik Nabi SAW tanpa menambah atau menguranginya.
 - **Penyampai Hadis Akhlak**: Meriwayatkan hadis tentang murka Allah terhadap orang yang sombong dalam berjalan (*strutting*) dan sombong terhadap dirinya sendiri, menegaskan pentingnya tawadhu dalam kehidupan bermasyarakat.
 - **Sikap Terhadap Nikah Tahlil**: Menentang keras rekayasa nikah tahlil. Beliau menegaskan bahwa pernikahan harus berlandaskan rasa suka dan keinginan tulus (desire). Beliau berfatwa bahwa pada zaman Rasulullah SAW, praktik tahlil dikategorikan sama dengan perbuatan zina.
 - **Zuhud dan Kebiasaan Makan bersama Kaum Miskin**: Meniru kesederhanaan Nabi SAW secara ketat dalam makanan. Beliau terbiasa tidak makan kecuali jika ditemani oleh orang miskin di mejanya — apabila ada orang membawa makanan kepadanya, beliau meminta agar seorang fakir atau miskin didatangkan terlebih dahulu untuk makan bersamanya. Beliau juga meriwayatkan hadis keharaman makan dan minum dengan tangan kiri (karena merupakan kebiasaan Setan) (**[[Adab Makan dan Minum]]**).

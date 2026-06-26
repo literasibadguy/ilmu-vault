@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis di Wilayah Syam"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-14
+updated: "2026-06-23"
 tags:
   - entity
   - sahabat
@@ -17,6 +17,7 @@ related:
 sources:
   - "[[Showing Off]]"
   - "[[Supplications That Are Most Likely Answered]]"
+  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
 ---
 
 # Abu Umamah
@@ -28,6 +29,7 @@ sources:
 ## Fakta Kunci
 
 - **Ketegasan Terhadap Bahaya Riya'**: Abu Umamah sangat menekankan pentingnya menjaga kesucian amal dari pandangan makhluk. Dalam suatu riwayat, beliau melihat seseorang menangis tersedu-sedu saat melakukan sujud di area publik masjid. Abu Umamah menegurnya dengan mengatakan:
+- Meriwayatkan hadis tentang siksa keras bagi ulama buruk (ulama su') di neraka yang berputar dengan usus terburai akibat tidak mengamalkan ilmunya (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
   > *"Bagus sekali apa yang kau lakukan, andai saja tangisan (khusyuk) ini kaulakukan di dalam kamarmu (secara sembunyi-sembunyi dari manusia)."*
   Ujaran ini menjadi pelajaran penting bagi generasi setelahnya untuk tidak memamerkan kekhusyukan ibadah di tempat umum jika tidak diperlukan.
 - **Dakwah Kabilah Bahilah**: Nabi SAW pernah mengutus Abu Umamah untuk mendakwahi kaumnya sendiri. Meskipun awalnya ditolak dan kelaparan, keteguhan dan mukjizat makanan yang didapatkannya membuat seluruh kabilahnya akhirnya memeluk Islam.
@@ -38,3 +40,4 @@ sources:
 
 - [[Showing Off]]
 - [[Supplications That Are Most Likely Answered]]
+- [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]

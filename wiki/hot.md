@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: "2026-06-07"
-updated: "2026-06-21"
+updated: "2026-06-26"
 tags:
   - meta
   - hot-cache
@@ -16,18 +16,19 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-21. Menulis draf artikel X baru berjudul [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]] bergaya *elemental street realist* yang memadukan kritik sosial urban dengan ancaman teologis slot online (maysir), catur/dadu (shatranj/nard), miras (khamr), ganja (hashish), ghibah, dan kecanduan layar (zina mata / striatum otak) berbasis Kitab al-Kaba'ir dan Ihya' Ulumiddin.
+2026-06-26. Mengimpor Bab I Bagian 1 & 2 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang keutamaan menuntut ilmu (*Excellence of Learning*) dan keutamaan mengajar (*Excellence of Teaching*).
 
 ## Fakta Kunci Terbaru
-- Perjudian (*maysir*) dalam segala bentuk adalah haram dan dikategorikan memakan harta sesama secara batil (**[[Judi dan Maysir]]**). Permainan papan dadu/catur dihukumi makruh/haram, disertai ancaman buruknya sakaratul maut pecandu catur (**[[Catur dan Dadu]]**).
-- Minuman keras (*khamr*) dilaknat dari hulu ke hilir (sepuluh golongan), haram dijadikan obat, serta ganja/hashish disamakan hukumnya dengan khamr karena merusak fungsi akal sehat (**[[Khamr dan Intoksikasi]]**, **[[Ganja dan Hashish]]**).
-- Sanksi sosial bagi pecandu khamr berupa larangan menjenguk saat mereka sakit dan larangan menyapa (*salam*) (**[[Bahaya Khamr]]**).
+- Menuntut ilmu agama (thalabul ilmi) adalah kewajiban mutlak bagi setiap Muslim dan bernilai lebih utama daripada ibadah sunnah secara individual (**[[Keutamaan Menuntut Ilmu]]**).
+- Membelanjakan atau mengajarkan ilmu rohani laksana nutrisi pokok bagi hati manusia, yang jika terputus selama tiga hari berturut-turut akan menyebabkan kematian hati (**[[Fath al-Mawsili]]**).
+- Mengajarkan ilmu (*ta'lim*) dan membimbing jiwa menuju hidayah bernilai lebih berharga daripada dunia beserta segala isinya (**[[Keutamaan Mengajar]]**).
+- Secara rasional, pengajaran adalah tugas paling mulia di bumi karena objek kerjanya adalah hati manusia (organ termulia), bertindak sebagai perantara rohani menuju Allah (**[[Excellence of Teaching]]**).
+- Hierarki pemerintahan menempatkan bimbingan spiritual keagamaan ulama (pewaris nabi) pada tingkat tertinggi setelah tugas para nabi (**[[Keutamaan Mengajar]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[Artikel Kezuhudan Sosial dan Adiksi Kemaksiatan]].
-- Diperbarui: **[[index]]**, **[[log]]**, **[[hot]]**, **[[overview]]**.
+- Dibuat: [[Excellence of Learning]], [[Excellence of Teaching]], [[Keutamaan Menuntut Ilmu]], [[Keutamaan Mengajar]], [[Abu al-Darda]], [[Abu al-Aswad al-Du'ali]], [[Fath al-Mawsili]], [[Kamil bin Ziyad]].
+- Diperbarui: [[Imam Al-Ghazali]], [[Ali bin Abi Thalib]], [[Ibnu Abbas]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Abu Hurayrah]], [[Umar bin Khattab]].
 
 ## Alur Kerja Aktif
-- Integrasi materi larangan perjudian, khamr, catur/dadu, dan ganja ke dalam draf-draf artikel bertema kemudaratan sosial dan moral di wiki/drafts/.
-- Langkah Berikutnya: Menyusun artikel/utas kognitif bertema kezuhudan sosial dan bahaya adiksi kemaksiatan.
-
+- Penyusunan seri kajian keilmuan Islam (thalabul ilmi & keutamaan mengajar) serta integrasinya dengan konsep keikhlasan beramal dan wara' salafus shalih.
+- Langkah Berikutnya: Menjalankan audit kesehatan tautan dan struktur alamat halaman menggunakan `wiki-lint`.

@@ -58,12 +58,12 @@ Dalam kondisi seperti ini, keahlian Safiyyah dalam memasak menjadi semakin berni
 
 ## Riwayat Penting
 
-| Aspek | Keterangan |
-|---|---|
-| Nama lengkap | Safiyyah binti Huyayy bin Akhtab |
-| Nasab | Keturunan Nabi Harun alaihissalam |
-| Asal | Bani Nadhir, Madinah |
-| Gelar | Ummul Mukminin |
+| Aspek          | Keterangan                          |
+| -------------- | ----------------------------------- |
+| Nama lengkap   | Safiyyah binti Huyayy bin Akhtab    |
+| Nasab          | Keturunan Nabi Harun alaihissalam   |
+| Asal           | Bani Nadhir, Madinah                |
+| Gelar          | Ummul Mukminin                      |
 | Dikenal karena | Keahlian memasak yang diakui Aisyah |
 
 ### Karakter dan Kepribadian

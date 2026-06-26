@@ -5,21 +5,25 @@ entity_type: person
 role: "Sahabat Nabi / Khalifah Rasyidah Keempat / Otoritas Fiqih & Hikmah"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-14
+updated: 2026-06-26
 tags:
   - entity
   - sahabat
   - khalifah
 status: seed
+address: c-000094
 related:
   - "[[Riya]]"
   - "[[Ikhlas]]"
   - "[[Doa dalam Kesulitan]]"
+  - "[[Keutamaan Menuntut Ilmu]]"
+  - "[[Kamil bin Ziyad]]"
 sources:
   - "[[Showing Off]]"
   - "[[Supplications That Are Most Likely Answered]]"
-  - [[Neglect of the Prayer]]
-- [[Major-Sin-20-Gambling]]
+  - "[[Neglect of the Prayer]]"
+  - "[[Major-Sin-20-Gambling]]"
+  - "[[Excellence of Learning]]"
 ---
 
 # Ali bin Abi Thalib
@@ -39,6 +43,7 @@ sources:
 - **Hadis Doa Kesulitan**: Beliau meriwayatkan bahwa Rasulullah ﷺ mengajarkannya doa di kala ditimpa kesulitan hidup: *"Lā ilāha illallāh al-Halīm al-Karīm, Subhānallāh, Tabārakallāh Rabbul-'Arshil-'Adhīm, Alhamdulillāhi Rabbil-'ālamīn"* (**[[Doa dalam Kesulitan]]**).
 - **Pandangan Terhadap Pelaku Meninggalkan Shalat**: Menyatakan secara tegas bahwa siapa saja yang tidak mendirikan shalat adalah kafir. Ketika ditanya mengenai seorang wanita yang menolak shalat, beliau menjawab: *"Siapa yang tidak shalat maka dia telah kafir."* (**[[Meninggalkan Shalat]]**).
 - **Pandangan Terhadap Catur**: Menyebut catur sebagai perjudian orang Persia (*shatranj maysiru-l-a'jam*) dan menegaskan keharamannya. Ali memperingatkan orang yang menyibukkan diri bermain catur dengan membacakan Surah Al-Anbiya' ayat 52 mengenai patung-patung yang disembah, menegaskan catur tidak mencerminkan tujuan penciptaan manusia (**[[Major-Sin-20-Gambling]]**).
+- **Wasiat tentang Keutamaan Ilmu kepada Kamil**: Memberikan nasihat legendaris kepada **[[Kamil bin Ziyad]]** mengenai keutamaan ilmu dibandingkan harta kekayaan (ilmu menjaga manusia sedangkan harta dijaga manusia; ilmu bertambah jika diajarkan sedangkan harta berkurang) (**[[Excellence of Learning]]**).
 
 ## Sumber
 
@@ -46,3 +51,4 @@ sources:
 - [[Supplications That Are Most Likely Answered]]
 - [[Neglect of the Prayer]]
 - [[Major-Sin-20-Gambling]]
+- [[Excellence of Learning]]

@@ -5,8 +5,7 @@ entity_type: person
 role: "Ulama Salaf / Tokoh Zuhud dari Wilayah Syam"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-10
-tags:
+updated: "2026-06-21"\ntags:
   - entity
   - salaf
   - zuhud
@@ -17,7 +16,7 @@ related:
 sources:
   - "[[Showing Off]]"
 ---
-
+  - "[[Settle the Argument]]"\n
 # Muhammad bin al-Mubarak as-Suri
 
 ## Tinjauan
@@ -26,7 +25,7 @@ sources:
 
 ## Fakta Kunci
 
-- **Nasihat Sikap Diri (Demeanour) Malam Hari**: Beliau menekankan perbedaan kualitas niat ketika seseorang beramal di siang hari vs malam hari:
+- **Kisah Menguji Al-Junaid Kecil**: Menguji Al-Junaid al-Baghdadi saat berumur tujuh tahun tentang pengertian syukur kepada Allah, dan meramalkan kefasihan lisannya kelak (**[[Al-Junaid al-Baghdadi]]**).\n- **Nasihat Sikap Diri (Demeanour) Malam Hari**: Beliau menekankan perbedaan kualitas niat ketika seseorang beramal di siang hari vs malam hari:
   > "Tampilkan sikap ketundukan (*demeanour*) sejatimu di malam hari. Hal itu jauh lebih baik daripada menunjukkannya di siang hari, karena sikap khusyuk di siang hari ditujukan kepada makhluk, sedangkan sikap khusyuk di malam hari murni ditujukan kepada Rabb semesta alam."
 - **Pelatihan Ikhlas Lewat Ibadah Sunyi**: Memandang ibadah malam hari (*Qiyamul Lail*) sebagai sarana paling efektif untuk melatih diri menjadi mukmin yang [[Ikhlas]], karena aktivitas tersebut bebas dari gangguan pujian dan pandangan manusia.
 

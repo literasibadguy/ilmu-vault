@@ -6,7 +6,7 @@ entity_type: person
 role: "Ulama Tafsir, Tabi'in Terkemuka, Murid Terdekat Ibnu Abbas"
 first_mentioned: "[[Major-Sin-20-Gambling]]"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-06-23"
 tags:
   - entity
   - tabiin
@@ -17,6 +17,7 @@ related:
   - "[[Ibnu Abbas]]"
 sources:
   - "[[Major-Sin-20-Gambling]]"
+  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
 ---
 
 # Mujahid
@@ -32,3 +33,4 @@ Mujahid meriwayatkan sebuah kisah penting tentang dampak buruk permainan catur. 
 ## Sumber
 
 - [[Major-Sin-20-Gambling]]
+- [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]

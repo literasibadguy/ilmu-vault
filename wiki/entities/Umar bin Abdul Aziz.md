@@ -5,7 +5,7 @@ entity_type: person
 role: "Khalifah Bani Umayyah / Khalifah Kelima"
 first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 created: "2026-06-07"
-updated: "2026-06-18"
+updated: "2026-06-23"
 tags:
   - entity
   - tokoh
@@ -18,6 +18,7 @@ sources:
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Introduction and Silence]]"
   - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
+  - "[[Major-Sin-31-Corrupt-Judgement]]"
 ---
 
 
@@ -33,7 +34,9 @@ sources:
 - **Mekanisme Koreksi Diri**: Mempekerjakan pengawal khusus (salah satunya Amr bin al-Muhajir) untuk mengawasi gerak-gerik dan ucapannya, serta memegang tangannya seraya mengingatkan *"Takutlah kepada Allah!"* jika melihatnya mulai menyimpang.
 - **Kezuhudan Ekstrem**: Mengembalikan harta pribadinya dan keluarganya yang didapat secara tidak sah dari warisan dinasti ke baitul maal segera setelah dilantik menjadi khalifah.
 - **Keadilan Sosial**: Menghapus pajak jizyah bagi muallaf dan memulihkan hak-hak kaum tertindas, yang berakibat pada kemakmuran luar biasa hingga sulit menemukan orang yang berhak menerima zakat (*mustahik*) di akhir masa kekuasaannya yang singkat.
+- Menginstruksikan gubernur wilayah Hims untuk membentengi kotanya menggunakan keadilan dan membersihkannya dari segala kezaliman (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Sumber
 
 - [[pemimpin-yang-mengkhianati-rakyatnya]]
+- [[Major-Sin-31-Corrupt-Judgement]]

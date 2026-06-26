@@ -839,6 +839,217 @@
         "wiki/entities/Umm Salamah.md",
         "wiki/entities/Al-Fudayl bin Iyad.md"
       ]
+    },
+    ".raw/chapter_21_settle_the_argument.md": {
+      "hash": "73acd30f060db0e3ddfbaa361fd572bc",
+      "ingested_at": "2026-06-21",
+      "pages_created": [
+        "wiki/sources/Settle-the-Argument.md",
+        "wiki/concepts/Syukur.md",
+        "wiki/concepts/Ujian Kekayaan dan Kemiskinan.md",
+        "wiki/entities/Abu Al-Faraj Ibn Al-Jawzi.md",
+        "wiki/entities/Al-Junaid al-Baghdadi.md",
+        "wiki/entities/Ash-Shibli.md",
+        "wiki/entities/Abu Uthman al-Hiri.md",
+        "wiki/entities/Sahl bin Abdullah at-Tustari.md",
+        "wiki/entities/Abdur-Rahman Ibn Awf.md",
+        "wiki/entities/Bilal bin Rabah.md",
+        "wiki/entities/Talhah bin Ubaidillah.md",
+        "wiki/entities/Abdullah bin az-Zubair.md",
+        "wiki/entities/Khalid Ibn Yazid.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Muhammad bin al-Mubarak as-Suri.md",
+        "wiki/concepts/Kesabaran.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Tax-Collecting.md": {
+      "hash": "12baf2bf793052410cb8078a3b49e7b5",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/Major-Sin-27-Tax-Collecting.md",
+        "wiki/concepts/Pajak Zhalim dan Pungutan Liar.md",
+        "wiki/concepts/Mengonsumsi Harta Haram.md",
+        "wiki/entities/Al-Wahidi.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Ayyub as-Sakhtiyani.md",
+        "wiki/entities/Al-Fudayl bin Iyad.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Consuming-Unlawful-Property.md": {
+      "hash": "5e31cf23b8b154449ce67eb56d7978b5",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/Major-Sin-28-Consuming-Unlawful-Property.md",
+        "wiki/concepts/Mengonsumsi Harta Haram.md",
+        "wiki/entities/Yusuf ibn Asbat.md",
+        "wiki/entities/Wahb ibn al-Ward.md",
+        "wiki/entities/Zayd ibn Arqam.md",
+        "wiki/entities/Ka'b ibn 'Ujra.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Ayyub as-Sakhtiyani.md",
+        "wiki/entities/Al-Fudayl bin Iyad.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Corrupt-Judgement.md": {
+      "hash": "ea81b54df5f28be3287d4731b4d596e8",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/Major-Sin-31-Corrupt-Judgement.md",
+        "wiki/concepts/Korupsi dan Suap dalam Peradilan.md",
+        "wiki/entities/Burayda bin al-Husaib.md",
+        "wiki/entities/Muhammad ibn Wasi'.md",
+        "wiki/entities/Makhul al-Shami.md",
+        "wiki/entities/Malik ibn al-Mundhir.md",
+        "wiki/entities/Wahb ibn Munabbih.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Ayyub as-Sakhtiyani.md",
+        "wiki/entities/Al-Fudayl bin Iyad.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Perfidy-and-not-fulfilling-a-promise.md": {
+      "hash": "77b48502abae45a6c2ba81e4eeac7a3e",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/Major-Sin-45-Perfidy-and-Breaking-Promises.md",
+        "wiki/concepts/Pengkhianatan dan Ingkar Janji.md",
+        "wiki/entities/Az-Zajjaj.md",
+        "wiki/entities/Ad-Dahhak.md",
+        "wiki/entities/Muqatil ibn Hayyan.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Al-Wahidi.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Mujahid.md",
+        "wiki/entities/Abu Umamah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/The-Major-Sins-Imam-Shams-ad-Din-adh-Dhahabi-Teaching-for-the-sake-of-this-world-and-concealing-knowledge.md": {
+      "hash": "dfe6f63b9976c40ab4a7d7284e81774c",
+      "ingested_at": "2026-06-23",
+      "pages_created": [
+        "wiki/sources/Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge.md",
+        "wiki/concepts/Menyembunyikan Ilmu dan Niat Duniawi.md",
+        "wiki/entities/Ar-Rabi' ibn Anas.md",
+        "wiki/entities/Ash-Sha'bi.md",
+        "wiki/entities/Hilal ibn al-'Ala'.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Adh-Dhahabi.md",
+        "wiki/entities/Al-Wahidi.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Mujahid.md",
+        "wiki/entities/Abu Umamah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-1.md": {
+      "hash": "f81cd3084463032ff43639d6c4cbdb8d",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Excellence of Learning.md",
+        "wiki/concepts/Keutamaan Menuntut Ilmu.md",
+        "wiki/entities/Abu al-Darda.md",
+        "wiki/entities/Abu al-Aswad al-Du'ali.md",
+        "wiki/entities/Fath al-Mawsili.md",
+        "wiki/entities/Kamil bin Ziyad.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Imam Asy-Syafi'i.md",
+        "wiki/entities/Imam Ahmad bin Hanbal.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Abdullah bin al-Mubarak.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-2.md": {
+      "hash": "8818fe84d4db26d4d1d9e5bd485833b9",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Excellence of Teaching.md",
+        "wiki/concepts/Keutamaan Mengajar.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Nabi Isa AS.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -887,6 +1098,64 @@
     "wiki/concepts/Khamr dan Intoksikasi.md": "c-000043",
     "wiki/concepts/Bahaya Khamr.md": "c-000044",
     "wiki/concepts/Ganja dan Hashish.md": "c-000045",
-    "wiki/entities/Abdullah bin Amr.md": "c-000046"
+    "wiki/entities/Abdullah bin Amr.md": "c-000046",
+    "wiki/sources/Settle-the-Argument.md": "c-000048",
+    "wiki/concepts/Syukur.md": "c-000049",
+    "wiki/concepts/Ujian Kekayaan dan Kemiskinan.md": "c-000050",
+    "wiki/entities/Abu Al-Faraj Ibn Al-Jawzi.md": "c-000051",
+    "wiki/entities/Al-Junaid al-Baghdadi.md": "c-000052",
+    "wiki/entities/Ash-Shibli.md": "c-000053",
+    "wiki/entities/Abu Uthman al-Hiri.md": "c-000054",
+    "wiki/entities/Sahl bin Abdullah at-Tustari.md": "c-000055",
+    "wiki/entities/Abdur-Rahman Ibn Awf.md": "c-000056",
+    "wiki/entities/Bilal bin Rabah.md": "c-000057",
+    "wiki/entities/Talhah bin Ubaidillah.md": "c-000058",
+    "wiki/entities/Abdullah bin az-Zubair.md": "c-000059",
+    "wiki/entities/Khalid Ibn Yazid.md": "c-000060",
+    "wiki/sources/Major-Sin-27-Tax-Collecting.md": "c-000061",
+    "wiki/sources/Major-Sin-28-Consuming-Unlawful-Property.md": "c-000062",
+    "wiki/sources/Major-Sin-31-Corrupt-Judgement.md": "c-000063",
+    "wiki/concepts/Pajak Zhalim dan Pungutan Liar.md": "c-000064",
+    "wiki/concepts/Mengonsumsi Harta Haram.md": "c-000065",
+    "wiki/concepts/Korupsi dan Suap dalam Peradilan.md": "c-000066",
+    "wiki/entities/Al-Wahidi.md": "c-000067",
+    "wiki/entities/Yusuf ibn Asbat.md": "c-000068",
+    "wiki/entities/Wahb ibn al-Ward.md": "c-000069",
+    "wiki/entities/Zayd ibn Arqam.md": "c-000070",
+    "wiki/entities/Ka'b ibn 'Ujra.md": "c-000071",
+    "wiki/entities/Burayda bin al-Husaib.md": "c-000072",
+    "wiki/entities/Muhammad ibn Wasi'.md": "c-000073",
+    "wiki/entities/Makhul al-Shami.md": "c-000074",
+    "wiki/entities/Malik ibn al-Mundhir.md": "c-000075",
+    "wiki/entities/Wahb ibn Munabbih.md": "c-000076",
+    "wiki/sources/Major-Sin-45-Perfidy-and-Breaking-Promises.md": "c-000077",
+    "wiki/sources/Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge.md": "c-000078",
+    "wiki/concepts/Pengkhianatan dan Ingkar Janji.md": "c-000079",
+    "wiki/concepts/Menyembunyikan Ilmu dan Niat Duniawi.md": "c-000080",
+    "wiki/entities/Az-Zajjaj.md": "c-000081",
+    "wiki/entities/Ad-Dahhak.md": "c-000082",
+    "wiki/entities/Muqatil ibn Hayyan.md": "c-000083",
+    "wiki/entities/Ar-Rabi' ibn Anas.md": "c-000084",
+    "wiki/entities/Ash-Sha'bi.md": "c-000085",
+    "wiki/entities/Hilal ibn al-'Ala'.md": "c-000086",
+    "wiki/sources/Excellence of Learning.md": "c-000087",
+    "wiki/concepts/Keutamaan Menuntut Ilmu.md": "c-000088",
+    "wiki/entities/Abu al-Darda.md": "c-000089",
+    "wiki/entities/Abu al-Aswad al-Du'ali.md": "c-000090",
+    "wiki/entities/Fath al-Mawsili.md": "c-000091",
+    "wiki/entities/Kamil bin Ziyad.md": "c-000092",
+    "wiki/entities/Imam Al-Ghazali.md": "c-000093",
+    "wiki/entities/Ali bin Abi Thalib.md": "c-000094",
+    "wiki/entities/Ibnu Abbas.md": "c-000095",
+    "wiki/entities/Ibnu Mas'ud.md": "c-000096",
+    "wiki/entities/Al-Hasan al-Basri.md": "c-000097",
+    "wiki/entities/Abdullah bin al-Mubarak.md": "c-000098",
+    "wiki/entities/Imam Asy-Syafi'i.md": "c-000099",
+    "wiki/entities/Imam Ahmad bin Hanbal.md": "c-000100",
+    "wiki/entities/Abu Hurayrah.md": "c-000101",
+    "wiki/entities/Umar bin Khattab.md": "c-000102",
+    "wiki/sources/Excellence of Teaching.md": "c-000103",
+    "wiki/concepts/Keutamaan Mengajar.md": "c-000104",
+    "wiki/entities/Mu'adz bin Jabal.md": "c-000105"
   }
 }

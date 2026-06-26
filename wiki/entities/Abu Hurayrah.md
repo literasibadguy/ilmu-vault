@@ -5,12 +5,13 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Terbanyak"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
-updated: "2026-06-19"
+updated: "2026-06-26"
 tags:
   - entity
   - sahabat
   - perawi
 status: seed
+address: c-000101
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Adab Pernikahan]]"
@@ -22,6 +23,7 @@ related:
   - "[[Mengingat Maut]]"
   - "[[Ziarah Kubur]]"
   - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
+  - "[[Keutamaan Menuntut Ilmu]]"
 sources:
   - "[[Pride]]"
   - "[[Showing Off]]"
@@ -33,9 +35,11 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[The Preparation for and Remembrance of Death]]"
-  -- "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-- "[[Major-Sin-20-Gambling]]"
-- "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
+  - "[[Major-Sin-20-Gambling]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Settle the Argument]]"
+  - "[[Excellence of Learning]]"
 ---
 
 
@@ -47,7 +51,7 @@ sources:
 
 ## Fakta Kunci
 
-- **Daya Ingat Luar Biasa**: Diberikan berkah daya ingat yang kuat berkat doa Rasulullah SAW, sehingga mampu meriwayatkan ribuan hadis secara akurat.
+- **Hadits Keutamaan Orang Miskin**: Meriwayatkan hadits keutamaan orang miskin mendahului orang kaya masuk Surga dengan selisih setengah hari akhirat atau 500 tahun (**[[Ujian Kekayaan dan Kemiskinan]]**), serta hadits Qudsi kedekatan hamba melalui amalan wajib dan sunnah.\n- **Daya Ingat Luar Biasa**: Diberikan berkah daya ingat yang kuat berkat doa Rasulullah SAW, sehingga mampu meriwayatkan ribuan hadis secara akurat.
 - **Penyampai Hadis Keadilan Sosial**: Meriwayatkan hadis tentang tiga golongan yang pertama masuk neraka, di antaranya adalah orang miskin yang sombong (karena orang miskin tidak memiliki alasan duniawi untuk menyombongkan diri, sehingga kesombongannya murni penyakit hati).
 - **Hadis Pertama Masuk Neraka (Riya')**: Meriwayatkan hadis panjang dari Muslim tentang tiga golongan pertama yang dilemparkan ke neraka pada Hari Kiamat karena penyakit riya' (mujahid, dermawan, dan qari').
 - **Hadis Ad-Dahr & Kesucian Lisan**: Meriwayatkan hadis Qudsi larangan mencela waktu (**[[Ad-Dahr]]**) karena Allah adalah Pengendali waktu, serta hadis larangan menggunakan kata buruk seperti *Khabuthat Nafsee* dalam adab berbicara (**[[Adab Berbicara]]**).
@@ -62,6 +66,7 @@ sources:
 - **Hadis Ujian Kehidupan dan Penghapus Dosa**: Meriwayatkan sabda Nabi SAW bahwa barangsiapa yang Allah kehendaki kebaikan baginya, maka Dia akan menimpakan musibah cobaan kepadanya di dunia sebagai media pembersihan kesalahan (**[[Ujian dan Sakit Sebagai Penggugur Dosa]]**).
 - **Hadis Larangan Catur & Dadu**: Meriwayatkan larangan memberi salam kepada pemain dadu/catur serta memperingatkan tentang kehadiran setan beserta pasukannya di sekeliling arena perjudian tersebut (**[[Major-Sin-20-Gambling]]**).
 - **Hadis Menyamakan Pecandu Khamr dengan Penyembah Berhala**: Meriwayatkan hadis Rasulullah SAW yang menyamakan pecandu minuman keras (*mudminul khamr*) dengan penyembah berhala yang diancam tidak akan mencium wangi surga (**[[Major-Sin-19-Drinking-Alcohol]]**).
+- **Keutamaan Mengkaji Ilmu di Malam Hari**: Memiliki pandangan fiqih yang sama dengan Ibnu Abbas dan Imam Ahmad bahwa mendiskusikan atau mempelajari ilmu di sebagian malam adalah amalan yang lebih beliau cintai daripada menghidupkan malam dengan shalat sunnah semalam suntuk (**[[Excellence of Learning]]**).
 
 ## Sumber
 
@@ -78,4 +83,5 @@ sources:
 - [[What Reminds People of Death and the Hereafter]]
 - [[Major-Sin-20-Gambling]]
 - [[Major-Sin-19-Drinking-Alcohol]]
+- [[Excellence of Learning]]
 

@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-06-21"
+updated: "2026-06-26"
 tags:
   - meta
   - overview
@@ -31,9 +31,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 40
-- Halaman wiki: 256
-- Aktivitas terakhir: 2026-06-21 (Menulis draf artikel X: Kezuhudan Sosial & Adiksi Kemaksiatan)
+- Sumber diimpor (ingested): 52
+- Halaman wiki: 306
+- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 1 & 2 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali)
 
 ---
 

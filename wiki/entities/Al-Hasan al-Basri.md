@@ -5,18 +5,21 @@ entity_type: person
 role: "Ulama Tabi'in / Ahli Fiqih & Zuhud"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
-updated: "2026-06-18"
+updated: "2026-06-26"
 tags:
   - entity
   - tabiin
   - zuhud
 status: seed
+address: c-000097
 related:
   - "[[Sa'id bin al-Musayyab]]"
   - "[[Ibrahim an-Nakha'i]]"
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Doa dalam Kesulitan]]"
   - "[[Ghibah]]"
+  - "[[Keutamaan Menuntut Ilmu]]"
+  - "[[Keutamaan Mengajar]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -30,6 +33,9 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[Harm 16 Slander and Tale Bearing]]"
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
+  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
+  - "[[Excellence of Learning]]"
+  - "[[Excellence of Teaching]]"
 ---
 
 
@@ -56,6 +62,9 @@ sources:
 - **Ujian Adam adalah Makanan**: Menyatakan perkataan yang sangat mendalam: *"Ujian Adam adalah makanan, dan itulah ujian kalian hingga Hari Kiamat."* Beliau menyamakan godaan makan berlebihan dengan dosa pertama umat manusia di Surga, yakni ketika Adam memakan buah terlarang (**[[Kesederhanaan dalam Makan]]**).
 - **Tafsir Amanah (Q.S. Al-Ahzab: 72)**: Menafsirkan ayat tentang Amanah yang dipikul manusia. Beliau bersumpah demi Allah bahwa manusia telah menjual amanah tersebut dengan harta, memperindah rumah mereka tetapi mempersempit kuburan mereka, serta *"membuat tubuh mereka gemuk dan kuat tetapi membuat agama mereka kurus dan lemah (lean and thin)"*.
 - **Kisah Abu Mi'laq**: Beliau menuturkan riwayat mustajabnya doa sahabat Abu Mi'laq saat dirampok, dan menyatakan: *"Siapa saja yang berwudhu, mengerjakan shalat empat rakaat, dan berdoa dengan doa tersebut, maka doanya akan dikabulkan baik dalam keadaan sulit maupun lapang."* (**[[Doa dalam Kesulitan]]**).
+- Menegaskan adanya mitsaq (perjanjian) kokoh dari Allah kepada orang-orang berilmu untuk menjelaskan isi Kitab dan tidak menyembunyikannya (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
+- **Tafsir Doa Kebaikan Dunia Akhirat**: Menafsirkan doa QS. Al-Baqarah: 201 bahwa "kebaikan di dunia" adalah ilmu pengetahuan agama, sedangkan "kebaikan di akhirat" adalah surga (**[[Excellence of Learning]]**).
+- **Penyelamat Peradaban Kemanusiaan**: Menyatakan perkataan terkenal mengenai peran ulama: *"Kalaulah bukan karena para ulama (orang berilmu/pendidik), niscaya seluruh manusia akan hidup laksana binatang"* (**[[Excellence of Teaching]]**).
 
 ## Sumber
 
@@ -64,3 +73,6 @@ sources:
 - [[Supplications That Are Most Likely Answered]]
 - [[Harms of Greed and Sexual Passion]]
 - [[Meaning and Definitions of Backbiting]]
+- [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
+- [[Excellence of Learning]]
+- [[Excellence of Teaching]]
