@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.inFolder("wiki/sources")
+    - 'file.ext == "md"'
+
+properties:
+  author:
+    displayName: "Penulis"
+  source_type:
+    displayName: "Tipe Sumber"
+  status:
+    displayName: "Status Halaman"
+  created:
+    displayName: "Tanggal Dibuat"
+  confidence:
+    displayName: "Tingkat Kepercayaan"
+
+views:
+  - type: table
+    name: "Daftar Sumber Rujukan"
+    order:
+      - file.name
+      - author
+      - source_type
+      - status
+      - created
+      - confidence
+    groupBy:
+      property: status
+      direction: ASC
+
+  - type: cards
+    name: "Galeri Sumber"
+    order:
+      - file.name
+      - author
+      - source_type
+      - status

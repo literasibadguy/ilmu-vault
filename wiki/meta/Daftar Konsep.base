@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.inFolder("wiki/concepts")
+    - file.ext == "md"
+properties:
+  status:
+    displayName: Kematangan Konsep
+  created:
+    displayName: Tanggal Dibuat
+  updated:
+    displayName: Pembaruan Terakhir
+views:
+  - type: table
+    name: Daftar Konsep Keislaman
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - status
+      - created
+      - updated

@@ -1,0 +1,34 @@
+filters:
+  and:
+    - file.inFolder("wiki/entities")
+    - 'file.ext == "md"'
+
+properties:
+  role:
+    displayName: "Peran / Deskripsi"
+  status:
+    displayName: "Status Halaman"
+  created:
+    displayName: "Tanggal Dibuat"
+  entity_type:
+    displayName: "Tipe Entitas"
+
+views:
+  - type: table
+    name: "Daftar Tokoh & Ulama"
+    order:
+      - file.name
+      - role
+      - entity_type
+      - status
+      - created
+    groupBy:
+      property: status
+      direction: ASC
+
+  - type: cards
+    name: "Galeri Ulama"
+    order:
+      - file.name
+      - role
+      - status
