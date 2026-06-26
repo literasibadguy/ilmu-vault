@@ -20,7 +20,7 @@ sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
   - "[[The Preparation for and Remembrance of Death]]"
-- "[[Major-Sin-20-Gambling]]"
+  - "[[Major-Sin-20-Gambling]]"
 
   - [[Lives and Virtues of the Great Imams]]
 address: c-000128
