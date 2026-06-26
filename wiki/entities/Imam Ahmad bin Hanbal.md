@@ -5,13 +5,12 @@ entity_type: person
 role: "Pendiri Mazhab Hanbali / Imam Ahlus Sunnah"
 first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
-updated: 2026-06-26
+updated: "2026-06-26"
 tags:
   - entity
   - ulama
   - mazhab
 status: seed
-address: c-000100
 related:
   - "[[Ibnul Qayyim Al-Jauziyyah]]"
   - "[[Keutamaan Menuntut Ilmu]]"
@@ -19,6 +18,9 @@ sources:
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Excellence of Learning]]"
+
+  - [[Praiseworthy and Blameworthy Branches of Knowledge]]
+address: c-000100
 ---
 
 # Imam Ahmad bin Hanbal
@@ -34,6 +36,8 @@ sources:
 - **Teladan Kesabaran**: Menghadapi siksaan penjara dan cambuk oleh tiga khalifah dinasti Abbasiyah karena menolak menyatakan bahwa Al-Qur'an adalah makhluk ciptaan.
 - **Sikap Terhadap Nikah Tahlil**: Melarang keras praktik nikah tahlil dan menyatakan pernikahan tahlil tersebut batil (tidak sah). Beliau berfatwa bahwa jika niat suami kedua adalah tahlil, maka ia tetap terlaknat, meskipun sang istri tidak mengetahui niat tersembunyinya tersebut.
 - **Keutamaan Belajar**: Sepakat dengan ulama lain bahwa mengkaji ilmu agama di sebagian malam hari adalah amalan utama yang melampaui shalat sunnah semalam suntuk (**[[Excellence of Learning]]**).
+
+- **Merujuk Kebatinan Salaf**: Berkonsultasi kepada sufi besar **[[Ma'ruf al-Karkhi]]** bersama ahli hadits **[[Yahya bin Ma'in]]** ketika mendapati perkara pelik kejiwaan yang tidak memiliki kepastian literal teks fiqih, membuktikan kerendahhatian intelektualnya.
 
 ## Sumber
 

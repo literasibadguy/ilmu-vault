@@ -11,6 +11,7 @@ related:
   - "[[index]]"
   - "[[hot]]"
   - "[[log]]"
+
 ---
 
 
@@ -31,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 52
-- Halaman wiki: 306
-- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 1 & 2 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali)
+- Sumber diimpor (ingested): 54
+- Halaman wiki: 320
+- Aktivitas terakhir: 2026-06-26 (Mengimpor Bab I Bagian 3 & 4 Kitab Ihya' Ulumiddin karya Imam Al-Ghazali)
 
 ---
 

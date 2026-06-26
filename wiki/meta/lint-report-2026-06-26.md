@@ -10,10 +10,10 @@ status: developing
 # Lint Report: 2026-06-26
 
 ## Summary
-- Pages scanned: 308
-- Issues found: 874
+- Pages scanned: 331
+- Issues found: 959
 - Auto-fixed: 0
-- Needs review: 874
+- Needs review: 959
 
 ## Orphan Pages
 - [[Artikel Ghibah Realist]]: no inbound links from non-meta pages.
@@ -29,7 +29,9 @@ status: developing
 - [[Imaam an-Nawawi]]: no inbound links from non-meta pages.
 - [[Introduction and Silence]]: no inbound links from non-meta pages.
 - [[Khaalid ibn al-Waleed]]: no inbound links from non-meta pages.
+- [[Lives-and-Virtues-of-the-Great-Imams]]: no inbound links from non-meta pages.
 - [[Malik ibn al-Mundhir]]: no inbound links from non-meta pages.
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge]]: no inbound links from non-meta pages.
 - [[Satu Hal Kecil yang Membedakan Orang Sukses]]: no inbound links from non-meta pages.
 - [[Settle-the-Argument]]: no inbound links from non-meta pages.
 - [[Taktik Iblis Merusak Rasa Malu]]: no inbound links from non-meta pages.
@@ -42,20 +44,66 @@ status: developing
 - [[Utas Tazyin Kemaksiatan]]: no inbound links from non-meta pages.
 
 ## Dead Links
+- [[... (status: complete)
+- [[Tafsir As-Sa'di: Kisah Adam dan Iblis]]: referenced in [[index]] but does not exist.
+- [[... (status: seed)
+- [[Hani bin Yazid]]: referenced in [[index]] but does not exist.
+- [[Adab Pern... (status: seed)
+- [[The Preparation for and Remembrance of Death]]: referenced in [[index]] but does not exist.
+- [[Asap Dapur, Kain Robek, dan Ksatria yang Mencuci Piringnya Sendiri]]: referenced in [[index]] but does not exist.
+- [[Bahaya Kesombongan]]: referenced in [[index]] but does not exist.
+- [[Bangkai Basah di Bawah Neon Casablanca: Mengapa Lisan Kita Lapar Daging Saudara Sendiri]]: referenced in [[index]] but does not exist.
+- [[Bangkai Basah di Bawah Neon Casablanca: Mengapa Lisan Kita Lapar Daging Saudara Sendiri]]: referenced in [[index]] but does not exist.
+- [[Ceramah: Azab Kubur - Syaikh Utsaimin]]: referenced in [[index]] but does not exist.
+- [[I... (status: seed)
+- [[Neglect of the Prayer]]: referenced in [[index]] but does not exist.
 - [[Ibn Taymiyyah]]: referenced in [[Artikel Ghibah Realist]] but does not exist.
+- [[Imam ... (status: seed)
+- [[Backbiting Not Limited to Speech]]: referenced in [[index]] but does not exist.
+- [[Imam Al-Ghaz... (status: seed)
+- [[Bagaimana Menyelesaikan Perdebatan (Settle the Argument)]]: referenced in [[index]] but does not exist.
+- [[Imam Al-Ghaza... (status: seed)
+- [[Harm 14 Lying and Falsehood]]: referenced in [[index]] but does not exist.
+- [[Imam Al-Ghazal... (status: seed)
+- [[Urgensi Kesabaran dalam Al-Qur'an (where-patience)]]: referenced in [[index]] but does not exist.
+- [[In the Remembrance of the Affairs of the Dead and Doomsday]]: referenced in [[index]] but does not exist.
 - [[Kebiasaan Harian Paling Unconventional untuk Sukses]]: referenced in [[Satu Hal Kecil yang Membedakan Orang Sukses]] but does not exist.
-- [[Kebiasaan Harian Paling Unconventional untuk Sukses]]: referenced in [[index]] but does not exist.
-- [[Mansur bin Malaz]]: referenced in [[index]] but does not exist.
+- [[Lives and Virtues of the Great Imams]]: referenced in [[hot]] but does not exist.
+- [[Lives and Virtues of the Great Imams]]: referenced in [[hot]] but does not exist.
+- [[Lives and Virtues of the Great Imams]]: referenced in [[index]] but does not exist.
+- [[Major Sin 19: Drinking Alcohol]]: referenced in [[index]] but does not exist.
+- [[Major Sin 20: Gambling]]: referenced in [[index]] but does not exist.
+- [[Major Sin 27: Tax Collecting]]: referenced in [[index]] but does not exist.
+- [[Major Sin 31: Being Corrupt in Rendering Judgement]]: referenced in [[index]] but does not exist.
+- [[Major Sin 38: Teaching for the Sake of this World and Concealing Knowledge]]: referenced in [[index]] but does not exist.
+- [[Major Sin 45: Perfidy and Breaking Promises]]: referenced in [[index]] but does not exist.
+- [[Memutus Rantai Delapan Belenggu: Ritual Sepuluh Detik yang Mengubah Arah Hidup]]: referenced in [[index]] but does not exist.
+- [[Menjaga Pandangan di Era Layar: Pupil dan Racun Makrifat]]: referenced in [[index]] but does not exist.
+- [[Menu Syirik di Atas Piring Keseharian]]: referenced in [[index]] but does not exist.
+- [[Minyak Jelantah, Uang Hasil Slot, dan Alkohol Plastik Bening: Bagaimana Gang Jakarta Menjarah Jiwamu Malam Ini]]: referenced in [[index]] but does not exist.
+- [[Pajak Zhalim... (status: seed)
+- [[Major Sin 28: Consuming and Receiving Unlawful Property]]: referenced in [[index]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Abu Dharr Al-Ghifari]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Mu'adz bin Jabal]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Nabi Muhammad SAW]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[index]] but does not exist.
+- [[Perjury (Kesaksian Palsu)]]: referenced in [[index]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[Fardhu 'Ain]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[Fardhu Kifayah]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[Ilmu Mu'amalah]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[Ilmu Mukasyafah]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[hot]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[hot]] but does not exist.
+- [[Praiseworthy and Blameworthy Branches of Knowledge]]: referenced in [[index]] but does not exist.
+- [[Pride (Kesombongan)]]: referenced in [[index]] but does not exist.
+- [[Prophet Muhammad's Recommendations Regarding Food]]: referenced in [[index]] but does not exist.
 - [[QS. Al-An'am: 93]]: referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
 - [[QS. Al-Ma'idah: 106]]: referenced in [[The Preparation for and Remembrance of Death]] but does not exist.
 - [[QS. Al-Waqi'ah: 83]]: referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
 - [[QS. Qaf: 19]]: referenced in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]] but does not exist.
+- [[Regarding His Guidance in Guarding His Words]]: referenced in [[index]] but does not exist.
 - [[Sa'id bin al-Musayyib]]: referenced in [[Artikel Ghibah Realist]] but does not exist.
-- [[Safwan bin Sulaiman]]: referenced in [[index]] but does not exist.
+- [[Saat Sujudmu Lebih Singkat dari Durasi TikTok]]: referenced in [[index]] but does not exist.
 - [[Settle the Argument]]: referenced in [[Abdullah bin az-Zubair]] but does not exist.
 - [[Settle the Argument]]: referenced in [[Abdur-Rahman Ibn Awf]] but does not exist.
 - [[Settle the Argument]]: referenced in [[Abu Al-Faraj Ibn Al-Jawzi]] but does not exist.
@@ -72,27 +120,68 @@ status: developing
 - [[Settle the Argument]]: referenced in [[Talhah bin Ubaidillah]] but does not exist.
 - [[Settle the Argument]]: referenced in [[Ujian Kekayaan dan Kemiskinan]] but does not exist.
 - [[Settle the Argument]]: referenced in [[index]] but does not exist.
+- [[Showing Off (Pamer/Riya)]]: referenced in [[index]] but does not exist.
+- [[Tanah Berdebu dan Kemaluan yang Lapar: Setan Menguliti Jiwamu Lewat Nasi Dingin dan Cahaya Layar]]: referenced in [[index]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Abu Ali ad-Daqqaq]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Ibnul Qayyim Al-Jauziyyah]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Imam Ahmad bin Hanbal]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Imam Asy-Syafi'i]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Nabi Muhammad SAW]] but does not exist.
 - [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[Sulayman bin al-Qasim]] but does not exist.
-- [[Urgensi Kesabaran dalam Al-Qur'an]]: referenced in [[index]] but does not exist.
 
 ## Missing Pages
 - "Settle the Argument": mentioned in [[Abdullah bin az-Zubair]], [[Abdur-Rahman Ibn Awf]], [[Abu Al-Faraj Ibn Al-Jawzi]], [[Abu Uthman al-Hiri]], [[Al-Junaid al-Baghdadi]], [[Ash-Shibli]], [[Bilal bin Rabah]], [[Ibnu Umar]], [[Kesabaran]], [[Khalid Ibn Yazid]], [[Muhammad bin al-Mubarak as-Suri]], [[Sahl bin Abdullah at-Tustari]], [[Syukur]], [[Talhah bin Ubaidillah]], [[Ujian Kekayaan dan Kemiskinan]], [[index]]. Suggest: create page.
-- "Urgensi Kesabaran dalam Al-Qur'an": mentioned in [[Abu Ali ad-Daqqaq]], [[Ibnul Qayyim Al-Jauziyyah]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Muhammad SAW]], [[Sulayman bin al-Qasim]], [[index]]. Suggest: create page.
+- "Praiseworthy and Blameworthy Branches of Knowledge": mentioned in [[Fardhu 'Ain]], [[Fardhu Kifayah]], [[Ilmu Mu'amalah]], [[Ilmu Mukasyafah]], [[hot]], [[index]]. Suggest: create page.
+- "Urgensi Kesabaran dalam Al-Qur'an": mentioned in [[Abu Ali ad-Daqqaq]], [[Ibnul Qayyim Al-Jauziyyah]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Nabi Muhammad SAW]], [[Sulayman bin al-Qasim]]. Suggest: create page.
 - "Pemimpin yang Mengkhianati Rakyatnya": mentioned in [[Abu Dharr Al-Ghifari]], [[Mu'adz bin Jabal]], [[Nabi Muhammad SAW]], [[index]]. Suggest: create page.
-- "Kebiasaan Harian Paling Unconventional untuk Sukses": mentioned in [[Satu Hal Kecil yang Membedakan Orang Sukses]], [[index]]. Suggest: create page.
+- "Lives and Virtues of the Great Imams": mentioned in [[hot]], [[index]]. Suggest: create page.
+- "... (status: complete)
+- [[Tafsir As-Sa'di: Kisah Adam dan Iblis": mentioned in [[index]]. Suggest: create page.
+- "... (status: seed)
+- [[Hani bin Yazid": mentioned in [[index]]. Suggest: create page.
+- "Adab Pern... (status: seed)
+- [[The Preparation for and Remembrance of Death": mentioned in [[index]]. Suggest: create page.
+- "Asap Dapur, Kain Robek, dan Ksatria yang Mencuci Piringnya Sendiri": mentioned in [[index]]. Suggest: create page.
+- "Bahaya Kesombongan": mentioned in [[index]]. Suggest: create page.
+- "Bangkai Basah di Bawah Neon Casablanca: Mengapa Lisan Kita Lapar Daging Saudara Sendiri": mentioned in [[index]]. Suggest: create page.
+- "Ceramah: Azab Kubur - Syaikh Utsaimin": mentioned in [[index]]. Suggest: create page.
+- "I... (status: seed)
+- [[Neglect of the Prayer": mentioned in [[index]]. Suggest: create page.
 - "Ibn Taymiyyah": mentioned in [[Artikel Ghibah Realist]]. Suggest: create page.
-- "Mansur bin Malaz": mentioned in [[index]]. Suggest: create page.
+- "Imam ... (status: seed)
+- [[Backbiting Not Limited to Speech": mentioned in [[index]]. Suggest: create page.
+- "Imam Al-Ghaz... (status: seed)
+- [[Bagaimana Menyelesaikan Perdebatan (Settle the Argument)": mentioned in [[index]]. Suggest: create page.
+- "Imam Al-Ghaza... (status: seed)
+- [[Harm 14 Lying and Falsehood": mentioned in [[index]]. Suggest: create page.
+- "Imam Al-Ghazal... (status: seed)
+- [[Urgensi Kesabaran dalam Al-Qur'an (where-patience)": mentioned in [[index]]. Suggest: create page.
+- "In the Remembrance of the Affairs of the Dead and Doomsday": mentioned in [[index]]. Suggest: create page.
+- "Kebiasaan Harian Paling Unconventional untuk Sukses": mentioned in [[Satu Hal Kecil yang Membedakan Orang Sukses]]. Suggest: create page.
+- "Major Sin 19: Drinking Alcohol": mentioned in [[index]]. Suggest: create page.
+- "Major Sin 20: Gambling": mentioned in [[index]]. Suggest: create page.
+- "Major Sin 27: Tax Collecting": mentioned in [[index]]. Suggest: create page.
+- "Major Sin 31: Being Corrupt in Rendering Judgement": mentioned in [[index]]. Suggest: create page.
+- "Major Sin 38: Teaching for the Sake of this World and Concealing Knowledge": mentioned in [[index]]. Suggest: create page.
+- "Major Sin 45: Perfidy and Breaking Promises": mentioned in [[index]]. Suggest: create page.
+- "Memutus Rantai Delapan Belenggu: Ritual Sepuluh Detik yang Mengubah Arah Hidup": mentioned in [[index]]. Suggest: create page.
+- "Menjaga Pandangan di Era Layar: Pupil dan Racun Makrifat": mentioned in [[index]]. Suggest: create page.
+- "Menu Syirik di Atas Piring Keseharian": mentioned in [[index]]. Suggest: create page.
+- "Minyak Jelantah, Uang Hasil Slot, dan Alkohol Plastik Bening: Bagaimana Gang Jakarta Menjarah Jiwamu Malam Ini": mentioned in [[index]]. Suggest: create page.
+- "Pajak Zhalim... (status: seed)
+- [[Major Sin 28: Consuming and Receiving Unlawful Property": mentioned in [[index]]. Suggest: create page.
+- "Perjury (Kesaksian Palsu)": mentioned in [[index]]. Suggest: create page.
+- "Pride (Kesombongan)": mentioned in [[index]]. Suggest: create page.
+- "Prophet Muhammad's Recommendations Regarding Food": mentioned in [[index]]. Suggest: create page.
 - "QS. Al-An'am: 93": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]. Suggest: create page.
 - "QS. Al-Ma'idah: 106": mentioned in [[The Preparation for and Remembrance of Death]]. Suggest: create page.
 - "QS. Al-Waqi'ah: 83": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]. Suggest: create page.
 - "QS. Qaf: 19": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]. Suggest: create page.
+- "Regarding His Guidance in Guarding His Words": mentioned in [[index]]. Suggest: create page.
 - "Sa'id bin al-Musayyib": mentioned in [[Artikel Ghibah Realist]]. Suggest: create page.
-- "Safwan bin Sulaiman": mentioned in [[index]]. Suggest: create page.
+- "Saat Sujudmu Lebih Singkat dari Durasi TikTok": mentioned in [[index]]. Suggest: create page.
+- "Showing Off (Pamer/Riya)": mentioned in [[index]]. Suggest: create page.
+- "Tanah Berdebu dan Kemaluan yang Lapar: Setan Menguliti Jiwamu Lewat Nasi Dingin dan Cahaya Layar": mentioned in [[index]]. Suggest: create page.
 
 ## Frontmatter Gaps
 - [[2026-06-08-session-ingest-azab-kubur-utsaimin]]: missing fields: tags
@@ -119,8 +208,10 @@ status: developing
 - [[Abu Sa'id Al-Khudri]]: missing fields: tags
 - [[Abu Salma]]: missing fields: tags
 - [[Abu Sulayman al-Darani]]: missing fields: tags
+- [[Abu Talib al-Makki]]: missing fields: tags
 - [[Abu Umamah]]: missing fields: tags
 - [[Abu Uthman al-Hiri]]: missing fields: tags
+- [[Abu Yusuf]]: missing fields: tags
 - [[Abu al-Aswad al-Du'ali]]: missing fields: tags
 - [[Abu al-Darda]]: missing fields: tags
 - [[Ad-Dahhak]]: missing fields: tags
@@ -135,9 +226,11 @@ status: developing
 - [[Al-Ajz wal Kasal]]: missing fields: tags
 - [[Al-Bara' bin Azib]]: missing fields: tags
 - [[Al-Fudayl bin Iyad]]: missing fields: tags
+- [[Al-Harith al-Muhasibi]]: missing fields: tags
 - [[Al-Hasan al-Basri]]: missing fields: tags
 - [[Al-Junaid al-Baghdadi]]: missing fields: tags
 - [[Al-Khattabi]]: missing fields: tags
+- [[Al-Mansur]]: missing fields: tags
 - [[Al-Quran Sebagai Penyembuh]]: missing fields: tags
 - [[Al-Wahidi]]: missing fields: tags
 - [[Ali bin Abi Thalib]]: missing fields: tags
@@ -188,6 +281,8 @@ status: developing
 - [[Excellence of Learning]]: missing fields: tags
 - [[Excellence of Teaching]]: missing fields: tags
 - [[Expiation for Backbiting]]: missing fields: tags
+- [[Fardhu 'Ain]]: missing fields: tags
+- [[Fardhu Kifayah]]: missing fields: tags
 - [[Fase Perkembangan Janin]]: missing fields: tags
 - [[Fath al-Mawsili]]: missing fields: tags
 - [[Fatima binti Muhammad]]: missing fields: tags
@@ -201,7 +296,9 @@ status: developing
 - [[Ghibah]]: missing fields: tags
 - [[Hafsah binti Umar]]: missing fields: tags
 - [[Hak dan Kewajiban Suami]]: missing fields: tags
+- [[Hammad bin Sulaiman]]: missing fields: tags
 - [[Hani bin Yazid]]: missing fields: tags
+- [[Harits bin Labid]]: missing fields: tags
 - [[Harm 14 Lying and Falsehood]]: missing fields: tags
 - [[Harm 15 Backbiting]]: missing fields: tags
 - [[Harm 16 Slander and Tale Bearing]]: missing fields: tags
@@ -212,6 +309,7 @@ status: developing
 - [[Harms 4 to 6 Disputes and Affectation in Speech]]: missing fields: tags
 - [[Harms 7 to 9 Obscenity Cursing and Poetry]]: missing fields: tags
 - [[Harms of Greed and Sexual Passion]]: missing fields: tags
+- [[Hasan al-Karabisi]]: missing fields: tags
 - [[Hasan bin Ali]]: missing fields: tags
 - [[Hatim al-Asamm]]: missing fields: tags
 - [[Hawa]]: missing fields: tags
@@ -229,7 +327,10 @@ status: developing
 - [[Ibrahim an-Nakha'i]]: missing fields: tags
 - [[Iftitah]]: missing fields: tags
 - [[Ikhlas]]: missing fields: tags
+- [[Ilmu Mu'amalah]]: missing fields: tags
+- [[Ilmu Mukasyafah]]: missing fields: tags
 - [[Imaam an-Nawawi]]: missing fields: tags
+- [[Imam Abu Hanifa]]: missing fields: tags
 - [[Imam Adh-Dhahabi]]: missing fields: tags
 - [[Imam Ahmad bin Hanbal]]: missing fields: tags
 - [[Imam Al-Ghazali]]: missing fields: tags
@@ -272,7 +373,9 @@ status: developing
 - [[Khawlah binti Hakim]]: missing fields: tags
 - [[Khusyuk]]: missing fields: tags
 - [[Korupsi dan Suap dalam Peradilan]]: missing fields: tags
+- [[Lives-and-Virtues-of-the-Great-Imams]]: missing fields: tags
 - [[Luqman]]: missing fields: tags
+- [[Ma'ruf al-Karkhi]]: missing fields: tags
 - [[Major-Sin-19-Drinking-Alcohol]]: missing fields: tags
 - [[Major-Sin-20-Gambling]]: missing fields: tags
 - [[Major-Sin-27-Tax-Collecting]]: missing fields: tags
@@ -295,6 +398,7 @@ status: developing
 - [[Menyembunyikan Ilmu dan Niat Duniawi]]: missing fields: tags
 - [[Mu'adz bin Jabal]]: missing fields: tags
 - [[Muhammad bin Shalih Al-Utsaimin]]: missing fields: tags
+- [[Muhammad bin Shuja]]: missing fields: tags
 - [[Muhammad bin al-Mubarak as-Suri]]: missing fields: tags
 - [[Muhammad ibn Wasi']]: missing fields: tags
 - [[Mujahid]]: missing fields: tags
@@ -318,11 +422,13 @@ status: developing
 - [[Pertengkaran dan Perdebatan]]: missing fields: tags
 - [[Pertobatan Adam]]: missing fields: tags
 - [[Poligami dalam Islam]]: missing fields: tags
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge]]: missing fields: tags
 - [[Pride]]: missing fields: tags
 - [[Prophet Muhammads Recommendations Regarding Food]]: missing fields: created, updated, tags
 - [[Qadar]]: missing fields: tags
 - [[Qatadah bin Di'amah As-Sadusi]]: missing fields: tags
 - [[Rabi' ibn Khuthaym]]: missing fields: tags
+- [[Rabiah bin Asim]]: missing fields: tags
 - [[Raja' dan Khauf]]: missing fields: tags
 - [[Regarding His Guidance in Prayer]]: missing fields: tags
 - [[Remedy for Backbiting Restraining the Tongue]]: missing fields: tags
@@ -338,12 +444,14 @@ status: developing
 - [[Satu Hal Kecil yang Membedakan Orang Sukses]]: missing fields: tags
 - [[Saudah binti Zam'ah]]: missing fields: tags
 - [[Settle-the-Argument]]: missing fields: tags
+- [[Shaiban al-Ra'i]]: missing fields: tags
 - [[Shalat Berjamaah]]: missing fields: tags
 - [[Shirk Lafzhi]]: missing fields: tags
 - [[Showing Off]]: missing fields: tags
 - [[Sifat Shalat Nabi]]: missing fields: tags
 - [[Solaiman bin Yasar]]: missing fields: tags
 - [[Sufyan ath-Thawri]]: missing fields: tags
+- [[Sufyan bin Uyainah]]: missing fields: tags
 - [[Sujud Sahwi]]: missing fields: tags
 - [[Sulaym bin Jabir]]: missing fields: tags
 - [[Sulayman bin al-Qasim]]: missing fields: tags
@@ -379,17 +487,21 @@ status: developing
 - [[Utas Nikah Tahlil Bukowski]]: missing fields: tags
 - [[Utas Riya Bourdain]]: missing fields: tags
 - [[Utas Tazyin Kemaksiatan]]: missing fields: tags
+- [[Wabisah bin Ma'bad]]: missing fields: tags
 - [[Wahb ibn Munabbih]]: missing fields: tags
 - [[Wahb ibn al-Ward]]: missing fields: tags
 - [[Wahdatul Wujud dan Hulul]]: missing fields: tags
 - [[Waswasah Setan]]: missing fields: tags
 - [[What Reminds People of Death and the Hereafter]]: missing fields: tags
+- [[Yahya bin Ma'in]]: missing fields: tags
 - [[Yahya bin Mu'adh]]: missing fields: tags
+- [[Yazid bin Umar bin Hubayrah]]: missing fields: tags
 - [[Yusuf ibn Asbat]]: missing fields: tags
 - [[Zaid bin Thabit]]: missing fields: tags
 - [[Zayd ibn Arqam]]: missing fields: tags
 - [[Ziarah Kubur]]: missing fields: tags
 - [[Zuhud]]: missing fields: tags
+- [[dashboard]]: missing fields: status, created, tags
 - [[hot]]: missing fields: tags
 - [[index]]: missing fields: tags
 - [[lint-report-2026-06-26]]: missing fields: type, status, created, updated, tags
@@ -425,8 +537,10 @@ status: developing
 - [[Abu Sa'id Al-Khudri]]: empty section heading `# Abu Sa'id Al-Khudri`.
 - [[Abu Salma]]: empty section heading `# Abu Salma`.
 - [[Abu Sulayman al-Darani]]: empty section heading `# Abu Sulayman al-Darani`.
+- [[Abu Talib al-Makki]]: empty section heading `# Abu Talib al-Makki`.
 - [[Abu Umamah]]: empty section heading `# Abu Umamah`.
 - [[Abu Uthman al-Hiri]]: empty section heading `# Abu Uthman al-Hiri`.
+- [[Abu Yusuf]]: empty section heading `# Abu Yusuf`.
 - [[Abu al-Aswad al-Du'ali]]: empty section heading `# Abu al-Aswad al-Du'ali`.
 - [[Abu al-Darda]]: empty section heading `# Abu al-Darda`.
 - [[Ad-Dahhak]]: empty section heading `# Ad-Dahhak`.
@@ -442,9 +556,11 @@ status: developing
 - [[Al-Ajz wal Kasal]]: empty section heading `# Al-Ajz wal Kasal (Kelemahan & Kemalasan)`.
 - [[Al-Bara' bin Azib]]: empty section heading `# Al-Bara' bin Azib`.
 - [[Al-Fudayl bin Iyad]]: empty section heading `# Al-Fudayl bin Iyad`.
+- [[Al-Harith al-Muhasibi]]: empty section heading `# Al-Harith al-Muhasibi`.
 - [[Al-Hasan al-Basri]]: empty section heading `# Al-Hasan al-Basri`.
 - [[Al-Junaid al-Baghdadi]]: empty section heading `# Al-Junaid al-Baghdadi`.
 - [[Al-Khattabi]]: empty section heading `# Al-Khattabi`.
+- [[Al-Mansur]]: empty section heading `# Al-Mansur`.
 - [[Al-Quran Sebagai Penyembuh]]: empty section heading `# Al-Quran Sebagai Penyembuh`.
 - [[Al-Wahidi]]: empty section heading `# Al-Wahidi`.
 - [[Ali bin Abi Thalib]]: empty section heading `# Ali bin Abi Thalib`.
@@ -492,6 +608,8 @@ status: developing
 - [[Excellence of Learning]]: empty section heading `# Excellence of Learning (Keutamaan Menuntut Ilmu)`.
 - [[Excellence of Teaching]]: empty section heading `# Excellence of Teaching (Keutamaan Mengajar & Bukti Rasio)`.
 - [[Expiation for Backbiting]]: empty section heading `# Expiation for Backbiting`.
+- [[Fardhu 'Ain]]: empty section heading `# Fardhu 'Ain`.
+- [[Fardhu Kifayah]]: empty section heading `# Fardhu Kifayah`.
 - [[Fase Perkembangan Janin]]: empty section heading `# Fase Perkembangan Janin`.
 - [[Fath al-Mawsili]]: empty section heading `# Fath al-Mawsili`.
 - [[Fatima binti Muhammad]]: empty section heading `# Fatima binti Muhammad`.
@@ -506,7 +624,9 @@ status: developing
 - [[Ghibah]]: empty section heading `# Ghibah (Menggunjing)`.
 - [[Hafsah binti Umar]]: empty section heading `# Hafsah binti Umar`.
 - [[Hak dan Kewajiban Suami]]: empty section heading `# Hak dan Kewajiban Suami`.
+- [[Hammad bin Sulaiman]]: empty section heading `# Hammad bin Sulaiman`.
 - [[Hani bin Yazid]]: empty section heading `# Hani bin Yazid`.
+- [[Harits bin Labid]]: empty section heading `# Harits bin Labid`.
 - [[Harm 14 Lying and Falsehood]]: empty section heading `# Harm 14 Lying and Falsehood`.
 - [[Harm 15 Backbiting]]: empty section heading `# Harm 15 Backbiting`.
 - [[Harm 16 Slander and Tale Bearing]]: empty section heading `# Harm 16 Slander and Tale Bearing`.
@@ -517,6 +637,7 @@ status: developing
 - [[Harms 4 to 6 Disputes and Affectation in Speech]]: empty section heading `# Harms 4 to 6 Disputes and Affectation in Speech`.
 - [[Harms 7 to 9 Obscenity Cursing and Poetry]]: empty section heading `# Harms 7 to 9 Obscenity Cursing and Poetry`.
 - [[Harms of Greed and Sexual Passion]]: empty section heading `# Harms of Greed and Sexual Passion`.
+- [[Hasan al-Karabisi]]: empty section heading `# Hasan al-Karabisi`.
 - [[Hasan bin Ali]]: empty section heading `# Hasan bin Ali`.
 - [[Hatim al-Asamm]]: empty section heading `# Hatim al-Asamm`.
 - [[Hawa]]: empty section heading `# Hawa`.
@@ -534,7 +655,10 @@ status: developing
 - [[Ibrahim an-Nakha'i]]: empty section heading `# Ibrahim an-Nakha'i`.
 - [[Iftitah]]: empty section heading `# Iftitah (Doa Pembuka Shalat)`.
 - [[Ikhlas]]: empty section heading `# Ikhlas (Sincerity)`.
+- [[Ilmu Mu'amalah]]: empty section heading `# Ilmu Mu'amalah`.
+- [[Ilmu Mukasyafah]]: empty section heading `# Ilmu Mukasyafah`.
 - [[Imaam an-Nawawi]]: empty section heading `# Imaam an-Nawawi`.
+- [[Imam Abu Hanifa]]: empty section heading `# Imam Abu Hanifa`.
 - [[Imam Adh-Dhahabi]]: empty section heading `# Imam Adh-Dhahabi`.
 - [[Imam Ahmad bin Hanbal]]: empty section heading `# Imam Ahmad bin Hanbal`.
 - [[Imam Al-Ghazali]]: empty section heading `# Imam Al-Ghazali`.
@@ -578,7 +702,9 @@ status: developing
 - [[Khawlah binti Hakim]]: empty section heading `# Khawlah binti Hakim`.
 - [[Khusyuk]]: empty section heading `# Khusyuk (Kekhusyukan Ibadah)`.
 - [[Korupsi dan Suap dalam Peradilan]]: empty section heading `# Korupsi dan Suap dalam Peradilan`.
+- [[Lives-and-Virtues-of-the-Great-Imams]]: empty section heading `# Lives and Virtues of the Great Imams`.
 - [[Luqman]]: empty section heading `# Luqman`.
+- [[Ma'ruf al-Karkhi]]: empty section heading `# Ma'ruf al-Karkhi`.
 - [[Major-Sin-19-Drinking-Alcohol]]: empty section heading `# Major Sin 19: Drinking Alcohol (Meminum Minuman Keras)`.
 - [[Major-Sin-20-Gambling]]: empty section heading `# Major Sin 20: Gambling (Perjudian)`.
 - [[Major-Sin-27-Tax-Collecting]]: empty section heading `# Major Sin 27: Tax Collecting (Pemungutan Pajak Zhalim)`.
@@ -601,6 +727,7 @@ status: developing
 - [[Menyembunyikan Ilmu dan Niat Duniawi]]: empty section heading `# Menyembunyikan Ilmu dan Niat Duniawi`.
 - [[Mu'adz bin Jabal]]: empty section heading `# Mu'adz bin Jabal`.
 - [[Muhammad bin Shalih Al-Utsaimin]]: empty section heading `# Muhammad bin Shalih Al-Utsaimin`.
+- [[Muhammad bin Shuja]]: empty section heading `# Muhammad bin Shuja`.
 - [[Muhammad bin al-Mubarak as-Suri]]: empty section heading `# Muhammad bin al-Mubarak as-Suri`.
 - [[Muhammad ibn Wasi']]: empty section heading `# Muhammad ibn Wasi'`.
 - [[Mujahid]]: empty section heading `# Mujahid`.
@@ -627,12 +754,14 @@ status: developing
 - [[Pertengkaran dan Perdebatan]]: empty section heading `# Pertengkaran dan Perdebatan (Mira' wal Jidal)`.
 - [[Pertobatan Adam]]: empty section heading `# Pertobatan Adam`.
 - [[Poligami dalam Islam]]: empty section heading `# Poligami dalam Islam`.
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge]]: empty section heading `# Praiseworthy and Blameworthy Branches of Knowledge`.
 - [[Pride]]: empty section heading `# Pride (Kesombongan)`.
 - [[Prophet Muhammads Recommendations Regarding Food]]: empty section heading `# Prophet Muhammad's Recommendations Regarding Food`.
 - [[Prophet Muhammads Recommendations Regarding Food]]: empty section heading `## Tema Utama`.
 - [[Qadar]]: empty section heading `# Qadar (Keimanan pada Takdir)`.
 - [[Qatadah bin Di'amah As-Sadusi]]: empty section heading `# Qatadah bin Di'amah As-Sadusi`.
 - [[Rabi' ibn Khuthaym]]: empty section heading `# Rabi' ibn Khuthaym`.
+- [[Rabiah bin Asim]]: empty section heading `# Rabiah bin Asim`.
 - [[Raja' dan Khauf]]: empty section heading `# Raja' dan Khauf`.
 - [[Regarding His Guidance in Prayer]]: empty section heading `# Regarding His Guidance in Prayer (Petunjuk Nabi dalam Shalat)`.
 - [[Remedy for Backbiting Restraining the Tongue]]: empty section heading `# Remedy for Backbiting Restraining the Tongue`.
@@ -648,12 +777,14 @@ status: developing
 - [[Sari Sakti]]: empty section heading `# Sari Sakti`.
 - [[Saudah binti Zam'ah]]: empty section heading `# Saudah binti Zam'ah`.
 - [[Settle-the-Argument]]: empty section heading `# Bagaimana Menyelesaikan Perdebatan (Settle the Argument)`.
+- [[Shaiban al-Ra'i]]: empty section heading `# Shaiban al-Ra'i`.
 - [[Shalat Berjamaah]]: empty section heading `# Shalat Berjamaah`.
 - [[Shirk Lafzhi]]: empty section heading `# Shirk Lafzhi (Syirik Lafal / Ucapan)`.
 - [[Showing Off]]: empty section heading `# Showing Off (Pamer/Riya)`.
 - [[Sifat Shalat Nabi]]: empty section heading `# Sifat Shalat Nabi (Karakteristik Shalat Sunnah)`.
 - [[Solaiman bin Yasar]]: empty section heading `# Solaiman bin Yasar`.
 - [[Sufyan ath-Thawri]]: empty section heading `# Sufyan ath-Thawri`.
+- [[Sufyan bin Uyainah]]: empty section heading `# Sufyan bin Uyainah`.
 - [[Sujud Sahwi]]: empty section heading `# Sujud Sahwi (Sujud Karena Lupa)`.
 - [[Sulaym bin Jabir]]: empty section heading `# Sulaym bin Jabir`.
 - [[Sulayman bin al-Qasim]]: empty section heading `# Sulayman bin al-Qasim`.
@@ -690,12 +821,15 @@ status: developing
 - [[Utas Nikah Tahlil Bukowski]]: empty section heading `## Draf Konten / Naskah / Postingan`.
 - [[Utas Tazyin Kemaksiatan]]: empty section heading `# Utas Tazyin Kemaksiatan (Bukowski Style)`.
 - [[Utas Tazyin Kemaksiatan]]: empty section heading `## Draf Konten / Naskah / Postingan`.
+- [[Wabisah bin Ma'bad]]: empty section heading `# Wabisah bin Ma'bad`.
 - [[Wahb ibn Munabbih]]: empty section heading `# Wahb ibn Munabbih`.
 - [[Wahb ibn al-Ward]]: empty section heading `# Wahb ibn al-Ward`.
 - [[Wahdatul Wujud dan Hulul]]: empty section heading `# Wahdatul Wujud dan Hulul`.
 - [[Waswasah Setan]]: empty section heading `# Waswasah Setan`.
 - [[What Reminds People of Death and the Hereafter]]: empty section heading `# What Reminds People of Death and the Hereafter`.
+- [[Yahya bin Ma'in]]: empty section heading `# Yahya bin Ma'in`.
 - [[Yahya bin Mu'adh]]: empty section heading `# Yahya bin Mu'adh`.
+- [[Yazid bin Umar bin Hubayrah]]: empty section heading `# Yazid bin Umar bin Hubayrah`.
 - [[Yusuf ibn Asbat]]: empty section heading `# Yusuf ibn Asbat`.
 - [[Zaid bin Thabit]]: empty section heading `# Zaid bin Thabit`.
 - [[Zayd ibn Arqam]]: empty section heading `# Zayd ibn Arqam`.
@@ -708,9 +842,9 @@ status: developing
 - [[where-patience]]: empty section heading `# Urgensi Kesabaran dalam Al-Qur'an (where-patience)`.
 
 ## Address Validation
-- Counter state: `106`
-- Highest c- address observed: `c-000105`
-- Address errors found: 194
+- Counter state: `130`
+- Highest c- address observed: `c-000129`
+- Address errors found: 192
 
 ### Errors
 - [[Abandoning the Group Prayer]]: missing address. Page created 2026-06-15 (post-rollout); address required.
@@ -800,7 +934,6 @@ status: developing
 - [[Ikhlas]]: missing address. Page created 2026-06-10 (post-rollout); address required.
 - [[Imaam an-Nawawi]]: missing address. Page created 2026-06-13 (post-rollout); address required.
 - [[Imam Adh-Dhahabi]]: missing address. Page created 2026-06-15 (post-rollout); address required.
-- [[Imam Malik bin Anas]]: missing address. Page created 2026-06-10 (post-rollout); address required.
 - [[Ishaq ibn Rahawayh]]: missing address. Page created 2026-06-15 (post-rollout); address required.
 - [[Isma'il bin Sa'id]]: missing address. Page created 2026-06-10 (post-rollout); address required.
 - [[Isti'adzah]]: missing address. Page created 2026-06-15 (post-rollout); address required.
@@ -868,7 +1001,6 @@ status: developing
 - [[Showing Off]]: missing address. Page created 2026-06-10 (post-rollout); address required.
 - [[Sifat Shalat Nabi]]: missing address. Page created 2026-06-11 (post-rollout); address required.
 - [[Solaiman bin Yasar]]: missing address. Page created 2026-06-14 (post-rollout); address required.
-- [[Sufyan ath-Thawri]]: missing address. Page created 2026-06-10 (post-rollout); address required.
 - [[Sujud Sahwi]]: missing address. Page created 2026-06-11 (post-rollout); address required.
 - [[Sulaym bin Jabir]]: missing address. Page created 2026-06-16 (post-rollout); address required.
 - [[Sulayman bin al-Qasim]]: missing address. Page created 2026-06-07 (post-rollout); address required.

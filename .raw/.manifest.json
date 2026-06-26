@@ -1050,6 +1050,48 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-3.md": {
+      "hash": "d26634fc3b808cf134688182b499c0af",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Praiseworthy-and-Blameworthy-Branches-of-Knowledge.md",
+        "wiki/concepts/Fardhu 'Ain.md",
+        "wiki/concepts/Fardhu Kifayah.md",
+        "wiki/concepts/Ilmu Mukasyafah.md",
+        "wiki/concepts/Ilmu Mu'amalah.md",
+        "wiki/entities/Wabisah bin Ma'bad.md",
+        "wiki/entities/Shaiban al-Ra'i.md",
+        "wiki/entities/Ma'ruf al-Karkhi.md",
+        "wiki/entities/Yahya bin Ma'in.md",
+        "wiki/entities/Al-Harith al-Muhasibi.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Ahmad bin Hanbal.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-4.md": {
+      "hash": "728ff284380ab4665d37b651bf769bbd",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/entities/Abu Talib al-Makki.md",
+        "wiki/entities/Abu Yusuf.md",
+        "wiki/sources/Lives-and-Virtues-of-the-Great-Imams.md",
+        "wiki/entities/Imam Abu Hanifa.md",
+        "wiki/entities/Hammad bin Sulaiman.md",
+        "wiki/entities/Yazid bin Umar bin Hubayrah.md",
+        "wiki/entities/Rabiah bin Asim.md",
+        "wiki/entities/Al-Mansur.md",
+        "wiki/entities/Muhammad bin Shuja.md",
+        "wiki/entities/Sufyan bin Uyainah.md",
+        "wiki/entities/Harits bin Labid.md",
+        "wiki/entities/Hasan al-Karabisi.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Asy-Syafi'i.md",
+        "wiki/entities/Imam Malik bin Anas.md",
+        "wiki/entities/Sufyan ath-Thawri.md"
+      ]
     }
   },
   "address_map": {
@@ -1156,6 +1198,30 @@
     "wiki/entities/Umar bin Khattab.md": "c-000102",
     "wiki/sources/Excellence of Teaching.md": "c-000103",
     "wiki/concepts/Keutamaan Mengajar.md": "c-000104",
-    "wiki/entities/Mu'adz bin Jabal.md": "c-000105"
+    "wiki/entities/Mu'adz bin Jabal.md": "c-000105",
+    "wiki/sources/Praiseworthy-and-Blameworthy-Branches-of-Knowledge.md": "c-000106",
+    "wiki/concepts/Fardhu 'Ain.md": "c-000107",
+    "wiki/concepts/Fardhu Kifayah.md": "c-000108",
+    "wiki/concepts/Ilmu Mukasyafah.md": "c-000109",
+    "wiki/concepts/Ilmu Mu'amalah.md": "c-000110",
+    "wiki/entities/Abu Talib al-Makki.md": "c-000111",
+    "wiki/entities/Abu Yusuf.md": "c-000112",
+    "wiki/entities/Wabisah bin Ma'bad.md": "c-000113",
+    "wiki/entities/Shaiban al-Ra'i.md": "c-000114",
+    "wiki/entities/Ma'ruf al-Karkhi.md": "c-000115",
+    "wiki/entities/Yahya bin Ma'in.md": "c-000116",
+    "wiki/entities/Al-Harith al-Muhasibi.md": "c-000117",
+    "wiki/sources/Lives-and-Virtues-of-the-Great-Imams.md": "c-000118",
+    "wiki/entities/Imam Abu Hanifa.md": "c-000119",
+    "wiki/entities/Hammad bin Sulaiman.md": "c-000120",
+    "wiki/entities/Yazid bin Umar bin Hubayrah.md": "c-000121",
+    "wiki/entities/Rabiah bin Asim.md": "c-000122",
+    "wiki/entities/Al-Mansur.md": "c-000123",
+    "wiki/entities/Muhammad bin Shuja.md": "c-000124",
+    "wiki/entities/Sufyan bin Uyainah.md": "c-000125",
+    "wiki/entities/Harits bin Labid.md": "c-000126",
+    "wiki/entities/Hasan al-Karabisi.md": "c-000127",
+    "wiki/entities/Imam Malik bin Anas.md": "c-000128",
+    "wiki/entities/Sufyan ath-Thawri.md": "c-000129"
   }
 }

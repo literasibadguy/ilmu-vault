@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 3 & 4 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-vol1-chapter-1-part-3.md`, `.raw/ihya-vol1-chapter-1-part-4.md`
+- Ringkasan: [[Praiseworthy and Blameworthy Branches of Knowledge]], [[Lives and Virtues of the Great Imams]]
+- Halaman dibuat: [[Praiseworthy and Blameworthy Branches of Knowledge]], [[Lives and Virtues of the Great Imams]], [[Fardhu 'Ain]], [[Fardhu Kifayah]], [[Ilmu Mukasyafah]], [[Ilmu Mu'amalah]], [[Abu Talib al-Makki]], [[Abu Yusuf]], [[Wabisah bin Ma'bad]], [[Shaiban al-Ra'i]], [[Ma'ruf al-Karkhi]], [[Yahya bin Ma'in]], [[Al-Harith al-Muhasibi]], [[Imam Abu Hanifa]], [[Hammad bin Sulaiman]], [[Yazid bin Umar bin Hubayrah]], [[Rabiah bin Asim]], [[Al-Mansur]], [[Muhammad bin Shuja]], [[Sufyan bin Uyainah]], [[Harits bin Labid]], [[Hasan al-Karabisi]]
+- Halaman diperbarui: [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]]
+- Temuan Kunci: Klasifikasi ilmu berdasarkan status keagamaannya (Fardhu 'Ain dan Fardhu Kifayah), posisi Fiqh sebagai ilmu duniawi penopang administrasi kemaslahatan, serta karakteristik keluhuran zuhud dan ketakwaan malam sembahyang lima pendiri hukum fiqih salaf utama (Abu Hanifa, Asy-Syafi'i, Malik, Ahmad, dan Sufyan al-Thawri).
+
 ## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 1 & 2 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-vol1-chapter-1-part-1.md`, `.raw/ihya-vol1-chapter-1-part-2.md`
 - Ringkasan: [[Excellence of Learning]], [[Excellence of Teaching]]

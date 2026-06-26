@@ -16,19 +16,18 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-26. Mengimpor Bab I Bagian 1 & 2 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang keutamaan menuntut ilmu (*Excellence of Learning*) dan keutamaan mengajar (*Excellence of Teaching*).
+2026-06-26. Mengimpor Bab I Bagian 3 & 4 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang klasifikasi ilmu terpuji/tercela (**[[Praiseworthy and Blameworthy Branches of Knowledge]]**) dan keteladanan hidup para imam salaf (**[[Lives and Virtues of the Great Imams]]**).
 
 ## Fakta Kunci Terbaru
-- Menuntut ilmu agama (thalabul ilmi) adalah kewajiban mutlak bagi setiap Muslim dan bernilai lebih utama daripada ibadah sunnah secara individual (**[[Keutamaan Menuntut Ilmu]]**).
-- Membelanjakan atau mengajarkan ilmu rohani laksana nutrisi pokok bagi hati manusia, yang jika terputus selama tiga hari berturut-turut akan menyebabkan kematian hati (**[[Fath al-Mawsili]]**).
-- Mengajarkan ilmu (*ta'lim*) dan membimbing jiwa menuju hidayah bernilai lebih berharga daripada dunia beserta segala isinya (**[[Keutamaan Mengajar]]**).
-- Secara rasional, pengajaran adalah tugas paling mulia di bumi karena objek kerjanya adalah hati manusia (organ termulia), bertindak sebagai perantara rohani menuju Allah (**[[Excellence of Teaching]]**).
-- Hierarki pemerintahan menempatkan bimbingan spiritual keagamaan ulama (pewaris nabi) pada tingkat tertinggi setelah tugas para nabi (**[[Keutamaan Mengajar]]**).
+- Kewajiban menuntut ilmu (**[[Fardhu 'Ain]]**) bersifat dinamis dan mencakup akidah dasar, ibadah praktis (begitu tiba waktunya), dan larangan kemaksiatan sesuai tuntutan keadaan individu.
+- Ilmu non-keagamaan yang vital bagi kemaslahatan masyarakat (seperti kedokteran, matematika, administrasi, industri) berstatus kewajiban kolektif (**[[Fardhu Kifayah]]**).
+- Fiqh lahiriah secara eksoteris hanya mengatur formalitas lahiriyah duniawi, sedangkan keselamatan akhirat bersumber pada kemurnian niat dan kesucian batin rohani (**[[Ilmu Mu'amalah]]**).
+- Lima imam salaf besar (**[[Imam Abu Hanifa]]**, **[[Imam Asy-Syafi'i]]**, **[[Imam Malik bin Anas]]**, **[[Imam Ahmad bin Hanbal]]**, dan **[[Sufyan ath-Thawri]]**) meneladankan kezuhudan tinggi dengan menolak jabatan resmi dari khalifah zalim demi kebersihan rohani.
 
 ## Perubahan Terbaru
-- Dibuat: [[Excellence of Learning]], [[Excellence of Teaching]], [[Keutamaan Menuntut Ilmu]], [[Keutamaan Mengajar]], [[Abu al-Darda]], [[Abu al-Aswad al-Du'ali]], [[Fath al-Mawsili]], [[Kamil bin Ziyad]].
-- Diperbarui: [[Imam Al-Ghazali]], [[Ali bin Abi Thalib]], [[Ibnu Abbas]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Abdullah bin al-Mubarak]], [[Mu'adz bin Jabal]], [[Nabi Isa AS]], [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Abu Hurayrah]], [[Umar bin Khattab]].
+- Dibuat: [[Praiseworthy and Blameworthy Branches of Knowledge]], [[Lives and Virtues of the Great Imams]], [[Fardhu 'Ain]], [[Fardhu Kifayah]], [[Ilmu Mukasyafah]], [[Ilmu Mu'amalah]], [[Abu Talib al-Makki]], [[Abu Yusuf]], [[Wabisah bin Ma'bad]], [[Shaiban al-Ra'i]], [[Ma'ruf al-Karkhi]], [[Yahya bin Ma'in]], [[Al-Harith al-Muhasibi]], [[Imam Abu Hanifa]], [[Hammad bin Sulaiman]], [[Yazid bin Umar bin Hubayrah]], [[Rabiah bin Asim]], [[Al-Mansur]], [[Muhammad bin Shuja]], [[Sufyan bin Uyainah]], [[Harits bin Labid]], [[Hasan al-Karabisi]].
+- Diperbarui: [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]].
 
 ## Alur Kerja Aktif
-- Penyusunan seri kajian keilmuan Islam (thalabul ilmi & keutamaan mengajar) serta integrasinya dengan konsep keikhlasan beramal dan wara' salafus shalih.
-- Langkah Berikutnya: Menjalankan audit kesehatan tautan dan struktur alamat halaman menggunakan `wiki-lint`.
+- Penyusunan klasifikasi keilmuan Islam (fardhu 'ain & fardhu kifayah), wara' dan kepatuhan hati, serta sejarah dan keteladanan ibadah malam para mujtahid salaf.
+- Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.
