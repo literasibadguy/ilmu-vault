@@ -36,6 +36,7 @@ sources:
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
   - "[[Excellence of Learning]]"
   - "[[Excellence of Teaching]]"
+  - "[[Blameworthy Sciences and Changing Meanings]]"
 ---
 
 
@@ -65,6 +66,8 @@ sources:
 - Menegaskan adanya mitsaq (perjanjian) kokoh dari Allah kepada orang-orang berilmu untuk menjelaskan isi Kitab dan tidak menyembunyikannya (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
 - **Tafsir Doa Kebaikan Dunia Akhirat**: Menafsirkan doa QS. Al-Baqarah: 201 bahwa "kebaikan di dunia" adalah ilmu pengetahuan agama, sedangkan "kebaikan di akhirat" adalah surga (**[[Excellence of Learning]]**).
 - **Penyelamat Peradaban Kemanusiaan**: Menyatakan perkataan terkenal mengenai peran ulama: *"Kalaulah bukan karena para ulama (orang berilmu/pendidik), niscaya seluruh manusia akan hidup laksana binatang"* (**[[Excellence of Teaching]]**).
+- **Kriteria Faqih Sejati**: Menjabarkan bahwa seorang faqih bukanlah ahli perdebatan jurisprudensi, melainkan orang yang zuhud dari dunia, merindukan akhirat, tekun beribadah, menahan lisan dari menjatuhkan kehormatan sesama Muslim, bersikap wara' terhadap harta mereka, serta tulus menginginkan kebaikan bagi umat (**[[Fiqh]]**).
+- **Satu-satunya yang Dipertahankan di Masjid Basra**: Ketika Khalifah **[[Ali bin Abi Thalib]]** mengusir seluruh pendongeng dari Masjid Basra, hanya beliau yang diizinkan tetap berceramah karena materi khotbahnya yang murni membahas persiapan akhirat, muhasabah batin, kematian, dan tipu daya setan (**[[Dzikir]]**).
 
 ## Sumber
 
@@ -76,3 +79,4 @@ sources:
 - [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
 - [[Excellence of Learning]]
 - [[Excellence of Teaching]]
+- [[Blameworthy Sciences and Changing Meanings]]

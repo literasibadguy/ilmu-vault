@@ -1092,6 +1092,42 @@
         "wiki/entities/Imam Malik bin Anas.md",
         "wiki/entities/Sufyan ath-Thawri.md"
       ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-5.md": {
+      "hash": "d7dd2657a3a4e22d4fd983fe601e04d7",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Blameworthy-Sciences-and-Changing-Meanings.md",
+        "wiki/concepts/Ilmu Tercela.md",
+        "wiki/concepts/Pergeseran Makna Istilah.md",
+        "wiki/concepts/Fiqh.md",
+        "wiki/concepts/Tauhid.md",
+        "wiki/concepts/Dzikir.md",
+        "wiki/concepts/Hikmah.md",
+        "wiki/entities/Sa'ad bin Ibrahim.md",
+        "wiki/entities/Abdullah bin Rawahah.md",
+        "wiki/entities/Atha bin Abi Rabah.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Anas bin Malik.md"
+      ]
+    },
+    ".raw/ihya-vol1-chapter-1-part-6.md": {
+      "hash": "29be89e31bbbbbb34f920b0c8e989f97",
+      "ingested_at": "2026-06-26",
+      "pages_created": [
+        "wiki/sources/Harms-of-Polemics-and-Evils-of-Debates.md",
+        "wiki/concepts/Bahaya Debat.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Ali bin Abi Thalib.md"
+      ]
     }
   },
   "address_map": {
@@ -1222,6 +1258,18 @@
     "wiki/entities/Harits bin Labid.md": "c-000126",
     "wiki/entities/Hasan al-Karabisi.md": "c-000127",
     "wiki/entities/Imam Malik bin Anas.md": "c-000128",
-    "wiki/entities/Sufyan ath-Thawri.md": "c-000129"
+    "wiki/entities/Sufyan ath-Thawri.md": "c-000129",
+    "wiki/sources/Blameworthy-Sciences-and-Changing-Meanings.md": "c-000130",
+    "wiki/sources/Harms-of-Polemics-and-Evils-of-Debates.md": "c-000131",
+    "wiki/concepts/Ilmu Tercela.md": "c-000132",
+    "wiki/concepts/Pergeseran Makna Istilah.md": "c-000133",
+    "wiki/concepts/Fiqh.md": "c-000134",
+    "wiki/concepts/Tauhid.md": "c-000135",
+    "wiki/concepts/Dzikir.md": "c-000136",
+    "wiki/concepts/Hikmah.md": "c-000137",
+    "wiki/concepts/Bahaya Debat.md": "c-000138",
+    "wiki/entities/Sa'ad bin Ibrahim.md": "c-000139",
+    "wiki/entities/Abdullah bin Rawahah.md": "c-000140",
+    "wiki/entities/Atha bin Abi Rabah.md": "c-000141"
   }
 }

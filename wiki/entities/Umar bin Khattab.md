@@ -38,6 +38,8 @@ sources:
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
   - "[[Excellence of Learning]]"
   - "[[Excellence of Teaching]]"
+  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Harms of Polemics and Evils of Debates]]"
 ---
 
 
@@ -68,6 +70,8 @@ sources:
 - **Teguran Dosa Pendengar Ghibah**: Ditegur oleh Nabi SAW bersama Abu Bakar Ash-Shiddiq karena bersepakat/mendengar ucapan "si Fulan selalu tertidur" (satu berbicara dan satu mendengarkan). Nabi SAW menegaskan keduanya telah memakan daging bangkai saudara mereka, mengajarkan prinsip keharaman mendengarkan **[[Ghibah]]**.
 - **Kafarat Kebun Kurma**: Suatu hari pergi mengunjungi kebun kurmanya dan kembali setelah orang-orang selesai shalat Asar berjamaah. Karena merasa bersalah telah melalaikan shalat berjamaah, beliau bersaksi untuk menyedekahkan seluruh kebun kurmanya tersebut kepada kaum miskin sebagai kafarat (penebus dosa) (**[[Shalat Berjamaah]]**).
 - **Pahala Mendorong Orang Belajar**: Mengajarkan bahwa siapa saja yang mempelajari suatu hadis atau ilmu, lalu ia menganjurkan/membimbing orang lain untuk mengamalkannya, maka ia akan memperoleh aliran pahala yang setara dengan pahala pelaku amal tersebut (**[[Excellence of Teaching]]**).
+- **Membatasi Pembelajaran Astrologi**: Membatasi pembelajaran ilmu perbintangan hanya untuk petunjuk arah navigasi di darat dan laut, serta melarang mendalaminya lebih jauh karena berisiko merusak kemurnian akidah (**[[Ilmu Tercela]]**).
+- **Menerima Koreksi dari Wanita**: Menunjukkan ketundukan mutlak pada kebenaran dengan langsung menerima koreksi dari seorang wanita atas kesalahannya ketika berkhotbah di mimbar (**[[Bahaya Debat]]**).
  
 ## Sumber
  
@@ -81,3 +85,5 @@ sources:
 - [[Backbiting Not Limited to Speech]]
 - [[Excellence of Learning]]
 - [[Excellence of Teaching]]
+- [[Blameworthy Sciences and Changing Meanings]]
+- [[Harms of Polemics and Evils of Debates]]

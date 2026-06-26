@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 5 & 6 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-vol1-chapter-1-part-5.md`, `.raw/ihya-vol1-chapter-1-part-6.md`
+- Ringkasan: [[Blameworthy Sciences and Changing Meanings]], [[Harms of Polemics and Evils of Debates]]
+- Halaman dibuat: [[Blameworthy Sciences and Changing Meanings]], [[Harms of Polemics and Evils of Debates]], [[Ilmu Tercela]], [[Pergeseran Makna Istilah]], [[Fiqh]], [[Tauhid]], [[Dzikir]], [[Hikmah]], [[Bahaya Debat]], [[Sa'ad bin Ibrahim]], [[Abdullah bin Rawahah]], [[Atha bin Abi Rabah]]
+- Halaman diperbarui: [[Al-Hasan al-Basri]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Anas bin Malik]]
+- Temuan Kunci: Klasifikasi sebab-sebab ilmu menjadi tercela (sihir, astrologi, kesia-siaan), pergeseran makna orisinal istilah agama (Fiqh, Ilm, Tauhid, Zikr, Hikmat) oleh ulama duniawi zaman akhir, serta syarat-syarat debat yang benar dan sepuluh bahaya penyakit hati (hasad, kibr, riya, dll) yang timbul dari debat kusir spekulatif.
+
 ## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 3 & 4 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-vol1-chapter-1-part-3.md`, `.raw/ihya-vol1-chapter-1-part-4.md`
 - Ringkasan: [[Praiseworthy and Blameworthy Branches of Knowledge]], [[Lives and Virtues of the Great Imams]]

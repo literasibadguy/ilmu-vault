@@ -29,6 +29,7 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
+  - "[[Blameworthy Sciences and Changing Meanings]]"
 ---
 
 
@@ -52,6 +53,7 @@ sources:
 - **Riwayat Kelaparan Nabi**: Beliau meriwayatkan kisah ketika Fatimah membawa sekerat roti kepada Nabi ﷺ, lalu beliau bersabda: *"Ini adalah makanan pertama yang masuk ke dalam perut ayahmu setelah tiga hari."* Beliau juga bersaksi bahwa keluarga Nabi ﷺ tidak pernah memakan roti gandum selama tiga hari berturut-turut hingga beliau wafat (**[[Kesederhanaan dalam Makan]]**).
 - **Hadis Harapan dan Rasa Takut Saat Sekarat**: Meriwayatkan hadis tentang seorang pemuda yang sedang sakaratul maut di mana ia memadukan perasaan takut akan dosanya dengan harapan akan rahmat Allah, dan Nabi SAW menjamin bahwa Allah akan mengabulkan harapannya serta melindunginya dari ketakutannya (**[[Raja' dan Khauf]]**).
 - Meriwayatkan hadis tentang bahaya mengonsumsi harta haram di mana satu suap makanan haram dapat menghalangi diterimanya doa seseorang selama 40 hari (**[[Major-Sin-28-Consuming-Unlawful-Property]]**).
+- **Hadits Majelis Dzikir dan Faqih**: Meriwayatkan hadits keutamaan duduk di majelis dzikir dari Subuh hingga terbit matahari lebih dicintai daripada memerdekakan empat orang budak, serta penjelasan bahwa seseorang tidak menjadi faqih sejati kecuali ia membuat manusia memahami keberadaan Allah (**[[Dzikir]]** dan **[[Fiqh]]**).
 
 ## Sumber
 

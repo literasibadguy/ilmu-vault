@@ -16,18 +16,19 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-26. Mengimpor Bab I Bagian 3 & 4 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang klasifikasi ilmu terpuji/tercela (**[[Praiseworthy and Blameworthy Branches of Knowledge]]**) dan keteladanan hidup para imam salaf (**[[Lives and Virtues of the Great Imams]]**).
+2026-06-26. Mengimpor Bab I Bagian 3 & 4 Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** tentang klasifikasi ilmu tercela beserta sebab-sebabnya (**[[Blameworthy Sciences and Changing Meanings]]**) dan bahaya debat kusir spekulatif serta syarat debat yang benar (**[[Harms of Polemics and Evils of Debates]]**).
 
 ## Fakta Kunci Terbaru
-- Kewajiban menuntut ilmu (**[[Fardhu 'Ain]]**) bersifat dinamis dan mencakup akidah dasar, ibadah praktis (begitu tiba waktunya), dan larangan kemaksiatan sesuai tuntutan keadaan individu.
-- Ilmu non-keagamaan yang vital bagi kemaslahatan masyarakat (seperti kedokteran, matematika, administrasi, industri) berstatus kewajiban kolektif (**[[Fardhu Kifayah]]**).
-- Fiqh lahiriah secara eksoteris hanya mengatur formalitas lahiriyah duniawi, sedangkan keselamatan akhirat bersumber pada kemurnian niat dan kesucian batin rohani (**[[Ilmu Mu'amalah]]**).
-- Lima imam salaf besar (**[[Imam Abu Hanifa]]**, **[[Imam Asy-Syafi'i]]**, **[[Imam Malik bin Anas]]**, **[[Imam Ahmad bin Hanbal]]**, dan **[[Sufyan ath-Thawri]]**) meneladankan kezuhudan tinggi dengan menolak jabatan resmi dari khalifah zalim demi kebersihan rohani.
+- Ilmu diklasifikasikan sebagai tercela (**[[Ilmu Tercela]]**) karena merugikan orang lain (sihir), membahayakan pencarinya (astrologi spekulatif), atau tidak berguna karena melanggar prioritas (kewajiban utama).
+- Terjadi pergeseran makna istilah penting (**[[Pergeseran Makna Istilah]]**) seperti **[[Fiqh]]**, **[[Ilm]]**, **[[Tauhid]]**, **[[Dzikir]]**, dan **[[Hikmah]]** dari orientasi batin akhirat menjadi orientasi duniawi, perdebatan jurisprudensi, teologi spekulatif, dan popularitas sosial.
+- Sikap tawakal tauhid yang matang ditunjukkan oleh **[[Abu Bakar Ash-Shiddiq]]** ketika sakit dengan menyerahkan diagnosis dan penyembuhan murni kepada Allah.
+- Perdebatan keagamaan spekulatif (**[[Bahaya Debat]]**) berisiko tinggi melahirkan sepuluh penyakit hati utama seperti hasad, kibr (kesombongan), riya, nifaq, dan kemunafikan praktis.
+- Khalifah **[[Ali bin Abi Thalib]]** mengusir seluruh pendongeng dari masjid Basra demi menjaga kemurnian masjid dan hanya menyisakan **[[Al-Hasan al-Basri]]** yang khotbahnya murni mengulas akhirat.
 
 ## Perubahan Terbaru
-- Dibuat: [[Praiseworthy and Blameworthy Branches of Knowledge]], [[Lives and Virtues of the Great Imams]], [[Fardhu 'Ain]], [[Fardhu Kifayah]], [[Ilmu Mukasyafah]], [[Ilmu Mu'amalah]], [[Abu Talib al-Makki]], [[Abu Yusuf]], [[Wabisah bin Ma'bad]], [[Shaiban al-Ra'i]], [[Ma'ruf al-Karkhi]], [[Yahya bin Ma'in]], [[Al-Harith al-Muhasibi]], [[Imam Abu Hanifa]], [[Hammad bin Sulaiman]], [[Yazid bin Umar bin Hubayrah]], [[Rabiah bin Asim]], [[Al-Mansur]], [[Muhammad bin Shuja]], [[Sufyan bin Uyainah]], [[Harits bin Labid]], [[Hasan al-Karabisi]].
-- Diperbarui: [[Imam Asy-Syafi'i]], [[Imam Ahmad bin Hanbal]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]].
+- Dibuat: [[Blameworthy Sciences and Changing Meanings]], [[Harms of Polemics and Evils of Debates]], [[Ilmu Tercela]], [[Pergeseran Makna Istilah]], [[Fiqh]], [[Tauhid]], [[Dzikir]], [[Hikmah]], [[Bahaya Debat]], [[Sa'ad bin Ibrahim]], [[Abdullah bin Rawahah]], [[Atha bin Abi Rabah]].
+- Diperbarui: [[Al-Hasan al-Basri]], [[Abu Bakar Ash-Shiddiq]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Anas bin Malik]].
 
 ## Alur Kerja Aktif
-- Penyusunan klasifikasi keilmuan Islam (fardhu 'ain & fardhu kifayah), wara' dan kepatuhan hati, serta sejarah dan keteladanan ibadah malam para mujtahid salaf.
+- Kajian mendalam mengenai pergeseran sejarah makna istilah keagamaan, bahaya perdebatan hukum spekulatif bagi kebersihan hati, dan batasan ilmu-ilmu syariat.
 - Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.

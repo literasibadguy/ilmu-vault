@@ -30,6 +30,7 @@ sources:
   - "[[What Reminds People of Death and the Hereafter]]"
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
   - "[[Excellence of Learning]]"
+  - "[[Blameworthy Sciences and Changing Meanings]]"
 ---
 
 
@@ -52,6 +53,7 @@ sources:
 - **Hadis Ziarah Kubur & Zuhud**: Meriwayatkan hadis dari Nabi SAW tentang anjuran berziarah kubur karena hal itu berkhasiat menumbuhkan zuhud di dunia dan mengingatkan akhirat (**[[Ziarah Kubur]]**, **[[Zuhud]]**).
 - Meriwayatkan bahwa laknat akan berbalik kepada orang Yahudi dan Nasrani karena menyembunyikan deskripsi kedatangan Nabi SAW (**[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]**).
 - **Himbauan Belajar Sebelum Ajal**: Mendorong umat Islam untuk menuntut ilmu sebelum maut menjemput, karena tiada orang dilahirkan berilmu. Beliau bersumpah bahwa para syuhada akan menginginkan dibangkitkan kembali sebagai ulama di akhirat karena melihat kedudukan mulia ulama (**[[Excellence of Learning]]**).
+- **Lamentasi Wafatnya Umar**: Mengungkapkan duka terdalam atas kematian Khalifah Umar bin Khattab dengan menyatakan bahwa sembilan persepuluh dari seluruh ilmu agama telah ikut hilang bersama kepergiannya (**[[Ilm]]**).
 
 ## Sumber
 
@@ -62,3 +64,4 @@ sources:
 - [[What Reminds People of Death and the Hereafter]]
 - [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
 - [[Excellence of Learning]]
+- [[Blameworthy Sciences and Changing Meanings]]

@@ -24,6 +24,8 @@ sources:
   - "[[Neglect of the Prayer]]"
   - "[[Major-Sin-20-Gambling]]"
   - "[[Excellence of Learning]]"
+  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Harms of Polemics and Evils of Debates]]"
 ---
 
 # Ali bin Abi Thalib
@@ -44,6 +46,8 @@ sources:
 - **Pandangan Terhadap Pelaku Meninggalkan Shalat**: Menyatakan secara tegas bahwa siapa saja yang tidak mendirikan shalat adalah kafir. Ketika ditanya mengenai seorang wanita yang menolak shalat, beliau menjawab: *"Siapa yang tidak shalat maka dia telah kafir."* (**[[Meninggalkan Shalat]]**).
 - **Pandangan Terhadap Catur**: Menyebut catur sebagai perjudian orang Persia (*shatranj maysiru-l-a'jam*) dan menegaskan keharamannya. Ali memperingatkan orang yang menyibukkan diri bermain catur dengan membacakan Surah Al-Anbiya' ayat 52 mengenai patung-patung yang disembah, menegaskan catur tidak mencerminkan tujuan penciptaan manusia (**[[Major-Sin-20-Gambling]]**).
 - **Wasiat tentang Keutamaan Ilmu kepada Kamil**: Memberikan nasihat legendaris kepada **[[Kamil bin Ziyad]]** mengenai keutamaan ilmu dibandingkan harta kekayaan (ilmu menjaga manusia sedangkan harta dijaga manusia; ilmu bertambah jika diajarkan sedangkan harta berkurang) (**[[Excellence of Learning]]**).
+- **Penertiban Masjid dari Pendongeng**: Mengusir seluruh pendongeng dari Masjid Basra demi menjaga kemurnian majelis ilmu, namun mengecualikan **[[Al-Hasan al-Basri]]** karena khotbahnya yang murni berorientasi akhirat (**[[Dzikir]]**).
+- **Mengakui Kesalahan**: Memberikan keteladanan tertinggi dalam keikhlasan mencari kebenaran dengan langsung mengakui kesalahannya secara terbuka ketika dikoreksi oleh seorang penanya tanpa rasa gengsi (**[[Bahaya Debat]]**).
 
 ## Sumber
 
@@ -52,3 +56,5 @@ sources:
 - [[Neglect of the Prayer]]
 - [[Major-Sin-20-Gambling]]
 - [[Excellence of Learning]]
+- [[Blameworthy Sciences and Changing Meanings]]
+- [[Harms of Polemics and Evils of Debates]]
