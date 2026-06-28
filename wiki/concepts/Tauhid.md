@@ -2,7 +2,7 @@
 type: concept
 title: "Tauhid"
 created: "2026-06-26"
-updated: "2026-06-26"
+updated: "2026-06-28"
 tags:
   - concept
   - akidah
@@ -49,3 +49,5 @@ Al-Ghazali mengkritik tajam pergeseran istilah Tauhid yang direduksi oleh para u
 ## Sumber
 - [[Blameworthy Sciences and Changing Meanings]]
 - [[Tawakkul]]
+- [[Foundation-of-Belief]]
+- [[Proof-of-Belief]]

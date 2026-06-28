@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-06-26"
+updated: "2026-06-28"
 tags:
   - meta
   - log
@@ -15,6 +15,20 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 2 Section 4 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-2-section-4.md`
+- Ringkasan: [[Rules-of-Articles-of-Belief]]
+- Halaman dibuat: [[Rules-of-Articles-of-Belief]], [[Iman]], [[Islam]], [[Fasiq]]
+- Halaman diperbarui: [[Aqidah]], [[Taqlid]], [[Mujahadah]], [[overview]], [[index]], [[log]]
+- Temuan Kunci: Impor pembahasan aturan-aturan keimanan dari Seksi 4 Bab II Kitab Ihya' Ulumiddin. Menganalisis hubungan makna literal, syar'i, dan eskatologis antara Iman (pembenaran hati) dan Islam (ketundukan lahiriah). Menjelaskan fluktuasi keimanan yang bertambah karena ketaatan lahiriah dan berkurang karena kemaksiatan, serta tingkatan kemantapan iman. Memaparkan 4 alasan pengucapan istithna' ("Saya mukmin, insya Allah") demi adab batin, ketidakpastian kesempurnaan amal, dan rasa takut akan keselamatan akhir hayat (su'ul khatimah).
+
+## [2026-06-28] ingest | Batch Ingest: Ihya Vol 1 Chapter 2 Sections 1 & 3 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-2-section-1.md`, `.raw/ihya-ulum-ud-din-vol1-chapter-2-section-3.md`
+- Ringkasan: [[Foundation-of-Belief]], [[Proof-of-Belief]]
+- Halaman dibuat: [[Foundation-of-Belief]], [[Proof-of-Belief]], [[Aqidah]], [[Taqlid]], [[Mujahadah]], [[Munkar dan Nakir]], [[Mu'awiyah bin Abi Sufyan]]
+- Halaman diperbarui: [[Tauhid]], [[Qadar]], [[overview]], [[index]], [[log]]
+- Temuan Kunci: Impor pembahasan akidah Islam tingkat lanjut dari Bab II Kitab Ihya' Ulumiddin. Merinci 4 pilar dan 40 prinsip keimanan Ahlus Sunnah wal Jama'ah tentang Zat, Sifat, Af'al, dan Sam'iyyat Allah. Mengidentifikasi metodologi pendidikan akidah anak yang mengombinasikan taklid dasar, pembiasaan ibadah, dan mujahadah pembersihan jiwa demi makrifat hakiki. Menyertakan kriteria Imam (pemimpin), keabsahan suksesi Khulafaur Rasyidin, serta kepatuhan darurat demi menghindari fitnah perpecahan, termasuk penjelasan konflik ijtihad antara Ali bin Abi Thalib dan Mu'awiyah bin Abi Sufyan.
 
 ## [2026-06-26] ingest | Batch Ingest: Ihya Vol 1 Chapter 1 Parts 9 & 10 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-vol1-chapter-1-part-9.md`, `.raw/ihya-vol1-chapter-1-part-10.md`

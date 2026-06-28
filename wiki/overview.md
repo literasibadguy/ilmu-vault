@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-06-26"
+updated: "2026-06-28"
 tags:
   - meta
   - overview
@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 60
-- Halaman wiki: 353
-- Aktivitas terakhir: 2026-06-26 (Mengimpor kelanjutan Bab I Bagian 6 & 7 Kitab Ihya' Ulumiddin tentang 12 tanda Ulama Akhirat sejati dan keutamaan Akal)
+- Sumber diimpor (ingested): 63
+- Halaman wiki: 364
+- Aktivitas terakhir: 2026-06-28 (Mengimpor pembahasan Aturan Keimanan dari Bab II Kitab Ihya' Ulumiddin)
 
 ---
 

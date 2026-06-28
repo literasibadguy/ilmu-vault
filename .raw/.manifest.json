@@ -1216,6 +1216,64 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-2-section-1.md": {
+      "hash": "0bed83ec407342d18a8c4fdb647050f0",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Foundation-of-Belief.md",
+        "wiki/concepts/Aqidah.md",
+        "wiki/concepts/Taqlid.md",
+        "wiki/concepts/Mujahadah.md",
+        "wiki/entities/Munkar dan Nakir.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Nabi Musa AS.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Utsman bin Affan.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/concepts/Fitnah Kubur.md",
+        "wiki/concepts/Azab Kubur.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-2-section-3.md": {
+      "hash": "16ac4d60182bd97352f5d79cd411efeb",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Proof-of-Belief.md",
+        "wiki/entities/Mu'awiyah bin Abi Sufyan.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Aqidah.md",
+        "wiki/concepts/Tauhid.md",
+        "wiki/concepts/Qadar.md",
+        "wiki/entities/Nabi Muhammad SAW.md",
+        "wiki/entities/Abu Bakar Ash-Shiddiq.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Utsman bin Affan.md",
+        "wiki/entities/Ali bin Abi Thalib.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-2-section-4.md": {
+      "hash": "59cbcf96459b6c4b1c8c8ff2cca9ee3d",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Rules-of-Articles-of-Belief.md",
+        "wiki/concepts/Iman.md",
+        "wiki/concepts/Islam.md",
+        "wiki/concepts/Fasiq.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Aqidah.md",
+        "wiki/concepts/Taqlid.md",
+        "wiki/concepts/Mujahadah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -1380,6 +1438,17 @@
     "wiki/entities/Al-Awza'i.md": "c-000159",
     "wiki/sources/Intellect-and-its-Noble-Nature.md": "c-000160",
     "wiki/concepts/Akal.md": "c-000161",
-    "wiki/entities/Tamim ad-Dari.md": "c-000162"
+    "wiki/entities/Tamim ad-Dari.md": "c-000162",
+    "wiki/sources/Foundation-of-Belief.md": "c-000163",
+    "wiki/sources/Proof-of-Belief.md": "c-000164",
+    "wiki/concepts/Aqidah.md": "c-000165",
+    "wiki/concepts/Taqlid.md": "c-000166",
+    "wiki/concepts/Mujahadah.md": "c-000167",
+    "wiki/entities/Munkar dan Nakir.md": "c-000168",
+    "wiki/entities/Mu'awiyah bin Abi Sufyan.md": "c-000169",
+    "wiki/sources/Rules-of-Articles-of-Belief.md": "c-000170",
+    "wiki/concepts/Iman.md": "c-000171",
+    "wiki/concepts/Islam.md": "c-000172",
+    "wiki/concepts/Fasiq.md": "c-000173"
   }
 }

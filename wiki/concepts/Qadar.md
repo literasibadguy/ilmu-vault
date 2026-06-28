@@ -9,7 +9,7 @@ aliases:
   - Decrees of Allah
   - Qaddarallahu
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-28
 tags:
   - concept
   - akidah
@@ -52,3 +52,4 @@ Menerima Qadar bukan berarti menyerah pada keadaan tanpa usaha (**[[Al-Ajz wal K
 ## Sumber
 
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
+- [[Proof-of-Belief]]

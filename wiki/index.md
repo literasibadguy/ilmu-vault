@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-06-26"
+updated: "2026-06-28"
 tags:
   - meta
   - index
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-26 | Total halaman: 353 | Sumber diimpor: 60
+Terakhir diperbarui: 2026-06-28 | Total halaman: 360 | Sumber diimpor: 62
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -35,6 +35,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Al-Ajz wal Kasal]]  — **Al-'Ajz** (Kelemahan/Ketidakmampuan) dan **Al-Kasal** (Kemalasan) adalah dua penyakit mental-spiritual yang menjadi akar dari segala kegagalan manusia dalam meraih kebaikan di dunia maupun akhira... (status: seed)
 - [[Al-Quran Sebagai Penyembuh]]  — **Al-Quran Sebagai Penyembuh** (*Asy-Syifā'*) adalah konsep keyakinan dalam Islam bahwa seluruh ayat Al-Qur'an yang diturunkan oleh Allah SWT memiliki daya penyembuh (remedy/cure) dan rahmat bagi o... (status: seed)
 - [[Amanah Kepemimpinan]]  — **Amanah Kepemimpinan** adalah tanggung jawab suci dan kontrak moral-spiritual yang dibebankan Allah SWT kepada seorang pemimpin untuk memelihara, melindungi, dan menuntun rakyatnya menuju kemaslah... (status: seed)
+- [[Aqidah]]  — **Aqidah** adalah fondasi keyakinan teologis dalam Islam yang wajib dibenarkan oleh hati tanpa ada keraguan... (status: evergreen)
 - [[Azab Kubur]]  — **Azab Kubur** (siksa kubur) adalah penderitaan dan hukuman fisik serta spiritual yang dialami oleh ruh dan jasad manusia di alam **[[Barzakh]]** sebelum tibanya Hari Kiamat. Hukuman ini diberikan ... (status: seed)
 - [[Bahaya Berlebihan dalam Makanan]]  — **Bahaya Berlebihan dalam Makanan** mencakup dampak negatif baik secara spiritual, mental, maupun fisik yang timbul akibat makan secara berlebih-lebihan (*israf* atau *tughyan* dalam makanan). Isla... (status: seed)
 - [[Bahaya Debat]]  — **Bahaya Debat** (*harms and evils of debates*) merujuk pada dampak negatif yang sangat merusak bagi kondisi spiritual, moral, sosial, dan akidah seorang Muslim yang timbul akibat kebiasaan melakukan perdebatan keagamaan spekulatif (*jidal/mira'*)... (status: evergreen)
@@ -55,6 +56,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Fardhu 'Ain]]  — **Fardhu 'Ain** dalam konteks thalabul ilmi (menuntut ilmu) adalah kewajiban keagamaan yang dibebankan kepada setiap individu Muslim tanpa terkecuali. **[[Imam Al-Ghazali]]** menjelaskan bahwa thal... (status: evergreen)
 - [[Fardhu Kifayah]]  — **Fardhu Kifayah** dalam menuntut ilmu adalah kewajiban kolektif yang dibebankan kepada seluruh komunitas Muslim. Jika ada sebagian anggota masyarakat yang mempelajari bidang ilmu tersebut hingga m... (status: evergreen)
 - [[Fase Perkembangan Janin]]  — **Fase Perkembangan Janin** dalam perspektif Islam merujuk pada tahapan biologis dan spiritual penciptaan manusia di dalam rahim ibu. Berdasarkan dalil Al-Qur'an dan hadis sahih, pembentukan fisik ... (status: seed)
+- [[Fasiq]]  — **Fasiq** adalah status Muslim yang melakukan dosa besar namun tidak kekal di neraka selama memiliki iman batin seberat zarah... (status: evergreen)
 - [[Fiqh]]  — **Fiqh** (secara bahasa berarti pemahaman mendalam) adalah salah satu istilah sentral dalam tradisi intelektual Islam yang mengalami pergeseran makna secara drastis sejak abad pertama Hijriah... (status: evergreen)
 - [[Fitnah dan Namimah]]  — **Namimah** (Adu Domba / *Tale-bearing*) adalah tindakan memindahkan perkataan atau informasi rahasia dari satu pihak ke pihak lain dengan tujuan merusak hubungan persaudaraan, memicu kebencian, at... (status: seed)
 - [[Fitnah Kubur]]  — **Fitnah Kubur** secara bahasa berarti ujian atau cobaan di dalam kubur. Dalam istilah syar'i, Fitnah Kubur merujuk pada peristiwa pemeriksaan dan interogasi yang dijalani oleh setiap manusia di al... (status: seed)
@@ -75,6 +77,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ilmu Mu'amalah]]  — **Ilmu Mu'amalah** (Ilmu Perilaku Praktis) adalah ilmu yang mempelajari kondisi hati (psikologi spiritual) serta perilaku lahiriah manusia dalam rangka mendekatkan diri kepada Allah SWT. Ilmu ini m... (status: evergreen)
 - [[Ilmu Mukasyafah]]  — **Ilmu Mukasyafah** (Ilmu Penyingkapan) adalah ilmu tingkat tinggi dalam khazanah tasawuf yang didefinisikan oleh **[[Imam Al-Ghazali]]** sebagai cahaya batin (*a light in the heart*) yang dianuger... (status: evergreen)
 - [[Ilmu Tercela]]  — **Ilmu Tercela** (*blameworthy sciences*) adalah cabang-cabang pengetahuan yang dinilai buruk dan dilarang dipelajari oleh syariat Islam... (status: evergreen)
+- [[Iman]]  — **Iman** adalah keyakinan batin dan pembenaran hati yang mendalam terhadap kebenaran risalah Allah... (status: evergreen)
+- [[Islam]]  — **Islam** adalah ketundukan lahiriah dan kepatuhan jasad terhadap hukum dan ketetapan Allah SWT... (status: evergreen)
 - [[Isti'adzah]]  — **Isti'adzah** adalah bentuk permohonan perlindungan, penjagaan, dan keselamatan (*seeking refuge*) yang dipanjatkan oleh seseorang kepada pihak yang diyakini mampu melindunginya dari segala keburu... (status: mature)
 - [[Istigatsah]]  — **Istigatsah** secara bahasa berarti menuntut pertolongan (*al-ghauts*). Secara istilah syariat, istigatsah adalah permohonan bantuan, pertolongan, dan keselamatan yang dipanjatkan khusus ketika se... (status: mature)
 - [[Judi dan Maysir]]  — **Judi dan Maysir** (*al-maysir* atau *al-qimar*) dalam Islam didefinisikan sebagai segala bentuk transaksi atau permainan di mana salah satu pihak mendapatkan keuntungan finansial atas kerugian pi... (status: seed)
@@ -101,6 +105,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Meninggalkan Shalat]]  — **Meninggalkan Shalat** (atau *Tarkus Shalah*) adalah tindakan sengaja tidak melaksanakan ibadah shalat fardhu lima waktu, baik secara total (meninggalkan seluruhnya) maupun melalaikannya dengan me... (status: seed)
 - [[Menjaga Pandangan Mata]]  — **Menjaga Pandangan Mata** (*Ghadhul Bashar*) adalah tindakan aktif membatasi pandangan mata dari melihat hal-hal yang diharamkan atau syubhat oleh syariat. Dalam psikologi Sufi [[Imam Al-Ghazali]]... (status: seed)
 - [[Menyembunyikan Ilmu dan Niat Duniawi]]  — **Menyembunyikan Ilmu dan Niat Duniawi** adalah perbuatan menuntut atau mengajarkan ilmu agama (*ilmu syar'i*) demi meraih kenikmatan materi duniawi, popularitas, bersaing dengan ulama, atau mendeb... (status: seed)
+- [[Mujahadah]]  — **Mujahadah** adalah perjuangan batin yang sungguh-sungguh untuk memerangi hawa nafsu dan kecenderungan duniawi... (status: evergreen)
+- [[Munkar dan Nakir]]  — **Munkar dan Nakir** adalah dua malaikat yang bertugas menguji manusia di dalam kubur setelah kematian... (status: evergreen)
+- [[Mu'awiyah bin Abi Sufyan]]  — **Mu'awiyah bin Abi Sufyan** adalah salah satu sahabat Nabi, sekretaris wahyu, dan pendiri Dinasti Umayyah... (status: evergreen)
 - [[Nadzar]]  — **Nadzar** (secara bahasa berarti berjanji) adalah komitmen sukarela yang diucapkan oleh seorang mukallaf untuk melakukan suatu ibadah atau ketaatan kepada Allah SWT yang secara hukum asal syariat ... (status: mature)
 - [[Nama Agung Allah]]  — **Nama Agung Allah** (*Ism Allāh al-A'zam*) adalah nama Allah yang paling agung, yang memiliki keutamaan khusus di mana jika seseorang berdoa atau meminta kepada Allah dengan menyebut nama tersebut... (status: seed)
 - [[Nikah Tahlil]]  — **Nikah Tahlil** (secara harfiah berarti pernikahan yang menghalalkan) adalah praktik pernikahan di mana seorang pria (*muhallil*) menikahi seorang wanita yang telah ditalak tiga (talak tebus/bain)... (status: seed)
@@ -123,8 +130,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Sifat Shalat Nabi]]  — **Sifat Shalat Nabi** adalah panduan fikih ibadah yang merinci tata cara, gerakan, bacaan, rukun, dan sunnah di dalam shalat sebagaimana yang dipraktikkan langsung oleh **[[Nabi Muhammad SAW]]**. K... (status: seed)
 - [[Sujud Sahwi]]  — **Sujud Sahwi** adalah sujud sebanyak dua kali yang dilakukan di akhir shalat (baik sebelum maupun setelah salam) untuk menambal kelalaian atau kesalahan yang terjadi di dalam shalat, baik berupa k... (status: seed)
 - [[Syirik Akbar]]  — **Syirik Akbar** (syirik besar) adalah tindakan menyekutukan Allah SWT dengan mempersembahkan salah satu bentuk ibadah yang menjadi hak khusus Allah (seperti berdoa, takut, harap, bertawakal, berna... (status: mature)
-- [[Syirik Asghar]]  — **Syirik Asghar** (syirik kecil) adalah segala perkataan, perbuatan, atau niat yang dinilai oleh syariat dapat menodai kemurnian tauhid dan dikategorikan sebagai perbuatan syirik, namun tidak sampa... (status: seed)
+- [[Syirik Asghar]]  — **Syirik Asghar** (Syirik Kecil) adalah setiap perbuatan atau perkataan yang dinyatakan sebagai syirik oleh syariat, namun tidak sampai mengeluarkan pelakunya dari agama Islam secara total. S... (status: evergreen)
 - [[Syukur]]  — **Syukur** (*shukr*) secara bahasa berarti memuji pemberi nikmat atas kebaikan-Nya. Dalam syariat Islam, syukur adalah pengakuan batin atas segala nikmat Allah SWT, diiringi dengan pujian lisan, da... (status: seed)
+- [[Taqlid]]  — **Taqlid** adalah sikap mengikuti pendapat atau keyakinan orang lain tanpa mengetahui dalilnya secara mendalam... (status: evergreen)
 - [[Tauhid]]  — **Tauhid** (secara bahasa berarti mengesakan Allah) adalah pilar terpenting dalam akidah Islam... (status: evergreen)
 - [[Tawakkul]]  — **Tawakkul** (Tawakal) secara bahasa berarti mewakilkan atau bersandar kepada pihak lain. Secara istilah syariat, Tawakkul adalah kepasrahan hati yang tulus kepada Allah SWT untuk mendatangkan kema... (status: seed)
 - [[Tazyin Kemaksiatan]]  — **Tazyin Kemaksiatan** adalah taktik setan untuk memoles, memperindah, dan menghiasi perbuatan buruk atau dosa dengan nama-nama atau konsep yang menarik. Tujuannya agar kemaksiatan tersebut terliha... (status: seed)
@@ -247,11 +255,13 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Malik ibn al-Mundhir]]  — **Malik ibn al-Mundhir** (Malik bin al-Mundhir bin al-Jarud al-Abdi) adalah seorang pejabat pemerintahan dan gubernur Basra pada masa kekuasaan Dinasti Umayyah. Ia merupakan figur penguasa administ... (status: seed)
 - [[Marwan bin al-Hakam]]  — **Marwan bin al-Hakam** (wafat 65 H / 685 M) adalah salah satu tokoh penting Dinasti Umayyah. Beliau pernah menjabat sebagai sekretaris khalifah Usman bin Affan, Gubernur Madinah pada masa Muawiyah... (status: seed)
 - [[Mu'adz bin Jabal]]  — **Mu'adz bin Jabal** adalah sahabat Nabi SAW dari kaum Ansar yang terkenal dengan kedalaman ilmunya di bidang fiqih dan hukum syariat. Rasulullah SAW menunjuknya sebagai utusan, guru, dan hakim unt... (status: seed)
+- [[Mu'awiyah bin Abi Sufyan]]  — **Mu'awiyah bin Abi Sufyan** adalah salah satu sahabat Nabi, sekretaris wahyu, dan pendiri Dinasti Umayyah... (status: evergreen)
 - [[Muhammad bin al-Mubarak as-Suri]]  — **Muhammad bin al-Mubarak as-Suri** (wafat sekitar abad ke-2 atau ke-3 Hijriah) adalah seorang ulama salaf dari wilayah Syam (nisbah *as-Suri* merujuk pada kota Sur/Tirus di Lebanon selatan atau wi... (status: seed)
 - [[Muhammad bin Shalih Al-Utsaimin]]  — **Syaikh Muhammad bin Shalih Al-Utsaimin** (1347–1421 H / 1925–2001 M) adalah salah satu ulama kontemporer terkemuka dari Arab Saudi. Beliau diakui sebagai rujukan utama dalam mazhab Hanbali, ahli ... (status: seed)
 - [[Muhammad bin Shuja]]  — **Muhammad bin Shuja** (Muhammad-b-Shuja) adalah seorang sarjana fiqih Hanafi awal dan perekam sejarah yang meriwayatkan kisah-kisah tentang ketegasan **[[Imam Abu Hanifa]]** dalam menolak hadiah d... (status: seed)
 - [[Muhammad ibn Wasi']]  — **Muhammad ibn Wasi'** (Muhammad bin Wasi' al-Azdi, wafat 123 H) adalah seorang ulama tabi'in besar, pejuang garis depan, ahli hadis, serta salah satu tokoh asketis (zuhud) terkemuka dari kota Basr... (status: seed)
 - [[Mujahid]]  — **Mujahid** (Mujahid bin Jabir al-Makki, w. 104 H) adalah ulama besar mufassir (ahli tafsir) dari kalangan tabi'in terkemuka di Makkah. Beliau adalah murid terpenting **[[Ibnu Abbas]]**, di mana be... (status: seed)
+- [[Munkar dan Nakir]]  — **Munkar dan Nakir** adalah dua malaikat yang bertugas menguji manusia di dalam kubur setelah kematian... (status: evergreen)
 - [[Muqatil ibn Hayyan]]  — **Muqatil ibn Hayyan** (Muqatil bin Hayyan al-Balkhi, wafat sekitar 150 H) adalah seorang ulama tabi'in akhir, perawi hadis tepercaya (*tsiqah*), dan pakar tafsir asal Balkh (Khorasan). Beliau kemu... (status: seed)
 - [[Nabi Adam AS]]  — Nabi Adam AS merupakan manusia pertama, nabi pertama, dan bapak dari seluruh umat manusia (*Abul Basyar*). Allah menciptakan beliau langsung dari tanah, meniupkan ruh-Nya, dan memerintahkan malaika... (status: seed)
 - [[Nabi Ayyub AS]]  — **Nabi Ayyub AS** adalah seorang nabi utusan Allah yang dikaruniai kekayaan melimpah dan keluarga yang banyak, yang kemudian diuji oleh Allah dengan kehilangan seluruh hartanya, wafatnya anak-anakn... (status: seed)
@@ -309,7 +319,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]  — Ringkasan Bab I Bagian 6 Ihya' Ulumiddin mengenai ancaman bagi Ulama Dunia dan karakteristik utama Ulama Akhirat... (status: evergreen)
 - [[Excellence of Learning]]  — Dokumen ini merupakan bagian pertama dari Bab I Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** yang membahas tentang keutamaan menuntut ilmu (*Acquisition of Knowledge*). Di dalamnya dipapar... (status: developing)
 - [[Excellence of Teaching]]  — Dokumen ini merangkum bagian kedua dari Bab I Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** yang berfokus pada keutamaan mengajarkan ilmu (*Excellence of Teaching*) serta pembuktian rasiona... (status: developing)
-- [[Expiation for Backbiting]]  — **Expiation for Backbiting** (Penebus Dosa Ghibah) adalah bagian penjelasan kaffarah (kafarat) dari Bab XV (Bencana Lisan Kelima Belas: Ghibah) dalam kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghaza... (status: seed)
+- [[Expiation for Backbiting]]  — **Expiation for Backbiting** (Penebus Dosa Ghibah) adalah bagian penjelasan kaffarah (kafarat) dari Bab XV (Bencana Lisan Kelima Belas: Ghibah) dalam kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** (status: seed)
+- [[Foundation-of-Belief]]  — Ringkasan dari Bab II Bagian 1 (Seksi 1) *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai fondasi dasar akidah Islam dan cara mendidik keimanan anak... (status: evergreen)
 - [[Harm 14 Lying and Falsehood]]  — Bahasan komprehensif mengenai bahaya lisan keempat belas: Dusta (*kizb*) dan kebohongan. Menguraikan ancaman eskatologis bagi pendusta, pengecualian hukum (*rukhsah*) di mana dusta diperbolehkan de... (status: seed)
 - [[Harm 15 Backbiting]]  — Merupakan teks utama Bab XV Ihya tentang keharaman Ghibah. Naskah ini merangkum dalil keharaman ghibah lisan, larangan ghibah hati (su'uzhan), pemetaan 11 motif psikologis pelaku (8 umum, 3 khusus)... (status: seed)
 - [[Harm 16 Slander and Tale Bearing]]  — Membahas bencana lisan keenam belas: Adu domba (*namimah*) dan penyebaran berita fitnah yang merusak persaudaraan Muslim. Menjelaskan batasan syar'i namimah serta 6 kewajiban bagi setiap Muslim ket... (status: seed)
@@ -341,10 +352,12 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Perjury (Kesaksian Palsu)]]  — Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan bahaya besar dari kesaksian palsu serta sumpah palsu (*syahadatus zuur*). Kutipan ini merinci bagaimana tindakan ini merusak keadilan sosial,... (status: seed)
 - [[Praiseworthy and Blameworthy Branches of Knowledge]]  — Ringkasan dari Bab I Bagian 2 (Seksi 2) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai klasifikasi ilmu pengetahuan berdasarkan status hukum keagamaannya (praiseworthy/terpuji dan blamewo... (status: evergreen)
 - [[Pride (Kesombongan)]]  — Kumpulan dalil Al-Qur'an dan Hadis tentang larangan dan dosa besar terkait kesombongan, kecongkakan, keangkuhan, dan kepongahan (*al-kibr, al-fakhr, al-ujub*). Teks ini menjelaskan definisi kesombo... (status: seed)
+- [[Proof-of-Belief]]  — Ringkasan dari Bab II Bagian 3 (Seksi 3) *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai bukti-bukti rasional dan teologis keimanan Islam... (status: evergreen)
 - [[Prophet Muhammad's Recommendations Regarding Food]]  — Artikel ini membahas secara komprehensif panduan Nabi Muhammad ﷺ mengenai makanan, mencakup jenis makanan yang direkomendasikan, adab makan, prinsip moderasi, serta dimensi spiritual dari aktivitas... (status: complete)
 - [[Regarding His Guidance in Guarding His Words]]  — Bab dari kitab *Zad al-Ma'ad* karya **[[Ibnul Qayyim Al-Jauziyyah]]** yang menguraikan petunjuk **[[Nabi Muhammad SAW]]** dalam menjaga lisan (**[[Adab Berbicara]]**), menghindari kata-kata kasar a... (status: seed)
 - [[Regarding His Guidance in Prayer]]  — Bab dari kitab *Zad al-Ma'ad* karya **[[Ibnul Qayyim Al-Jauziyyah]]** yang mendokumentasikan secara rinci petunjuk **[[Nabi Muhammad SAW]]** dalam melaksanakan ibadah shalat (**[[Sifat Shalat Nabi]... (status: seed)
 - [[Remedy for Backbiting Restraining the Tongue]]  — **Remedy for Backbiting Restraining the Tongue** (Terapi Mengatasi Ghibah dengan Menahan Lisan) merupakan bagian dari Bab XV (Bencana Lisan Kelima Belas: Ghibah) dalam kitab *Ihya' Ulumiddin* karya... (status: seed)
+- [[Rules-of-Articles-of-Belief]]  — Ringkasan dari Bab II Bagian 4 (Seksi 4) *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai hubungan Iman dan Islam, fluktuasi keimanan, serta legalitas istithna'... (status: evergreen)
 - [[Showing Off (Pamer/Riya)]]  — Kumpulan dalil Al-Qur'an, Hadis, dan perkataan ulama salaf tentang bahaya **[[Riya]]** (pamer/pencitraan dalam beribadah) dan **[[Syirik Asghar]]** (syirik kecil). Teks ini menjelaskan definisi riy... (status: seed)
 - [[Signs of the Learned of the Hereafter Part 2]]  — Ringkasan Bab I Bagian 6 (Seksi 6 Lanjutan) Ihya' Ulumiddin mengenai tanda ke-5 hingga ke-12 Ulama Akhirat... (status: evergreen)
 - [[Supplications That Are Most Likely Answered]]  — Dokumen ini memaparkan kumpulan doa dan zikir yang paling mustajab (paling berpeluang dikabulkan oleh Allah SWT) berdasarkan hadis-hadis sahih. Fokus utamanya adalah penjelasan mengenai konsep **[[... (status: complete)
