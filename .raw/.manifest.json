@@ -1274,6 +1274,124 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-4-part1.md": {
+      "hash": "17a3a856b85d927d067bc07f99f0fbf6",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Excellence-of-Prayer.md",
+        "wiki/concepts/Shalat.md",
+        "wiki/concepts/Adhan.md",
+        "wiki/concepts/Sujud.md",
+        "wiki/concepts/Masjid.md",
+        "wiki/entities/Ali Zainal Abidin.md",
+        "wiki/entities/Muslim bin Yasar.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Khusyuk.md",
+        "wiki/concepts/Shalat Berjamaah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-4-part2.md": {
+      "hash": "d6f84dc340c8f079c415b28b1dacee0a",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Actions-and-Internal-Conditions-of-Prayer.md",
+        "wiki/concepts/Niat.md",
+        "wiki/concepts/Takbir.md",
+        "wiki/entities/Amir bin Abdullah bin al-Zubair.md",
+        "wiki/entities/Zarrara bin Awfa.md",
+        "wiki/entities/Ibrahim an-Nakha'i.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Khusyuk.md",
+        "wiki/concepts/Sifat Shalat Nabi.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-4-part3.md": {
+      "hash": "1d15ccea77d7fc45a78a88a0a618d473",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Imamate-and-Jumma-Prayer.md",
+        "wiki/concepts/Shalat Jumat.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Shalat Berjamaah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-4-part4.md": {
+      "hash": "bdd07bc5e96db1f3fe90f2a462b65e2b",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Optional-and-Sunnah-Prayers.md",
+        "wiki/concepts/Shalat Sunnah.md",
+        "wiki/concepts/Shalat Istikharah.md",
+        "wiki/entities/Abbas bin Abdul Muthalib.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-3-part1.md": {
+      "hash": "afbac099017c59b20fc890dbe7734a5a",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Mysteries-of-Cleanliness-and-Purification.md",
+        "wiki/concepts/Taharah.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-3-part2.md": {
+      "hash": "bed401dbbfe0b7b28372ebb3eb4f6c2e",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Purification-of-the-Body-from-Excrements.md",
+        "wiki/concepts/Wudhu.md",
+        "wiki/concepts/Ghusl.md",
+        "wiki/concepts/Tayammum.md",
+        "wiki/concepts/Siwak.md",
+        "wiki/concepts/Adab Buang Air.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-ulum-ud-din-vol1-chapter-3-part3.md": {
+      "hash": "4a5df44f1a0f1918be49acc961c2eca2",
+      "ingested_at": "2026-06-28",
+      "pages_created": [
+        "wiki/sources/Cleansing-of-External-Bodily-Growths.md",
+        "wiki/concepts/Fitrah Kebersihan Fisik.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -1449,6 +1567,35 @@
     "wiki/sources/Rules-of-Articles-of-Belief.md": "c-000170",
     "wiki/concepts/Iman.md": "c-000171",
     "wiki/concepts/Islam.md": "c-000172",
-    "wiki/concepts/Fasiq.md": "c-000173"
+    "wiki/concepts/Fasiq.md": "c-000173",
+    "wiki/sources/Excellence-of-Prayer.md": "c-000174",
+    "wiki/concepts/Shalat.md": "c-000175",
+    "wiki/concepts/Adhan.md": "c-000176",
+    "wiki/concepts/Sujud.md": "c-000177",
+    "wiki/concepts/Masjid.md": "c-000178",
+    "wiki/entities/Ali Zainal Abidin.md": "c-000179",
+    "wiki/entities/Muslim bin Yasar.md": "c-000180",
+    "wiki/sources/Actions-and-Internal-Conditions-of-Prayer.md": "c-000181",
+    "wiki/concepts/Niat.md": "c-000182",
+    "wiki/concepts/Takbir.md": "c-000183",
+    "wiki/entities/Amir bin Abdullah bin al-Zubair.md": "c-000184",
+    "wiki/entities/Zarrara bin Awfa.md": "c-000185",
+    "wiki/entities/Ibrahim an-Nakha'i.md": "c-000186",
+    "wiki/sources/Imamate-and-Jumma-Prayer.md": "c-000187",
+    "wiki/sources/Optional-and-Sunnah-Prayers.md": "c-000188",
+    "wiki/concepts/Shalat Jumat.md": "c-000189",
+    "wiki/concepts/Shalat Sunnah.md": "c-000190",
+    "wiki/concepts/Shalat Istikharah.md": "c-000191",
+    "wiki/entities/Abbas bin Abdul Muthalib.md": "c-000192",
+    "wiki/sources/Mysteries-of-Cleanliness-and-Purification.md": "c-000193",
+    "wiki/sources/Purification-of-the-Body-from-Excrements.md": "c-000194",
+    "wiki/sources/Cleansing-of-External-Bodily-Growths.md": "c-000195",
+    "wiki/concepts/Taharah.md": "c-000196",
+    "wiki/concepts/Wudhu.md": "c-000197",
+    "wiki/concepts/Ghusl.md": "c-000198",
+    "wiki/concepts/Tayammum.md": "c-000199",
+    "wiki/concepts/Siwak.md": "c-000200",
+    "wiki/concepts/Adab Buang Air.md": "c-000201",
+    "wiki/concepts/Fitrah Kebersihan Fisik.md": "c-000202"
   }
 }

@@ -16,6 +16,55 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 3 Part 3 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-3-part3.md`
+- Ringkasan: [[Cleansing-of-External-Bodily-Growths]]
+- Halaman dibuat: [[Cleansing-of-External-Bodily-Growths]], [[Fitrah Kebersihan Fisik]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Impor pembahasan pembersihan ekskresi tubuh (8 discharges) dan perawatan pertumbuhan fisik (8 bodily growths) sesuai fitrah kebersihan lahiriah. Mengatur cara merawat rambut, janggut (panjang segenggam, kemakruhan semir hitam, mencabut uban), kumis, kuku (sarang setan), bulu ketiak/kemaluan, khitan (sunnah pria, mulia wanita secara moderat).
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 3 Part 2 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-3-part2.md`
+- Ringkasan: [[Purification-of-the-Body-from-Excrements]]
+- Halaman dibuat: [[Purification-of-the-Body-from-Excrements]], [[Wudhu]], [[Ghusl]], [[Tayammum]], [[Siwak]], [[Adab Buang Air]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Impor tata cara bersuci dari kotoran badan. Mengulas rukun dan sunnah wudhu (fadhilah merontokkan dosa), mandi wajib/sunnah (guyuran kepala, guyuran badan kanan & kiri), tayammum (debu tanah suci sebagai rukhsah), siwak (keutamaan melipatgandakan shalat 75x), dan adab buang air (istinja ganjil batu/air).
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 3 Part 1 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-3-part1.md`
+- Ringkasan: [[Mysteries-of-Cleanliness-and-Purification]]
+- Halaman dibuat: [[Mysteries-of-Cleanliness-and-Purification]], [[Taharah]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Impor pembahasan esensi batin bersuci (Taharah). Menjabarkan empat tingkat bersuci (jasad, anggota tubuh dari dosa, hati dari sifat tercela, batin dari selain Allah). Menjelaskan karakteristik salaf dalam kesederhanaan lahir (Umar berwudhu air Kristen, direct shalat di tanah, no soap) serta status kesucian benda mati, hewan, bangkai, dan najis yang dimaafkan.
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 4 Part 4 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-4-part4.md`
+- Ringkasan: [[Optional-and-Sunnah-Prayers]]
+- Halaman dibuat: [[Optional-and-Sunnah-Prayers]], [[Shalat Sunnah]], [[Shalat Istikharah]], [[Abbas bin Abdul Muthalib]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Impor pembahasan shalat sunnah, mustahab, dan nafl dari Seksi 6 Bab IV Kitab Ihya' Ulumiddin. Merinci 17 rakaat rawatib harian, shalat nafilah mingguan (hari/malam), shalat sunnah tahunan (dua hari raya, tarawih, Rajab, nisfu Sya'ban), serta 9 jenis shalat karena sebab khusus (gerhana, minta hujan, jenazah, tahiyyatul masjid, sunnah wudhu Bilal, safar, istikharah, hajat, tasbih paman nabi Abbas bin Abdul Muthalib).
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 4 Part 3 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-4-part3.md`
+- Ringkasan: [[Imamate-and-Jumma-Prayer]]
+- Halaman dibuat: [[Imamate-and-Jumma-Prayer]], [[Shalat Jumat]]
+- Halaman diperbarui: [[Shalat Berjamaah]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Impor pembahasan imamah dan Jumat dari Seksi 4 & 5 Bab IV Kitab Ihya' Ulumiddin. Menguraikan 6 kewajiban imam shalat (keridhaan makmum, keutamaan imamah dibanding adzan, awal waktu, ikhlas tanpa upah, meluruskan shaf, pengaturan volume suara jahr/sirr). Menjelaskan fadhilah hari Jumat (hari raya mingguan, hari anugerah penyingkapan wajah Allah di surga) beserta 10 adab Jumat (mandi, pakaian putih, pergi pagi hari dengan pahala berjenjang, larangan melangkahi leher jamaah, menyimak khutbah, dzikir 7x pasca-salam).
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 4 Part 2 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-4-part2.md`
+- Ringkasan: [[Actions-and-Internal-Conditions-of-Prayer]]
+- Halaman dibuat: [[Actions-and-Internal-Conditions-of-Prayer]], [[Niat]], [[Takbir]], [[Amir bin Abdullah bin al-Zubair]], [[Zarrara bin Awfa]]
+- Halaman diperbarui: [[Ibrahim an-Nakha'i]], [[Khusyuk]], [[Sifat Shalat Nabi]], [[overview]], [[index]], [[log]]
+- Temuan Kunci: Impor pembahasan gerakan lahiriah dan kondisi batiniah shalat dari Seksi 2 & 3 Bab IV Kitab Ihya' Ulumiddin. Menganalisis gerakan shalat lahiriah beserta pemaknaan batinnya (azan, kesucian, kiblat, berdiri, niat, takbir, iftitah, ruku, sujud, tashahhud). Menguraikan enam kualitas batin shalat (kehadiran hati, pemahaman, pengagungan, takut agung, harap, malu), serta metode terapi mengatasi pikiran melayang (gangguan luar sajadah/dekorasi, dan gangguan dalam kecintaan duniawi dengan analogi burung pipit). Menyajikan kisah keteladanan salaf yang wafat (Zarrara bin Awfa), pingsan (Rabi bin Khuthaym, Ibrahim an-Nakha'i), dan tidak sadar kebisingan (Amir bin Abdullah) saat shalat.
+
+## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 4 Part 1 (Imam Al-Ghazali)
+- Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-4-part1.md`
+- Ringkasan: [[Excellence-of-Prayer]]
+- Halaman dibuat: [[Excellence-of-Prayer]], [[Shalat]], [[Adhan]], [[Sujud]], [[Masjid]], [[Ali Zainal Abidin]], [[Muslim bin Yasar]]
+- Halaman diperbarui: [[Khusyuk]], [[Shalat Berjamaah]], [[overview]], [[index]], [[log]]
+- Temuan Kunci: Impor pembahasan keutamaan shalat, azan, sujud, shalat berjamaah, khusyuk, dan masjid dari Seksi 1 Bab IV Kitab Ihya' Ulumiddin. Menjabarkan kedudukan shalat fardhu lima waktu sebagai tiang agama dan pembersih dosa harian. Menganalisis keutamaan adzan dan adab menjawabnya, keutamaan sujud batiniah sebagai posisi terdekat dengan Allah, serta adab dan larangan di dalam masjid. Memaparkan konsep khusyuk sebagai ruh shalat, bahaya "mabuk" pikiran duniawi, serta metode visualisasi khusyuk Hatim al-Asam dan keteladanan salaf (seperti Ali Zainal Abidin dan Muslim bin Yasar).
+
 ## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 2 Section 4 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-2-section-4.md`
 - Ringkasan: [[Rules-of-Articles-of-Belief]]

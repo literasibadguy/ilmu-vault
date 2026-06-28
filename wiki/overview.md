@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 63
-- Halaman wiki: 364
-- Aktivitas terakhir: 2026-06-28 (Mengimpor pembahasan Aturan Keimanan dari Bab II Kitab Ihya' Ulumiddin)
+- Sumber diimpor (ingested): 70
+- Halaman wiki: 392
+- Aktivitas terakhir: 2026-06-28 (Mengimpor pembahasan Rahasia dan Tata Cara Bersuci/Taharah dari Bab III Kitab Ihya' Ulumiddin)
 
 ---
 

@@ -14,18 +14,19 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-28. Mengimpor pembahasan Aturan Keimanan (**[[Rules-of-Articles-of-Belief]]**) dari Seksi 4 Bab II Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**.
+2026-06-28. Mengimpor pembahasan Keutamaan Shalat (**[[Excellence-of-Prayer]]**) dari Seksi 1 Bab IV Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**.
 
 ## Fakta Kunci Terbaru
-- Hubungan konseptual dan praktis antara keimanan (**[[Iman]]**) dan ketundukan lahiriah (**[[Islam]]**), beserta konsekuensi hukum di dunia dan di akhirat.
-- Fluktuasi keimanan yang dapat bertambah dengan amal saleh dan ketaatan lahiriah, serta berkurang akibat perbuatan dosa dan maksiat.
-- Status pelaku dosa besar (**[[Fasiq]]**) yang tetap berstatus Muslim dan tidak kekal di neraka selama masih memiliki iman batin seberat zarah.
-- Alasan pengucapan istithna' ("Saya mukmin, insya Allah") demi adab batin, keraguan terhadap kesempurnaan amal keimanan yang berjumlah 70+ cabang, dan rasa takut akan kondisi akhir hayat (kematian).
+- Kedudukan suci ibadah shalat wajib (**[[Shalat]]**) sebagai tiang agama dan pembersih dosa harian, diibaratkan mandi 5 kali sehari di sungai jernih.
+- Keutamaan panggilan adzan (**[[Adhan]]**), kedudukan mulia muazin di hari kiamat, serta adab batin dan lisan dalam menjawab kumandang adzan.
+- Keutamaan sujud batiniah (**[[Sujud]]**) sebagai titik terdekat hamba dengan Penciptanya, serta ratapan sedih Setan melihat ketaatan sujud anak Adam.
+- Peran masjid (**[[Masjid]]**) sebagai rumah Allah di bumi dan larangan keras melakukan obrolan kosong keduniawian di dalamnya yang dapat menghanguskan pahala amal.
+- Hakikat kekhusyukan (**[[Khusyuk]]**) sebagai ruh shalat, bahaya "mabuk" pikiran duniawi saat shalat, metode visualisasi khusyuk Hatim al-Asam, dan kisah keteladanan salaf.
 
 ## Perubahan Terbaru
-- Dibuat: [[Rules-of-Articles-of-Belief]], [[Iman]], [[Islam]], [[Fasiq]].
-- Diperbarui: [[Aqidah]], [[Taqlid]], [[Mujahadah]], [[overview]], [[index]], [[log]].
+- Dibuat: [[Mysteries-of-Cleanliness-and-Purification]], [[Purification-of-the-Body-from-Excrements]], [[Cleansing-of-External-Bodily-Growths]], [[Taharah]], [[Wudhu]], [[Ghusl]], [[Tayammum]], [[Siwak]], [[Adab Buang Air]], [[Fitrah Kebersihan Fisik]].
+- Diperbarui: [[overview]], [[index]], [[log]].
 
 ## Alur Kerja Aktif
-- Pengkajian hubungan Iman dan Islam, fluktuasi keimanan melalui ketaatan, status pelaku dosa besar, dan pengucapan istithna' keimanan.
+- Pengkajian aspek rahasia dan tata cara bersuci (Taharah), mandi, tayamum, wudhu, siwak, adab buang air, serta perawatan fisik sunnah dari Bab III Kitab Ihya' Ulumiddin.
 - Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.
