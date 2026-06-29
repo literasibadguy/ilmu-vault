@@ -64,6 +64,10 @@ Dalam kitab *Ihya' Ulumiddin* (Bab IV), **[[Imam Al-Ghazali]]** merinci rahasia 
 *   **Pikiran yang Terfokus**: Merenungkan dan menghayati makna ayat-ayat Al-Qur'an serta lafal doa/dzikir yang dibaca.
 *   **Ketundukan Anggota Tubuh**: Melakukan ruku' dengan punggung rata dan sujud dengan meletakkan dahi, hidung, telapak tangan, lutut, dan jari kaki secara mantap di lantai. Punggung wajib lurus saat berdiri dari ruku' (iktidal) dan saat duduk di antara dua sujud.
 
+## Lihat Juga
+
+*   [[Apa yang Tidak Disadari Muslim tentang Diri Mereka]]
+
 ## Sumber
 
 *   **[[Excellence-of-Prayer]]**

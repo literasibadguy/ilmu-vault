@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Khalifah Rasyidah Keempat / Otoritas Fiqih & Hikmah"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: 2026-06-26
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -18,6 +18,8 @@ related:
   - "[[Doa dalam Kesulitan]]"
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Kamil bin Ziyad]]"
+  - "[[Salman al-Farisi]]"
+  - "[[Attachment-of-the-World-Part-2]]"
 sources:
   - "[[Showing Off]]"
   - "[[Supplications That Are Most Likely Answered]]"
@@ -26,6 +28,8 @@ sources:
   - "[[Excellence of Learning]]"
   - "[[Blameworthy Sciences and Changing Meanings]]"
   - "[[Harms of Polemics and Evils of Debates]]"
+  - "[[Attachment-of-the-World]]"
+  - "[[Attachment-of-the-World-Part-2]]"
 ---
 
 # Ali bin Abi Thalib
@@ -48,6 +52,10 @@ sources:
 - **Wasiat tentang Keutamaan Ilmu kepada Kamil**: Memberikan nasihat legendaris kepada **[[Kamil bin Ziyad]]** mengenai keutamaan ilmu dibandingkan harta kekayaan (ilmu menjaga manusia sedangkan harta dijaga manusia; ilmu bertambah jika diajarkan sedangkan harta berkurang) (**[[Excellence of Learning]]**).
 - **Penertiban Masjid dari Pendongeng**: Mengusir seluruh pendongeng dari Masjid Basra demi menjaga kemurnian majelis ilmu, namun mengecualikan **[[Al-Hasan al-Basri]]** karena khotbahnya yang murni berorientasi akhirat (**[[Dzikir]]**).
 - **Mengakui Kesalahan**: Memberikan keteladanan tertinggi dalam keikhlasan mencari kebenaran dengan langsung mengakui kesalahannya secara terbuka ketika dikoreksi oleh seorang penanya tanpa rasa gengsi (**[[Bahaya Debat]]**).
+- **Hakikat Kenikmatan Dunia**: Ali mengidentifikasi enam jenis kenikmatan duniawi terbesar (makanan, minuman, pakaian, kendaraan, wanita, wewangian) lalu menjelaskan asal-usulnya yang berasal dari hal-hal yang rendah (seperti madu dari ludah lebah, sutra dari air liur ulat sutra, dan vagina sebagai objek kenikmatan biologis). Beliau mengibaratkan hubungan dunia dan akhirat seperti dua madu (co-istri) yang saling bertolak belakang (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
+- **Wasiat Ular Salman al-Farisi**: Menulis surat kepada **[[Salman al-Farisi]]** memperingatkan bahwa dunia laksana seekor ular yang halus kulitnya ketika disentuh tetapi mengandung racun mematikan, serta menasihati agar segera berpaling darinya (**[[Attachment-of-the-World-Part-2]]**).
+- **Atsar Hisab Dunia**: Menyatakan bahwa hal-hal halal di dunia akan dihitung pertanggungjawabannya (*hisab*), sedangkan hal-hal haram akan berujung pada hukuman/siksa (*'adzab*).
+- **Enam Sifat Penyelamat**: Menerangkan bahwa barang siapa yang memiliki enam sifat berikut maka ia telah mencukupi syarat keselamatan menuju surga: menaati Allah setelah mengenal-Nya, mengikuti kebenaran setelah memahaminya, memusuhi setan setelah mengetahuinya, menjauhi kebatilan setelah menyadarinya, melepaskan dunia setelah menyadari kehinaannya, dan mencari akhirat setelah memahami kekekalannya.
 
 ## Sumber
 
@@ -58,3 +66,5 @@ sources:
 - [[Excellence of Learning]]
 - [[Blameworthy Sciences and Changing Meanings]]
 - [[Harms of Polemics and Evils of Debates]]
+- [[Attachment-of-the-World]]
+- [[Attachment-of-the-World-Part-2]]

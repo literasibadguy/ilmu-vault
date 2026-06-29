@@ -75,6 +75,10 @@ Ghazali merinci kelonggaran fikih bagi kotoran kecil yang sulit dihindari agar t
 1.  **Air Mutlak**: Air suci yang menyucikan (seperti air hujan, air sumur, air laut). Air mutlak yang mengalir dinilai najis hanya jika warna, rasa, atau baunya berubah. Air diam yang volumenya kurang dari dua qullah (sekitar 216 liter) menjadi najis seketika saat dijatuhi najis, sekalipun tidak berubah sifatnya.
 2.  **Benda Padat (Batu Istinja)**: Batu yang kering, suci, keras, dan didapatkan secara halal.
 
+## Lihat Juga
+
+*   [[Apa yang Tidak Disadari Muslim tentang Diri Mereka]]
+
 ## Sumber
 
 *   **[[Mysteries-of-Cleanliness-and-Purification]]**

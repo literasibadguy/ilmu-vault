@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Terbanyak"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
-updated: "2026-06-26"
+updated: "2026-06-29"
 tags:
   - entity
   - sahabat
@@ -40,6 +40,7 @@ sources:
   - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Settle the Argument]]"
   - "[[Excellence of Learning]]"
+  - "[[Attachment-of-the-World]]"
 ---
 
 
@@ -67,6 +68,7 @@ sources:
 - **Hadis Larangan Catur & Dadu**: Meriwayatkan larangan memberi salam kepada pemain dadu/catur serta memperingatkan tentang kehadiran setan beserta pasukannya di sekeliling arena perjudian tersebut (**[[Major-Sin-20-Gambling]]**).
 - **Hadis Menyamakan Pecandu Khamr dengan Penyembah Berhala**: Meriwayatkan hadis Rasulullah SAW yang menyamakan pecandu minuman keras (*mudminul khamr*) dengan penyembah berhala yang diancam tidak akan mencium wangi surga (**[[Major-Sin-19-Drinking-Alcohol]]**).
 - **Keutamaan Mengkaji Ilmu di Malam Hari**: Memiliki pandangan fiqih yang sama dengan Ibnu Abbas dan Imam Ahmad bahwa mendiskusikan atau mempelajari ilmu di sebagian malam adalah amalan yang lebih beliau cintai daripada menghidupkan malam dengan shalat sunnah semalam suntuk (**[[Excellence of Learning]]**).
+- **Kisah Lembah Bangkai (Visualisasi Hakikat Dunia)**: Abu Hurayrah meriwayatkan bahwa Rasulullah ﷺ pernah menggandeng tangannya pergi ke sebuah lembah di Madinah yang penuh dengan bangkai hewan, kotoran manusia, pakaian usang, dan tulang-tulang lapuk. Nabi ﷺ bersabda: *"Wahai Abu Hurayrah, apakah engkau ingin melihat dunia?"* Beliau menunjukkan bahwa semua kotoran itu dahulunya adalah makanan lezat, pakaian indah, dan tubuh manusia yang megah, yang kini berakhir mengenaskan. Beliau bersabda: *"Menangislah atas kondisi dunia ini jika engkau ingin menangis."* (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
 
 ## Sumber
 
@@ -84,4 +86,5 @@ sources:
 - [[Major-Sin-20-Gambling]]
 - [[Major-Sin-19-Drinking-Alcohol]]
 - [[Excellence of Learning]]
+- [[Attachment-of-the-World]]
 

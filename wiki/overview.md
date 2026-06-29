@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags:
   - meta
   - overview
@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
 
-- Sumber diimpor (ingested): 70
-- Halaman wiki: 392
-- Aktivitas terakhir: 2026-06-28 (Mengimpor pembahasan Rahasia dan Tata Cara Bersuci/Taharah dari Bab III Kitab Ihya' Ulumiddin)
+- Sumber diimpor (ingested): 73
+- Halaman wiki: 411
+- Aktivitas terakhir: 2026-06-29 (Mengimpor bab 'Attachment of the World' Bagian 2 dan 3 dari Ihya' Ulumiddin karya Imam Al-Ghazali mengenai 15 perumpamaan dunia, hakikat dunia, serta kezuhudan salaf seperti Uwais al-Qarni)
 
 ---
 

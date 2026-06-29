@@ -6,7 +6,7 @@ entity_type: person
 role: "Nabi & Rasul Allah, Utusan Bani Israil"
 first_mentioned: "[[Introduction and Silence]]"
 created: "2026-06-18"
-updated: "2026-06-26"
+updated: "2026-06-29"
 tags:
   - entity
   - sejarah
@@ -16,12 +16,18 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Introduction and Silence]]"
   - "[[Keutamaan Mengajar]]"
+  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Attachment-of-the-World-Part-3]]"
 sources:
   - "[[Introduction and Silence]]"
   - "[[Excellence of Teaching]]"
+  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Attachment-of-the-World-Part-3]]"
 ---
 
 # Nabi Isa AS
+
+Informasi mengenai Nabi Isa AS, salah satu rasul Ulul 'Azmi yang sangat zuhud dan bersahaja.
 
 ## Profil
 
@@ -36,3 +42,19 @@ Dalam riwayat bencana lisan kitab *Ihya'*, Nabi Isa AS digambarkan sebagai guru 
 ## Tuntunan tentang Mengajar
 
 - **Kedudukan Pendidik**: Mengajarkan bahwa orang yang menuntut ilmu, mengamalkannya, dan mengajarkannya kepada manusia, maka ia akan digelari sebagai orang agung di kerajaan langit (**[[Excellence of Teaching]]**).
+
+## Ajaran Kezuhudan & Perumpamaan Dunia
+
+Nabi Isa AS kerap memberikan pelajaran mendalam tentang kezuhudan dan visualisasi hakikat duniawi:
+- **Perumpamaan Jembatan**: Mengajarkan bahwa dunia adalah jembatan; seberangilah ia tetapi jangan membangun rumah di atasnya (**[[Attachment-of-the-World-Part-2]]**).
+- **Kisah Wanita Tua Bersolek**: Mengibaratkan dunia sebagai wanita tua bersolek yang telah merusak dan membinasakan seluruh suaminya tanpa pernah menceraikan mereka satu pun (**[[Attachment-of-the-World-Part-2]]**).
+- **Bantal Batu yang Dibuang**: Suatu hari beliau tidur berbantalkan batu, lalu iblis datang mengejeknya bahwa ia telah bergantung pada kesenangan duniawi. Nabi Isa langsung melempar batu tersebut dan bersabda kepada iblis: *"Ambillah batu ini bersamamu, aku tidak membutuhkannya"* (**[[Attachment-of-the-World-Part-3]]**).
+- **Pencari Dunia bagaikan Peminum Air Laut**: Menyamakan pemburu harta dengan orang yang meminum air laut; semakin diminum semakin dahaga hingga membunuhnya (**[[Attachment-of-the-World-Part-2]]**).
+- **Ibadah dan Kecanduan Dunia**: Menegaskan bahwa orang yang mencintai dunia tidak akan dapat merasakan manisnya ibadah rohani, bagaikan orang sakit yang kehilangan rasa lezat makanan (**[[Attachment-of-the-World-Part-2]]**).
+
+## Sumber
+
+- [[Introduction and Silence]]
+- [[Excellence of Teaching]]
+- [[Attachment-of-the-World-Part-2]]
+- [[Attachment-of-the-World-Part-3]]

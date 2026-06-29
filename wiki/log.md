@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags:
   - meta
   - log
@@ -15,6 +15,32 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-06-29] ingest | Ingest: evils_of_the_world_part2.md & evils_of_the_world_part3.md (Imam Al-Ghazali)
+- Sumber: `.raw/evils_of_the_world_part2.md`, `.raw/evils_of_the_world_part3.md`
+- Ringkasan: [[Attachment of the World Part 2]], [[Attachment of the World Part 3]]
+- Halaman dibuat: [[Attachment of the World Part 2]], [[Attachment of the World Part 3]], [[Perumpamaan Dunia]], [[Hakikat Dunia]], [[Yunus bin Ubaid]], [[Abu Bakr bin Ayyash]], [[Salman al-Farisi]], [[Nabi Daud AS]], [[Uwais al-Qarni]], [[Haram bin Hayyan]]
+- Halaman diperbarui: [[Cinta Dunia]], [[Zuhud]], [[Abu al-Darda]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Al-Hasan al-Basri]], [[Nabi Isa AS]], [[Nabi Sulaiman AS]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan bagian kedua dan ketiga Kitab Dzamm al-Dunya mengenai perumpamaan dan hakikat duniawi. Menyusun 15 perumpamaan dunia (laksana bayangan bergerak, jembatan, ular berbisa, meminum air laut yang mematikan, setetes air jari di samudera), pembagian hakikat dunia menjadi tiga klasifikasi (makrifatullah/amal saleh, kebutuhan mutlak hidup, dan kemewahan yang di-hisab). Menyusun riwayat kezuhudan salaf: Uwais al-Qarni yang hidup sangat miskin namun dipuji Rasulullah SAW dan pertemuannya dengan Haram bin Hayyan di Sungai Tigris yang mengabarkan wafatnya Khalifah Umar secara gaib; teguran Umar kepada Abu al-Darda karena membangun toilet seharga 2 dirham; serta kezuhudan Nabi Sulaiman AS dan Nabi Isa AS.
+
+## [2026-06-29] ingest | Ingest: evils_of_the_world_part1.md (Imam Al-Ghazali)
+- Sumber: `.raw/evils_of_the_world_part1.md`
+- Ringkasan: [[Attachment of the World]]
+- Halaman dibuat: [[Attachment of the World]], [[Cinta Dunia]], [[Nabi Sulaiman AS]], [[Nabi Nuh AS]], [[Abu Obaidah bin al-Jarrah]], [[Abu Hazim al-A'raj]], [[Daud bin Hallal]]
+- Halaman diperbarui: [[Zuhud]], [[Imam Al-Ghazali]], [[Ali bin Abi Thalib]], [[Umar bin Khattab]], [[Abu Hurayrah]], [[Al-Hasan al-Basri]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan bahaya keterikatan batin pada kesenangan dunia (Cinta Dunia) dan pentingnya kezuhudan. Menyusun profil nabi Sulaiman AS (keutamaan tasbih vs kerajaan), nabi Nuh AS (perumpamaan dunia sebagai rumah dua pintu), Abu Obaidah bin al-Jarrah (kezuhudan ekstrim gubernur Syam yang membuat khalifah Umar menangis), Abu Hazim al-A'raj (formula wara' dan zuhud praktis), serta Daud bin Hallal (atsar lembaran Ibrahim AS mengenai kehinaan dunia).
+
+## [2026-06-29] create | Question: Tanya Jawab Marifatun Nafs dan Kesadaran Diri
+- Ringkasan: [[Tanya Jawab Marifatun Nafs dan Kesadaran Diri]]
+- Halaman dibuat: [[Tanya Jawab Marifatun Nafs dan Kesadaran Diri]]
+- Halaman diperbarui: [[index]], [[log]], [[overview]], [[hot]]
+- Temuan Kunci: Menyusun 5 Tanya Jawab (Q&A) mendalam yang berbasis khazanah Ihya Ulumiddin mengenai refleksi teologis-spiritual marifatun nafs (kesadaran diri), meliputi konsepsi esensi jiwa, ilusi taharah fisik, hakikat khusyuk, peran mujahadah rohani, serta pengendalian perut dan lisan.
+
+## [2026-06-28] create | Question: Apa yang Tidak Disadari Muslim tentang Diri Mereka
+- Ringkasan: [[Apa yang Tidak Disadari Muslim tentang Diri Mereka]]
+- Halaman dibuat: [[Apa yang Tidak Disadari Muslim tentang Diri Mereka]]
+- Halaman diperbarui: [[index]], [[log]], [[overview]], [[hot]]
+- Temuan Kunci: Menulis esai reflektif analitis dalam bahasa Indonesia mengenai empat aspek yang sering tidak disadari oleh kaum Muslim mengenai diri mereka berdasarkan khazanah Ihya Al-Ghazali (ilusi kesucian lahiriah vs hati, kedustaan batin saat takbir shalat tanpa khusyuk, bencana lisan yang disepelekan, serta hubungan perut kekenyangan dengan tumpulnya spiritualitas).
 
 ## [2026-06-28] ingest | Ingest: Ihya Vol 1 Chapter 3 Part 3 (Imam Al-Ghazali)
 - Sumber: `.raw/ihya-ulum-ud-din-vol1-chapter-3-part3.md`

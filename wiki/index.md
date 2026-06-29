@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags:
   - meta
   - index
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-28 | Total halaman: 360 | Sumber diimpor: 62
+Terakhir diperbarui: 2026-06-29 | Total halaman: 377 | Sumber diimpor: 65
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -52,6 +52,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Bermuka Dua dan Pujian]]  — **Bermuka Dua** (*Al-Lisanain / Two-faced speech*) adalah sikap bermulut manis, setuju, dan memuji seseorang saat bertemu secara tatap muka, namun mencaci, mencela, dan berkhianat di belakangnya de... (status: seed)
 - [[Candaan dan Olok-olok]]  — **Candaan** (*Mizah*) adalah ucapan ringan yang bertujuan menghibur atau memicu tawa. Sedangkan **Olok-olok** (*Sukhriyyah*) adalah tindakan merendahkan, menghina, atau menyingkap cacat (fisik/mora... (status: seed)
 - [[Catur dan Dadu]]  — **Catur dan Dadu** merujuk pada hukum syariat yang mengatur permainan papan, ketangkasan, dan keberuntungan (*games of chance and skill*) seperti catur (*shatranj*), dadu/backgammon (*nard*), atau ... (status: seed)
+- [[Cinta Dunia]]  — **Cinta Dunia** (*hubbud dunya*) adalah keterikatan hati yang berlebihan terhadap segala kesenangan fana duniawi yang melalaikan akhirat... (status: seed)
 - [[Doa dalam Kesulitan]]  — **Doa dalam Kesulitan** (*Du'a al-Karb*) merujuk pada kumpulan lafal doa, zikir, dan munajat khusus yang diajarkan oleh Nabi Muhammad ﷺ untuk dibaca ketika seseorang tertimpa kesulitan hidup, kesem... (status: seed)
 - [[Dosa Iblis]]  — **Dosa Iblis** merujuk pada dosa pembangkangan pertama di alam semesta terhadap perintah Allah SWT yang disebabkan oleh sifat kesombongan (*kibr*) dan keangkuhan merasa asal-usul penciptaannya (api... (status: seed)
 - [[Du'a]]  — **Du'a** (secara bahasa berarti menyeru, memanggil, atau meminta) adalah salah satu bentuk ibadah paling agung di dalam Islam yang mempertemukan kehambaan seorang makhluk dengan kemahakuasaan Allah... (status: mature)
@@ -75,6 +76,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ghibah]]  — **Ghibah** (atau *ghība*) secara istilah syariat didefinisikan sebagai menyebutkan atau membicarakan sesuatu tentang seorang Muslim di saat ia tidak ada, dengan hal-hal yang tidak disukainya (*depl... (status: developing)
 - [[Ghusl]]  — Tindakan meratakan air suci ke seluruh permukaan jasad (kulit dan rambut) guna menyucikan diri dari hadas besar... (status: evergreen)
 - [[Hak dan Kewajiban Suami]]  — **Hak dan Kewajiban Suami** adalah aturan syariat Islam yang mengatur tanggung jawab finansial, moral, dan hukum seorang suami terhadap istrinya, serta hak-hak yang layak ia terima dalam ikatan per... (status: seed)
+- [[Hakikat Dunia]]  — **Hakikat Dunia** (*Special Knowledge of the World*) mengkaji batas-batas objektif antara perkara keduniawian yang tercela (excess) dan perkara bernilai akhirat (ilmu dan kebutuhan mutlak)... (status: seed)
 - [[Hikmah]]  — **Hikmah** (secara bahasa berarti kebijaksanaan, kebenaran mendalam, atau ketepatan dalam bertindak) adalah konsep keilmuan dan akhlak yang sangat luhur dalam syariat Islam... (status: evergreen)
 - [[Hilah]]  — **Hilah** (jamak: *Hiyal*, bahasa Arab: الحيل) secara bahasa berarti tipu daya, kecerdikan, atau jalan keluar. Dalam ushul fiqih dan hukum Islam, **Hilah** merujuk pada penggunaan sarana hukum form... (status: seed)
 - [[Hilah Ribawiyah]]  — **Hilah Ribawiyah** secara harfiah berarti trik atau tipu daya untuk memuluskan riba. Dalam fiqih muamalah Islam, istilah ini merujuk pada segala bentuk rekayasa akad, manipulasi dokumen, atau pemu... (status: seed)
@@ -129,6 +131,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Persiapan Kematian]]  — **Persiapan Kematian** adalah tindakan sadar dan terencana dari seorang mukmin untuk bertobat dari dosa, melunasi hak-hak sesama manusia, dan mengumpulkan amal saleh sebagai bekal perjalanan setela... (status: seed)
 - [[Pertengkaran dan Perdebatan]]  — **Pertengkaran dan Perdebatan** (*Mira' wal Jidal*) dalam terminologi akhlak Islam adalah debat kusir atau penentangan terhadap ucapan orang lain dengan tujuan semata-mata menjatuhkannya, menunjukk... (status: seed)
 - [[Pertobatan Adam]]  — **Pertobatan Adam** adalah keteladanan dalam bertaubat yang diwariskan oleh Nabi Adam AS and Hawa ketika terjatuh ke dalam kekhilafan. Inti dari konsep ini adalah pengakuan dosa yang tulus (*i'tira... (status: seed)
+- [[Perumpamaan Dunia]]  — **Perumpamaan Dunia** (*Illustrations of the World*) adalah kumpulan 15 analogi klasik dari nabi dan salaf (seperti mimpi, bayangan, jembatan, air laut) untuk memvisualisasikan kefanaan dunia... (status: seed)
 - [[Poligami dalam Islam]]  — **Poligami dalam Islam** (atau *Ta'addud al-Zawjat*) adalah kebolehan bersyarat bagi seorang pria Muslim untuk menikahi lebih dari satu wanita secara bersamaan (maksimal empat). Kebolehan ini bukan... (status: seed)
 - [[Qadar]]  — **Qadar** (atau Takdir) adalah ketetapan dan rencana Allah SWT atas seluruh makhluk sejak zaman azali, baik berupa kebaikan maupun keburukan, manfaat maupun mudarat. Iman kepada Qadar merupakan ruk... (status: seed)
 - [[Raja' dan Khauf]]  — **Raja' dan Khauf** adalah konsep batin ganda dalam tasawuf dan akidah Islam yang memadukan perasaan harap (*raja'*) akan kasih sayang dan rahmat Allah dengan perasaan takut (*khauf*) akan murka da... (status: seed)
@@ -183,12 +186,15 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Abu Ali ad-Daqqaq]]  — Abu Ali al-Hasan bin Ali ad-Daqqaq merupakan ulama salaf dan ahli zuhud. Ia terkenal karena nasihat spiritual tentang kesabaran dan maqam keimanan. Ia menegaskan bahwa orang bersabar meraih kemenan... (status: seed)
 - [[Abu Ayyoob al-Ansaari]]  — **Abu Ayyoob al-Ansaari** (Khalid bin Zaid bin Kulayb) adalah salah satu sahabat terkemuka dari kaum Ansar di Madinah yang terkenal karena kedermawanannya. Rumah beliau menjadi tempat tinggal perta... (status: seed)
 - [[Abu Bakar Ash-Shiddiq]]  — **Abu Bakar Ash-Shiddiq** (Abdullah bin Abi Quhafah, wafat 13 H / 634 M) adalah khalifah pertama umat Islam setelah wafatnya **[[Nabi Muhammad SAW]]**. Beliau adalah sahabat terdekat Rasulullah SAW... (status: seed)
+- [[Abu Bakr bin Ayyash]]  — **Abu Bakr bin Ayyash** adalah ulama salaf, pakar qira'at Al-Qur'an, dan zahid terkemuka asal Kufah yang meriwayatkan mimpi wanita tua penabuh drum... (status: seed)
 - [[Abu Dharr Al-Ghifari]]  — **Abu Dharr Al-Ghifari** adalah salah satu sahabat awal Nabi SAW (sabiqnal awwalun) yang terkenal karena kejujurannya yang radikal, kezuhudannya yang keras, serta keberaniannya menyuarakan kritik s... (status: seed)
+- [[Abu Hazim al-A'raj]]  — **Abu Hazim al-A'raj** (Salamah bin Dinar al-Madani) adalah ulama Tabi'in terkemuka di Madinah, ahli hadis, dan ahli zuhud... (status: seed)
 - [[Abu Hurayrah]]  — **Abu Hurayrah** (Abdurrahman bin Sakhr Ad-Dausi) adalah sahabat Nabi SAW yang paling banyak meriwayatkan hadis dalam sejarah Islam. Beliau mendedikasikan hidupnya untuk tinggal di serambi Masjid N... (status: seed)
 - [[Abu Jahl]]  — **Abu Jahl** (Amr bin Hisyam Al-Makhzumi) adalah salah satu pemimpin utama kaum kafir Quraisy di Makkah dan merupakan musuh paling keras terhadap dakwah Islam pada masa awal kenabian. Beliau tewas ... (status: seed)
 - [[Abu Juhayfah]]  — Abu Juhayfah, yang nama aslinya adalah **Wahb ibn Abdullah**, adalah seorang sahabat Nabi Muhammad ﷺ yang dikenal karena komitmennya yang luar biasa dalam menerapkan ajaran moderasi makan. Ia terma... (status: seed)
 - [[Abu Mi'laq]]  — **Abu Mi'laq** adalah seorang sahabat Nabi Muhammad ﷺ yang berprofesi sebagai saudagar/pedagang sukses. Beliau dikenal sangat saleh, gemar beribadah, dan amanah dalam mengelola modal dagang milikny... (status: seed)
 - [[Abu Musa al-Ash'ari]]  — **Abu Musa al-Ash'ari** (Abdullah bin Qais al-Ash'ari, w. 44 H) adalah salah satu sahabat terkemuka Nabi SAW asal Yaman. Beliau dikenal memiliki suara yang sangat merdu saat melantunkan Al-Qur'an, ... (status: seed)
+- [[Abu Obaidah bin al-Jarrah]]  — **Abu Obaidah bin al-Jarrah** adalah sahabat utama Nabi, panglima militer terpercaya, dan gubernur Syam yang bersahaja... (status: seed)
 - [[Abu Ramthah]]  — **Abu Ramthah** (Rifa'ah bin Yathrabi Al-Taymi) adalah seorang sahabat Nabi SAW yang memiliki pengetahuan dan keahlian di bidang pengobatan (tabib/dokter) pada masa awal Islam. (status: seed)
 - [[Abu Sa'id Al-Khudri]]  — **Abu Sa'id Al-Khudri** (Sa'ad bin Malik bin Sinan al-Khazraji al-Khudri) adalah salah satu sahabat muda Nabi SAW dari kalangan Anshar yang sangat alim dan terpandang di Madinah. Beliau dikenal seb... (status: seed)
 - [[Abu Salma]]  — **Abu Salma** adalah salah satu tokoh shaleh masa salaf awal yang memiliki ketakutan luar biasa akan kehidupan eskatologis akhirat. (status: seed)
@@ -230,11 +236,13 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Bilal bin Rabah]]  — **Bilal bin Rabah** (wafat 20 H / 641 M di Damaskus) adalah sahabat dekat Rasulullah ﷺ asal Abisinia (Etiopia) yang memeluk Islam di awal dakwah dan disiksa secara keji oleh majikannya Umayah bin K... (status: seed)
 - [[Bishr al-Hafi]]  — **Bishr al-Hafi** (Bashr-b-Hares) adalah sufi terkemuka dari Bagdad yang terkenal karena kezuhudannya yang ekstrem dan penolakannya terhadap kepemimpinan yang manipulatif... (status: evergreen)
 - [[Burayda bin al-Husaib]]  — **Burayda bin al-Husaib** (Buraydah bin al-Hushaib al-Aslami, wafat 62 H) adalah seorang sahabat Nabi SAW yang memeluk Islam bersama rombongan kaumnya ketika menyegat perjalanan Hijrah Rasulullah S... (status: seed)
+- [[Daud bin Hallal]]  — **Daud bin Hallal** adalah seorang perawi atsar dan ulama salaf yang meriwayatkan lembaran Ibrahim AS mengenai kehinaan dunia... (status: seed)
 - [[Fath al-Mawsili]]  — **Fath al-Mawsili** (sering ditulis *Fathul Musolli*, wafat sekitar 220 H / 835 M) adalah seorang sufi terkemuka, zahid (ahli zuhud), dan ulama salaf asal Mosul, Irak. Beliau sezaman dengan Sufyan ... (status: seed)
 - [[Fatima binti Muhammad]]  — **Fatima binti Muhammad** (Fatima az-Zahra, wafat 11 H / 632 M) adalah putri bungsu kesayangan **[[Nabi Muhammad SAW]]** dari pernikahannya dengan **[[Khadijah binti Khuwailid]]**. Beliau menikah d... (status: seed)
 - [[Hafsah binti Umar]]  — **Hafsah binti Umar** (wafat sekitar 45 H / 665 M) adalah istri **[[Nabi Muhammad SAW]]** dan putri dari **[[Umar bin Khattab]]**. Beliau dikenal memiliki karakter yang tegas, berani menyuarakan ke... (status: seed)
 - [[Hammad bin Sulaiman]]  — **Hammad bin Sulaiman** (Abu Ismail Hammad bin Abi Sulaiman al-Asy'ari, wafat 120 H / 738 M di Kufah) adalah seorang tabi'in besar, ahli fiqih terkemuka di Kufah, dan merupakan guru utama dari **[[... (status: seed)
 - [[Hani bin Yazid]]  — **Hani bin Yazid** (Abu Shuraih Al-Harithi) adalah seorang sahabat Nabi SAW. Beliau dikenal dalam sejarah Islam sebagai sahabat yang diubah kunya (julukan)-nya oleh Rasulullah SAW demi menjaga kesu... (status: seed)
+- [[Haram bin Hayyan]]  — **Haram bin Hayyan** adalah ulama tabi'in dan zahid Kufah yang gigih mencari keberadaan Uwais al-Qarni hingga menemuinya di tepi Sungai Tigris... (status: seed)
 - [[Harits bin Labid]]  — **Harits bin Labid** (Hares-b-Labeed) adalah salah seorang sahabat dekat dan murid dari **[[Imam Asy-Syafi'i]]** di Mekkah. Ia menyaksikan langsung peristiwa ketakutan spiritual (*khauf*) yang luar... (status: seed)
 - [[Hasan al-Karabisi]]  — **Hasan al-Karabisi** (Abu Ali al-Hasan bin Ali al-Karabisi al-Baghdadi, wafat 245 H / 859 M) adalah seorang ulama fiqih dan teolog terkemuka di Baghdad. Ia awalnya mengikuti Mazhab Kuno (*Qaul Qad... (status: seed)
 - [[Hasan bin Ali]]  — **Hasan bin Ali** (Hasan bin Ali bin Abi Thalib, wafat sekitar 50 H / 670 M) adalah cucu tertua **[[Nabi Muhammad SAW]]** dari pernikahannya putrinya **[[Fatima binti Muhammad]]** dengan Ali bin Ab... (status: seed)
@@ -289,10 +297,13 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Muslim bin Yasar]]  — **Muslim bin Yasar** adalah ulama Tabi'in senior Basra, ahli fikih yang zuhud, serta tokoh keteladanan tertinggi dalam kekhusyukan ibadah shalat... (status: evergreen)
 - [[Nabi Adam AS]]  — Nabi Adam AS merupakan manusia pertama, nabi pertama, dan bapak dari seluruh umat manusia (*Abul Basyar*). Allah menciptakan beliau langsung dari tanah, meniupkan ruh-Nya, dan memerintahkan malaika... (status: seed)
 - [[Nabi Ayyub AS]]  — **Nabi Ayyub AS** adalah seorang nabi utusan Allah yang dikaruniai kekayaan melimpah dan keluarga yang banyak, yang kemudian diuji oleh Allah dengan kehilangan seluruh hartanya, wafatnya anak-anakn... (status: seed)
+- [[Nabi Daud AS]]  — **Nabi Daud AS** adalah nabi dan raja Bani Israil, pengisi suara Zabur yang sangat merdu, dan teladan kerja keras serta kezuhudan seorang pemimpin... (status: seed)
 - [[Nabi Ibrahim AS]]  — **Nabi Ibrahim AS** adalah salah satu nabi dan rasul utusan Allah yang berpangkat *Ulul 'Azmi*. Beliau dijuluki *Khalilullah* (Kekasih Allah) dan merupakan bapak para nabi. Dalam konteks akidah dan... (status: seed)
 - [[Nabi Isa AS]]  — **Nabi Isa AS** (Yesus) adalah salah satu dari rasul *Ulul 'Azmi* yang diutus kepada kaum Bani Israil. Beliau dibekali mukjizat berupa penyembuhan penyakit, menghidupkan orang mati atas izin Allah,... (status: seed)
 - [[Nabi Muhammad SAW]]  — **Nabi Muhammad SAW** adalah utusan Allah terakhir yang membawa risalah Islam bagi seluruh alam. Beliau memberikan fondasi etis-moral yang sangat ketat baik dalam konteks kepemimpinan (*siyasah sya... (status: seed)
 - [[Nabi Musa AS]]  — **Nabi Musa AS** adalah rasul utusan Allah dari golongan *Ulul 'Azmi* yang diutus untuk membebaskan Bani Israil dari belenggu Firaun di Mesir. Beliau menerima kitab suci Taurat di bukit Thursina da... (status: seed)
+- [[Nabi Nuh AS]]  — **Nabi Nuh AS** adalah nabi dan rasul utusan Allah kedua yang berpangkat *Ulul 'Azmi*, dikenal karena kesabaran dakwahnya selama 950 tahun... (status: seed)
+- [[Nabi Sulaiman AS]]  — **Nabi Sulaiman AS** adalah nabi dan raja Bani Israil yang menguasai angin, jin, dan binatang, putra Nabi Daud AS... (status: seed)
 - [[Nabi Yunus AS]]  — **Nabi Yunus AS** (juga dikenal sebagai **Dhun-Nun** / Pemilik Ikan, atau *Jonah* dalam tradisi Yudeo-Kristen) adalah seorang nabi dan rasul Allah yang diutus kepada penduduk kota Ninawa (wilayah A... (status: seed)
 - [[Qatadah bin Di'amah As-Sadusi]]  — Qatadah bin Di'amah As-Sadusi (60–117 H) merupakan seorang ulama Tabi'in besar dari Basra, Irak. Beliau dikenal sebagai pakar tafsir Al-Qur'an, hafizh hadis, dan ahli bahasa Arab. Meskipun lahir da... (status: seed)
 - [[Rabi' ibn Khuthaym]]  — **Rabi' ibn Khuthaym** (Abu Yazid ar-Rabi' bin Khutsaim al-Tsauri, wafat sekitar 61-63 H / 682 M) adalah salah satu pemuka ulama Tabi'in terkemuka di Kufah, Irak. Beliau dikenal sebagai salah satu ... (status: seed)
@@ -303,6 +314,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Safiyyah binti Huyayy]]  — Safiyyah binti Huyayy bin Akhtab adalah salah satu **Ummahatul Mukminin** (Ibu-ibu Kaum Mukmin)—istri [[Nabi Muhammad SAW]]. Ia berasal dari keturunan Bani Nadhir, sebuah kabilah Yahudi di Madinah,... (status: seed)
 - [[Sahl bin Abdullah at-Tustari]]  — **Sahl bin Abdullah at-Tustari** (Sahl al-Tustari, lahir 200 H / 815 M di Tustar, wafat 283 H / 896 M di Basra) adalah seorang ulama salaf terkemuka, ahli hadits, mufassir, dan tokoh zuhud. Beliau ... (status: seed)
 - [[Salama bin al-Akwa']]  — **Salama bin al-Akwa'** (Salama bin Amr bin al-Akwa') adalah salah satu sahabat terkemuka Nabi SAW yang berasal dari suku Aslam. Beliau terkenal sebagai pemanah ulung, pelari cepat yang luar biasa,... (status: seed)
+- [[Salman al-Farisi]]  — **Salman al-Farisi** adalah sahabat utama Nabi SAW asal Persia yang terkenal akan kebijaksanaan spiritualnya dan kezuhudannya saat menjabat gubernur Madain... (status: seed)
 - [[Sari Sakti]]  — **Sari Sakti** (nama aslinya: **Sari al-Saqati**, wafat 253 H / 867 M) adalah salah satu tokoh sufi perintis terkemuka di Baghdad. Beliau adalah paman sekaligus guru spiritual dari sufi legendaris ... (status: seed)
 - [[Saudah binti Zam'ah]]  — **Saudah binti Zam'ah** adalah istri kedua **[[Nabi Muhammad SAW]]** yang beliau nikahi di Makkah setelah wafatnya Khadijah binti Khuwailid. Beliau dikenal memiliki sifat yang dermawan, berjiwa hum... (status: seed)
 - [[Shaiban al-Ra'i]]  — **Shaiban al-Ra'i** (Shaiban bin Mujza'ah al-Ra'i, dikenal sebagai Shaiban sang Penggembala) adalah seorang tokoh sufi awal terkemuka yang hidup pada abad ke-2 Hijriah. Meskipun ia buta huruf dan b... (status: seed)
@@ -321,12 +333,14 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Umm Salamah]]  — **Umm Salamah** (Hindun binti Abi Umayyah, wafat sekitar 62 H / 681 M) adalah salah satu istri **[[Nabi Muhammad SAW]]** yang dikenal memiliki kecerdasan tajam, kebijaksanaan dalam berpendapat, ser... (status: seed)
 - [[Uqba bin Amir]]  — **Uqba bin Amir** (Uqba bin Amir al-Juhani, wafat sekitar 58 H / 678 M) adalah sahabat Nabi Muhammad SAW yang mulia, ahli Al-Qur'an, perawi hadis, penyair, serta seorang komandan militer terkemuka ... (status: seed)
 - [[Utsman bin Affan]]  — **Utsman bin Affan** adalah sahabat utama Nabi SAW dan Khalifah Rasyidah ketiga yang memperingatkan bahaya munculnya ulama munafik lisan... (status: evergreen)
+- [[Uwais al-Qarni]]  — **Uwais al-Qarni** adalah tabi'in terbaik yang sangat zuhud dan tidak terkenal di bumi namun sangat dikenal di langit karena kesalehan serta baktinya kepada ibunya... (status: seed)
 - [[Wabisah bin Ma'bad]]  — **Wabisah bin Ma'bad al-Asadi** adalah salah seorang sahabat Rasulullah SAW yang terkenal dengan riwayat hadits penting mengenai konsultasi nurani dalam menetapkan kebaikan dan dosa. (status: seed)
 - [[Wahb ibn al-Ward]]  — **Wahb ibn al-Ward** (wafat 153 H) adalah seorang ulama tabi'in akhir, ahli ibadah, dan tokoh zuhud dari kota Makkah. Beliau terkenal karena ucapan hikmahnya yang mendalam serta kedisiplinan tingka... (status: seed)
 - [[Wahb ibn Munabbih]]  — **Wahb ibn Munabbih** (Abu Abdillah Wahb bin Munabbih al-Shan'ani, wafat sekitar 110 H / 728 M) adalah seorang ulama tabi'in terkemuka asal Yaman yang berdarah Persia. Beliau terkenal akan ilmunya ... (status: seed)
 - [[Yahya bin Ma'in]]  — **Yahya bin Ma'in** (Abu Zakariya Yahya bin Ma'in al-Baghdadi, lahir 158 H / 775 M, wafat 233 H / 848 M di Madinah) adalah seorang imam besar, ahli hadits, dan kritikus perawi terkemuka (*Imam al-J... (status: seed)
 - [[Yahya bin Mu'adh]]  — **Yahya bin Mu'adh al-Razi** (wafat 258 H / 871 M) adalah seorang pengkhotbah (da'i) dan sufi terkemuka dari kota Rayy (Persia). Beliau dikenal karena gaya khotbahnya yang penuh harapan (*raja'*) d... (status: seed)
 - [[Yazid bin Umar bin Hubayrah]]  — **Yazid bin Umar bin Hubayrah al-Fazari** (wafat 132 H / 750 M) adalah gubernur terakhir Irak di bawah Kekhalifahan Umayyah yang dipimpin oleh Marwan II. Beliau dikenal sebagai jenderal militer yan... (status: seed)
+- [[Yunus bin Ubaid]]  — **Yunus bin Ubaid** adalah ulama tabi'in dan ahli hadis dari Basra yang dikenal sangat jujur, wara' dalam berniaga, serta menyamakan hidup di dunia laksana mimpi tidur... (status: seed)
 - [[Yusuf ibn Asbat]]  — **Yusuf ibn Asbat** adalah seorang ulama asketis (ahli zuhud) awal abad ke-2 Hijriah dari kalangan Tabi' al-Tabi'in yang bermukim di wilayah Syam. Beliau terkenal akan kesalehan pribadinya serta ke... (status: seed)
 - [[Zaid bin Thabit]]  — **Zaid bin Thabit** (wafat sekitar 45 H / 665 M) adalah sahabat Nabi Ansar yang sangat cerdas. Beliau dipercaya sebagai sekretaris pribadi Rasulullah SAW, penulis wahyu utama, serta ketua panitia k... (status: seed)
 - [[Zarrara bin Awfa]]  — **Zarrara bin Awfa** adalah ulama Tabi'in senior Basra, qadi agung yang adil, serta perawi hadis tepercaya yang wafat karena rasa takut kepada Allah saat shalat... (status: evergreen)
@@ -336,6 +350,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 
 - [[Abandoning the Group Prayer]]  — Bab ke-65 (*Abandoning the Group Prayer*) dan Bab ke-66 dari *Kitab al-Kaba'ir* karya **[[Imam Adh-Dhahabi]]**... (status: seed)
 - [[Actions-and-Internal-Conditions-of-Prayer]]  — Ringkasan Bab IV Bagian 2 (Seksi 2 & 3) *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai gerakan lahiriah dan kondisi batiniah shalat... (status: evergreen)
+- [[Attachment of the World]]  — Terjemahan Bab VI Kitab *Dzamm al-Dunya* dari *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai bahaya kecintaan terhadap dunia... (status: seed)
+- [[Attachment of the World Part 2]]  — Bagian 2 Bab VI Kitab *Dzamm al-Dunya* dari *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai 15 perumpamaan dunia... (status: seed)
+- [[Attachment of the World Part 3]]  — Bagian 3 Bab VI Kitab *Dzamm al-Dunya* dari *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai hakikat dunia dan kezuhudan salaf... (status: seed)
 - [[Backbiting Not Limited to Speech]]  — **Backbiting Not Limited to Speech** (Ghibah Tidak Terbatas pada Ucapan Lisan) merupakan bagian dari Bab XV dalam *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**... (status: seed)
 - [[Bagaimana Menyelesaikan Perdebatan (Settle the Argument)]]  — Tulisan ini merupakan analisis mendalam mengenai debat panjang di kalangan ulama mengenai keutamaan antara orang kaya yang bersyukur (*al-ghaniyyus syakir*) versus orang miskin yang bersabar (*al-f... (status: seed)
 - [[Blameworthy Sciences and Changing Meanings]]  — Ringkasan dari Bab I Bagian 3 *Ihya' Ulumiddin* karya Imam Al-Ghazali mengenai klasifikasi ilmu tercela beserta sebab-sebabnya, pergeseran makna istilah utama, dan batasan ilmu terpuji... (status: evergreen)
@@ -430,7 +447,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Pertanyaan Keagamaan (Questions)
 
 - [[Amalan Harian Muslim untuk Mencapai Target]]  — **Pertanyaan:** Berdasarkan wiki, tindakan harian unik apa yang akan Anda lakukan jika Anda seorang Muslim untuk mencapai target Anda? (status: complete)
+- [[Apa yang Tidak Disadari Muslim tentang Diri Mereka]]  — Analisis spiritual berbasis khazanah pemikiran Imam Al-Ghazali mengenai dimensi batiniah manusia yang sering terabaikan... (status: complete)
 - [[Satu Hal Kecil yang Membedakan Orang Sukses]]  — Ketika membahas kesuksesan luar biasa (*ultra success*), kebanyakan orang berfokus pada faktor-faktor makro seperti kecerdasan, modal finansial, kerja keras, atau jaringan relasi (*networking*). Na... (status: complete)
+- [[Tanya Jawab Marifatun Nafs dan Kesadaran Diri]]  — Kumpulan tanya jawab mendalam mengenai refleksi teologis-spiritual tentang *ma'rifatun nafs* (kesadaran diri) berdasarkan khazanah kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**. (status: complete)
 - [[Tindakan Tidak Konvensional untuk Mencapai Target]]  — **Pertanyaan:** Berdasarkan wiki, jika Anda seorang manusia, tindakan tidak konvensional apa yang akan Anda lakukan setiap hari untuk mencapai target Anda? (status: complete)
 
 ## Perbandingan (Comparisons)

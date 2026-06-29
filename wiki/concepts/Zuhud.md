@@ -8,7 +8,7 @@ aliases:
   - "Asceticism"
   - "Zahid"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-29"
 tags:
   - concept
   - tazkiyah
@@ -20,6 +20,7 @@ related:
   - "[[Ziarah Kubur]]"
 sources:
   - "[[What Reminds People of Death and the Hereafter]]"
+  - "[[Attachment-of-the-World]]"
 ---
 
 # Zuhud
@@ -45,12 +46,16 @@ Tanpa zuhud, manusia akan terjebak dalam perlombaan mengumpulkan harta (*takatsu
 - Menggunakan harta kekayaan untuk membantu fakir miskin tanpa takut miskin.
 - Lebih mementingkan kualitas ibadah harian dibanding akumulasi prestise sosial.
 - Mencontoh perilaku asketis Rasulullah SAW dan para sahabat yang tidak pernah menimbun harta demi kesenangan pribadi.
+- **Kezuhudan Gubernur**: Kesederhanaan **[[Abu Obaidah bin al-Jarrah]]** (Gubernur Syam) yang kediamannya hanya berisi pedang, perisai, pelana kuda, dan tatakan mushaf.
+- **Formula Zuhud Abu Hazim**: Memperoleh harta secara halal mutlak dan menyalurkannya hanya untuk hal-hari yang diperintahkan syariat (**[[Abu Hazim al-A'raj]]**).
 
 ## Hubungan
 
 - [[Mengingat Maut]] — Bahan bakar utama yang melahirkan kesadaran zuhud.
 - [[Ziarah Kubur]] — Tindakan fisik yang dianjurkan untuk memicu dan menyegarkan kondisi zuhud dalam jiwa.
+- [[Cinta Dunia]] — Penyakit hati utama yang menjadi lawan dari sikap zuhud.
 
 ## Sumber
 
 - Hadis Ibnu Mas'ud (riwayat Ibnu Majah): *"...maka ziarahilah sekarang, karena ia menumbuhkan zuhud di dunia dan mengingatkan akhirat."* ([[What Reminds People of Death and the Hereafter|What Reminds People of Death and the Hereafter]])
+- Kitab *Dzamm al-Dunya* Ihya' Ulumiddin: Peringatan para nabi dan ulama salaf mengenai kefanaan dunia dan keutamaan mengutamakan akhirat (**[[Attachment-of-the-World]]**).

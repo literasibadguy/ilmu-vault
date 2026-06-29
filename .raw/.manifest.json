@@ -1392,6 +1392,77 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/evils_of_the_world_part1.md": {
+      "hash": "b86c52578f9840fe964ee890ab9f42ed",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/Attachment-of-the-World.md",
+        "wiki/concepts/Cinta Dunia.md",
+        "wiki/entities/Nabi Sulaiman AS.md",
+        "wiki/entities/Nabi Nuh AS.md",
+        "wiki/entities/Abu Obaidah bin al-Jarrah.md",
+        "wiki/entities/Abu Hazim al-A'raj.md",
+        "wiki/entities/Daud bin Hallal.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/evils_of_the_world_part2.md": {
+      "hash": "bb6a12d00d07ad169c31412755e6584c",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/Attachment-of-the-World-Part-2.md",
+        "wiki/concepts/Perumpamaan Dunia.md",
+        "wiki/entities/Yunus bin Ubaid.md",
+        "wiki/entities/Abu Bakr bin Ayyash.md",
+        "wiki/entities/Salman al-Farisi.md",
+        "wiki/entities/Nabi Daud AS.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Cinta Dunia.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Nabi Isa AS.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/evils_of_the_world_part3.md": {
+      "hash": "a16f2c5e3a3e15b7229c67625621b4f0",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/Attachment-of-the-World-Part-3.md",
+        "wiki/concepts/Hakikat Dunia.md",
+        "wiki/entities/Uwais al-Qarni.md",
+        "wiki/entities/Haram bin Hayyan.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Cinta Dunia.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Abu al-Darda.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Nabi Isa AS.md",
+        "wiki/entities/Nabi Sulaiman AS.md",
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -1596,6 +1667,25 @@
     "wiki/concepts/Tayammum.md": "c-000199",
     "wiki/concepts/Siwak.md": "c-000200",
     "wiki/concepts/Adab Buang Air.md": "c-000201",
-    "wiki/concepts/Fitrah Kebersihan Fisik.md": "c-000202"
+    "wiki/concepts/Fitrah Kebersihan Fisik.md": "c-000202",
+    "wiki/questions/Apa yang Tidak Disadari Muslim tentang Diri Mereka.md": "c-000203",
+    "wiki/questions/Tanya Jawab Marifatun Nafs dan Kesadaran Diri.md": "c-000204",
+    "wiki/sources/Attachment-of-the-World.md": "c-000205",
+    "wiki/concepts/Cinta Dunia.md": "c-000206",
+    "wiki/entities/Nabi Sulaiman AS.md": "c-000207",
+    "wiki/entities/Nabi Nuh AS.md": "c-000208",
+    "wiki/entities/Abu Obaidah bin al-Jarrah.md": "c-000209",
+    "wiki/entities/Abu Hazim al-A'raj.md": "c-000210",
+    "wiki/entities/Daud bin Hallal.md": "c-000211",
+    "wiki/sources/Attachment-of-the-World-Part-2.md": "c-000212",
+    "wiki/sources/Attachment-of-the-World-Part-3.md": "c-000213",
+    "wiki/concepts/Perumpamaan Dunia.md": "c-000214",
+    "wiki/concepts/Hakikat Dunia.md": "c-000215",
+    "wiki/entities/Yunus bin Ubaid.md": "c-000216",
+    "wiki/entities/Abu Bakr bin Ayyash.md": "c-000217",
+    "wiki/entities/Salman al-Farisi.md": "c-000218",
+    "wiki/entities/Nabi Daud AS.md": "c-000219",
+    "wiki/entities/Uwais al-Qarni.md": "c-000220",
+    "wiki/entities/Haram bin Hayyan.md": "c-000221"
   }
 }

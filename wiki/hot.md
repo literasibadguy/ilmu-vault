@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: "2026-06-07"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags: [meta, hot-cache]
 status: evergreen
 related:
@@ -14,19 +14,18 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-28. Mengimpor pembahasan Keutamaan Shalat (**[[Excellence-of-Prayer]]**) dari Seksi 1 Bab IV Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]**.
+2026-06-29. Mengimpor bab **[[Attachment of the World Part 2]]** dan **[[Attachment of the World Part 3]]** dari *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai perumpamaan dunia, hakikat dunia, serta kezuhudan salaf seperti Uwais al-Qarni.
 
 ## Fakta Kunci Terbaru
-- Kedudukan suci ibadah shalat wajib (**[[Shalat]]**) sebagai tiang agama dan pembersih dosa harian, diibaratkan mandi 5 kali sehari di sungai jernih.
-- Keutamaan panggilan adzan (**[[Adhan]]**), kedudukan mulia muazin di hari kiamat, serta adab batin dan lisan dalam menjawab kumandang adzan.
-- Keutamaan sujud batiniah (**[[Sujud]]**) sebagai titik terdekat hamba dengan Penciptanya, serta ratapan sedih Setan melihat ketaatan sujud anak Adam.
-- Peran masjid (**[[Masjid]]**) sebagai rumah Allah di bumi dan larangan keras melakukan obrolan kosong keduniawian di dalamnya yang dapat menghanguskan pahala amal.
-- Hakikat kekhusyukan (**[[Khusyuk]]**) sebagai ruh shalat, bahaya "mabuk" pikiran duniawi saat shalat, metode visualisasi khusyuk Hatim al-Asam, dan kisah keteladanan salaf.
+- Pembagian hakikat sejati duniawi menjadi tiga klasifikasi materi (perkara bernilai akhirat, kebutuhan mutlak hidup, dan kemewahan yang akan di-hisab) (**[[Hakikat Dunia]]**).
+- 15 analogi visualisasi kefanaan dunia (seperti bayangan bergerak, mimpi tidur, ular berbisa, meminum air laut) untuk memutus belenggu **[[Cinta Dunia]]** (**[[Perumpamaan Dunia]]**).
+- Kisah kezuhudan luar biasa **[[Uwais al-Qarni]]** dan pertemuannya dengan **[[Haram bin Hayyan]]** di tepi Sungai Tigris yang mengabarkan secara gaib tentang wafatnya Khalifah **[[Umar bin Khattab]]** (**[[Attachment of the World Part 3]]**).
+- Teguran keras Khalifah **[[Umar bin Khattab]]** kepada **[[Abu al-Darda]]** karena membangun toilet seharga 2 dirham (**[[Abu al-Darda]]**).
+- Teladan kezuhudan raja-nabi **[[Nabi Sulaiman AS]]** yang memakan roti gandum kasar (*husk of wheat*) di tengah kemewahan kerajaannya.
 
 ## Perubahan Terbaru
-- Dibuat: [[Mysteries-of-Cleanliness-and-Purification]], [[Purification-of-the-Body-from-Excrements]], [[Cleansing-of-External-Bodily-Growths]], [[Taharah]], [[Wudhu]], [[Ghusl]], [[Tayammum]], [[Siwak]], [[Adab Buang Air]], [[Fitrah Kebersihan Fisik]].
-- Diperbarui: [[overview]], [[index]], [[log]].
+- Dibuat: [[Attachment of the World Part 2]], [[Attachment of the World Part 3]], [[Perumpamaan Dunia]], [[Hakikat Dunia]], [[Yunus bin Ubaid]], [[Abu Bakr bin Ayyash]], [[Salman al-Farisi]], [[Nabi Daud AS]], [[Uwais al-Qarni]], [[Haram bin Hayyan]].
+- Diperbarui: [[Cinta Dunia]], [[Zuhud]], [[Abu al-Darda]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Al-Hasan al-Basri]], [[Nabi Isa AS]], [[Nabi Sulaiman AS]], [[Imam Al-Ghazali]], [[overview]], [[index]], [[log]], [[hot]].
 
 ## Alur Kerja Aktif
-- Pengkajian aspek rahasia dan tata cara bersuci (Taharah), mandi, tayamum, wudhu, siwak, adab buang air, serta perawatan fisik sunnah dari Bab III Kitab Ihya' Ulumiddin.
-- Langkah Berikutnya: Menjalankan audit kesehatan dan verifikasi kesehatan tautan menggunakan `scripts/lint-vault.py`.
+- Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara hubungan wikilink antar konsep kezuhudan.
