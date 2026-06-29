@@ -14,20 +14,21 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-29. Mengimpor syarah **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 02]]** karya **[[Abdur Ra'uf al-Munawi]]** mengenai bersuci (madhi vs mani), kesopanan (**[[Karakter Muru'ah]]**), larangan monopoli penguasa, kerugian akhirat demi orang lain, tanda-tanda akhir zaman, syafaat nikah, amalan menyenangkan mukmin, sumpah palsu, keberkahan anak perempuan, dan sunnah bersiwak.
+2026-06-29. Mengimpor syarah **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]]** karya **[[Abdur Ra'uf al-Munawi]]** mengenai rida takdir (**[[Ketetapan Takdir dan Ridha]]**), sunnah rasul (**[[Sunnah Para Rasul]]**), kebersihan pakaian, penyembunyian musibah (**[[Sabar Menghadapi Musibah dan Sakit]]**), jalan umum (**[[Larangan Mengotori Jalan]]**), non-Muslim (**[[Hak dan Perlindungan Non-Muslim]]**), barang temuan (**[[Fikih Barang Temuan]]**), anak yatim (**[[Perlindungan dan Pengasuhan Anak Yatim]]**), dan jual beli pangan (**[[Fikih Jual Beli Makanan]]**).
 
 ## Fakta Kunci Terbaru
-- Perbedaan bersuci madhi (cukup wudhu/cuci) vs mani (wajib mandi) (**[[Wudhu]]** & **[[Ghusl]]**).
-- Karakter kepantasan sosial (**[[Karakter Muru'ah]]**) melalui menyimak perkataan teman dan membantu membetulkan alas kaki.
-- Bahaya bisnis komersial penguasa di tengah rakyatnya (**[[Larangan Monopoli Dagang Penguasa]]**).
-- Penanda akhir zaman: megah-megahan masjid (**[[Larangan Megah-megahan Masjid]]**), pelecehan kesucian masjid sebagai jalan pintas, kematian mendadak (**[[Kematian Mendadak]]**), anomali hilal besar (**[[Fenomena Alam Akhir Zaman]]**), sumpah palsu (**[[Sumpah Palsu]]**), serta kemunduran agama (**[[Kehancuran Agama]]**).
-- Rekomendasi jodoh sebagai syafaat terbaik (**[[Keutamaan Syafaat Pernikahan]]**), dan amalan pelunasan utang mukmin (**[[Menyenangkan Hati Mukmin]]**).
-- Keberkahan wanita yang melahirkan anak perempuan pertama kali (**[[Keberkahan Anak Perempuan]]**), keutamaan bersiwak saat puasa (**[[Siwak]]**), serta parfum kasturi (**[[Keberkahan Minyak Wangi Kasturi]]**).
-- Kesempurnaan shalat melalui tenangnya jasad (*sukunul athraf*), serta pilar tarku ma la ya'nih (**[[Meninggalkan yang Tidak Bermanfaat]]**).
+- Kunci kebahagiaan hidup tecermin dari kepasrahan bertawakal kepada keputusan takdir dan ketekunan istikharah (**[[Ketetapan Takdir dan Ridha]]** & **[[Shalat Istikharah]]**).
+- Enam pilar kelakuan sunnah utama para rasul (hilm, haya', hijamah, siwak, parfum, dan berpasangan) (**[[Sunnah Para Rasul]]**).
+- Simpanan kebajikan rohani melalui tindakan menyembunyikan musibah pribadi dan rasa sakit dari penyakit (**[[Sabar Menghadapi Musibah dan Sakit]]**).
+- Bahaya kezaliman mengotori atau menyumbat jalan umum sebagai perbuatan yang mendatangkan laknat sosial (**[[Larangan Mengotori Jalan]]**).
+- Jaminan keamanan jiwa dan hak-hak sosial non-Muslim yang dilindungi perjanjian (dhimmi) harus dipelihara secara mutlak (**[[Hak dan Perlindungan Non-Muslim]]** & **[[Larangan Menghianati Jaminan Keamanan]]**).
+- Kewajiban mengumumkan barang temuan (luqatah) secara terbuka agar terhindar dari perbuatan zalim (**[[Fikih Barang Temuan]]**).
+- Keutamaan besar mengasuh anak yatim dengan sabar dan ikhlas (**[[Perlindungan dan Pengasuhan Anak Yatim]]**).
+- Larangan menjual kembali komoditas pangan yang dibeli sebelum serah terima kepemilikan barang secara sempurna (**[[Fikih Jual Beli Makanan]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 02]], [[Karakter Muru'ah]], [[Larangan Monopoli Dagang Penguasa]], [[Menjual Akhirat demi Dunia Orang Lain]], [[Kecintaan Mendalam Kepada Rasulullah]], [[Larangan Megah-megahan Masjid]], [[Tanda-Tanda Akhir Zaman]], [[Keutamaan Syafaat Pernikahan]], [[Menyenangkan Hati Mukmin]], [[Fenomena Alam Akhir Zaman]], [[Kematian Mendadak]], [[Sumpah Palsu]], [[Kehancuran Agama]], [[Keberkahan Anak Perempuan]], [[Adab Berjabat Tangan]], [[Adab Menjenguk Orang Sakit]], [[Meninggalkan yang Tidak Bermanfaat]], [[Keberkahan Minyak Wangi Kasturi]], [[Al-Dailami]], [[Abu Ruhm]], [[Muhammad bin al-Munkadir]], [[Talhah bin Malik]], [[Abdur Rahman bin Amr]], [[Abdullah bin Anis]], [[Wathilah bin al-Asqa']], [[Harith bin Hisham]].
-- Diperbarui: [[Wudhu]], [[Ghusl]], [[Silaturahmi]], [[Shalat Berjamaah]], [[Shalat]], [[Husnudzon Kepada Allah]], [[Siwak]], [[Adab Berbicara]], [[Kesederhanaan dalam Makan]], [[Iman]], [[Islam]], [[Fitrah Rasa Malu]], [[Pendidikan Anak Perempuan]], [[Kesaksian Palsu]], [[Aisyah binti Abu Bakar]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Abu Hurayrah]], [[Abu Musa al-Ash'ari]], [[Abu Bakar Ash-Shiddiq]], [[Ibnu Abbas]], [[Ibnu Umar]], [[Al-Hasan al-Basri]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Umar bin Khattab]], [[Qatadah bin Di'amah As-Sadusi]], [[Anas bin Malik]], [[Malik bin Dinar]], [[Burayda bin al-Husaib]], [[Mujahid]], [[Jabir bin Abdullah]], [[Abu Umamah]], [[Mu'adz bin Jabal]], [[Zaid bin Thabit]], [[index]], [[log]], [[hot]], [[overview]].
+- Dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]], [[Kesederhanaan dalam Hiasan Diri]], [[Ketetapan Takdir dan Ridha]], [[Sunnah Para Rasul]], [[Kebersihan Pakaian]], [[Sabar Menghadapi Musibah dan Sakit]], [[Memberi Makan Orang Lapar]], [[Menerima Pemberian Tanpa Meminta]], [[Larangan Mengotori Jalan]], [[Keluarga Nabi]], [[Larangan Menyakiti Penduduk Madinah]], [[Hak dan Perlindungan Non-Muslim]], [[Larangan Menghianati Jaminan Keamanan]], [[Fikih Barang Temuan]], [[Perlindungan dan Pengasuhan Anak Yatim]], [[Fikih Jual Beli Makanan]], [[Maimun bin Salama]], [[Mubarak bin Fadhalah]], [[Qudamah bin Muhammad]], [[Hudhayfah bin Asid]], [[Amr bin Shas]], [[Amr bin al-Hamiq]], [[Zaid bin Khalid al-Juhani]].
+- Diperbarui: [[Shalat Istikharah]], [[Fitrah Rasa Malu]], [[Siwak]], [[Shalat]], [[Tanda-Tanda Akhir Zaman]], [[Kesederhanaan dalam Makan]], [[Ibnu Abbas]], [[Anas bin Malik]], [[Abu Hurayrah]], [[Sa'd ibn Abi Waqqas]], [[Ibnu Mas'ud]], [[Ibnu Umar]], [[Jabir bin Abdullah]], [[Abu Sa'id Al-Khudri]], [[Ali bin Abi Thalib]], [[index]], [[log]], [[hot]], [[overview]].
 
 ## Alur Kerja Aktif
 - Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.

@@ -8,7 +8,7 @@ aliases:
   - Meminta Petunjuk Pilihan
   - Shalat Memilih
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, fikih, ibadah]
 status: evergreen
 related:
@@ -16,6 +16,7 @@ related:
   - "[[Tawakkul]]"
 sources:
   - "[[Optional-and-Sunnah-Prayers]]"
+  - "[[meem_part_03]]"
 address: c-000191
 ---
 
@@ -28,9 +29,14 @@ Ibadah shalat sunnah dua rakaat untuk memohon ketetapan pilihan terbaik dari All
 **Shalat Istikharah** (bahasa Arab: صلاة الاستخارة) adalah shalat sunnah dua rakaat yang didirikan oleh seorang Muslim ketika dihadapkan pada kebimbangan memilih di antara beberapa pilihan perkara yang mubah (seperti jodoh, pekerjaan, sekolah, tempat tinggal, atau rencana bepergian). Shalat ini bertujuan memohon bimbingan, petunjuk, serta ketetapan keputusan terbaik dari Allah SWT yang Maha Mengetahui hal-hal ghaib.
 
 ## Kedudukan dalam Islam
-
-Shalat Istikharah merupakan manifestasi tertinggi dari kepasrahan batin dan tawakal (**[[Tawakkul]]**) seorang hamba kepada Penciptanya. Dengan beristikharah, hamba mengakui keterbatasan akal dan ilmunya sendiri serta menyandarkan keputusan akhirnya kepada kemahatahuan Allah SWT. Sahabat Jabir bin Abdullah berkata:
-> *"Rasulullah ﷺ terbiasa mengajarkan kami istikharah dalam segala urusan sebagaimana beliau mengajarkan kami surah dari Al-Qur'an."* (HR. Bukhari).
+ 
+ Shalat Istikharah merupakan manifestasi tertinggi dari kepasrahan batin dan tawakal (**[[Tawakkul]]**) seorang hamba kepada Penciptanya. Dengan beristikharah, hamba mengakui keterbatasan akal dan ilmunya sendiri serta menyandarkan keputusan akhirnya kepada kemahatahuan Allah SWT. 
+ 
+ Hubungan erat antara istikharah dan kebahagiaan ditegaskan dalam hadits:
+ > *"Termasuk kebahagiaan anak Adam adalah istikharah (memohon pilihan) kepada Allah dan keridhaannya terhadap apa yang ditetapkan Allah; dan termasuk kesengsaraan anak Adam adalah meninggalkan istikharah kepada Allah dan kemarahannya atas keputusan Allah."* (HR. Tirmidzi dari **[[Sa'd ibn Abi Waqqas]]**).
+ 
+ Sahabat Jabir bin Abdullah berkata:
+ > *"Rasulullah ﷺ terbiasa mengajarkan kami istikharah dalam segala urusan sebagaimana beliau mengajarkan kami surah dari Al-Qur'an."* (HR. Bukhari).
 
 ## Tata Cara Shalat Istikharah (Perspektif Al-Ghazali)
 
@@ -51,7 +57,8 @@ Al-Ghazali dan para ulama menegaskan bahwa jawaban dari Istikharah tidak selalu 
 *   Dimudahkannya jalan dan sarana menuju pilihan yang diridhai Allah, serta ditutupnya secara rapat atau dipalingkannya hamba dari pilihan yang buruk.
 
 ## Sumber
-
-*   **[[Optional-and-Sunnah-Prayers]]**
-*   **[[Shalat Sunnah]]**
-*   **[[Tawakkul]]**
+ 
+ *   **[[Optional-and-Sunnah-Prayers]]**
+ *   **[[Shalat Sunnah]]**
+ *   **[[Tawakkul]]**
+ *   **[[meem_part_03]]**

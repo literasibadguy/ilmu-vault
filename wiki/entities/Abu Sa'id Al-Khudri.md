@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Ahli Fikih Madinah"
 first_mentioned: "[[Censure of Backbiting]]"
 created: "2026-06-16"
-updated: "2026-06-18"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -18,6 +18,7 @@ sources:
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[meem_part_03]]"
 ---
 
 

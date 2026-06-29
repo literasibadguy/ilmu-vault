@@ -22,6 +22,7 @@ sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Harms of Greed and Sexual Passion]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_03]]"
 ---
 
 # Kesederhanaan dalam Makan

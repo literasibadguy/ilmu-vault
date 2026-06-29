@@ -17,6 +17,7 @@ related:
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_03]]"
 ---
 
 # Fitrah Rasa Malu

@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi SAW / Panglima Perang"
 first_mentioned: "[[Neglect of the Prayer]]"
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -17,6 +17,8 @@ related:
 sources:
   - "[[Neglect of the Prayer]]"
   - "[[Signs of the Learned of the Hereafter Part 2]]"
+  - "[[meem_part_03]]"
+address: "c-000295"
 ---
 
 # Sa'd ibn Abi Waqqas

@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-29] ingest | Ingest: meem_part_03.md (Commentary on Fayd al-Qadir Volume 6)
+- Sumber: `.raw/meem_part_03.md`
+- Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]]
+- Halaman dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]], [[Kesederhanaan dalam Hiasan Diri]], [[Ketetapan Takdir dan Ridha]], [[Sunnah Para Rasul]], [[Kebersihan Pakaian]], [[Sabar Menghadapi Musibah dan Sakit]], [[Memberi Makan Orang Lapar]], [[Menerima Pemberian Tanpa Meminta]], [[Larangan Mengotori Jalan]], [[Keluarga Nabi]], [[Larangan Menyakiti Penduduk Madinah]], [[Hak dan Perlindungan Non-Muslim]], [[Larangan Menghianati Jaminan Keamanan]], [[Fikih Barang Temuan]], [[Perlindungan dan Pengasuhan Anak Yatim]], [[Fikih Jual Beli Makanan]], [[Maimun bin Salama]], [[Mubarak bin Fadhalah]], [[Qudamah bin Muhammad]], [[Hudhayfah bin Asid]], [[Amr bin Shas]], [[Amr bin al-Hamiq]], [[Zaid bin Khalid al-Juhani]]
+- Halaman diperbarui: [[Shalat Istikharah]], [[Fitrah Rasa Malu]], [[Siwak]], [[Shalat]], [[Tanda-Tanda Akhir Zaman]], [[Kesederhanaan dalam Makan]], [[Ibnu Abbas]], [[Anas bin Malik]], [[Abu Hurayrah]], [[Sa'd ibn Abi Waqqas]], [[Ibnu Mas'ud]], [[Ibnu Umar]], [[Jabir bin Abdullah]], [[Abu Sa'id Al-Khudri]], [[Ali bin Abi Thalib]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor bagian ketiga huruf Meem dari syarah Fayd al-Qadir karya Al-Munawi. Menyusun panduan kebahagiaan hidup berbasis rida takdir dan istikharah, serta anjuran bersahaja dalam berhias (khiffatul lihyah) untuk menghindari ujub. Menetapkan pilar sunnah para rasul (hilm, haya', hijamah, siwak, parfum, dan berpasangan). Menerangkan syukur melalui penampakan nikmat, serta pemahaman agama tecermin dalam kebijaksanaan finansial rumah tangga (رفقه في معيشته). Menyusun adab kebersihan pakaian, qana'ah, serta kearifan menyembunyikan musibah pribadi (kitmanul masha'ib). Mencegah kezaliman sosial berupa mengotori/mengganggu jalan umum (melalui feces/najis), dan larangan menyakiti penduduk Madinah. Menegaskan hak jaminan keamanan sipil non-Muslim (kafir dhimmi dan musta'min) serta keharaman membunuh penerima aman. Menyusun fikih barang temuan (luqatah) dengan kewajiban ta'rif satu tahun, keutamaan agung mengasuh anak yatim (kafalatul yatim), dan fikih jual beli pangan (bai'ul tha'am) yang mewajibkan qabdh fisik sebelum dijual kembali.
+
 ## [2026-06-29] ingest | Ingest: meem_part_02.md (Commentary on Fayd al-Qadir Volume 6)
 - Sumber: `.raw/meem_part_02.md`
 - Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 02]]

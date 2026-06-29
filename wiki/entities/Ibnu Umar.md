@@ -26,6 +26,7 @@ sources:
 - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_03]]"
 ---
   - "[[Settle the Argument]]"\n
 # Ibnu Umar
