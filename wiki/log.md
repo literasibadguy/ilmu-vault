@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-29] ingest | Ingest: meem_part_04.md (Commentary on Fayd al-Qadir Volume 6)
+- Sumber: `.raw/meem_part_04.md`
+- Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 04]]
+- Halaman dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 04]], [[Adab terhadap Pelayan]], [[Bahaya Riya dalam Menuntut Ilmu]], [[Larangan Meminta Jabatan]], [[Adab Hakim dalam Peradilan]], [[Empat Pilar Keselamatan Spiritual]], [[Larangan Mendatangi Dukun dan Peramal]], [[Larangan Senggama Saat Haid dan Melalui Dubur]], [[Adab Membalas Kebaikan]], [[Menerima Permintaan Maaf]], [[Adab Mengiringi Jenazah]], [[Keutamaan Mengikuti Al-Quran]], [[Ibnun Najjar]], [[Ka'b bin Malik]], [[Sakhbarah al-Azdi]], [[Al-Hakim bin Umayr]], [[Sahl bin Ammar]], [[Hakim al-Athram]], [[Ibn Tamimah]], [[Ya'qub bin Abdur Rahman]], [[Sa'id al-Maqburi]], [[Abu Bakr Ibn al-Arabi]]
+- Halaman diperbarui: [[Shalat Jumat]], [[Niat]], [[Persiapan Kematian]], [[Syukur]], [[Pendidikan Anak Perempuan]], [[Keberkahan Anak Perempuan]], [[Hasan bin Ali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor bagian keempat huruf Meem dari syarah Fayd al-Qadir karya Al-Munawi. Menyusun panduan adab terhadap pelayan (suguhan awal halwa, serta larangan menelantarkan moralitas seksual pelayan). Menjelaskan bahaya riya dalam menuntut ilmu (motif kesombongan, berdebat kusir, dan mencari popularitas) yang diancam neraka. Menetapkan etika meminta jabatan peradilan (orang yang meminta jabatan dibiarkan bersandar pada dirinya sendiri, yang dipaksa dibimbing malaikat). Menyusun adab hakim dalam memimpin persidangan (kewajiban menyamakan perlakuan tatapan mata, isyarat, tempat duduk, dan nada suara). Menguraikan empat pilar keselamatan spiritual (sabar saat diuji, syukur saat diberi, maaf saat dizalimi, istighfar saat salah) pembawa keamanan kiamat. Menegaskan larangan keras mendatangi dukun dan peramal (ancaman ditolak shalat 40 malam hingga kufur). Menerangkan fikih keluarga larangan senggama saat haid dan anal seks beserta denda/kafarah emas dinar. Menetapkan adab membalas kebaikan (hadiah atau doa jazakallah), kelapangan hati menerima permintaan maaf saudara seagama (sekalipun palsu), fikih memikul keranda jenazah (metode tarbi' empat sudut), jaminan perlindungan bagi pengikut Al-Qur'an, dan batas usia penutupan uzur pada 60 tahun.
+
 ## [2026-06-29] ingest | Ingest: meem_part_03.md (Commentary on Fayd al-Qadir Volume 6)
 - Sumber: `.raw/meem_part_03.md`
 - Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]]

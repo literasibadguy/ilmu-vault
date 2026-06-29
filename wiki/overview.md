@@ -32,8 +32,8 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
  
- - Sumber diimpor (ingested): 76
- - Halaman wiki: 464
+ - Sumber diimpor (ingested): 77
+ - Halaman wiki: 486
  - Aktivitas terakhir: 2026-06-29 (Mengimpor hadits-hadits moralitas, hukum sosial, dan adab muamalah dari syarah Fayd al-Qadir Volume 6 karya Al-Munawi)
 
 ---

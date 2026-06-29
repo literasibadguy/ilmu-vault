@@ -5,18 +5,20 @@ entity_type: person
 role: Cucu Nabi SAW
 first_mentioned: "[[The Ideal Husband]]"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
   - sahabat
 status: seed
+address: "c-000318"
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Fatima binti Muhammad]]"
   - "[[Aqra' bin Habis]]"
 sources:
   - "[[The Ideal Husband]]"
+  - "[[meem_part_04]]"
 ---
 
 # Hasan bin Ali
@@ -29,7 +31,9 @@ sources:
 
 - **Ciuman Kasih Sayang**: Menjadi perantara hadis tentang kasih sayang ketika ia dicium dengan penuh cinta oleh Nabi SAW di hadapan **[[Aqra' bin Habis]]**, yang memicu sabda Nabi SAW bahwa orang yang tidak menyayangi tidak akan disayangi.
 - **Sayyid yang Mendamaikan**: Nabi SAW memujinya sebagai *Sayyid* (pemimpin) sejak kecil dan menubuatkan bahwa kelak Hasan akan mendamaikan dua kubu besar umat Islam yang berselisih (terjadi pada peristiwa *Amul Jama'ah* saat Hasan menyerahkan kekhalifahan kepada Mu'awiyah demi persatuan umat).
+- **Adab Berbagi Hadiah**: Menjadi perantara hadis tentang adab jika seseorang menerima hadiah sementara ada orang-orang yang sedang duduk bersamanya, maka mereka berserikat atas hadiah tersebut (anjuran untuk membagikannya).
 
 ## Sumber
 
 - [[The Ideal Husband]]
+- [[meem_part_04]]

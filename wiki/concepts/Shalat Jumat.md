@@ -8,7 +8,7 @@ aliases:
   - Shalat Al-Jumu'ah
   - Keutamaan Hari Jumat
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags: [concept, fikih, ibadah]
 status: evergreen
 related:
@@ -59,8 +59,15 @@ Untuk mendirikan Jumat secara sempurna, umat Islam diperintahkan mengamalkan sep
 9.  **Dzikir Pasca-Jumat**: Membaca Al-Fatihah, Al-Ikhlas, Al-Falaq, dan An-Nas masing-masing 7 kali setelah salam sebelum berbicara hal duniawi guna perlindungan dari setan.
 10. **Sedekah & Shalawat**: Memperbanyak sedekah (pahala dilipatgandakan), membaca shalawat atas Nabi minimal 80 kali, membaca Surah Al-Kahfi, dan meluangkan waktu khusus beribadah seharian.
 
+## Ketentuan Datang Terlambat Saat Khutbah
+
+Dalam riwayat disebutkan: *"Barangsiapa mendatangi shalat Jumat sedangkan imam sedang berkhutbah, maka baginya shalat Dzuhur (فأتته الجمعة فلا يصح ما صلاه جمعة بل ظهراً)."* (HR. Ibn Asakir dari Ibn Amr).
+
+*Penjelasan Fikih*: Para ulama menerangkan bahwa makmum yang terlambat datang ketika imam sedang berkhutbah tetap wajib menyimak sisa khutbah, lalu mendirikan shalat dua rakaat bersama imam. Namun, jika ia terlambat hingga setelah ruku' rakaat kedua selesai, maka ia dihitung luput dari shalat Jumat dan wajib menyempurnakan shalatnya sebanyak **empat rakaat** (sebagai shalat Dzuhur) setelah imam salam.
+
 ## Sumber
 
 *   **[[Imamate-and-Jumma-Prayer]]**
 *   **[[Shalat]]**
 *   **[[Shalat Berjamaah]]**
+*   **[[meem_part_04]]**

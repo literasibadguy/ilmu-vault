@@ -18,6 +18,7 @@ related:
   - "[[Pendidikan Anak Perempuan]]"
 sources:
   - "[[meem_part_02]]"
+  - "[[meem_part_04]]"
 ---
 
 # Keberkahan Anak Perempuan
@@ -31,7 +32,7 @@ Nabi SAW bersabda: *"Di antara keberkahan seorang wanita (istri) atas suaminya a
 ## Hikmah dan Tinjauan Syariat
 
 1. **Urutan Al-Qur'an**: Dalam Surah Asy-Syura ayat 49, Allah SWT berfirman: *"Dia memberikan anak-anak perempuan kepada siapa yang Dia kehendaki dan memberikan anak-anak lelaki kepada siapa yang Dia kehendaki."* Allah mendahulukan penyebutan anak perempuan sebelum anak laki-laki sebagai bentuk penghormatan dan pemuliaan derajat wanita.
-2. **Kunci Surga bagi Orang Tua**: Mendidik, menyayangi, dan menafkahi anak perempuan hingga mereka menikah dijanjikan sebagai wasilah utama yang akan menjadi tameng penutup dari siksa api neraka bagi orang tuanya.
+2. **Tameng Api Neraka**: Di dalam hadits riwayat **[[Aisyah binti Abu Bakar]]**, nabi menyebutkan bahwa siapa saja yang diuji dengan mengasuh anak perempuan lalu memperlakukan mereka secara baik (*ihsan*), maka mereka akan menjadi pembatas (*tameng*) baginya dari siksaan api neraka (**[[Pendidikan Anak Perempuan]]**).
 3. **Penyambung Kasih Sayang**: Anak perempuan secara tabiat memiliki kelembutan hati yang cenderung lebih dekat dan penuh perhatian merawat orang tuanya di masa tua.
 
 ## Hubungan
@@ -41,3 +42,4 @@ Nabi SAW bersabda: *"Di antara keberkahan seorang wanita (istri) atas suaminya a
 ## Sumber
 
 - **[[meem_part_02]]** (Hadits tentang keberkahan melahirkan anak perempuan pertama).
+- **[[meem_part_04]]** (Hadits tentang anak perempuan sebagai pelindung/tameng dari neraka).

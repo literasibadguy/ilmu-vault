@@ -1649,6 +1649,47 @@
         "wiki/log.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/meem_part_04.md": {
+      "hash": "50491e4304e84967a8087af28d07032e",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/meem_part_04.md",
+        "wiki/concepts/Adab terhadap Pelayan.md",
+        "wiki/concepts/Bahaya Riya dalam Menuntut Ilmu.md",
+        "wiki/concepts/Larangan Meminta Jabatan.md",
+        "wiki/concepts/Adab Hakim dalam Peradilan.md",
+        "wiki/concepts/Empat Pilar Keselamatan Spiritual.md",
+        "wiki/concepts/Larangan Mendatangi Dukun dan Peramal.md",
+        "wiki/concepts/Larangan Senggama Saat Haid dan Melalui Dubur.md",
+        "wiki/concepts/Adab Membalas Kebaikan.md",
+        "wiki/concepts/Menerima Permintaan Maaf.md",
+        "wiki/concepts/Adab Mengiringi Jenazah.md",
+        "wiki/concepts/Keutamaan Mengikuti Al-Quran.md",
+        "wiki/entities/Ibnun Najjar.md",
+        "wiki/entities/Ka'b bin Malik.md",
+        "wiki/entities/Sakhbarah al-Azdi.md",
+        "wiki/entities/Al-Hakim bin Umayr.md",
+        "wiki/entities/Sahl bin Ammar.md",
+        "wiki/entities/Hakim al-Athram.md",
+        "wiki/entities/Ibn Tamimah.md",
+        "wiki/entities/Ya'qub bin Abdur Rahman.md",
+        "wiki/entities/Sa'id al-Maqburi.md",
+        "wiki/entities/Abu Bakr Ibn al-Arabi.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Shalat Jumat.md",
+        "wiki/concepts/Niat.md",
+        "wiki/concepts/Persiapan Kematian.md",
+        "wiki/concepts/Syukur.md",
+        "wiki/concepts/Pendidikan Anak Perempuan.md",
+        "wiki/concepts/Keberkahan Anak Perempuan.md",
+        "wiki/entities/Hasan bin Ali.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -1946,6 +1987,29 @@
     "wiki/entities/Amr bin Shas.md": "c-000292",
     "wiki/entities/Amr bin al-Hamiq.md": "c-000293",
     "wiki/entities/Zaid bin Khalid al-Juhani.md": "c-000294",
-    "wiki/entities/Sa'd ibn Abi Waqqas.md": "c-000295"
+    "wiki/entities/Sa'd ibn Abi Waqqas.md": "c-000295",
+    "wiki/sources/meem_part_04.md": "c-000296",
+    "wiki/concepts/Adab terhadap Pelayan.md": "c-000297",
+    "wiki/concepts/Bahaya Riya dalam Menuntut Ilmu.md": "c-000298",
+    "wiki/concepts/Larangan Meminta Jabatan.md": "c-000299",
+    "wiki/concepts/Adab Hakim dalam Peradilan.md": "c-000300",
+    "wiki/concepts/Empat Pilar Keselamatan Spiritual.md": "c-000301",
+    "wiki/concepts/Larangan Mendatangi Dukun dan Peramal.md": "c-000302",
+    "wiki/concepts/Larangan Senggama Saat Haid dan Melalui Dubur.md": "c-000303",
+    "wiki/concepts/Adab Membalas Kebaikan.md": "c-000304",
+    "wiki/concepts/Menerima Permintaan Maaf.md": "c-000305",
+    "wiki/concepts/Adab Mengiringi Jenazah.md": "c-000306",
+    "wiki/concepts/Keutamaan Mengikuti Al-Quran.md": "c-000307",
+    "wiki/entities/Ibnun Najjar.md": "c-000308",
+    "wiki/entities/Ka'b bin Malik.md": "c-000309",
+    "wiki/entities/Sakhbarah al-Azdi.md": "c-000310",
+    "wiki/entities/Al-Hakim bin Umayr.md": "c-000311",
+    "wiki/entities/Sahl bin Ammar.md": "c-000312",
+    "wiki/entities/Hakim al-Athram.md": "c-000313",
+    "wiki/entities/Ibn Tamimah.md": "c-000314",
+    "wiki/entities/Ya'qub bin Abdur Rahman.md": "c-000315",
+    "wiki/entities/Sa'id al-Maqburi.md": "c-000316",
+    "wiki/entities/Abu Bakr Ibn al-Arabi.md": "c-000317",
+    "wiki/entities/Hasan bin Ali.md": "c-000318"
   }
 }

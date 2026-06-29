@@ -14,21 +14,21 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-29. Mengimpor syarah **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]]** karya **[[Abdur Ra'uf al-Munawi]]** mengenai rida takdir (**[[Ketetapan Takdir dan Ridha]]**), sunnah rasul (**[[Sunnah Para Rasul]]**), kebersihan pakaian, penyembunyian musibah (**[[Sabar Menghadapi Musibah dan Sakit]]**), jalan umum (**[[Larangan Mengotori Jalan]]**), non-Muslim (**[[Hak dan Perlindungan Non-Muslim]]**), barang temuan (**[[Fikih Barang Temuan]]**), anak yatim (**[[Perlindungan dan Pengasuhan Anak Yatim]]**), dan jual beli pangan (**[[Fikih Jual Beli Makanan]]**).
+2026-06-29. Mengimpor syarah **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 04]]** karya **[[Abdur Ra'uf al-Munawi]]** mengenai adab pembantu (**[[Adab terhadap Pelayan]]**), niat belajar (**[[Bahaya Riya dalam Menuntut Ilmu]]**), meminta kekuasaan (**[[Larangan Meminta Jabatan]]**), adab pengadilan (**[[Adab Hakim dalam Peradilan]]**), keselamatan spiritual (**[[Empat Pilar Keselamatan Spiritual]]**), bahaya dukun (**[[Larangan Mendatangi Dukun dan Peramal]]**), senggama haid/anal (**[[Larangan Senggama Saat Haid dan Melalui Dubur]]**), balas budi (**[[Adab Membalas Kebaikan]]**), memaafkan (**[[Menerima Permintaan Maaf]]**), memikul keranda (**[[Adab Mengiringi Jenazah]]**), mengikuti Quran (**[[Keutamaan Mengikuti Al-Quran]]**), dan batas umur 60 tahun (**[[Persiapan Kematian]]**).
 
 ## Fakta Kunci Terbaru
-- Kunci kebahagiaan hidup tecermin dari kepasrahan bertawakal kepada keputusan takdir dan ketekunan istikharah (**[[Ketetapan Takdir dan Ridha]]** & **[[Shalat Istikharah]]**).
-- Enam pilar kelakuan sunnah utama para rasul (hilm, haya', hijamah, siwak, parfum, dan berpasangan) (**[[Sunnah Para Rasul]]**).
-- Simpanan kebajikan rohani melalui tindakan menyembunyikan musibah pribadi dan rasa sakit dari penyakit (**[[Sabar Menghadapi Musibah dan Sakit]]**).
-- Bahaya kezaliman mengotori atau menyumbat jalan umum sebagai perbuatan yang mendatangkan laknat sosial (**[[Larangan Mengotori Jalan]]**).
-- Jaminan keamanan jiwa dan hak-hak sosial non-Muslim yang dilindungi perjanjian (dhimmi) harus dipelihara secara mutlak (**[[Hak dan Perlindungan Non-Muslim]]** & **[[Larangan Menghianati Jaminan Keamanan]]**).
-- Kewajiban mengumumkan barang temuan (luqatah) secara terbuka agar terhindar dari perbuatan zalim (**[[Fikih Barang Temuan]]**).
-- Keutamaan besar mengasuh anak yatim dengan sabar dan ikhlas (**[[Perlindungan dan Pengasuhan Anak Yatim]]**).
-- Larangan menjual kembali komoditas pangan yang dibeli sebelum serah terima kepemilikan barang secara sempurna (**[[Fikih Jual Beli Makanan]]**).
+- Adab kemanusiaan memperlakukan pelayan domestik serta larangan membiarkan moralitas mereka telantar (**[[Adab terhadap Pelayan]]**).
+- Ancaman neraka bagi penuntut ilmu agama yang didasari riya dan hasrat pamer keduniawian (**[[Bahaya Riya dalam Menuntut Ilmu]]**).
+- Ambisi memperebutkan jabatan peradilan memutus pertolongan dan bimbingan Allah (**[[Larangan Meminta Jabatan]]**).
+- Keadilan mutlak bagi hakim di meja sidang, wajib menyamakan perlakuan tempat duduk hingga tatapan mata (**[[Adab Hakim dalam Peradilan]]**).
+- Empat pilar pengaman spiritual di akhirat: sabar, syukur, maaf, dan istighfar (**[[Empat Pilar Keselamatan Spiritual]]**).
+- Keharaman dan konsekuensi denda bersenggama saat haid serta anal seks (**[[Larangan Senggama Saat Haid dan Melalui Dubur]]**).
+- Adab sosial berupa anjuran membalas budi baik, kelapangan jiwa memaafkan saudara seagama, dan pembagian hadiah kepada teman duduk.
+- Batasan usia 60 tahun sebagai pertanda tertutupnya alasan kelalaian di hadapan Allah SWT (**[[Persiapan Kematian]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 03]], [[Kesederhanaan dalam Hiasan Diri]], [[Ketetapan Takdir dan Ridha]], [[Sunnah Para Rasul]], [[Kebersihan Pakaian]], [[Sabar Menghadapi Musibah dan Sakit]], [[Memberi Makan Orang Lapar]], [[Menerima Pemberian Tanpa Meminta]], [[Larangan Mengotori Jalan]], [[Keluarga Nabi]], [[Larangan Menyakiti Penduduk Madinah]], [[Hak dan Perlindungan Non-Muslim]], [[Larangan Menghianati Jaminan Keamanan]], [[Fikih Barang Temuan]], [[Perlindungan dan Pengasuhan Anak Yatim]], [[Fikih Jual Beli Makanan]], [[Maimun bin Salama]], [[Mubarak bin Fadhalah]], [[Qudamah bin Muhammad]], [[Hudhayfah bin Asid]], [[Amr bin Shas]], [[Amr bin al-Hamiq]], [[Zaid bin Khalid al-Juhani]].
-- Diperbarui: [[Shalat Istikharah]], [[Fitrah Rasa Malu]], [[Siwak]], [[Shalat]], [[Tanda-Tanda Akhir Zaman]], [[Kesederhanaan dalam Makan]], [[Ibnu Abbas]], [[Anas bin Malik]], [[Abu Hurayrah]], [[Sa'd ibn Abi Waqqas]], [[Ibnu Mas'ud]], [[Ibnu Umar]], [[Jabir bin Abdullah]], [[Abu Sa'id Al-Khudri]], [[Ali bin Abi Thalib]], [[index]], [[log]], [[hot]], [[overview]].
+- Dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 04]], [[Adab terhadap Pelayan]], [[Bahaya Riya dalam Menuntut Ilmu]], [[Larangan Meminta Jabatan]], [[Adab Hakim dalam Peradilan]], [[Empat Pilar Keselamatan Spiritual]], [[Larangan Mendatangi Dukun dan Peramal]], [[Larangan Senggama Saat Haid dan Melalui Dubur]], [[Adab Membalas Kebaikan]], [[Menerima Permintaan Maaf]], [[Adab Mengiringi Jenazah]], [[Keutamaan Mengikuti Al-Quran]], [[Ibnun Najjar]], [[Ka'b bin Malik]], [[Sakhbarah al-Azdi]], [[Al-Hakim bin Umayr]], [[Sahl bin Ammar]], [[Hakim al-Athram]], [[Ibn Tamimah]], [[Ya'qub bin Abdur Rahman]], [[Sa'id al-Maqburi]], [[Abu Bakr Ibn al-Arabi]].
+- Diperbarui: [[Shalat Jumat]], [[Niat]], [[Persiapan Kematian]], [[Syukur]], [[Pendidikan Anak Perempuan]], [[Keberkahan Anak Perempuan]], [[Hasan bin Ali]], [[index]], [[log]], [[hot]], [[overview]].
 
 ## Alur Kerja Aktif
 - Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.

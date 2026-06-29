@@ -7,7 +7,7 @@ domain: "Akhlak / Tazkiyatun Nafs"
 aliases:
   - "Preparation for Death"
 created: "2026-06-19"
-updated: "2026-06-19"
+updated: "2026-06-29"
 tags:
   - concept
   - kematian
@@ -38,6 +38,10 @@ Persiapan kematian berjalan sebagai konsekuensi logis dari [[Mengingat Maut]]. M
 
 Nabi SAW bersabda bahwa orang mukmin yang paling cerdas adalah yang paling baik persiapannya untuk kehidupan setelah mati (*أحسنهم لما بعده استعداداً*). Tanpa persiapan aktif, kematian berubah dari jembatan pertemuan dengan Allah menjadi musibah terburuk akibat penyesalan yang terlambat di alam kubur.
 
+Urgensi persiapan ini semakin bertambah seiring bertambahnya usia, sebagaimana hadits nabi:
+> *"Barangsiapa yang Allah panjangkan usianya hingga mencapai enam puluh tahun, maka sesungguhnya Allah telah menutup uzur (alasan kelalaian/i'dzar) baginya dalam masalah umur."* (HR. Ahmad dari **[[Abu Hurayrah]]**).
+> Syarah Al-Munawi menjelaskan bahwa usia 60 tahun adalah gerbang penantian kematian di mana uban dan kelemahan fisik bertindak sebagai peringatan keras, sehingga tidak ada lagi alasan bagi manusia untuk terus menunda tobat dan persiapan bekal akhirat.
+
 ## Contoh
 
 - Menulis wasiat syar'i tentang utang piutang dan pembagian waris.
@@ -53,3 +57,4 @@ Nabi SAW bersabda bahwa orang mukmin yang paling cerdas adalah yang paling baik 
 ## Sumber
 
 - Hadis Ibnu Umar: *"Siapakah orang mukmin yang paling cerdas? Yaitu yang paling banyak mengingat mati dan paling baik persiapannya..."* ([[The Preparation for and Remembrance of Death|The Preparation for and Remembrance of Death]])
+- **[[meem_part_04]]**

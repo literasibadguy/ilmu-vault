@@ -8,7 +8,7 @@ aliases:
   - Kehendak Batin
   - Keikhlasan Niat
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-06-29"
 tags: [concept, ibadah, tasawuf]
 status: evergreen
 
@@ -30,6 +30,16 @@ Niat memiliki kedudukan hukum paling mendasar dalam syariat Islam:
     > *"Sesungguhnya setiap amal perbuatan itu (sah) hanya dengan niat, dan setiap orang akan mendapatkan balasan sesuai dengan apa yang ia niatkan."* (HR. Bukhari & Muslim).
 2.  **Tempat di Dalam Hati**: Para ulama sepakat bahwa letak niat berada di dalam qalbu (hati batin). Melafalkan niat secara lisan (*talaffuzh*) dinilai sebagai anjuran pembantu oleh sebagian mazhab (seperti Mazhab Syafi'i) hanya untuk membantu memusatkan konsentrasi hati menjelang takbir, namun ikrar batin di dalam hatilah yang menjadi penentu sahnya ibadah.
 
+## Hubungan Niat dengan Hasil Amal (Contoh Praktis)
+
+1. **Niat Shalat Malam Sebelum Tidur**:
+   Nabi SAW bersabda: *"Barangsiapa mendatangi tempat tidurnya (*firash*) dalam keadaan berniat untuk bangun mendirikan shalat malam, namun matanya mengalahkannya (tertidur nyenyak) hingga subuh, maka dicatat baginya apa yang ia niatkan, dan tidurnya dinilai sebagai sedekah baginya dari Tuhannya."* (HR. An-Nasa'i & Ibn Hibban dari **[[Abu al-Darda]]**).
+   Ini menunjukkan bahwa niat tulus yang sah dapat membuahkan pahala penuh meskipun amal lahiriahnya terhalang oleh faktor di luar kuasanya.
+
+2. **Niat Menuju Masjid**:
+   Nabi SAW bersabda: *"Barangsiapa mendatangi masjid demi suatu tujuan (maksud tertentu), maka ia mendapatkan apa yang ia niatkan (menjadi bagiannya/حظه)."* (HR. Abu Dawud dari **[[Abu Hurayrah]]**).
+   Syarah Al-Munawi menjelaskan bahwa barangsiapa pergi ke masjid diniatkan shalat jamaah ia mendapat pahala jamaah, siapa yang berniat belajar mendapat pahala menuntut ilmu, dan siapa yang pergi ke sana hanya untuk bersantai atau mencari barang hilang maka itulah satu-satunya bagian yang ia peroleh.
+
 ## Perspektif Imam Al-Ghazali
 
 Dalam kitab *Ihya' Ulumiddin* (khususnya pembahasan shalat dan keikhlasan), **[[Imam Al-Ghazali]]** memberikan pemaknaan batin yang mendalam mengenai niat:
@@ -42,3 +52,4 @@ Dalam kitab *Ihya' Ulumiddin* (khususnya pembahasan shalat dan keikhlasan), **[[
 *   **[[Actions-and-Internal-Conditions-of-Prayer]]**
 *   **[[Shalat]]**
 *   **[[Ikhlas]]**
+*   **[[meem_part_04]]**

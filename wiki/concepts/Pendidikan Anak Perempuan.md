@@ -42,13 +42,16 @@ Al-Qur'an dan Sunnah mengecam keras sikap kecewa, malu, atau marah atas kelahira
 
 ## Keutamaan Mendidik Anak Perempuan
 
-1. **Jaminan Surga Bagi Orang Tua**:
+1. **Jaminan Tameng dari Api Neraka**:
+   - Nabi SAW menjanjikan bahwa berbuat baik kepada anak perempuan akan menjadi pelindung orang tua di akhirat:
+     > *"Barangsiapa diuji dengan anak-anak perempuan ini dengan sesuatu, lalu ia berbuat baik kepada mereka, maka mereka akan menjadi penghalang (tameng/ستر) baginya dari api Neraka."* (HR. Bukhari & Muslim dari **[[Aisyah binti Abu Bakar]]**).
+2. **Jaminan Surga Bagi Orang Tua**:
    - Nabi SAW menjanjikan surga bagi orang tua yang merawat dan memberikan pendidikan yang baik kepada anak perempuan mereka:
      > "Barangsiapa memiliki seorang anak perempuan, lalu tidak menguburnya hidup-hidup, tidak meremehkannya, dan tidak melebihkan anak laki-laki darinya, niscaya Allah akan memasukkannya ke dalam Surga." (HR. Abu Da'ud dari Ibnu Abbas).
      > "Barangsiapa memelihara dua saudara perempuan atau dua anak perempuan, lalu mendidik mereka dengan baik, mengasihi mereka, dan menikahkan mereka, maka baginya Surga." (HR. Abu Da'ud dan Tirmidhi).
-2. **Hadiah Terbaik Adalah Pendidikan**:
+3. **Hadiah Terbaik Adalah Pendidikan**:
    - Nabi SAW menegaskan bahwa pemberian terbaik orang tua kepada anaknya adalah pendidikan umum/karakter (*broad/general education*) yang baik.
-3. **Pemberdayaan Intelektual Wanita**:
+4. **Pemberdayaan Intelektual Wanita**:
    - Sejarah mencatat bahwa Nabi SAW mendidik **[[Aisyah binti Abu Bakar]]** yang memiliki kecerdasan alami tinggi. Nabi SAW mendorong para sahabat untuk belajar dan berkonsultasi kepadanya, dan Aisyah kemudian tumbuh menjadi salah satu perawi hadis dan rujukan fiqih terbesar umat Islam.
 
 ## Dampak Sosial
@@ -59,4 +62,5 @@ Pendidikan anak perempuan memastikan lahirnya generasi ibu yang berpengetahuan, 
 
 - [[The Ideal Husband]]
 - [[meem_part_02]]
+- [[meem_part_04]]
 - [[Keberkahan Anak Perempuan]]

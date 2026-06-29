@@ -8,7 +8,7 @@ aliases:
   - Kesyukuran
   - Shukr
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-29
 tags:
   - concept
   - akhlak
@@ -31,6 +31,7 @@ sources:
 Untuk merealisasikan syukur yang benar di hadapan Allah, seorang hamba harus memenuhi tiga syarat utama:
 1. **Syukur Hati (al-qalb)**: Mengakui dan menyadari sepenuhnya di dalam hati bahwa segala nikmat yang diperoleh semata-mata berasal dari Allah SWT, bukan karena kehebatan diri sendiri.
 2. **Syukur Lisan (al-lisan)**: Memuji dan menyanjung Allah dengan lisan atas kebaikan-Nya, serta menceritakan nikmat tersebut (*tahadduts bin ni'mah*) tanpa rasa sombong.
+   Nabi SAW menegaskan hakikat ini: *"Barangsiapa diberi suatu nikmat/kebaikan (*balaa'*) lalu ia menyebutkannya (menceritakannya kepada orang lain), maka sesungguhnya ia telah bersyukur; dan barangsiapa yang menyembunyikannya, maka sesungguhnya ia telah kufur nikmat."* (HR. Abu Dawud dari **[[Jabir bin Abdullah]]**).
 3. **Syukur Anggota Tubuh (al-jawarih)**: Menggunakan nikmat yang diberikan untuk ketaatan kepada Allah, serta menjaga anggota tubuh agar tidak menggunakan nikmat tersebut dalam hal kemaksiatan.
 
 ## Syakir vs Syakur
@@ -52,3 +53,4 @@ Terdapat perbedaan mendasar antara bersyukur (*syukur*) dan memuji (*hamd*):
 ## Sumber
 
 - [[Settle the Argument]]
+- [[meem_part_04]]
