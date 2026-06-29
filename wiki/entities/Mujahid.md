@@ -6,7 +6,7 @@ entity_type: person
 role: "Ulama Tafsir, Tabi'in Terkemuka, Murid Terdekat Ibnu Abbas"
 first_mentioned: "[[Major-Sin-20-Gambling]]"
 created: "2026-06-20"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - tabiin
@@ -18,6 +18,8 @@ related:
 sources:
   - "[[Major-Sin-20-Gambling]]"
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 # Mujahid

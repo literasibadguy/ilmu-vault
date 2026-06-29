@@ -31,10 +31,10 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 ---
 
 ## Status Saat Ini
-
-- Sumber diimpor (ingested): 73
-- Halaman wiki: 411
-- Aktivitas terakhir: 2026-06-29 (Mengimpor bab 'Attachment of the World' Bagian 2 dan 3 dari Ihya' Ulumiddin karya Imam Al-Ghazali mengenai 15 perumpamaan dunia, hakikat dunia, serta kezuhudan salaf seperti Uwais al-Qarni)
+ 
+ - Sumber diimpor (ingested): 75
+ - Halaman wiki: 441
+ - Aktivitas terakhir: 2026-06-29 (Mengimpor hadits-hadits moralitas, hukum sosial, dan adab muamalah dari syarah Fayd al-Qadir Volume 6 karya Al-Munawi)
 
 ---
 

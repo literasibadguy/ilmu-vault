@@ -7,7 +7,7 @@ aliases:
   - Shalat Jamaah
   - Congregational Prayer
 created: "2026-06-15"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, shalat, ibadah, sunnah]
 status: evergreen
 related:
@@ -20,6 +20,7 @@ sources:
   - "[[Abandoning the Group Prayer]]"
   - "[[Excellence-of-Prayer]]"
   - "[[Imamate-and-Jumma-Prayer]]"
+  - "[[meem_part_02]]"
 ---
 
 # Shalat Berjamaah

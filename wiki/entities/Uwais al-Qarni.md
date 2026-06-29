@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000220"
-title: "Uwais al-Qarni"
+address: c-000220
+title: Uwais al-Qarni
 entity_type: person
-role: "Tabi'in Terbaik & Figur Keteladanan Zuhud"
-first_mentioned: "[[Attachment-of-the-World-Part-3]]"
+role: Tabi'in Terbaik & Figur Keteladanan Zuhud
+first_mentioned: "[[Ketergantungan Dunia Part 3]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,12 +13,12 @@ tags:
   - sejarah
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
   - "[[Haram bin Hayyan]]"
   - "[[Umar bin Khattab]]"
   - "[[Zuhud]]"
 sources:
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 ---
 
 # Uwais al-Qarni
@@ -44,4 +44,4 @@ Kisah pertemuan legendarisnya dengan **[[Haram bin Hayyan]]** di tepi Sungai Tig
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 3]]

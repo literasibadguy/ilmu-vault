@@ -9,7 +9,7 @@ aliases:
   - Bath
   - Mandi Sunnah
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, fikih, ibadah]
 status: evergreen
 related:
@@ -18,6 +18,7 @@ related:
   - "[[Tayammum]]"
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
+  - "[[meem_part_02]]"
 address: c-000198
 ---
 
@@ -33,6 +34,7 @@ Tindakan meratakan air suci ke seluruh permukaan jasad (kulit dan rambut) guna m
 
 Dalam kitab *Ihya' Ulumiddin*, **[[Imam Al-Ghazali]]** menyebutkan empat kondisi utama yang mewajibkan seorang Muslim mendirikan Ghusl:
 1.  **Keluarnya Mani (Ejakulasi)**: Baik dalam keadaan terjaga karena syahwat maupun saat tidur (mimpi basah).
+    *   **Catatan Hukum (HR. Tirmidzi dari [[Ali bin Abi Thalib]])**: Keluarnya mani mewajibkan mandi wajib, sedangkan keluarnya madhi (cairan bening lengket ketika syahwat sedang tumbuh ringan) hanya membatalkan wudhu dan cukup dicuci kemaluan saja (tidak mewajibkan mandi).
 2.  **Senggama (Copulation)**: Penetrasi bertemunya dua kemaluan secara seksual, sekalipun tidak mengeluarkan mani.
 3.  **Haid (Menstruasi)**: Setelah darah haid berhenti keluar pada wanita.
 4.  **Nifas & Melahirkan (Child Birth)**: Keluarnya darah persalinan atau sekadar melahirkan bayi.

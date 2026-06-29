@@ -1,11 +1,11 @@
 ---
 type: entity
-title: "Imam Al-Ghazali"
+title: Imam Al-Ghazali
 entity_type: person
-role: "Ulama, Teolog, Filosof, dan Sufi Master"
+role: Ulama, Teolog, Filosof, dan Sufi Master
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
-created: "2026-06-14"
-updated: "2026-06-29"
+created: 2026-06-14
+updated: 2026-06-29
 tags:
   - entity
   - ulama
@@ -40,8 +40,8 @@ sources:
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-2]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 2]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 ---
 
 
@@ -74,8 +74,8 @@ sources:
 - **Metodologi Tazkiyah**: Memadukan dalil Al-Qur'an dan Hadis dengan perkataan serta kisah para ulama salaf terdahulu guna menerapi penyakit-penyakit hati.
 - **Pandangan tentang Lapar**: Menilai lapar (*hunger*) sebagai salah satu perbendaharaan Allah yang paling berharga untuk membuka pintu hikmah dan melemahkan tipu daya setan.
 - **Bahaya Cinta Dunia**: Mengkaji Kitab *Dzamm al-Dunya* (Kecaman Terhadap Dunia) dalam *Ihya'*, merumuskan analogi dunia sebagai wanita tidak menjaga kehormatan yang menipu dan menganalisis dampak psikologis-spiritual dari kecintaan berlebihan terhadap dunia (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
-- **15 Perumpamaan Dunia**: Merinci 15 perumpamaan klasik mengenai kefanaan dunia, laksana bayangan yang terus bergerak, mimpi tidur, ular berbisa, air laut yang asin (semakin diminum semakin dahaga), hingga sisa air jari ketika dicelupkan ke samudera luas (**[[Attachment-of-the-World-Part-2]]**, **[[Perumpamaan Dunia]]**).
-- **Pembagian Hakikat Dunia**: Menegaskan batas-batas dunia sebagai kondisi pikiran (*two conditions of the mind*) dan membaginya ke dalam tiga kategori (perkara bernilai akhirat seperti ilmu/amal saleh, kebutuhan hidup mutlak yang menunjang ibadah, dan perkara kemewahan berlebih-lebihan yang mendatangkan hisab berat) (**[[Attachment-of-the-World-Part-3]]**, **[[Hakikat Dunia]]**).
+- **15 Perumpamaan Dunia**: Merinci 15 perumpamaan klasik mengenai kefanaan dunia, laksana bayangan yang terus bergerak, mimpi tidur, ular berbisa, air laut yang asin (semakin diminum semakin dahaga), hingga sisa air jari ketika dicelupkan ke samudera luas (**[[Ketergantungan Dunia Part 2]]**, **[[Perumpamaan Dunia]]**).
+- **Pembagian Hakikat Dunia**: Menegaskan batas-batas dunia sebagai kondisi pikiran (*two conditions of the mind*) dan membaginya ke dalam tiga kategori (perkara bernilai akhirat seperti ilmu/amal saleh, kebutuhan hidup mutlak yang menunjang ibadah, dan perkara kemewahan berlebih-lebihan yang mendatangkan hisab berat) (**[[Ketergantungan Dunia Part 3]]**, **[[Hakikat Dunia]]**).
 
 ## Hubungan
 
@@ -97,5 +97,5 @@ sources:
 - [[Expiation for Backbiting]]
 - [[Excellence of Learning]]
 - [[Attachment-of-the-World]]
-- [[Attachment-of-the-World-Part-2]]
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 2]]
+- [[Ketergantungan Dunia Part 3]]

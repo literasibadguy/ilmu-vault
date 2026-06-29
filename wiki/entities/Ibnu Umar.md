@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Utama"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
-updated: "2026-06-21"\ntags:
+updated: 2026-06-29
   - entity
   - sahabat
   - perawi
@@ -24,6 +24,8 @@ sources:
   - "[[The Preparation for and Remembrance of Death]]"
 - "[[Major-Sin-20-Gambling]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
   - "[[Settle the Argument]]"\n
 # Ibnu Umar

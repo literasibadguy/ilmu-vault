@@ -8,7 +8,7 @@ aliases:
   - "Keutamaan Anak Perempuan"
   - "Tarbiyatul Aulad"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-29
 tags:
   - concept
   - akhlak
@@ -21,6 +21,7 @@ related:
   - "[[Fatima binti Muhammad]]"
 sources:
   - "[[The Ideal Husband]]"
+  - "[[meem_part_02]]"
 ---
 
 # Pendidikan Anak Perempuan
@@ -57,3 +58,5 @@ Pendidikan anak perempuan memastikan lahirnya generasi ibu yang berpengetahuan, 
 ## Sumber
 
 - [[The Ideal Husband]]
+- [[meem_part_02]]
+- [[Keberkahan Anak Perempuan]]

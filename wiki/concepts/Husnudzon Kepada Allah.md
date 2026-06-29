@@ -8,7 +8,7 @@ aliases:
   - "Prasangka Baik Kepada Allah"
   - "Favorable Opinion of Allah"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: 2026-06-29
 tags:
   - concept
   - akidah
@@ -19,6 +19,7 @@ related:
   - "[[Sakaratul Maut]]"
 sources:
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
+  - "[[meem_part_02]]"
 ---
 
 # Husnudzon Kepada Allah

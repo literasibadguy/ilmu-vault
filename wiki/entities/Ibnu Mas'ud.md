@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -31,6 +31,8 @@ sources:
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
   - "[[Excellence of Learning]]"
   - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

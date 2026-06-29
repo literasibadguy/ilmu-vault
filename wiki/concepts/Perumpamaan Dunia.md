@@ -1,12 +1,12 @@
 ---
 type: concept
-address: "c-000214"
-title: "Perumpamaan Dunia"
+address: c-000214
+title: Perumpamaan Dunia
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Illustrations of the World"
-  - "Analogi Dunia"
+  - Illustrations of the World
+  - Analogi Dunia
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -19,7 +19,7 @@ related:
   - "[[Zuhud]]"
   - "[[Hakikat Dunia]]"
 sources:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 ---
 
 # Perumpamaan Dunia (Illustrations of the World)
@@ -60,4 +60,4 @@ Memahami perumpamaan-perumpamaan ini sangat penting untuk membentuk sikap **[[Zu
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

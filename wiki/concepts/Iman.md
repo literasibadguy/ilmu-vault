@@ -8,12 +8,14 @@ aliases:
   - Keyakinan Batin
   - Iman Islam
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, akidah]
 status: evergreen
 
 address: c-000171
----
+
+sources:
+  - "[[meem_part_02]]"---
 
 # Iman
 

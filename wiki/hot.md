@@ -14,18 +14,20 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-29. Mengimpor bab **[[Attachment of the World Part 2]]** dan **[[Attachment of the World Part 3]]** dari *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai perumpamaan dunia, hakikat dunia, serta kezuhudan salaf seperti Uwais al-Qarni.
+2026-06-29. Mengimpor syarah **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 02]]** karya **[[Abdur Ra'uf al-Munawi]]** mengenai bersuci (madhi vs mani), kesopanan (**[[Karakter Muru'ah]]**), larangan monopoli penguasa, kerugian akhirat demi orang lain, tanda-tanda akhir zaman, syafaat nikah, amalan menyenangkan mukmin, sumpah palsu, keberkahan anak perempuan, dan sunnah bersiwak.
 
 ## Fakta Kunci Terbaru
-- Pembagian hakikat sejati duniawi menjadi tiga klasifikasi materi (perkara bernilai akhirat, kebutuhan mutlak hidup, dan kemewahan yang akan di-hisab) (**[[Hakikat Dunia]]**).
-- 15 analogi visualisasi kefanaan dunia (seperti bayangan bergerak, mimpi tidur, ular berbisa, meminum air laut) untuk memutus belenggu **[[Cinta Dunia]]** (**[[Perumpamaan Dunia]]**).
-- Kisah kezuhudan luar biasa **[[Uwais al-Qarni]]** dan pertemuannya dengan **[[Haram bin Hayyan]]** di tepi Sungai Tigris yang mengabarkan secara gaib tentang wafatnya Khalifah **[[Umar bin Khattab]]** (**[[Attachment of the World Part 3]]**).
-- Teguran keras Khalifah **[[Umar bin Khattab]]** kepada **[[Abu al-Darda]]** karena membangun toilet seharga 2 dirham (**[[Abu al-Darda]]**).
-- Teladan kezuhudan raja-nabi **[[Nabi Sulaiman AS]]** yang memakan roti gandum kasar (*husk of wheat*) di tengah kemewahan kerajaannya.
+- Perbedaan bersuci madhi (cukup wudhu/cuci) vs mani (wajib mandi) (**[[Wudhu]]** & **[[Ghusl]]**).
+- Karakter kepantasan sosial (**[[Karakter Muru'ah]]**) melalui menyimak perkataan teman dan membantu membetulkan alas kaki.
+- Bahaya bisnis komersial penguasa di tengah rakyatnya (**[[Larangan Monopoli Dagang Penguasa]]**).
+- Penanda akhir zaman: megah-megahan masjid (**[[Larangan Megah-megahan Masjid]]**), pelecehan kesucian masjid sebagai jalan pintas, kematian mendadak (**[[Kematian Mendadak]]**), anomali hilal besar (**[[Fenomena Alam Akhir Zaman]]**), sumpah palsu (**[[Sumpah Palsu]]**), serta kemunduran agama (**[[Kehancuran Agama]]**).
+- Rekomendasi jodoh sebagai syafaat terbaik (**[[Keutamaan Syafaat Pernikahan]]**), dan amalan pelunasan utang mukmin (**[[Menyenangkan Hati Mukmin]]**).
+- Keberkahan wanita yang melahirkan anak perempuan pertama kali (**[[Keberkahan Anak Perempuan]]**), keutamaan bersiwak saat puasa (**[[Siwak]]**), serta parfum kasturi (**[[Keberkahan Minyak Wangi Kasturi]]**).
+- Kesempurnaan shalat melalui tenangnya jasad (*sukunul athraf*), serta pilar tarku ma la ya'nih (**[[Meninggalkan yang Tidak Bermanfaat]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[Attachment of the World Part 2]], [[Attachment of the World Part 3]], [[Perumpamaan Dunia]], [[Hakikat Dunia]], [[Yunus bin Ubaid]], [[Abu Bakr bin Ayyash]], [[Salman al-Farisi]], [[Nabi Daud AS]], [[Uwais al-Qarni]], [[Haram bin Hayyan]].
-- Diperbarui: [[Cinta Dunia]], [[Zuhud]], [[Abu al-Darda]], [[Umar bin Khattab]], [[Ali bin Abi Thalib]], [[Al-Hasan al-Basri]], [[Nabi Isa AS]], [[Nabi Sulaiman AS]], [[Imam Al-Ghazali]], [[overview]], [[index]], [[log]], [[hot]].
+- Dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 02]], [[Karakter Muru'ah]], [[Larangan Monopoli Dagang Penguasa]], [[Menjual Akhirat demi Dunia Orang Lain]], [[Kecintaan Mendalam Kepada Rasulullah]], [[Larangan Megah-megahan Masjid]], [[Tanda-Tanda Akhir Zaman]], [[Keutamaan Syafaat Pernikahan]], [[Menyenangkan Hati Mukmin]], [[Fenomena Alam Akhir Zaman]], [[Kematian Mendadak]], [[Sumpah Palsu]], [[Kehancuran Agama]], [[Keberkahan Anak Perempuan]], [[Adab Berjabat Tangan]], [[Adab Menjenguk Orang Sakit]], [[Meninggalkan yang Tidak Bermanfaat]], [[Keberkahan Minyak Wangi Kasturi]], [[Al-Dailami]], [[Abu Ruhm]], [[Muhammad bin al-Munkadir]], [[Talhah bin Malik]], [[Abdur Rahman bin Amr]], [[Abdullah bin Anis]], [[Wathilah bin al-Asqa']], [[Harith bin Hisham]].
+- Diperbarui: [[Wudhu]], [[Ghusl]], [[Silaturahmi]], [[Shalat Berjamaah]], [[Shalat]], [[Husnudzon Kepada Allah]], [[Siwak]], [[Adab Berbicara]], [[Kesederhanaan dalam Makan]], [[Iman]], [[Islam]], [[Fitrah Rasa Malu]], [[Pendidikan Anak Perempuan]], [[Kesaksian Palsu]], [[Aisyah binti Abu Bakar]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Abu Hurayrah]], [[Abu Musa al-Ash'ari]], [[Abu Bakar Ash-Shiddiq]], [[Ibnu Abbas]], [[Ibnu Umar]], [[Al-Hasan al-Basri]], [[Imam Malik bin Anas]], [[Sufyan ath-Thawri]], [[Imam Ahmad bin Hanbal]], [[Imam Asy-Syafi'i]], [[Umar bin Khattab]], [[Qatadah bin Di'amah As-Sadusi]], [[Anas bin Malik]], [[Malik bin Dinar]], [[Burayda bin al-Husaib]], [[Mujahid]], [[Jabir bin Abdullah]], [[Abu Umamah]], [[Mu'adz bin Jabal]], [[Zaid bin Thabit]], [[index]], [[log]], [[hot]], [[overview]].
 
 ## Alur Kerja Aktif
-- Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara hubungan wikilink antar konsep kezuhudan.
+- Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.

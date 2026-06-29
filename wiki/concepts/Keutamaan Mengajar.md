@@ -2,7 +2,7 @@
 type: concept
 title: "Keutamaan Mengajar"
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-06-29
 tags:
   - ilmu-keislaman
   - concept
@@ -11,8 +11,10 @@ related:
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Imam Al-Ghazali]]"
   - "[[Amanah Kepemimpinan]]"
+  - "[[Sedekah dengan Wajah Berseri]]"
 sources:
   - "[[Excellence of Teaching]]"
+  - "[[meem_part_01]]"
 address: c-000104
 complexity: intermediate
 domain: "tazkiyatun nafs"
@@ -58,6 +60,11 @@ Pendidikan dan bimbingan akhlak adalah instrumen utama yang membedakan manusia s
 
 ---
 
+## Hubungan dengan Sedekah Ilmu
+Dalam hadits riwayat Abu Khaithamah dari **[[Al-Hasan al-Basri]]**, mengajarkan ilmu dihitung sebagai salah satu bentuk sedekah utama (*sedekah ilmu* / صدقة العلم). Hal ini membuktikan bahwa mengajarkan ilmu yang bermanfaat tidak kalah nilainya dari menyumbangkan kekayaan materi, karena ilmu merupakan bekal keselamatan kekal yang terus mengalir pahalanya (*jariyah*) meskipun pengajarnya telah tiada.
+
+---
+
 ## Rujukan Tokoh & Dalil
 - **Tokoh Utama**: **[[Imam Al-Ghazali]]**, **[[Mu'adz bin Jabal]]**, **[[Nabi Isa AS]]**, **[[Al-Hasan al-Basri]]**.
-- **Dokumen Sumber**: **[[Excellence of Teaching]]** (Bab I Bagian 2 Ihya).
+- **Dokumen Sumber**: **[[Excellence of Teaching]]** (Bab I Bagian 2 Ihya), **[[meem_part_01]]** (syarah Fayd al-Qadir).

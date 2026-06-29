@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -40,6 +40,8 @@ sources:
   - "[[Settle the Argument]]"
   - "[[Excellence of Learning]]"
   - "[[Excellence of Teaching]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

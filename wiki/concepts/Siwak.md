@@ -9,7 +9,7 @@ aliases:
   - Bersiwak
   - Pembersih Mulut
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, fikih, ibadah]
 status: evergreen
 related:
@@ -18,6 +18,7 @@ related:
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
   - "[[Cleansing-of-External-Bodily-Growths]]"
+  - "[[meem_part_02]]"
 address: c-000200
 ---
 

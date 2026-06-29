@@ -1,11 +1,11 @@
 ---
 type: entity
-title: "Umar bin Khattab"
+title: Umar bin Khattab
 entity_type: person
-role: "Khalifah Rasyidah Kedua"
+role: Khalifah Rasyidah Kedua
 first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
-created: "2026-06-07"
-updated: "2026-06-29"
+created: 2026-06-07
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -21,7 +21,7 @@ related:
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Keutamaan Mengajar]]"
   - "[[Uwais al-Qarni]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 sources:
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
@@ -43,7 +43,9 @@ sources:
   - "[[Blameworthy Sciences and Changing Meanings]]"
   - "[[Harms of Polemics and Evils of Debates]]"
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 
@@ -77,8 +79,8 @@ sources:
 - **Membatasi Pembelajaran Astrologi**: Membatasi pembelajaran ilmu perbintangan hanya untuk petunjuk arah navigasi di darat dan laut, serta melarang mendalaminya lebih jauh karena berisiko merusak kemurnian akidah (**[[Ilmu Tercela]]**).
 - **Menerima Koreksi dari Wanita**: Menunjukkan ketundukan mutlak pada kebenaran dengan langsung menerima koreksi dari seorang wanita atas kesalahannya ketika berkhotbah di mimbar (**[[Bahaya Debat]]**).
 - **Tangis Haru Kunjungan Abu Obaidah**: Saat melakukan kunjungan resmi ke wilayah Syam, Umar singgah di rumah gubernur **[[Abu Obaidah bin al-Jarrah]]**. Terkejut mendapati rumah yang sama sekali tidak memiliki perhiasan dunia melainkan hanya berisi tameng, pedang, dan penyangga mushaf, Umar menangis dan memuji kezuhudan Abu Obaidah (**[[Attachment-of-the-World]]**, **[[Zuhud]]**).
-- **Teguran Toilet Abu al-Darda**: Umar mengirimkan surat teguran keras kepada **[[Abu al-Darda]]** (gubernur Hems) karena membangun latrine/toilet seharga 2 dirham yang dianggap berlebih-lebihan meniru kemewahan Byzantium dan Persia, lalu memindahkannya beserta keluarganya ke Damaskus (**[[Attachment-of-the-World-Part-3]]**).
-- **Pencarian Uwais al-Qarni**: Demi menjalankan wasiat Nabi SAW, Umar gigih mencari keberadaan **[[Uwais al-Qarni]]** di antara rombongan kabilah Irak (Murad/Qaran) dan meminta doa ampunan darinya, serta menangisi wafatnya pilar-pilar keadilan setelah meyakini kezuhudan Uwais (**[[Attachment-of-the-World-Part-3]]**).
+- **Teguran Toilet Abu al-Darda**: Umar mengirimkan surat teguran keras kepada **[[Abu al-Darda]]** (gubernur Hems) karena membangun latrine/toilet seharga 2 dirham yang dianggap berlebih-lebihan meniru kemewahan Byzantium dan Persia, lalu memindahkannya beserta keluarganya ke Damaskus (**[[Ketergantungan Dunia Part 3]]**).
+- **Pencarian Uwais al-Qarni**: Demi menjalankan wasiat Nabi SAW, Umar gigih mencari keberadaan **[[Uwais al-Qarni]]** di antara rombongan kabilah Irak (Murad/Qaran) dan meminta doa ampunan darinya, serta menangisi wafatnya pilar-pilar keadilan setelah meyakini kezuhudan Uwais (**[[Ketergantungan Dunia Part 3]]**).
  
 ## Sumber
  
@@ -95,4 +97,4 @@ sources:
 - [[Blameworthy Sciences and Changing Meanings]]
 - [[Harms of Polemics and Evils of Debates]]
 - [[Attachment-of-the-World]]
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 3]]

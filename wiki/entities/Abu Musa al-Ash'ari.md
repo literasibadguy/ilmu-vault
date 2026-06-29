@@ -6,7 +6,7 @@ entity_type: person
 role: "Sahabat Nabi, Ahli Fikih, Gubernur Kufah & Bashrah"
 first_mentioned: "[[Major-Sin-20-Gambling]]"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -18,6 +18,8 @@ related:
 sources:
   - "[[Major-Sin-20-Gambling]]"
   - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 # Abu Musa al-Ash'ari

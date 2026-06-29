@@ -5,7 +5,7 @@ entity_type: person
 role: Sahabat Nabi / Penulis Wahyu Utama
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -16,6 +16,7 @@ related:
   - "[[Marwan bin al-Hakam]]"
 sources:
   - "[[Regarding His Guidance in Prayer]]"
+  - "[[meem_part_02]]"
 ---
 
 # Zaid bin Thabit

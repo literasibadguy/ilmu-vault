@@ -8,12 +8,14 @@ aliases:
   - Shalat Wajib
   - Shalat Fardhu
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, akidah, ibadah]
 status: evergreen
 
 address: c-000175
----
+
+sources:
+  - "[[meem_part_02]]"---
 
 # Shalat
 

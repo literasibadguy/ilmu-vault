@@ -6,7 +6,7 @@ entity_type: person
 role: "Sahabat Nabi SAW / Perawi Hadis"
 first_mentioned: "[[Major-Sin-31-Corrupt-Judgement]]"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -17,6 +17,8 @@ related:
   - "[[Korupsi dan Suap dalam Peradilan]]"
 sources:
   - "[[Major-Sin-31-Corrupt-Judgement]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 # Burayda bin al-Husaib

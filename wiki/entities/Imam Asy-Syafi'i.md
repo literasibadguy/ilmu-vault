@@ -5,7 +5,7 @@ entity_type: person
 role: "Pendiri Mazhab Syafi'i / Pembaharu Islam"
 first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - ulama
@@ -22,6 +22,8 @@ sources:
   - "[[Excellence of Learning]]"
 
   - [[Lives and Virtues of the Great Imams]]
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 address: c-000099
 ---
 

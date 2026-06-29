@@ -1,12 +1,12 @@
 ---
 type: concept
-address: "c-000215"
-title: "Hakikat Dunia"
+address: c-000215
+title: Hakikat Dunia
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Special Knowledge of the World"
-  - "Definisi Dunia"
+  - Special Knowledge of the World
+  - Definisi Dunia
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -19,7 +19,7 @@ related:
   - "[[Zuhud]]"
   - "[[Perumpamaan Dunia]]"
 sources:
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 ---
 
 # Hakikat Dunia (Special Knowledge of the World)
@@ -62,4 +62,4 @@ Imam Al-Ghazali mengibaratkan orang yang sibuk dengan dunia fisik hingga melupak
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 3]]

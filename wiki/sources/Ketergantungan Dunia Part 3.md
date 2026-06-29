@@ -1,18 +1,18 @@
 ---
 type: source
-address: "c-000213"
-title: "Attachment of the World Part 3"
+address: c-000213
+title: Ketergantungan Dunia Part 3
 source_type: book_chapter
-author: "Imam Al-Ghazali"
+author: Imam Al-Ghazali
 date_published: 2026-06-29
 url: ""
 confidence: high
 key_claims:
   - "Dunia dan akhirat adalah dua kondisi pikiran: segala sesuatu sebelum mati adalah dunia, setelah mati adalah akhirat."
-  - "Ilmu makrifatullah dan amal saleh yang dilakukan demi mencari ridha Allah bukanlah bagian dari dunia, melainkan bekal akhirat."
-  - "Segala kebutuhan mutlak hidup (makanan, pakaian, tempat tinggal minimal) yang menunjang ketaatan tidak dihukum sebagai dunia."
+  - Ilmu makrifatullah dan amal saleh yang dilakukan demi mencari ridha Allah bukanlah bagian dari dunia, melainkan bekal akhirat.
+  - Segala kebutuhan mutlak hidup (makanan, pakaian, tempat tinggal minimal) yang menunjang ketaatan tidak dihukum sebagai dunia.
   - "Kematian menyisakan tiga hal yang abadi: kesucian hati, ketenangan zikir, dan kecintaan batin kepada Allah."
-  - "Segala kesenangan halal berlebih-lebihan di dunia memiliki pertanggungjawaban (hisab), sedangkan yang haram mendatangkan siksa."
+  - Segala kesenangan halal berlebih-lebihan di dunia memiliki pertanggungjawaban (hisab), sedangkan yang haram mendatangkan siksa.
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -23,7 +23,7 @@ tags:
 status: seed
 related:
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
   - "[[Cinta Dunia]]"
   - "[[Hakikat Dunia]]"
   - "[[Uwais al-Qarni]]"

@@ -1,18 +1,18 @@
 ---
 type: source
-address: "c-000212"
-title: "Attachment of the World Part 2"
+address: c-000212
+title: Ketergantungan Dunia Part 2
 source_type: book_chapter
-author: "Imam Al-Ghazali"
+author: Imam Al-Ghazali
 date_published: 2026-06-29
 url: ""
 confidence: high
 key_claims:
-  - "Dunia diibaratkan seperti bayangan, mimpi, atau unchaste woman yang memperdaya lalu menghancurkan para pencintanya."
-  - "Manusia di dunia bagaikan musafir yang berteduh sebentar di bawah pohon lalu berjalan kembali menuju akhirat."
-  - "Keterikatan duniawi menghalangi kenikmatan dalam ibadah bagaikan penyakit yang menghalangi kelezatan makanan."
-  - "Mencari dunia bagaikan meminum air laut; semakin banyak diminum semakin haus hingga mematikan."
-  - "Tingkat kesedihan dan penderitaan saat maut berbanding lurus dengan banyaknya harta dan keterikatan duniawi."
+  - Dunia diibaratkan seperti bayangan, mimpi, atau unchaste woman yang memperdaya lalu menghancurkan para pencintanya.
+  - Manusia di dunia bagaikan musafir yang berteduh sebentar di bawah pohon lalu berjalan kembali menuju akhirat.
+  - Keterikatan duniawi menghalangi kenikmatan dalam ibadah bagaikan penyakit yang menghalangi kelezatan makanan.
+  - Mencari dunia bagaikan meminum air laut; semakin banyak diminum semakin haus hingga mematikan.
+  - Tingkat kesedihan dan penderitaan saat maut berbanding lurus dengan banyaknya harta dan keterikatan duniawi.
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -23,7 +23,7 @@ tags:
 status: seed
 related:
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
   - "[[Cinta Dunia]]"
   - "[[Perumpamaan Dunia]]"
   - "[[Nabi Isa AS]]"

@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis"
 first_mentioned: "[[Censure of Backbiting]]"
 created: "2026-06-16"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -21,6 +21,8 @@ sources:
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Major-Sin-27-Tax-Collecting]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

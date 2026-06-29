@@ -1,12 +1,12 @@
 ---
 type: concept
-address: "c-000206"
-title: "Cinta Dunia"
+address: c-000206
+title: Cinta Dunia
 complexity: intermediate
-domain: "Tazkiyatun Nafs / Akhlak"
+domain: Tazkiyatun Nafs / Akhlak
 aliases:
-  - "Hubbud Dunya"
-  - "Kecintaan Dunia"
+  - Hubbud Dunya
+  - Kecintaan Dunia
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -23,8 +23,8 @@ related:
   - "[[Hakikat Dunia]]"
 sources:
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-2]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 2]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 ---
 
 # Cinta Dunia (Hubbud Dunya)
@@ -65,5 +65,5 @@ Untuk mengatasi penyakit cinta dunia, para ulama memberikan panduan praktis:
 ## Sumber
 
 - [[Attachment-of-the-World]]
-- [[Attachment-of-the-World-Part-2]]
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 2]]
+- [[Ketergantungan Dunia Part 3]]

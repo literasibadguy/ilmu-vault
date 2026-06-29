@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Pelayan Rasulullah"
 first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 created: "2026-06-11"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -30,6 +30,8 @@ sources:
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
   - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

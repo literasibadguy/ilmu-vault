@@ -8,7 +8,7 @@ aliases:
   - "Shatranj"
   - "Backgammon"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-06-29
 tags:
   - concept
   - fikih
@@ -16,8 +16,11 @@ tags:
 status: seed
 related:
   - "[[Judi dan Maysir]]"
+  - "[[Habbah bin Muslim]]"
+  - "[[Ibn Hazm]]"
 sources:
   - "[[Major-Sin-20-Gambling]]"
+  - "[[meem_part_01]]"
 address: c-000039
 ---
 
@@ -31,7 +34,7 @@ address: c-000039
 
 1. **Permainan Dadu (Backgammon/Nard)**: Para ulama sepakat (*ijma'*) atas keharamannya baik menggunakan taruhan maupun tidak. Dalilnya didasarkan pada hadis shahih yang menyamakan permainan ini dengan najis berat (mencelupkan tangan ke daging/darah babi) dan kedurhakaan kepada Allah dan Rasul-Nya.
 2. **Permainan Catur (Shatranj)**:
-   - **Mayoritas Ulama (Hanafi, Maliki, Hanbali)**: Mengharamkannya secara mutlak karena dinilai sebagai bagian dari dadu, dikategorikan sebagai *azlam* (undian nasib), melalaikan dari shalat dan dzikir, serta melahirkan kebohongan ucapan (seperti skakmat).
+   - **Mayoritas Ulama (Hanafi, Maliki, Hanbali)**: Mengharamkannya secara mutlak karena dinilai sebagai bagian dari dadu, dikategorikan sebagai *azlam* (undian nasib), melalaikan dari shalat dan dzikir, serta melahirkan kebohongan ucapan (seperti skakmat). Riwayat mursal dari **[[Habbah bin Muslim]]** menyebutkan pemain catur terlaknat dan penontonnya bagai pemakan daging babi. Meskipun hadits ini dinilai lemah (*dha'if*) atau mungkar oleh **[[Ibn Hazm]]** dan Al-Munawi, mayoritas ulama tetap melarang keras permainan ini berdasarkan dalil pendukung lainnya.
    - **Sebagian Mazhab Syafi'i (An-Nawawi)**: Menghukuminya sebagai makruh jika dimainkan secara tersembunyi/privat, tidak menggunakan taruhan uang, dan tidak sampai melalaikan kewajiban shalat lima waktu pada waktunya. Namun, jika ada unsur taruhan uang atau melalaikan shalat, hukumnya menjadi haram mutlak menurut kesepakatan ulama.
 
 ## Mengapa Ini Penting

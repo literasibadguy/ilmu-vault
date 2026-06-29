@@ -8,7 +8,7 @@ aliases:
   - Backbiting
   - Ghiba
 created: "2026-06-16"
-updated: "2026-06-18"
+updated: "2026-06-29"
 tags:
   - concept
   - akhlak
@@ -20,6 +20,7 @@ related:
   - "[[Imam Al-Ghazali]]"
   - "[[Abu Bakar Ash-Shiddiq]]"
   - "[[Umar bin Khattab]]"
+  - "[[Menjaga Kehormatan Muslim]]"
 sources:
   - "[[Censure of Backbiting]]"
   - "[[Meaning and Definitions of Backbiting]]"
@@ -30,6 +31,7 @@ sources:
   - "[[Justifications Authorizing Backbiting]]"
   - "[[Expiation for Backbiting]]"
   - "[[Harm 15 Backbiting]]"
+  - "[[meem_part_01]]"
 ---
 
 
@@ -76,6 +78,7 @@ Islam mengutuk keras perbuatan ghibah melalui berbagai sumber dalil syariat:
 - **Siksaan di Akhirat**: Pada malam Mi'raj, Rasulullah SAW diperlihatkan kaum yang mencakar wajah mereka dengan kuku tembaga. Malaikat Jibril menjelaskan bahwa mereka adalah orang-orang yang gemar memakan daging manusia (melakukan ghibah) dan merusak kehormatan sesama.
 - **Siksa Kubur**: Ghibah adalah salah satu dosa utama yang menyebabkan seseorang disiksa di dalam kuburnya, disandingkan dengan kelalaian membersihkan diri setelah buang air kecil.
 - **Ancaman Allah**: Barangsiapa yang mencari-cari kesalahan (*tajassus*) saudaranya sesama Muslim, maka Allah akan mencari-cari kesalahan dirinya, dan barangsiapa yang kesalahannya dicari oleh Allah, ia akan dihinakan meskipun ia bersembunyi di dalam rumahnya sendiri.
+- **Kategori Dosa Besar**: Dosa menjatuhkan kehormatan sesama Muslim secara lisan (*istithalah fi 'irdhil muslim*) dikategorikan sebagai salah satu dosa besar, sebagaimana hadis riwayat Ibnu Abi al-Dunya dari **[[Abu Hurayrah]]** (lihat pula **[[Menjaga Kehormatan Muslim]]**).
 
 ## Aturan bagi Pendengar Ghibah
 

@@ -8,7 +8,7 @@ aliases:
   - "Syahadatus Zuur"
   - "Perjury"
 created: 2026-06-07
-updated: 2026-06-18
+updated: 2026-06-29
 tags:
   - concept
   - hukum
@@ -18,6 +18,7 @@ related:
   - "[[Bahaya Kebohongan]]"
 sources:
   - "[[perjury]]"
+  - "[[meem_part_02]]"
 ---
 
 # Kesaksian Palsu (Syahadatus Zuur)
@@ -49,3 +50,5 @@ Kesaksian palsu merupakan kejahatan luar biasa karena mengandung beberapa dimens
 ## Sumber
 
 - [[perjury]]
+- [[meem_part_02]]
+- [[Sumpah Palsu]]

@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000219"
-title: "Nabi Daud AS"
+address: c-000219
+title: Nabi Daud AS
 entity_type: person
-role: "Nabi & Rasul Allah, Raja Bani Israil"
-first_mentioned: "[[Attachment-of-the-World-Part-2]]"
+role: Nabi & Rasul Allah, Raja Bani Israil
+first_mentioned: "[[Ketergantungan Dunia Part 2]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,10 +13,10 @@ tags:
   - nabi
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
   - "[[Nabi Sulaiman AS]]"
 sources:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 ---
 
 # Nabi Daud AS
@@ -35,4 +35,4 @@ Sebagai penguasa Bani Israil, Nabi Daud AS memberikan contoh kehidupan kezuhudan
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

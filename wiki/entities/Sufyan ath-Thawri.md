@@ -5,7 +5,7 @@ entity_type: person
 role: "Ulama Salaf / Ahli Hadis & Fiqih / Mujtahid Mutlak"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - salaf
@@ -20,6 +20,8 @@ sources:
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
 
   - [[Lives and Virtues of the Great Imams]]
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 address: c-000129
 ---
 

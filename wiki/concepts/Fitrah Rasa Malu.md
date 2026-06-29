@@ -7,7 +7,7 @@ aliases:
   - "Rasa Malu"
   - "Menutupi Aurat"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-29
 tags:
   - concept
   - tazkiyatun-nafs
@@ -16,6 +16,7 @@ related:
   - "[[Kesombongan]]"
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[meem_part_02]]"
 ---
 
 # Fitrah Rasa Malu
@@ -49,3 +50,4 @@ Dalam bahasa Arab, aurat disebut *sau-ah* (dari kata *sa'a*) karena fitrah manus
 ## Sumber
 
 - [[tafsir-sadi-iblis-adam]]
+- [[meem_part_02]]

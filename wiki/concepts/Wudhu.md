@@ -9,7 +9,7 @@ aliases:
   - Cara Berwudhu
   - Syarat Sah Shalat
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, fikih, ibadah]
 status: evergreen
 related:
@@ -19,6 +19,7 @@ related:
   - "[[Siwak]]"
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
+  - "[[meem_part_02]]"
 address: c-000197
 ---
 
@@ -61,6 +62,11 @@ Ghazali merinci urutan pelaksanaan wudhu yang sempurna:
 11. **Doa Syahadat**: Mengangkat pandangan ke langit dan mengucapkan kalimat Syahadat:
     > *"Asyhadu alla ilaha illallah wahdahu la syarika lah, wa asyhadu anna Muhammadan 'abduhu wa rasuluh..."*
 
+## Pembagian Bersuci: Madhi vs Mani
+Berdasarkan ketetapan hadits riwayat **[[Ali bin Abi Thalib]]**, terdapat perbedaan hukum bersuci antara cairan reproduksi non-urine:
+- **Madhi**: Cairan bening lengket yang keluar saat syahwat ringan. Keluarnya madhi **membatalkan wudhu** dan mewajibkan berwudhu kembali setelah mencuci kemaluan (tidak wajib mandi).
+- **Mani**: Cairan kental yang keluar secara ejakulasi. Keluarnya mani membatalkan kesucian total dan **mewajibkan mandi besar** (**[[Ghusl]]**).
+
 ## Larangan dan Kemakruhan Wudhu
 
 *   **Membasuh Lebih dari Tiga Kali**: Rasulullah ﷺ bersabda bahwa membasuh anggota wudhu melebihi 3 kali adalah perbuatan melampaui batas (*transgression*) dan zhalim.
@@ -71,3 +77,4 @@ Ghazali merinci urutan pelaksanaan wudhu yang sempurna:
 
 *   **[[Purification-of-the-Body-from-Excrements]]**
 *   **[[Taharah]]**
+*   **[[meem_part_02]]**

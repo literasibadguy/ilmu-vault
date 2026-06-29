@@ -8,7 +8,7 @@ aliases:
   - "Prophetic Nutrition"
   - "Makan Sepertiga Lambung"
 created: 2026-06-13
-updated: 2026-06-14
+updated: 2026-06-29
 tags:
   - concept
   - zuhud
@@ -21,6 +21,7 @@ related:
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Harms of Greed and Sexual Passion]]"
+  - "[[meem_part_02]]"
 ---
 
 # Kesederhanaan dalam Makan

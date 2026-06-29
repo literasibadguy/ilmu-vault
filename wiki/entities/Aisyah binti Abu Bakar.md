@@ -5,7 +5,7 @@ entity_type: person
 role: "Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: "2026-06-11"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -33,6 +33,8 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
   - "[[Major-Sin-31-Corrupt-Judgement]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

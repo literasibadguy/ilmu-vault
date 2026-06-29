@@ -7,12 +7,14 @@ aliases:
   - Penyerahan Diri
   - Kepatuhan Lahiriah
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: 2026-06-29
 tags: [concept, akidah, fikih]
 status: evergreen
 
 address: c-000172
----
+
+sources:
+  - "[[meem_part_02]]"---
 
 # Islam
 

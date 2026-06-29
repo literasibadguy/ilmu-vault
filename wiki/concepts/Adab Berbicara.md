@@ -8,7 +8,7 @@ aliases:
   - Adab al-Kalam
   - Guarding Words
 created: "2026-06-11"
-updated: "2026-06-18"
+updated: 2026-06-29
 tags:
   - concept
   - akhlak
@@ -38,6 +38,7 @@ sources:
   - "[[Harm 16 Slander and Tale Bearing]]"
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
+  - "[[meem_part_02]]"
 ---
 
 

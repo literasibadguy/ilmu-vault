@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000216"
-title: "Yunus bin Ubaid"
+address: c-000216
+title: Yunus bin Ubaid
 entity_type: person
-role: "Ulama Tabi'in & Ahli Hadis Basra"
-first_mentioned: "[[Attachment-of-the-World-Part-2]]"
+role: Ulama Tabi'in & Ahli Hadis Basra
+first_mentioned: "[[Ketergantungan Dunia Part 2]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,9 +13,9 @@ tags:
   - sejarah
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 sources:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 ---
 
 # Yunus bin Ubaid
@@ -33,4 +33,4 @@ Informasi mengenai Yunus bin Ubaid, ulama tabi'in dan ahli hadis terkemuka dari 
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

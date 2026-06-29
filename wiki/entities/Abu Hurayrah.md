@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Perawi Hadis Terbanyak"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
-updated: "2026-06-29"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -41,6 +41,8 @@ sources:
   - "[[Settle the Argument]]"
   - "[[Excellence of Learning]]"
   - "[[Attachment-of-the-World]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000221"
-title: "Haram bin Hayyan"
+address: c-000221
+title: Haram bin Hayyan
 entity_type: person
-role: "Ulama Tabi'in & Ahli Zuhud Kufah"
-first_mentioned: "[[Attachment-of-the-World-Part-3]]"
+role: Ulama Tabi'in & Ahli Zuhud Kufah
+first_mentioned: "[[Ketergantungan Dunia Part 3]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,10 +13,10 @@ tags:
   - sejarah
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
   - "[[Uwais al-Qarni]]"
 sources:
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 ---
 
 # Haram bin Hayyan
@@ -36,4 +36,4 @@ Haram bin Hayyan terkenal dalam literatur spiritual Islam karena usahanya yang k
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 3]]

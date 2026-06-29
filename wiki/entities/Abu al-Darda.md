@@ -1,8 +1,8 @@
 ---
 type: entity
-title: "Abu al-Darda"
+title: Abu al-Darda
 entity_type: person
-role: "Sahabat Nabi / Ahli Ibadah, Hakim, & Perawi Hadis"
+role: Sahabat Nabi / Ahli Ibadah, Hakim, & Perawi Hadis
 first_mentioned: "[[Excellence of Learning]]"
 created: 2026-06-26
 updated: 2026-06-29
@@ -14,10 +14,10 @@ status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Keutamaan Menuntut Ilmu]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 sources:
   - "[[Excellence of Learning]]"
-  - "[[Attachment-of-the-World-Part-3]]"
+  - "[[Ketergantungan Dunia Part 3]]"
 address: c-000089
 ---
 
@@ -35,7 +35,7 @@ Dalam pembahasan *Ihya' Ulumiddin* Bab I mengenai keutamaan ilmu:
 - **Ilmu sebagai Jihad**: Menilai menuntut ilmu setara dengan perjuangan di jalan Allah: *"Siapa yang mengira bahwa berangkat menuntut ilmu di pagi/sore hari bukanlah jihad, maka sesungguhnya ia adalah orang yang kurang akal/intelektualnya."*
 
 ## Kisah Kezuhudan
-- **Teguran Toilet 2 Dirham**: Ketika menjabat sebagai gubernur provinsi Hems, Abu al-Darda membangun sebuah toilet sederhana dengan menghabiskan biaya 2 dirham. Begitu mendengar kabar ini, Khalifah **[[Umar bin Khattab]]** mengirimkan surat teguran keras yang memperingatkan bahwa ia telah berlarut dalam kemewahan bangsa Romawi dan Persia (*Chosroes and Byzantines*), dan memerintahkan Abu al-Darda beserta keluarganya segera meninggalkan Hems menuju Damaskus (**[[Attachment-of-the-World-Part-3]]**).
+- **Teguran Toilet 2 Dirham**: Ketika menjabat sebagai gubernur provinsi Hems, Abu al-Darda membangun sebuah toilet sederhana dengan menghabiskan biaya 2 dirham. Begitu mendengar kabar ini, Khalifah **[[Umar bin Khattab]]** mengirimkan surat teguran keras yang memperingatkan bahwa ia telah berlarut dalam kemewahan bangsa Romawi dan Persia (*Chosroes and Byzantines*), dan memerintahkan Abu al-Darda beserta keluarganya segera meninggalkan Hems menuju Damaskus (**[[Ketergantungan Dunia Part 3]]**).
 
 ## Hubungan
 - [[Nabi Muhammad SAW]] — Guru spiritual utama Abu al-Darda.
@@ -44,4 +44,4 @@ Dalam pembahasan *Ihya' Ulumiddin* Bab I mengenai keutamaan ilmu:
 
 ## Sumber
 - [[Excellence of Learning]]
-- [[Attachment-of-the-World-Part-3]]
+- [[Ketergantungan Dunia Part 3]]

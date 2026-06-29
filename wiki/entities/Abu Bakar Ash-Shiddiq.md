@@ -5,7 +5,7 @@ entity_type: person
 role: "Khalifah Rasyidah Pertama / Sahabat Terdekat Nabi SAW"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: "2026-06-11"
-updated: "2026-06-23"
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -24,6 +24,8 @@ sources:
   - "[[Harm 15 Backbiting]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
   - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 

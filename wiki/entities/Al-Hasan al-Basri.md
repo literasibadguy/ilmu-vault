@@ -1,11 +1,11 @@
 ---
 type: entity
-title: "Al-Hasan al-Basri"
+title: Al-Hasan al-Basri
 entity_type: person
-role: "Ulama Tabi'in / Ahli Fiqih & Zuhud"
+role: Ulama Tabi'in / Ahli Fiqih & Zuhud
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: "2026-06-10"
-updated: "2026-06-29"
+created: 2026-06-10
+updated: 2026-06-29
 tags:
   - entity
   - tabiin
@@ -20,7 +20,7 @@ related:
   - "[[Ghibah]]"
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Keutamaan Mengajar]]"
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 sources:
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -39,7 +39,9 @@ sources:
   - "[[Excellence of Teaching]]"
   - "[[Blameworthy Sciences and Changing Meanings]]"
   - "[[Attachment-of-the-World]]"
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 
@@ -73,7 +75,7 @@ sources:
 - **Satu-satunya yang Dipertahankan di Masjid Basra**: Ketika Khalifah **[[Ali bin Abi Thalib]]** mengusir seluruh pendongeng dari Masjid Basra, hanya beliau yang diizinkan tetap berceramah karena materi khotbahnya yang murni membahas persiapan akhirat, muhasabah batin, kematian, dan tipu daya setan (**[[Dzikir]]**).
 - **Tiga Penyesalan Menjelang Ajal**: Al-Hasan al-Basri memperingatkan bahwa pencinta dunia akan meninggal dengan memikul tiga penyesalan besar: ia tidak bisa menikmati seutuhnya apa yang telah ia kumpulkan, ia tidak bisa mewujudkan apa yang dicita-citakannya, dan ia tidak mempersiapkan bekal amal yang cukup untuk akhiratnya (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
 - **Generasi Salaf Membenci Dunia**: Bersaksi bahwa beliau sempat hidup bersama kaum salaf (sahabat nabi) yang memandang dunia ini lebih hina daripada tanah becek yang terinjak di kaki, dan tidak memedulikan ke arah mana kekayaan dunia itu berputar.
-- **Perumpamaan Rombongan Gurun**: Menyampaikan riwayat nasihat Nabi SAW mengenai perumpamaan dunia bagaikan rombongan musafir gurun pasir yang kehabisan bekal; sang pemandu menawari keselamatan dengan syarat ketaatan mutlak. Sebagian taat dan selamat, sebagian ingkar dan dibinasakan musuh (**[[Attachment-of-the-World-Part-2]]**).
+- **Perumpamaan Rombongan Gurun**: Menyampaikan riwayat nasihat Nabi SAW mengenai perumpamaan dunia bagaikan rombongan musafir gurun pasir yang kehabisan bekal; sang pemandu menawari keselamatan dengan syarat ketaatan mutlak. Sebagian taat dan selamat, sebagian ingkar dan dibinasakan musuh (**[[Ketergantungan Dunia Part 2]]**).
 - **Nasihat kepada Khalifah Abdul Aziz**: Menulis surat kepada Caliph Abdul Aziz yang menegaskan bahwa dunia adalah tempat persinggahan fana yang diturunkan kepada Adam sebagai bentuk hukuman, serta menganalogikan dunia seperti racun yang mematikan bagi siapa saja yang tidak mengenalnya.
 
 ## Sumber
@@ -88,4 +90,4 @@ sources:
 - [[Excellence of Teaching]]
 - [[Blameworthy Sciences and Changing Meanings]]
 - [[Attachment-of-the-World]]
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

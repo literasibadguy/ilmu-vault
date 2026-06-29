@@ -8,7 +8,7 @@ aliases:
   - "Minuman Keras"
   - "Intoksikan"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-06-29
 tags:
   - concept
   - fikih
@@ -20,6 +20,7 @@ related:
   - "[[Ganja dan Hashish]]"
 sources:
   - "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[meem_part_01]]"
 address: c-000043
 ---
 
@@ -32,7 +33,7 @@ address: c-000043
 ## Prinsip Hukum Syariat
 
 Hukum Islam mengenai intoksikan didasarkan pada beberapa kaidah universal yang tegas:
-1. **Definisi Universal**: Khamr mencakup apa saja yang menutupi fungsi intelektual/akal sehat secara tidak wajar, tanpa memandang bahan asalnya (anggur, kurma, madu, gandum, atau bahan kimia sintesis modern).
+1. **Definisi Universal**: Khamr mencakup apa saja yang menutupi fungsi intelektual/akal sehat secara tidak wajar (*ma khamaral 'aql*), tanpa memandang bahan asalnya (anggur, kurma kering/basah, madu, gandum, jewawut, kismis, atau zat kimia modern). Pendapat mayoritas ulama (الجمهور) menegaskan definisi luas ini berdasarkan khutbah **[[Umar bin Khattab]]** dan hadits **[[Jabir bin Abdullah]]** serta **[[Ibnu Umar]]**, sekaligus membantah pendapat Kufah kuno (Abu Hanifah) yang membatasi keharaman zat khamr secara esensial hanya pada perasan anggur dan kurma tertentu saja.
 2. **Kadar Tidak Berpengaruh**: Sesuatu yang memabukkan dalam jumlah banyak, maka jumlah sedikitnya pun tetap haram (*ma askara katsiruhu fa qaliluhu haram*). Tidak ada istilah "minum sedikit agar tidak mabuk" dalam hukum Islam.
 3. **Konsekuensi Akidah**: Seseorang yang meminum khamr kehilangan kesempurnaan imannya ketika ia meneguk minuman tersebut. Pecandu khamr disamakan kedudukannya dengan penyembah berhala dalam ancaman dosa dan keharaman surga.
 

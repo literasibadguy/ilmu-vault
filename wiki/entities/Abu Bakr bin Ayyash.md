@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000217"
-title: "Abu Bakr bin Ayyash"
+address: c-000217
+title: Abu Bakr bin Ayyash
 entity_type: person
-role: "Ulama Salaf, Ahli Qira'at & Ahli Zuhud Kufah"
-first_mentioned: "[[Attachment-of-the-World-Part-2]]"
+role: Ulama Salaf, Ahli Qira'at & Ahli Zuhud Kufah
+first_mentioned: "[[Ketergantungan Dunia Part 2]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,9 +13,9 @@ tags:
   - sejarah
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 sources:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 ---
 
 # Abu Bakr bin Ayyash
@@ -33,4 +33,4 @@ Informasi mengenai Abu Bakr bin Ayyash, ulama salaf, pakar qira'at Al-Qur'an, da
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

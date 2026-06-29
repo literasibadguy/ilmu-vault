@@ -5,7 +5,7 @@ entity_type: person
 role: "Ulama Tabi'in dan Mufasir"
 first_mentioned: "[[tafsir-sadi-iblis-adam]]"
 created: 2026-06-07
-updated: 2026-06-07
+updated: 2026-06-29
 tags:
   - entity
   - tokoh
@@ -13,6 +13,8 @@ status: seed
 related: []
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 # Qatadah bin Di'amah As-Sadusi

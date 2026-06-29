@@ -5,7 +5,7 @@ entity_type: person
 role: "Pendiri Mazhab Hanbali / Imam Ahlus Sunnah"
 first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - ulama
@@ -20,6 +20,8 @@ sources:
   - "[[Excellence of Learning]]"
 
   - [[Praiseworthy and Blameworthy Branches of Knowledge]]
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 address: c-000100
 ---
 

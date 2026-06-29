@@ -5,7 +5,7 @@ entity_type: person
 role: "Tabi'ut Tabi'in, Tokoh Sufi Basra"
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-29
 tags:
   - entity
   - sufi
@@ -15,6 +15,8 @@ related:
   - "[[Kesederhanaan dalam Makan]]"
 sources:
   - "[[Harms of Greed and Sexual Passion]]"
+  - "[[meem_part_01]]"
+  - "[[meem_part_02]]"
 ---
 
 # Malik bin Dinar

@@ -1,10 +1,10 @@
 ---
 type: entity
-address: "c-000218"
-title: "Salman al-Farisi"
+address: c-000218
+title: Salman al-Farisi
 entity_type: person
-role: "Sahabat Utama Nabi SAW & Gubernur Madain"
-first_mentioned: "[[Attachment-of-the-World-Part-2]]"
+role: Sahabat Utama Nabi SAW & Gubernur Madain
+first_mentioned: "[[Ketergantungan Dunia Part 2]]"
 created: 2026-06-29
 updated: 2026-06-29
 tags:
@@ -13,10 +13,10 @@ tags:
   - sejarah
 status: seed
 related:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
   - "[[Ali bin Abi Thalib]]"
 sources:
-  - "[[Attachment-of-the-World-Part-2]]"
+  - "[[Ketergantungan Dunia Part 2]]"
 ---
 
 # Salman al-Farisi
@@ -35,4 +35,4 @@ Dalam catatan spiritual salaf, Salman menerima surat nasihat yang sangat mendala
 
 ## Sumber
 
-- [[Attachment-of-the-World-Part-2]]
+- [[Ketergantungan Dunia Part 2]]

@@ -5,7 +5,7 @@ entity_type: person
 role: "Sahabat Nabi / Utusan ke Yaman"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
 created: "2026-06-07"
-updated: "2026-06-26"
+updated: 2026-06-29
 tags:
   - entity
   - sahabat
@@ -23,6 +23,7 @@ sources:
   - "[[Harm 14 Lying and Falsehood]]"
   - "[[Major-Sin-31-Corrupt-Judgement]]"
   - "[[Excellence of Teaching]]"
+  - "[[meem_part_02]]"
 ---
 
 
