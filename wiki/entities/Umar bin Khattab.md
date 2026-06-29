@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, khalifah]
 type: entity
 title: Umar bin Khattab
 entity_type: person
@@ -6,10 +7,6 @@ role: Khalifah Rasyidah Kedua
 first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 created: 2026-06-07
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - khalifah
 status: seed
 address: c-000102
 related:
@@ -23,6 +20,9 @@ related:
   - "[[Uwais al-Qarni]]"
   - "[[Ketergantungan Dunia Part 3]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[The Ideal Husband]]"
@@ -83,6 +83,12 @@ sources:
 - **Pencarian Uwais al-Qarni**: Demi menjalankan wasiat Nabi SAW, Umar gigih mencari keberadaan **[[Uwais al-Qarni]]** di antara rombongan kabilah Irak (Murad/Qaran) dan meminta doa ampunan darinya, serta menangisi wafatnya pilar-pilar keadilan setelah meyakini kezuhudan Uwais (**[[Ketergantungan Dunia Part 3]]**).
  
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
  
 - [[pemimpin-yang-mengkhianati-rakyatnya]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]

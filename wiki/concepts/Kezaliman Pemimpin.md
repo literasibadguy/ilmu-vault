@@ -1,4 +1,6 @@
 ---
+tags: [concept, dosabesar, kepemimpinan]
+address: "c-000359"
 type: concept
 title: "Kezaliman Pemimpin"
 complexity: intermediate
@@ -8,15 +10,14 @@ aliases:
   - "Pemimpin Zalim"
 created: 2026-06-07
 updated: 2026-06-07
-tags:
-  - concept
-  - dosa-besar
-  - kepemimpinan
 status: seed
 related:
   - "[[Amanah Kepemimpinan]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
@@ -49,3 +50,19 @@ Dampak dari kezaliman pemimpin berlipat ganda karena menyangkut hak-hak orang ba
 ## Sumber
 
 - [[pemimpin-yang-mengkhianati-rakyatnya]]
+
+
+
+### Kezaliman Menutup Diri dari Hajat Rakyat
+
+Pemimpin yang sengaja menutup pintu rumah atau kantornya dari orang-orang miskin dan tertindas dikategorikan melakukan kezaliman jabatan yang besar. Ancaman bagi mereka adalah penutupan pintu langit bagi doa-doa mereka dan dihalanginya mereka dari surga di akhirat kelak (hadis riwayat Rabah). Wasiat penguasa Mesir **[[Ahmad bin Tulun]]** di alam mimpi menegaskan bahwa kezaliman terhadap rakyat kecil yang lemah lisannya tidak boleh dianggap sepele oleh para penguasa.
+
+
+### Kezaliman Menutup Diri dari Hajat Rakyat
+
+Pemimpin yang sengaja menutup pintu rumah atau kantornya dari orang-orang miskin dan tertindas dikategorikan melakukan kezaliman jabatan yang besar. Ancaman bagi mereka adalah penutupan pintu langit bagi doa-doa mereka dan dihalanginya mereka dari surga di akhirat kelak (hadis riwayat Rabah). Wasiat penguasa Mesir **[[Ahmad bin Tulun]]** di alam mimpi menegaskan bahwa kezaliman terhadap rakyat kecil yang lemah lisannya tidak boleh dianggap sepele oleh para penguasa.
+
+
+### Kezaliman Menutup Diri dari Hajat Rakyat
+
+Pemimpin yang sengaja menutup pintu rumah atau kantornya dari orang-orang miskin dan tertindas dikategorikan melakukan kezaliman jabatan yang besar. Ancaman bagi mereka adalah penutupan pintu langit bagi doa-doa mereka dan dihalanginya mereka dari surga di akhirat kelak (hadis riwayat Rabah). Wasiat penguasa Mesir **[[Ahmad bin Tulun]]** di alam mimpi menegaskan bahwa kezaliman terhadap rakyat kecil yang lemah lisannya tidak boleh dianggap sepele oleh para penguasa.

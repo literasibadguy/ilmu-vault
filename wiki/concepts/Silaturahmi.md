@@ -1,4 +1,5 @@
 ---
+tags: [concept, muamalah, akhlak]
 type: concept
 title: "Silaturahmi"
 address: "c-000225"
@@ -9,15 +10,14 @@ aliases:
   - "Hubungan Kekerabatan"
 created: 2026-06-29
 updated: 2026-06-29
-tags:
-  - concept
-  - muamalah
-  - akhlak
 status: seed
 related:
   - "[[Makarim al-Akhlaq]]"
   - "[[Berbakti Kepada Teman Orang Tua]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"
 ---
@@ -39,6 +39,33 @@ Rasulullah SAW menerangkan bahwa perintah silaturahmi adalah ajaran abadi yang j
 ## Mengapa Ini Penting
 
 Islam adalah agama yang sangat memperhatikan keutuhan ikatan keluarga. Keharmonisan sosial bermula dari keharmonisan hubungan keluarga terdekat. Menjaga kekerabatan adalah wujud nyata dari keimanan seseorang kepada Allah dan Hari Akhir.
+
+
+### Keberkahan Rezeki dan Umur Panjang
+
+Silaturahmi diakui sebagai salah satu sarana terbesar untuk memohon kemudahan hidup duniawi berupa rezeki dan umur panjang.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin dilapangkan baginya rezekinya dan dipanjangkan (ditangguhkan) baginya ajalnya (umurnya), maka hendaklah ia menyambung silaturahmi."* (Muttafaq 'Alaih dari **[[Anas bin Malik]]** & **[[Abu Hurayrah]]**).
+
+Ulama menyimpulkan bahwa panjangnya umur di sini bisa berupa pertambahan umur secara kuantitatif yang tertulis dalam catatan takdir mu'allaq malaikat, atau berupa pertambahan keberkahan secara kualitatif.
+
+
+### Keberkahan Rezeki dan Umur Panjang
+
+Silaturahmi diakui sebagai salah satu sarana terbesar untuk memohon kemudahan hidup duniawi berupa rezeki dan umur panjang.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin dilapangkan baginya rezekinya dan dipanjangkan (ditangguhkan) baginya ajalnya (umurnya), maka hendaklah ia menyambung silaturahmi."* (Muttafaq 'Alaih dari **[[Anas bin Malik]]** & **[[Abu Hurayrah]]**).
+
+Ulama menyimpulkan bahwa panjangnya umur di sini bisa berupa pertambahan umur secara kuantitatif yang tertulis dalam catatan takdir mu'allaq malaikat, atau berupa pertambahan keberkahan secara kualitatif.
+
+
+### Keberkahan Rezeki dan Umur Panjang
+
+Silaturahmi diakui sebagai salah satu sarana terbesar untuk memohon kemudahan hidup duniawi berupa rezeki dan umur panjang.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin dilapangkan baginya rezekinya dan dipanjangkan (ditangguhkan) baginya ajalnya (umurnya), maka hendaklah ia menyambung silaturahmi."* (Muttafaq 'Alaih dari **[[Anas bin Malik]]** & **[[Abu Hurayrah]]**).
+
+Ulama menyimpulkan bahwa panjangnya umur di sini bisa berupa pertambahan umur secara kuantitatif yang tertulis dalam catatan takdir mu'allaq malaikat, atau berupa pertambahan keberkahan secara kualitatif.
 
 ## Hubungan
 

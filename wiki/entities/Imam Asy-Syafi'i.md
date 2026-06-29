@@ -1,4 +1,5 @@
 ---
+tags: [entity, ulama, mazhab]
 type: entity
 title: "Imam Asy-Syafi'i"
 entity_type: person
@@ -6,16 +7,15 @@ role: "Pendiri Mazhab Syafi'i / Pembaharu Islam"
 first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-29
-tags:
-  - entity
-  - ulama
-  - mazhab
 status: seed
 related:
   - "[[Imam Ahmad bin Hanbal]]"
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -46,6 +46,12 @@ address: c-000099
 - **Takut kepada Allah (Khauf)**: Jatuh pingsan gemetar hebat di bukit Safa mendengar pembacaan surah Al-Mursalat ayat 35 (**[[Harits bin Labid]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Urgensi Kesabaran dalam Al-Qur'an]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]

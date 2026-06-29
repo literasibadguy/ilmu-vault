@@ -1,4 +1,6 @@
 ---
+tags: [entity, tokoh, sahabat]
+address: "c-000363"
 type: entity
 title: "Anas bin Malik"
 entity_type: person
@@ -6,10 +8,6 @@ role: "Sahabat Nabi / Pelayan Rasulullah"
 first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
 created: "2026-06-11"
 updated: 2026-06-29
-tags:
-  - entity
-  - tokoh
-  - sahabat
 status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
@@ -19,6 +17,10 @@ related:
   - "[[Ghibah]]"
   - "[[Raja' dan Khauf]]"
 sources:
+  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Regarding His Guidance in Prayer]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -45,6 +47,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Kedermawanan Luar Biasa Nabi**: Meriwayatkan kebaikan hati Nabi Muhammad SAW yang menyedekahkan seisi lembah kambing zakat kepada seorang pengemis, menumbuhkan kecintaan mendalam terhadap keadilan Islam (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
+
 - **Dekat dengan Keseharian Nabi**: Berkat khidmatnya kepada Nabi SAW sejak kecil, beliau merekam banyak detail kebiasaan, doa, dan sifat pribadi Rasulullah SAW secara intim.
 - **Hadis Istia'dzah**: Meriwayatkan doa perlindungan Rasulullah yang sangat masyhur dari delapan penyakit hati dan mental, termasuk dari kelemahan (*al-'ajz*) dan kemalasan (*al-kasal*) (**[[Al-Ajz wal Kasal]]**).
 - **Hadis Ketenangan Shalat Nabi**: Meriwayatkan kesaksian mengenai lamanya berdiri iktidal setelah ruku' dan duduk di antara dua sujud Nabi SAW yang sangat tumakninah hingga sahabat menduga beliau lupa (**[[Sifat Shalat Nabi]]**).
@@ -59,6 +63,14 @@ sources:
 - **Hadits Majelis Dzikir dan Faqih**: Meriwayatkan hadits keutamaan duduk di majelis dzikir dari Subuh hingga terbit matahari lebih dicintai daripada memerdekakan empat orang budak, serta penjelasan bahwa seseorang tidak menjadi faqih sejati kecuali ia membuat manusia memahami keberadaan Allah (**[[Dzikir]]** dan **[[Fiqh]]**).
 
 ## Sumber
+
+- [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Regarding His Guidance in Prayer]]

@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, perawi]
 type: entity
 title: "Ibnu Mas'ud"
 entity_type: person
@@ -6,10 +7,6 @@ role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - perawi
 status: seed
 address: c-000096
 related:
@@ -20,6 +17,9 @@ related:
   - "[[Zuhud]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Neglect of the Prayer]]"
@@ -59,6 +59,12 @@ sources:
 - **Lamentasi Wafatnya Umar**: Mengungkapkan duka terdalam atas kematian Khalifah Umar bin Khattab dengan menyatakan bahwa sembilan persepuluh dari seluruh ilmu agama telah ikut hilang bersama kepergiannya (**[[Ilm]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Supplications That Are Most Likely Answered]]

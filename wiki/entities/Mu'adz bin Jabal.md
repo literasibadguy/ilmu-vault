@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat]
 type: entity
 title: "Mu'adz bin Jabal"
 entity_type: person
@@ -6,9 +7,6 @@ role: "Sahabat Nabi / Utusan ke Yaman"
 first_mentioned: "[[Pemimpin yang Mengkhianati Rakyatnya]]"
 created: "2026-06-07"
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
 status: seed
 address: c-000105
 related:
@@ -16,6 +14,9 @@ related:
   - "[[Ghibah]]"
   - "[[Keutamaan Mengajar]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Regarding His Guidance in Prayer]]"
   - "[[Meaning and Definitions of Backbiting]]"
@@ -45,6 +46,12 @@ sources:
 - **Perkataan tentang Ta'lim**: Menyatakan bahwa mengajarkan ilmu kepada orang yang belum mengetahuinya adalah sedekah rohani (*alms-giving*), dan mengajarkannya kepada yang berhak adalah jalan mendekatkan diri kepada Allah (**[[Excellence of Teaching]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
 - [[Regarding His Guidance in Prayer]]

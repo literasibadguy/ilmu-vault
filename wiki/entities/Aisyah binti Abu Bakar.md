@@ -1,4 +1,6 @@
 ---
+tags: [entity, tokoh, sahabat, perawi]
+address: "c-000365"
 type: entity
 title: "Aisyah binti Abu Bakar"
 entity_type: person
@@ -6,11 +8,6 @@ role: "Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama"
 first_mentioned: "[[Regarding His Guidance in Prayer]]"
 created: "2026-06-11"
 updated: 2026-06-29
-tags:
-  - entity
-  - tokoh
-  - sahabat
-  - perawi
 status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
@@ -22,6 +19,10 @@ related:
   - "[[Ghibah]]"
   - "[[Sakaratul Maut]]"
 sources:
+  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Regarding His Guidance in Prayer]]"
   - "[[The Ideal Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -48,6 +49,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Kesederhanaan Makanan Nabi**: Meriwayatkan bahwa keluarga Rasulullah SAW tidak pernah makan kenyang selama berhari-hari berturut-turut, mempraktikkan zuhud dan isar pada tingkat tertinggi (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
+
 - **Periwayat Ibadah Rumah Tangga**: Menjadi rujukan utama fiqih mengenai detail shalat malam (*tahajud*), tata cara wudhu, dan adab rumah tangga Nabi SAW.
 - **Teguran Ghibah Secara Langsung**: Mengisahkan dirinya ditegur keras oleh Nabi SAW karena mengomentari postur pendek seorang wanita. Nabi SAW memperingatkannya bahwa ucapannya tersebut sangat busuk hingga dapat mencemari air laut jika dicampurkan ke dalamnya, mendefinisikan batas tegas keharaman **[[Ghibah]]**.
 - **Teguran Ghibah Non-Verbal & Mimikri**: Mengisahkan bahwa ia pernah mengisyaratkan dengan tangannya untuk menunjukkan bahwa seorang tamu wanita bertubuh pendek, lalu Nabi SAW bersabda, "Kamu telah melakukan ghibah terhadapnya." Beliau juga ditegur oleh Nabi SAW saat meniru gerakan fisik seseorang, di mana Nabi bersabda bahwa beliau tidak akan senang meniru orang lain meskipun diberi imbalan besar, menegaskan keharaman ghibah non-verbal dan tindakan peniruan fisik (**[[Backbiting Not Limited to Speech]]**).
@@ -63,6 +66,14 @@ sources:
 - Meriwayatkan hadis tentang beratnya hisab bagi hakim yang adil di hari Kiamat hingga berharap tidak pernah menghakimi perkara walau sebutir kurma (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Sumber
+
+- [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Regarding His Guidance in Prayer]]
 - [[The Ideal Husband]]

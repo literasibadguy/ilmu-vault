@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, perawi]
 type: entity
 title: "Abu Hurayrah"
 entity_type: person
@@ -6,10 +7,6 @@ role: "Sahabat Nabi / Perawi Hadis Terbanyak"
 first_mentioned: "[[Pride]]"
 created: "2026-06-07"
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - perawi
 status: seed
 address: c-000101
 related:
@@ -25,6 +22,9 @@ related:
   - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Pride]]"
   - "[[Showing Off]]"
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
@@ -74,6 +74,12 @@ sources:
 - **Kisah Lembah Bangkai (Visualisasi Hakikat Dunia)**: Abu Hurayrah meriwayatkan bahwa Rasulullah ﷺ pernah menggandeng tangannya pergi ke sebuah lembah di Madinah yang penuh dengan bangkai hewan, kotoran manusia, pakaian usang, dan tulang-tulang lapuk. Nabi ﷺ bersabda: *"Wahai Abu Hurayrah, apakah engkau ingin melihat dunia?"* Beliau menunjukkan bahwa semua kotoran itu dahulunya adalah makanan lezat, pakaian indah, dan tubuh manusia yang megah, yang kini berakhir mengenaskan. Beliau bersabda: *"Menangislah atas kondisi dunia ini jika engkau ingin menangis."* (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Pride]]
 - [[Showing Off]]

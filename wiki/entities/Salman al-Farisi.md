@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, sejarah]
 type: entity
 address: c-000218
 title: Salman al-Farisi
@@ -7,15 +8,12 @@ role: Sahabat Utama Nabi SAW & Gubernur Madain
 first_mentioned: "[[Ketergantungan Dunia Part 2]]"
 created: 2026-06-29
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - sejarah
 status: seed
 related:
   - "[[Ketergantungan Dunia Part 2]]"
   - "[[Ali bin Abi Thalib]]"
 sources:
+  - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Ketergantungan Dunia Part 2]]"
 ---
 
@@ -35,4 +33,10 @@ Dalam catatan spiritual salaf, Salman menerima surat nasihat yang sangat mendala
 
 ## Sumber
 
+- [[Chapter_VII_Part_1_Love_for_Wealth]]
+
 - [[Ketergantungan Dunia Part 2]]
+
+
+## Fakta Kunci
+- **Peringatan Tanggung Jawab Harta**: Menulis surat kepada Abu al-Darda agar tidak menimbun harta duniawi karena orang yang membawa harta haram akan dijerat hartanya di leher saat menyeberangi jembatan sirath pada hari kiamat (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).

@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-06-29"
+updated: "2026-06-30"
 tags:
   - meta
   - overview
@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
  
- - Sumber diimpor (ingested): 78
- - Halaman wiki: 505
- - Aktivitas terakhir: 2026-06-29 (Mengimpor hadits-hadits moralitas, hukum sosial, dan adab muamalah dari syarah Fayd al-Qadir Volume 6 karya Al-Munawi)
+ - Sumber diimpor (ingested): 82
+ - Halaman wiki: 538
+ - Aktivitas terakhir: 2026-06-30 (Mengimpor ringkasan Bab VII Bagian 3 Ihya Ulumuddin mengenai celaan kikir, derajat isar, dan keutamaan kemiskinan)
 
 ---
 

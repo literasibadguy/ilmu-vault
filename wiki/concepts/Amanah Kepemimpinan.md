@@ -1,4 +1,6 @@
 ---
+tags: [concept, kepemimpinan, siyasah]
+address: "c-000358"
 type: concept
 title: "Amanah Kepemimpinan"
 complexity: intermediate
@@ -8,15 +10,14 @@ aliases:
   - "Amanah Pemimpin"
 created: 2026-06-07
 updated: 2026-06-07
-tags:
-  - concept
-  - kepemimpinan
-  - siyasah
 status: seed
 related:
   - "[[Kezaliman Pemimpin]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 ---
 
@@ -44,3 +45,31 @@ Amanah kepemimpinan menentukan keselamatan kolektif suatu masyarakat. Jika amana
 ## Sumber
 
 - [[pemimpin-yang-mengkhianati-rakyatnya]]
+
+
+
+### Larangan Pemimpin Menutup Diri (Hicab)
+
+Salah satu bentuk pengkhianatan terbesar terhadap amanah kekuasaan adalah ketika seorang pemimpin menutup akses komunikasi bagi rakyat jelata dan menolak mendengarkan keluhan orang-orang yang tertindas.
+Nabi SAW bersabda:
+> *"Barangsiapa menutup diri (sebagai pemimpin) dari manusia (rakyat), maka Allah tidak akan menutupinya dari siksa api neraka (menghalanginya dari masuk surga)."* (HR. Ibnu Mandah dari Rabah).
+
+Para pemimpin yang angkuh dan membangun sekat birokrasi tebal sehingga rakyat kecil terhambat mencari keadilan akan dibalas dengan terhalanginya mereka dari rahmat Allah di akhirat nanti, sebagaimana dikisahkan dalam riwayat pertemuan mimpi dengan penguasa Mesir **[[Ahmad bin Tulun]]**.
+
+
+### Larangan Pemimpin Menutup Diri (Hicab)
+
+Salah satu bentuk pengkhianatan terbesar terhadap amanah kekuasaan adalah ketika seorang pemimpin menutup akses komunikasi bagi rakyat jelata dan menolak mendengarkan keluhan orang-orang yang tertindas.
+Nabi SAW bersabda:
+> *"Barangsiapa menutup diri (sebagai pemimpin) dari manusia (rakyat), maka Allah tidak akan menutupinya dari siksa api neraka (menghalanginya dari masuk surga)."* (HR. Ibnu Mandah dari Rabah).
+
+Para pemimpin yang angkuh dan membangun sekat birokrasi tebal sehingga rakyat kecil terhambat mencari keadilan akan dibalas dengan terhalanginya mereka dari rahmat Allah di akhirat nanti, sebagaimana dikisahkan dalam riwayat pertemuan mimpi dengan penguasa Mesir **[[Ahmad bin Tulun]]**.
+
+
+### Larangan Pemimpin Menutup Diri (Hicab)
+
+Salah satu bentuk pengkhianatan terbesar terhadap amanah kekuasaan adalah ketika seorang pemimpin menutup akses komunikasi bagi rakyat jelata dan menolak mendengarkan keluhan orang-orang yang tertindas.
+Nabi SAW bersabda:
+> *"Barangsiapa menutup diri (sebagai pemimpin) dari manusia (rakyat), maka Allah tidak akan menutupinya dari siksa api neraka (menghalanginya dari masuk surga)."* (HR. Ibnu Mandah dari Rabah).
+
+Para pemimpin yang angkuh dan membangun sekat birokrasi tebal sehingga rakyat kecil terhambat mencari keadilan akan dibalas dengan terhalanginya mereka dari rahmat Allah di akhirat nanti, sebagaimana dikisahkan dalam riwayat pertemuan mimpi dengan penguasa Mesir **[[Ahmad bin Tulun]]**.

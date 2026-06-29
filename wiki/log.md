@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-06-29"
+updated: "2026-06-30"
 tags:
   - meta
   - log
@@ -15,6 +15,27 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-06-30] Ingest: Chapter_VII_Part_3 (Ihya Ulumuddin Book VII)
+- Sumber: `.raw/Chapter_VII_Part_3_Miserliness_and_Poverty.md`
+- Ringkasan: [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
+- Halaman dibuat: [[Chapter_VII_Part_3_Miserliness_and_Poverty]], [[Kikir]], [[Isar]], [[Keutamaan Kemiskinan]], [[Iskandar Zulkarnain]]
+- Halaman diperbarui: [[Zuhud]], [[Anas bin Malik]], [[Aisyah binti Abu Bakar]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan kekikiran, derajat isar, dan keutamaan kemiskinan dari Ihya' Ulumiddin karya Imam Al-Ghazali. Menjabarkan sifat kikir sebagai dahan pohon neraka dan dermawan sebagai pohon surga. Menjelaskan konsep isar sebagai derajat pengorbanan tertinggi penyingkir kikir. Mengurai keutamaan kemiskinan dalam meringankan hisab akhirat laksana dialog filosofis Iskandar Zulkarnain dengan kaum asketis pemakaman.
+
+## [2026-06-30] Ingest: Chapter_VII_Part_1 & Part_2 (Ihya Ulumuddin Book VII)
+- Sumber: `.raw/Chapter_VII_Part_1_Love_for_Wealth.md`, `.raw/Chapter_VII_Part_2_Greed_for_Wealth.md`
+- Ringkasan: [[Chapter_VII_Part_1_Love_for_Wealth]], [[Chapter_VII_Part_2_Greed_for_Wealth]]
+- Halaman dibuat: [[Chapter_VII_Part_1_Love_for_Wealth]], [[Chapter_VII_Part_2_Greed_for_Wealth]], [[Manfaat Harta]], [[Bahaya Harta]], [[Tiga Tingkatan Karunia Spiritual]], [[Terapi Penyakit Tamak]], [[Muhammad bin Ka'b]], [[Abdul Wahed]]
+- Halaman diperbarui: [[Cinta Dunia]], [[Zuhud]], [[Salman al-Farisi]], [[Abu al-Darda]], [[Umar bin Abdul Aziz]], [[Al-Hasan al-Basri]], [[Yahya bin Mu'adh]], [[Abu Hazim al-A'raj]], [[Muhammad ibn Wasi']], [[Ash-Shibli]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan cinta harta dan obat ketamakan dari Ihya' Ulumiddin karya Imam Al-Ghazali. Menjabarkan hirarki nikmat karunia spiritual (Jiwa, Jasad, Luar Jasad). Mengurai klasifikasi manfaat harta secara keagamaan dan duniawi beserta bahaya kelalaian yang ditimbulkannya. Menyusun formula lima resep praktis penjinak tamak (hidup hemat, kurangi angan-angan rezeki, jaga kemandirian batin, teladani salaf, jauhi penimbunan) beserta kisah-kisah asketik ulama salaf.
+
+## [2026-06-30] Ingest: meem_part_06.md (Commentary on Fayd al-Qadir Volume 6)
+- Sumber: `.raw/meem_part_06.md`
+- Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 06]]
+- Halaman dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 06]], [[Syahid]], [[Cinta karena Allah]], [[Keutamaan Istighfar]], [[Fikih dan Waktu Hijamah]], [[Larangan Ikhtikar]], [[Larangan Bid'ah dalam Islam]], [[Keutamaan Masjidil Aqsa]], [[Durhaka Kepada Orang Tua]], [[Kesalehan Batin]], [[Kedudukan Bahasa Arab dalam Islam]], [[Keutamaan Belajar Memanah]], [[Menghidupkan Malam-Malam Mulia]], [[Keutamaan Masuk Islam]], [[Zubair bin al-Awwam]], [[Rabah]], [[Ahmad bin Tulun]], [[Ma'qil bin Yasar]], [[Abu Ja'far an-Naysaburi]], [[Yahya bin Said]]
+- Halaman diperbarui: [[Berbakti Kepada Teman Orang Tua]], [[Silaturahmi]], [[Amanah Kepemimpinan]], [[Kezaliman Pemimpin]], [[Perlindungan dan Pengasuhan Anak Yatim]], [[Riya]], [[Umm Salamah]], [[Talhah bin Ubaidillah]], [[Jabir bin Abdullah]], [[Ibnu Umar]], [[Abu Hurayrah]], [[Anas bin Malik]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Ibnu Abbas]], [[Umar bin Khattab]], [[Imam Asy-Syafi'i]], [[Mu'adz bin Jabal]], [[Abdullah bin Amr]], [[Aisyah binti Abu Bakar]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor bagian keenam huruf Meem dari syarah Fayd al-Qadir karya Al-Munawi. Menyusun konsep syahid perang dan syahid akhirat, keutamaan agung sahabat Talhah bin Ubaidillah sebagai syahid hidup yang berjalan di bumi. Menjabarkan cinta karena Allah sebagai parameter utama untuk merasakan manisnya iman. Menyusun konsep keutamaan istighfar sebagai penghias catatan amal hari kiamat dan penjelas perbedaan konseptual antara istighfar (lisan/doa) dan taubat (penyesalan/berhenti). Menyusun fikih dan waktu hijamah (bekam sunnah pada tanggal 17, 19, 21 Hijriah dan hari Selasa 17 Hijriah; makruh bekam Rabu/Sabtu karena risiko barash/belang, Kamis/kematian) beserta kisah berharga ulama sufi Abu Ja'far an-Naysaburi yang diuji belang akibat meremehkan hadis bekam Rabu. Menegaskan larangan keras ikhtikar (menimbun bahan pokok pangan publik demi keuntungan sepihak) yang diancam penyakit kusta, kebangkrutan, lepasnya jaminan perlindungan Allah, serta sedekah hasil timbunan ditolak. Menjabarkan kaidah ushul hadis Aisyah tentang penolakan segala bid'ah (perkara baru yang dhalalah dalam ritual agama), penjelasan arti rad (tertolak/batil), perbedaan perkara baru terpuji (kodifikasi Quran, sekolah, dakwah) dengan bid'ah tercela. Menetapkan keutamaan berihram haji/umrah dari Masjidil Aqsa (Baitul Maqdis) berbuah pengampunan dosa total laksana bayi baru lahir. Menjelaskan durhaka kepada orang tua (uquq) meliputi ihzanul walidain (membuat orang tua sedih/menangis). Menegaskan fadhilah pengasuhan anak yatim dekat dengan Nabi di surga laksana dua jari. Mencegah riya' shalat berupa memperbagus shalat di depan manusia namun memperburuk saat sunyi sebagai bentuk pelecehan kepada Allah. Menyusun konsep keutamaan masuk Islam yang tulus berbuah peleburan total dosa Jahiliyah (hadis Ibnu Mas'ud). Menyusun prinsip kesalehan batin (ishlahus sarirah) di mana perbaikan hubungan dengan Allah berbuah otomatis perbaikan lahiriah dan hubungan dengan sesama manusia. Menegaskan kedudukan tinggi bahasa Arab sebagai syiar Islam serta kemakruhan berbahasa ajam (Persia/asing) tanpa hajat bagi yang fasih. Menetapkan keterampilan memanah sebagai nikmat fisik dari Allah yang makruh dilupakan setelah dipelajari. Menyusun fadhilah ibadah menghidupkan malam-malam mulia (Tarwiyah, Arafah, Nahr, Fitri) berbuah jaminan surga, serta doa istijabah di lima malam istimewa menurut Imam Asy-Syafi'i.
 
 ## [2026-06-29] ingest | Ingest: meem_part_05.md (Commentary on Fayd al-Qadir Volume 6)
 - Sumber: `.raw/meem_part_05.md`

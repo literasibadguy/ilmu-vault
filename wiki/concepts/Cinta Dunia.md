@@ -1,4 +1,5 @@
 ---
+tags: [concept, tazkiyah, akhlak, penyakithati]
 type: concept
 address: c-000206
 title: Cinta Dunia
@@ -9,11 +10,6 @@ aliases:
   - Kecintaan Dunia
 created: 2026-06-29
 updated: 2026-06-29
-tags:
-  - concept
-  - tazkiyah
-  - akhlak
-  - penyakit-hati
 status: seed
 related:
   - "[[Zuhud]]"
@@ -62,7 +58,18 @@ Untuk mengatasi penyakit cinta dunia, para ulama memberikan panduan praktis:
 3. **Mengingat Kematian**: Menyadari bahwa setiap manusia terus hanyut menjauhi awal kelahirannya (dunia) dan berjalan mendekati ajal serta liang kubur (**[[Mengingat Maut]]**).
 4. **Menjual Dunia untuk Akhirat**: Menjadikan setiap aset duniawi sebagai instrumen investasi akhirat (seperti sedekah dan wakaf) sehingga mendapatkan keuntungan di kedua negeri.
 
+
+## Tambahan Konteks Ihya Jilid 3 Bab 7 (Cinta Harta)
+
+Berdasarkan penjelasan **[[Imam Al-Ghazali]]** dalam *Ihya' Ulumiddin*, cinta terhadap harta merupakan cabang utama dari penyakit cinta dunia yang memiliki implikasi berikut:
+1. **Parameter Madu dan Racun**: Harta diibaratkan seperti ular berbisa; ia memiliki madu (manfaat ibadah dan sedekah jariyah) serta racun (kemewahan melalaikan dan pintu gerbang kemaksiatan) (**[[Manfaat Harta]]**, **[[Bahaya Harta]]**).
+2. **Kecaman Ulama Salaf**:
+   - **[[Al-Hasan al-Basri]]** menegaskan bahwa Allah akan menghinakan siapa saja yang memuja emas dan perak. Beliau meriwayatkan iblis mencium koin pertama seraya berkata, *"Siapa yang mencintaimu adalah budakku yang sejati."*
+   - **[[Yahya bin Mu'adh]]** memperingatkan bahwa harta laksana ular berbisa yang tidak boleh disentuh kecuali oleh yang mahir penawarnya (mencari secara halal dan membelanjakan di jalan Allah).
+   - **[[Salman al-Farisi]]** memperingatkan **[[Abu al-Darda]]** bahwa orang yang menimbun harta haram atau tidak menunaikan hak Allah akan dijerat hartanya di leher saat menyeberangi jembatan sirath.
+
 ## Sumber
+- [[Chapter_VII_Part_1_Love_for_Wealth]]
 
 - [[Attachment-of-the-World]]
 - [[Ketergantungan Dunia Part 2]]

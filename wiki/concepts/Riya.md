@@ -1,4 +1,6 @@
 ---
+tags: [concept, akhlak, penyakithati]
+address: "c-000360"
 type: concept
 title: "Riya"
 complexity: intermediate
@@ -10,15 +12,14 @@ aliases:
   - "Pencitraan"
 created: 2026-06-10
 updated: 2026-06-10
-tags:
-  - concept
-  - akhlak
-  - penyakit-hati
 status: seed
 related:
   - "[[Syirik Asghar]]"
   - "[[Ikhlas]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Showing Off]]"
 ---
 
@@ -54,3 +55,31 @@ Riya' adalah salah satu dosa besar hati yang paling merusak. Karakteristik bahay
 ## Sumber
 
 - [[Showing Off]]
+
+
+
+### Riya dalam Shalat (Mencemooh Rabb)
+
+Riya dalam shalat tecermin dari perbedaan kekhusyukan seseorang saat dilihat manusia dengan saat ia bersendirian.
+Nabi SAW bersabda:
+> *"Barangsiapa memperbagus shalatnya ketika dilihat manusia, lalu memperburuk shalatnya ketika ia bersendirian (sunyi), maka tindakan tersebut merupakan bentuk penghinaan/pelecehan yang ia lakukan terhadap Rabbnya."* (HR. Al-Bayhaqi & Ibnu Majah dari **[[Ibnu Mas'ud]]**).
+
+Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.
+
+
+### Riya dalam Shalat (Mencemooh Rabb)
+
+Riya dalam shalat tecermin dari perbedaan kekhusyukan seseorang saat dilihat manusia dengan saat ia bersendirian.
+Nabi SAW bersabda:
+> *"Barangsiapa memperbagus shalatnya ketika dilihat manusia, lalu memperburuk shalatnya ketika ia bersendirian (sunyi), maka tindakan tersebut merupakan bentuk penghinaan/pelecehan yang ia lakukan terhadap Rabbnya."* (HR. Al-Bayhaqi & Ibnu Majah dari **[[Ibnu Mas'ud]]**).
+
+Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.
+
+
+### Riya dalam Shalat (Mencemooh Rabb)
+
+Riya dalam shalat tecermin dari perbedaan kekhusyukan seseorang saat dilihat manusia dengan saat ia bersendirian.
+Nabi SAW bersabda:
+> *"Barangsiapa memperbagus shalatnya ketika dilihat manusia, lalu memperburuk shalatnya ketika ia bersendirian (sunyi), maka tindakan tersebut merupakan bentuk penghinaan/pelecehan yang ia lakukan terhadap Rabbnya."* (HR. Al-Bayhaqi & Ibnu Majah dari **[[Ibnu Mas'ud]]**).
+
+Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.

@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, khalifah]
 type: entity
 title: Ali bin Abi Thalib
 entity_type: person
@@ -6,10 +7,6 @@ role: Sahabat Nabi / Khalifah Rasyidah Keempat / Otoritas Fiqih & Hikmah
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - khalifah
 status: seed
 address: c-000094
 related:
@@ -21,6 +18,9 @@ related:
   - "[[Salman al-Farisi]]"
   - "[[Ketergantungan Dunia Part 2]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Showing Off]]"
   - "[[Supplications That Are Most Likely Answered]]"
   - "[[Neglect of the Prayer]]"
@@ -61,6 +61,12 @@ sources:
 - **Enam Sifat Penyelamat**: Menerangkan bahwa barang siapa yang memiliki enam sifat berikut maka ia telah mencukupi syarat keselamatan menuju surga: menaati Allah setelah mengenal-Nya, mengikuti kebenaran setelah memahaminya, memusuhi setan setelah mengetahuinya, menjauhi kebatilan setelah menyadarinya, melepaskan dunia setelah menyadari kehinaannya, dan mencari akhirat setelah memahami kekekalannya.
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Showing Off]]
 - [[Supplications That Are Most Likely Answered]]

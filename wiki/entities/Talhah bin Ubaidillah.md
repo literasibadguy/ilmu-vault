@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, dermawan]
 address: c-000058
 type: entity
 title: "Talhah bin Ubaidillah"
@@ -7,15 +8,14 @@ role: "Sahabat Nabi / Sepuluh yang Dijamin Surga"
 first_mentioned: "[[Settle the Argument]]"
 created: 2026-06-21
 updated: 2026-06-21
-tags:
-  - entity
-  - sahabat
-  - dermawan
 status: seed
 related:
   - "[[Abdur-Rahman Ibn Awf]]"
   - "[[Abu Al-Faraj Ibn Al-Jawzi]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Settle the Argument]]"
 ---
 
@@ -30,5 +30,11 @@ sources:
 - **Kekayaan Halal yang Melimpah**: Meninggalkan warisan emas yang sangat besar setelah wafatnya (setara muatan emas 300 unta). Riwayat ini digunakan ulama untuk membantah kaum asketis ekstrem yang antipati terhadap pengumpulan harta halal oleh kaum beriman.
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Settle the Argument]]

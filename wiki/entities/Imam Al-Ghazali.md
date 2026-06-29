@@ -1,4 +1,5 @@
 ---
+tags: [entity, ulama, sufi]
 type: entity
 title: Imam Al-Ghazali
 entity_type: person
@@ -6,10 +7,6 @@ role: Ulama, Teolog, Filosof, dan Sufi Master
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
 created: 2026-06-14
 updated: 2026-06-29
-tags:
-  - entity
-  - ulama
-  - sufi
 status: seed
 address: c-000093
 related:
@@ -19,6 +16,7 @@ related:
   - "[[Ghibah]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[Excellence of Learning]]"
   - "[[Harms of Greed and Sexual Passion]]"
   - "[[Censure of Backbiting]]"
@@ -62,6 +60,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Kajian tentang Kikir dan Isar**: Membedah sifat kikir (*miserliness*) sebagai penyakit rohani pemutus kedermawanan dan memuji isar sebagai kedermawanan spiritual tingkat tertinggi (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
+
 - **Karya Utama**: Menulis kitab *Ihya' Ulumiddin*, di mana Kitab Pematah Dua Syahwat (*Greed for Food and Sexual Passion*) merupakan salah satu bab di dalamnya yang mendeskripsikan bahaya nafsu perut dan birahi.
 - **Kajian Keutamaan Belajar**: Mengkaji pentingnya menuntut ilmu (*Acquisition of Knowledge*) serta meninggikan derajat orang berilmu di atas orang mukmin biasa dan ahli ibadah dalam Bab I *Ihya' Ulumiddin* (**[[Excellence of Learning]]**).
 - **Kajian Bencana Lisan (Ghibah)**: Menguraikan bab bencana lisan kelima belas tentang bahaya **[[Ghibah]]**, mengklasifikasikan wilayah ghibah secara rinci (fisik, nasab, moral, agama, dunia, pakaian), serta menerangkan dosa ghibah yang lebih berat dibanding zina.
@@ -85,6 +85,8 @@ sources:
 - [[Ghibah]] — Bencana lisan yang dikaji mendalam oleh beliau sebagai perusak persaudaraan Islam.
 
 ## Sumber
+
+- [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 
 - [[Harms of Greed and Sexual Passion]]
 - [[Censure of Backbiting]]

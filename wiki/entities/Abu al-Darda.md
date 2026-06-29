@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, perawi]
 type: entity
 title: Abu al-Darda
 entity_type: person
@@ -6,16 +7,13 @@ role: Sahabat Nabi / Ahli Ibadah, Hakim, & Perawi Hadis
 first_mentioned: "[[Excellence of Learning]]"
 created: 2026-06-26
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - perawi
 status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Ketergantungan Dunia Part 3]]"
 sources:
+  - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Excellence of Learning]]"
   - "[[Ketergantungan Dunia Part 3]]"
 address: c-000089
@@ -43,5 +41,11 @@ Dalam pembahasan *Ihya' Ulumiddin* Bab I mengenai keutamaan ilmu:
 - [[Umar bin Khattab]] — Khalifah yang mengawasinya dengan ketat demi menjaga kemurnian kezuhudan para gubernur.
 
 ## Sumber
+
+- [[Chapter_VII_Part_1_Love_for_Wealth]]
 - [[Excellence of Learning]]
 - [[Ketergantungan Dunia Part 3]]
+
+
+## Fakta Kunci
+- **Penerima Surat Salman al-Farisi**: Menerima surat dari Salman al-Farisi yang berisi peringatan keras mengenai bahaya menimbun harta yang melebihi kebutuhan penopang ibadah (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).

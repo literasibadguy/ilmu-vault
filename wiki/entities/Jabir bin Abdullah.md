@@ -1,4 +1,6 @@
 ---
+tags: [entity, sahabat, perawi]
+address: "c-000361"
 type: entity
 title: "Jabir bin Abdullah"
 entity_type: person
@@ -6,16 +8,15 @@ role: "Sahabat Nabi / Perawi Hadis"
 first_mentioned: "[[Censure of Backbiting]]"
 created: "2026-06-16"
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - perawi
 status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ghibah]]"
   - "[[Husnudzon Kepada Allah]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
@@ -43,6 +44,12 @@ sources:
 - Meriwayatkan hadis tentang larangan menyedekahkan hasil perdagangan haram (seperti khamr/miras) karena tidak diterima Allah (**[[Major-Sin-27-Tax-Collecting]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Censure of Backbiting]]
 - [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]

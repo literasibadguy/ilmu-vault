@@ -1,4 +1,6 @@
 ---
+tags: [entity, tokoh, sahabat]
+address: "c-000368"
 type: entity
 title: Umm Salamah
 entity_type: person
@@ -6,15 +8,12 @@ role: Ummul Mukminin / Istri Nabi SAW
 first_mentioned: "[[The Ideal Husband]]"
 created: 2026-06-12
 updated: 2026-06-12
-tags:
-  - entity
-  - tokoh
-  - sahabat
 status: seed
 related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Adab Terhadap Istri]]"
 sources:
+  - "[[meem_part_06]]"
   - "[[The Ideal Husband]]"
 - "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
@@ -32,6 +31,8 @@ sources:
 - **Hadis Keharaman Khamr Sebagai Obat**: Meriwayatkan hadis penolakan Nabi SAW terhadap pembuatan obat berbahan fermentasi memabukkan (nabidh) untuk putrinya yang sakit, menegaskan kesembuhan tidak diletakkan pada zat haram (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
 
 - [[The Ideal Husband]]
 - [[Major-Sin-19-Drinking-Alcohol]]

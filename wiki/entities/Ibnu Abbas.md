@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, tafsir]
 type: entity
 title: "Ibnu Abbas"
 entity_type: person
@@ -6,10 +7,6 @@ role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
 updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
-  - tafsir
 status: seed
 address: c-000095
 related:
@@ -22,6 +19,9 @@ related:
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Keutamaan Mengajar]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[The Ideal Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -78,6 +78,12 @@ sources:
 - **Permohonan Ampun Semesta untuk Pendidik**: Menyatakan bahwa barangsiapa yang mengajarkan kebaikan kepada manusia, maka seluruh makhluk (bahkan ikan-ikan di lautan) akan memohon ampunan untuknya (**[[Excellence of Teaching]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Regarding His Guidance in Prayer]]

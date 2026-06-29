@@ -1,4 +1,5 @@
 ---
+tags: [concept, akhlak, birrulwalidayn]
 type: concept
 title: "Berbakti Kepada Teman Orang Tua"
 address: "c-000232"
@@ -9,14 +10,13 @@ aliases:
   - "Silaturahmi Kerabat Ayah"
 created: 2026-06-29
 updated: 2026-06-29
-tags:
-  - concept
-  - akhlak
-  - birrul-walidayn
 status: seed
 related:
   - "[[Silaturahmi]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[meem_part_01]]"
 ---
 
@@ -37,6 +37,33 @@ Nabi SAW bersabda: *"Termasuk kebaktian (birr) yang paling tinggi adalah ketika 
 ## Mengapa Ini Penting
 
 Islam mengajarkan kesetiaan sosial yang melampaui kematian. Bakti seorang anak tidak boleh terputus hanya karena orang tuanya telah tiada. Menghubungi sahabat orang tua mengajarkan nilai loyalitas, kerendahan hati, serta keluhuran budi pekerti anak.
+
+
+### Relasi Kekerabatan Setelah Orang Tua Wafat
+
+Dalam bagian hadis lain, anjuran berbakti diperluas tidak hanya kepada sahabat dekat orang tua, melainkan juga menyambung silaturahmi dengan segenap keluarga sedarah dan kerabat dekat orang tua setelah mereka wafat.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin menyambung hubungan dengan ayahnya di kuburnya (setelah wafatnya), maka sambunglah hubungan dengan saudara-saudara ayahnya (kerabatnya) setelah ia tiada."* (HR. Abu Ya'la & Ibnu Hibban dari **[[Ibnu Umar]]**).
+
+Menyambung hubungan dengan paman, bibi, dan saudara sepupu dari pihak ayah merupakan perluasan bakti nyata yang dapat menyenangkan ruh orang tua di alam barzakh, karena amal perbuatan anak dipresentasikan kepada orang tuanya secara periodik.
+
+
+### Relasi Kekerabatan Setelah Orang Tua Wafat
+
+Dalam bagian hadis lain, anjuran berbakti diperluas tidak hanya kepada sahabat dekat orang tua, melainkan juga menyambung silaturahmi dengan segenap keluarga sedarah dan kerabat dekat orang tua setelah mereka wafat.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin menyambung hubungan dengan ayahnya di kuburnya (setelah wafatnya), maka sambunglah hubungan dengan saudara-saudara ayahnya (kerabatnya) setelah ia tiada."* (HR. Abu Ya'la & Ibnu Hibban dari **[[Ibnu Umar]]**).
+
+Menyambung hubungan dengan paman, bibi, dan saudara sepupu dari pihak ayah merupakan perluasan bakti nyata yang dapat menyenangkan ruh orang tua di alam barzakh, karena amal perbuatan anak dipresentasikan kepada orang tuanya secara periodik.
+
+
+### Relasi Kekerabatan Setelah Orang Tua Wafat
+
+Dalam bagian hadis lain, anjuran berbakti diperluas tidak hanya kepada sahabat dekat orang tua, melainkan juga menyambung silaturahmi dengan segenap keluarga sedarah dan kerabat dekat orang tua setelah mereka wafat.
+Nabi SAW bersabda:
+> *"Barangsiapa yang ingin menyambung hubungan dengan ayahnya di kuburnya (setelah wafatnya), maka sambunglah hubungan dengan saudara-saudara ayahnya (kerabatnya) setelah ia tiada."* (HR. Abu Ya'la & Ibnu Hibban dari **[[Ibnu Umar]]**).
+
+Menyambung hubungan dengan paman, bibi, dan saudara sepupu dari pihak ayah merupakan perluasan bakti nyata yang dapat menyenangkan ruh orang tua di alam barzakh, karena amal perbuatan anak dipresentasikan kepada orang tuanya secara periodik.
 
 ## Hubungan
 

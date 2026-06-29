@@ -1,4 +1,5 @@
 ---
+tags: [entity, salaf, zuhud]
 address: c-000053
 type: entity
 title: "Ash-Shibli"
@@ -7,15 +8,12 @@ role: "Ulama Salaf / Tokoh Sufi Baghdad"
 first_mentioned: "[[Settle the Argument]]"
 created: 2026-06-21
 updated: 2026-06-21
-tags:
-  - entity
-  - salaf
-  - zuhud
 status: seed
 related:
   - "[[Al-Junaid al-Baghdadi]]"
   - "[[Syukur]]"
 sources:
+  - "[[Chapter_VII_Part_2_Greed_for_Wealth]]"
   - "[[Settle the Argument]]"
 ---
 
@@ -27,9 +25,13 @@ sources:
 
 ## Fakta Kunci
 
+- **Kisah Burung tentang Bahaya Ketamakan**: Mengisahkan cerita burung dan pemburu untuk mengilustrasikan betapa ketamakan membutakan akal sehat manusia hingga mempercayai hal-hal mustahil (**[[Chapter_VII_Part_2_Greed_for_Wealth]]**).
+
 - **Orientasi Syukur Sejati**: Mengajarkan prinsip penting bahwa syukur sejati melampaui materi: *"Syukur adalah merindukan Sang Pemberi Nikmat (Al-Mun'im), bukan merindukan nikmat itu sendiri."*
 - **Pandangan Kesempurnaan Syukur**: Menegaskan bahwa kesempurnaan syukur hanya dicapai apabila seseorang mampu melihat nikmat tersebut sebagai karunia Allah semata, bukan karena kelayakan dirinya, sehingga memicu kerendahan hati mutlak.
 
 ## Sumber
+
+- [[Chapter_VII_Part_2_Greed_for_Wealth]]
 
 - [[Settle the Argument]]

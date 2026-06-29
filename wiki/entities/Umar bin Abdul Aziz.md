@@ -1,20 +1,19 @@
 ---
+address: "c-000378"
+tags: [entity, tokoh, khalifah]
 type: entity
 title: "Umar bin Abdul Aziz"
 entity_type: person
 role: "Khalifah Bani Umayyah / Khalifah Kelima"
 first_mentioned: "[[pemimpin-yang-mengkhianati-rakyatnya]]"
 created: "2026-06-07"
-updated: "2026-06-23"
-tags:
-  - entity
-  - tokoh
-  - khalifah
+updated: "2026-06-30"
 status: seed
 related:
   - "[[Amanah Kepemimpinan]]"
   - "[[Kewajiban Meluruskan Pemimpin]]"
 sources:
+  - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[pemimpin-yang-mengkhianati-rakyatnya]]"
   - "[[Introduction and Silence]]"
   - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
@@ -31,12 +30,16 @@ sources:
 
 ## Fakta Kunci
 
+- **Penolakan Warisan Khusus Keturunan**: Menjelang wafatnya, menolak menyisakan harta warisan khusus bagi 13 anaknya, menyatakan bahwa jika anak-anaknya bertakwa, Allah akan melindungi mereka, dan jika durhaka, beliau tidak peduli akan kebinasaan mereka (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).
+
 - **Mekanisme Koreksi Diri**: Mempekerjakan pengawal khusus (salah satunya Amr bin al-Muhajir) untuk mengawasi gerak-gerik dan ucapannya, serta memegang tangannya seraya mengingatkan *"Takutlah kepada Allah!"* jika melihatnya mulai menyimpang.
 - **Kezuhudan Ekstrem**: Mengembalikan harta pribadinya dan keluarganya yang didapat secara tidak sah dari warisan dinasti ke baitul maal segera setelah dilantik menjadi khalifah.
 - **Keadilan Sosial**: Menghapus pajak jizyah bagi muallaf dan memulihkan hak-hak kaum tertindas, yang berakibat pada kemakmuran luar biasa hingga sulit menemukan orang yang berhak menerima zakat (*mustahik*) di akhir masa kekuasaannya yang singkat.
 - Menginstruksikan gubernur wilayah Hims untuk membentengi kotanya menggunakan keadilan dan membersihkannya dari segala kezaliman (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Sumber
+
+- [[Chapter_VII_Part_1_Love_for_Wealth]]
 
 - [[pemimpin-yang-mengkhianati-rakyatnya]]
 - [[Major-Sin-31-Corrupt-Judgement]]

@@ -1,4 +1,5 @@
 ---
+tags: [entity, ulama, sejarah]
 type: entity
 address: "c-000210"
 title: "Abu Hazim al-A'raj"
@@ -7,14 +8,11 @@ role: "Ulama Tabi'in & Ahli Zuhud Madinah"
 first_mentioned: "[[Attachment-of-the-World]]"
 created: 2026-06-29
 updated: 2026-06-29
-tags:
-  - entity
-  - ulama
-  - sejarah
 status: seed
 related:
   - "[[Attachment-of-the-World]]"
 sources:
+  - "[[Chapter_VII_Part_2_Greed_for_Wealth]]"
   - "[[Attachment-of-the-World]]"
 ---
 
@@ -36,4 +34,10 @@ Nasihat ini mengajarkan bahwa kezuhudan sejati tidak diukur dari ketiadaan kepem
 
 ## Sumber
 
+- [[Chapter_VII_Part_2_Greed_for_Wealth]]
+
 - [[Attachment-of-the-World]]
+
+
+## Fakta Kunci
+- **Ketetapan Takdir Rezeki**: Menegaskan kepasrahan mutlak terhadap rezeki dengan menyatakan bahwa seluruh kekuatan langit dan bumi tidak akan bisa menyegerakan apa yang didekritkan untuknya, dan ia tidak akan pernah mendapatkan apa yang ditakdirkan untuk orang lain (**[[Chapter_VII_Part_2_Greed_for_Wealth]]**).

@@ -69,7 +69,7 @@ scan_max_c_address() {
         FNR == 1 { state = "pre"; next_is_fm = ($0 == "---") ? 1 : 0 }
         FNR == 1 && $0 == "---" { state = "fm"; next }
         state == "fm" && $0 == "---" { state = "body"; nextfile }
-        state == "fm" && match($0, /^address:[[:space:]]+c-[0-9]{6}[[:space:]]*$/) {
+        state == "fm" && match($0, /^address:[[:space:]]+"?c-[0-9]{6}"?[[:space:]]*$/) {
           if (match($0, /c-[0-9]{6}/)) {
             print substr($0, RSTART, RLENGTH)
           }

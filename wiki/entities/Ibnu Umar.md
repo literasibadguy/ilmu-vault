@@ -1,4 +1,5 @@
 ---
+address: "c-000362"
 type: entity
 title: "Ibnu Umar"
 entity_type: person
@@ -18,6 +19,9 @@ related:
   - "[[Mengingat Maut]]"
   - "[[Persiapan Kematian]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Pride]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -48,6 +52,12 @@ sources:
 - **Hadis Keharaman Khamr**: Meriwayatkan sabda Rasulullah SAW tentang keharaman minuman keras secara mutlak baik sedikit maupun banyak, dan menegaskan makna *khamr* mencakup segala zat pemutus akal (intoksikan) baik padat maupun cair (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Pride]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]

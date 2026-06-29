@@ -1,4 +1,5 @@
 ---
+tags: [entity, tabiin, zuhud]
 type: entity
 title: Al-Hasan al-Basri
 entity_type: person
@@ -6,10 +7,6 @@ role: Ulama Tabi'in / Ahli Fiqih & Zuhud
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: 2026-06-10
 updated: 2026-06-29
-tags:
-  - entity
-  - tabiin
-  - zuhud
 status: seed
 address: c-000097
 related:
@@ -22,6 +19,7 @@ related:
   - "[[Keutamaan Mengajar]]"
   - "[[Ketergantungan Dunia Part 2]]"
 sources:
+  - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Supplications That Are Most Likely Answered]]"
@@ -59,6 +57,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Kecaman terhadap Penyembah Uang**: Menyatakan bahwa Allah akan menghinakan siapa saja yang mencintai emas dan perak, serta menceritakan iblis yang mencium koin emas/perak seraya berkata bahwa pencintanya adalah budak iblis yang sejati (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).
+
 - **Otoritas Spiritual & Ilmu**: Dipandang sebagai mercusuar ilmu di Basra, Irak. Perkataannya menyerupai perkataan para nabi karena kedalaman dan keindahan bahasanya.
 - **Tiga Macam Pembicaraan Lisan**: Merumuskan pembagian lisan dalam membicarakan orang lain menjadi tiga pintu utama yang terdapat di dalam Al-Qur'an: ghibah (membicarakan kebenaran aib seseorang), buhtan (menuduh palsu atau memfitnah), dan namimah/scandal (menyebarkan gosip dari setiap desas-desus yang didengarnya) (**[[Ghibah]]**).
 - **Sikap Terhadap Nikah Tahlil**: Memiliki sikap fatwa yang sangat tegas bahwa jika salah satu dari tiga pihak (suami pertama, suami kedua, atau sang istri) memiliki niat untuk melangsungkan nikah tahlil, maka pernikahan kedua tersebut batal (*invalid*) dan tidak sah.
@@ -79,6 +79,8 @@ sources:
 - **Nasihat kepada Khalifah Abdul Aziz**: Menulis surat kepada Caliph Abdul Aziz yang menegaskan bahwa dunia adalah tempat persinggahan fana yang diturunkan kepada Adam sebagai bentuk hukuman, serta menganalogikan dunia seperti racun yang mematikan bagi siapa saja yang tidak mengenalnya.
 
 ## Sumber
+
+- [[Chapter_VII_Part_1_Love_for_Wealth]]
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Prophet Muhammads Recommendations Regarding Food]]

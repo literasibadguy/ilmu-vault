@@ -1727,6 +1727,105 @@
         "wiki/log.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/meem_part_06.md": {
+      "hash": "36fa71920ccde0f911293c0f9db81dce",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/meem_part_06.md",
+        "wiki/concepts/Syahid.md",
+        "wiki/concepts/Cinta karena Allah.md",
+        "wiki/concepts/Keutamaan Istighfar.md",
+        "wiki/concepts/Fikih dan Waktu Hijamah.md",
+        "wiki/concepts/Larangan Ikhtikar.md",
+        "wiki/concepts/Larangan Bid'ah dalam Islam.md",
+        "wiki/concepts/Keutamaan Masjidil Aqsa.md",
+        "wiki/concepts/Durhaka Kepada Orang Tua.md",
+        "wiki/concepts/Kesalehan Batin.md",
+        "wiki/concepts/Kedudukan Bahasa Arab dalam Islam.md",
+        "wiki/concepts/Keutamaan Belajar Memanah.md",
+        "wiki/concepts/Menghidupkan Malam-Malam Mulia.md",
+        "wiki/concepts/Keutamaan Masuk Islam.md",
+        "wiki/entities/Zubair bin al-Awwam.md",
+        "wiki/entities/Rabah.md",
+        "wiki/entities/Ahmad bin Tulun.md",
+        "wiki/entities/Ma'qil bin Yasar.md",
+        "wiki/entities/Abu Ja'far an-Naysaburi.md",
+        "wiki/entities/Yahya bin Said.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Berbakti Kepada Teman Orang Tua.md",
+        "wiki/concepts/Silaturahmi.md",
+        "wiki/concepts/Amanah Kepemimpinan.md",
+        "wiki/concepts/Kezaliman Pemimpin.md",
+        "wiki/concepts/Perlindungan dan Pengasuhan Anak Yatim.md",
+        "wiki/concepts/Riya.md",
+        "wiki/entities/Talhah bin Ubaidillah.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Ali bin Abi Thalib.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Ibnu Abbas.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Imam Asy-Syafi'i.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Abdullah bin Amr.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Umm Salamah.md"
+      ]
+    },
+    ".raw/Chapter_VII_Part_1_Love_for_Wealth.md": {
+      "hash": "df2a00c6d7d74db19cb256b62db4cc4d",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VII_Part_1_Love_for_Wealth.md",
+        "wiki/concepts/Manfaat Harta.md",
+        "wiki/concepts/Bahaya Harta.md",
+        "wiki/concepts/Tiga Tingkatan Karunia Spiritual.md",
+        "wiki/entities/Muhammad bin Ka'b.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Cinta Dunia.md",
+        "wiki/entities/Salman al-Farisi.md",
+        "wiki/entities/Abu al-Darda.md",
+        "wiki/entities/Umar bin Abdul Aziz.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Yahya bin Mu'adh.md"
+      ]
+    },
+    ".raw/Chapter_VII_Part_2_Greed_for_Wealth.md": {
+      "hash": "4a7fb488f72a969f688e146eb4a367ee",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VII_Part_2_Greed_for_Wealth.md",
+        "wiki/concepts/Terapi Penyakit Tamak.md",
+        "wiki/entities/Abdul Wahed.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Abu Hazim al-A'raj.md",
+        "wiki/entities/Muhammad ibn Wasi'.md",
+        "wiki/entities/Ash-Shibli.md"
+      ]
+    },
+    ".raw/Chapter_VII_Part_3_Miserliness_and_Poverty.md": {
+      "hash": "84c8a2b5e0ad0656a8e5ea861a38435d",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VII_Part_3_Miserliness_and_Poverty.md",
+        "wiki/concepts/Kikir.md",
+        "wiki/concepts/Isar.md",
+        "wiki/concepts/Keutamaan Kemiskinan.md",
+        "wiki/entities/Iskandar Zulkarnain.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Imam Al-Ghazali.md"
+      ]
     }
   },
   "address_map": {
@@ -2067,6 +2166,49 @@
     "wiki/entities/Farwah bin Abi al-Ma'ra.md": "c-000335",
     "wiki/entities/Yusuf bin Maymun.md": "c-000336",
     "wiki/entities/Atha bin Yasar.md": "c-000337",
-    "wiki/concepts/Adab Makan dan Minum.md": "c-000338"
+    "wiki/concepts/Adab Makan dan Minum.md": "c-000338",
+    "wiki/concepts/Syahid.md": "c-000339",
+    "wiki/concepts/Cinta karena Allah.md": "c-000340",
+    "wiki/concepts/Keutamaan Istighfar.md": "c-000341",
+    "wiki/concepts/Fikih dan Waktu Hijamah.md": "c-000342",
+    "wiki/concepts/Larangan Ikhtikar.md": "c-000343",
+    "wiki/concepts/Larangan Bid'ah dalam Islam.md": "c-000344",
+    "wiki/concepts/Keutamaan Masjidil Aqsa.md": "c-000345",
+    "wiki/concepts/Durhaka Kepada Orang Tua.md": "c-000346",
+    "wiki/concepts/Kesalehan Batin.md": "c-000347",
+    "wiki/concepts/Kedudukan Bahasa Arab dalam Islam.md": "c-000348",
+    "wiki/concepts/Keutamaan Belajar Memanah.md": "c-000349",
+    "wiki/concepts/Menghidupkan Malam-Malam Mulia.md": "c-000350",
+    "wiki/concepts/Keutamaan Masuk Islam.md": "c-000367",
+    "wiki/entities/Zubair bin al-Awwam.md": "c-000351",
+    "wiki/entities/Rabah.md": "c-000352",
+    "wiki/entities/Ahmad bin Tulun.md": "c-000353",
+    "wiki/entities/Ma'qil bin Yasar.md": "c-000354",
+    "wiki/entities/Abu Ja'far an-Naysaburi.md": "c-000355",
+    "wiki/entities/Yahya bin Said.md": "c-000356",
+    "wiki/concepts/Amanah Kepemimpinan.md": "c-000358",
+    "wiki/concepts/Kezaliman Pemimpin.md": "c-000359",
+    "wiki/concepts/Riya.md": "c-000360",
+    "wiki/entities/Jabir bin Abdullah.md": "c-000361",
+    "wiki/entities/Ibnu Umar.md": "c-000362",
+    "wiki/entities/Anas bin Malik.md": "c-000363",
+    "wiki/entities/Aisyah binti Abu Bakar.md": "c-000365",
+    "wiki/sources/meem_part_06.md": "c-000369",
+    "wiki/entities/Umm Salamah.md": "c-000368",
+    "wiki/sources/Chapter_VII_Part_1_Love_for_Wealth.md": "c-000370",
+    "wiki/sources/Chapter_VII_Part_2_Greed_for_Wealth.md": "c-000371",
+    "wiki/concepts/Manfaat Harta.md": "c-000372",
+    "wiki/concepts/Bahaya Harta.md": "c-000373",
+    "wiki/concepts/Tiga Tingkatan Karunia Spiritual.md": "c-000374",
+    "wiki/concepts/Terapi Penyakit Tamak.md": "c-000375",
+    "wiki/entities/Muhammad bin Ka'b.md": "c-000376",
+    "wiki/entities/Abdul Wahed.md": "c-000377",
+    "wiki/entities/Umar bin Abdul Aziz.md": "c-000378",
+    "wiki/entities/Yahya bin Mu'adh.md": "c-000379",
+    "wiki/sources/Chapter_VII_Part_3_Miserliness_and_Poverty.md": "c-000380",
+    "wiki/concepts/Kikir.md": "c-000381",
+    "wiki/concepts/Isar.md": "c-000382",
+    "wiki/concepts/Keutamaan Kemiskinan.md": "c-000383",
+    "wiki/entities/Iskandar Zulkarnain.md": "c-000384"
   }
 }

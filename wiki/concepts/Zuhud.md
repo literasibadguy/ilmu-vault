@@ -1,4 +1,5 @@
 ---
+tags: [concept, tazkiyah, akhlak]
 type: concept
 address: "c-000030"
 title: "Zuhud"
@@ -8,17 +9,14 @@ aliases:
   - "Asceticism"
   - "Zahid"
 created: "2026-06-19"
-updated: "2026-06-29"
-tags:
-  - concept
-  - tazkiyah
-  - akhlak
+updated: "2026-06-30"
 status: seed
 related:
   - "[[Mengingat Maut]]"
   - "[[Persiapan Kematian]]"
   - "[[Ziarah Kubur]]"
 sources:
+  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[What Reminds People of Death and the Hereafter]]"
   - "[[Attachment-of-the-World]]"
 ---
@@ -43,6 +41,8 @@ Tanpa zuhud, manusia akan terjebak dalam perlombaan mengumpulkan harta (*takatsu
 
 ## Contoh
 
+- **Keutamaan Hidup Sederhana (Poverty)**: Kemiskinan mal yang sabar dan qana'ah memiliki hisab yang sangat ringan di akhirat, di mana orang miskin saleh memasuki surga 500 tahun lebih awal (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
+
 - Menggunakan harta kekayaan untuk membantu fakir miskin tanpa takut miskin.
 - Lebih mementingkan kualitas ibadah harian dibanding akumulasi prestise sosial.
 - Mencontoh perilaku asketis Rasulullah SAW dan para sahabat yang tidak pernah menimbun harta demi kesenangan pribadi.
@@ -55,7 +55,18 @@ Tanpa zuhud, manusia akan terjebak dalam perlombaan mengumpulkan harta (*takatsu
 - [[Ziarah Kubur]] — Tindakan fisik yang dianjurkan untuk memicu dan menyegarkan kondisi zuhud dalam jiwa.
 - [[Cinta Dunia]] — Penyakit hati utama yang menjadi lawan dari sikap zuhud.
 
+
+## Tambahan Konteks Ihya Jilid 3 Bab 7 (Tamak dan Qana'ah)
+
+Dalam mengikis ketamakan dan menumbuhkan zuhud, **[[Imam Al-Ghazali]]** merumuskan beberapa hal penting:
+1. **Terapi Penyakit Tamak**: Memerlukan kombinasi sabar, ilmu, dan amal nyata melalui lima resep operasional: hidup hemat, memangkas angan-angan rezeki, mandiri secara finansial dari belas kasih makhluk, meneladani kehidupan nabi, serta menghindari penimbunan harta (**[[Terapi Penyakit Tamak]]**).
+2. **Kemandirian Rohani**: Seseorang yang ridha dengan kesederhanaan (seperti **[[Muhammad ibn Wasi']]** yang makan roti kering dicelup air) tidak akan pernah tunduk diperbudak oleh belas kasih manusia lainnya.
+3. **Keseimbangan Rezeki Takdir**: Sebagaimana ditegaskan oleh **[[Abu Hazim al-A'raj]]**, rezeki yang ditakdirkan untuk seseorang tidak akan pernah bisa dirampas oleh kekuatan mana pun di langit dan bumi, sehingga ketamakan merupakan kesia-siaan batin.
+
 ## Sumber
+
+- [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
+- [[Chapter_VII_Part_2_Greed_for_Wealth]]
 
 - Hadis Ibnu Mas'ud (riwayat Ibnu Majah): *"...maka ziarahilah sekarang, karena ia menumbuhkan zuhud di dunia dan mengingatkan akhirat."* ([[What Reminds People of Death and the Hereafter|What Reminds People of Death and the Hereafter]])
 - Kitab *Dzamm al-Dunya* Ihya' Ulumiddin: Peringatan para nabi dan ulama salaf mengenai kefanaan dunia dan keutamaan mengutamakan akhirat (**[[Attachment-of-the-World]]**).

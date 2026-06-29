@@ -1,4 +1,5 @@
 ---
+tags: [entity, sahabat, ahlihadis]
 type: entity
 address: "c-000046"
 title: "Abdullah bin Amr"
@@ -7,15 +8,14 @@ role: "Sahabat Nabi, Ulama Ahli Hadis, Penulis Al-Sahifah al-Sadiqah"
 first_mentioned: "[[Major-Sin-19-Drinking-Alcohol]]"
 created: "2026-06-20"
 updated: "2026-06-20"
-tags:
-  - entity
-  - sahabat
-  - ahli-hadis
 status: seed
 related:
   - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Umar bin Khattab]]"
 sources:
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_06]]"
   - "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
 
@@ -32,5 +32,11 @@ Abdullah bin Amr memiliki sikap yang sangat tegas dalam memerangi kemungkaran mi
 2. **Sanksi Sosial**: Beliau merumuskan sanksi sosial berupa keharaman menjenguk pecandu minuman keras ketika mereka jatuh sakit (*la ta'uduhum idza maridhu*). Tindakan ini diambil sebagai bentuk hukuman agar mereka merasa terisolasi secara sosial dan segera bertaubat kepada Allah.
 
 ## Sumber
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
+
+- [[meem_part_06]]
 
 - [[Major-Sin-19-Drinking-Alcohol]]
