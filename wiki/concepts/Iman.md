@@ -15,7 +15,9 @@ status: evergreen
 address: c-000171
 
 sources:
-  - "[[meem_part_02]]"---
+  - "[[meem_part_02]]"
+  - "[[meem_part_05]]"
+---
 
 # Iman
 
@@ -37,6 +39,12 @@ Dalam kitab *Ihya' Ulumiddin* (khususnya *Qawa'id al-'Aqa'id*), **[[Imam Al-Ghaz
     *   Al-Ghazali mendukung tradisi ulama salaf yang menganjurkan seorang Muslim untuk berkata *"Saya mukmin, jika Allah menghendaki"* ketika ditanya tentang keimanannya.
     *   Pengucapan ini bukan didasarkan pada keraguan atas keyakinannya saat ini, melainkan sebagai bentuk kerendahan hati untuk menghindari kesombongan batin (*tazkiyah an-nafs*), kesadaran bahwa ia belum menyempurnakan seluruh tuntutan amal iman yang sempurna, serta kekhawatiran yang jujur akan kondisi akhir hayatnya (kematian).
 
+## Kesempurnaan Iman (Istikmalul Iman)
+
+Iman memiliki parameter kesempurnaan batin dan amal lahiriah yang saling berpilin. Nabi ﷺ bersabda:
+> *"Barangsiapa mencintai karena Allah, membenci karena Allah, memberi karena Allah, dan menolak (tidak memberi) karena Allah; maka sesungguhnya ia telah menyempurnakan keimanannya."* (HR. Abu Dawud dari **[[Abu Umamah]]**).
+> Syarah Al-Munawi menjelaskan bahwa stempel kesempurnaan iman (*istikmal*) dicapai ketika motif seluruh gerakan hati (cinta/benci) dan tindakan fisik (memberi/menahan) disapukan bersih dari kepentingan hawa nafsu duniawi, dan diserahkan secara murni (*ikhlas*) hanya demi mencari rida Allah SWT.
+
 ## Hubungan Iman dan Islam
 
 Iman dan Islam adalah dua istilah yang saling berkaitan erat:
@@ -50,3 +58,4 @@ Iman dan Islam adalah dua istilah yang saling berkaitan erat:
 *   **[[Foundation-of-Belief]]**
 *   **[[Aqidah]]**
 *   **[[Islam]]**
+*   **[[meem_part_05]]**

@@ -16,6 +16,13 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-29] ingest | Ingest: meem_part_05.md (Commentary on Fayd al-Qadir Volume 6)
+- Sumber: `.raw/meem_part_05.md`
+- Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 05]]
+- Halaman dibuat: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 05]], [[Taqwa]], [[Rasa Takut Kepada Allah]], [[Menahan Amarah]], [[Kesaksian Umat Islam di Bumi]], [[Empat Perkara Utama yang Wajib Dijauhi]], [[Menghormati Otoritas Pemimpin]], [[Fikih Menghidupkan Lahan Mati]], [[Keutamaan Kaum Ansar]], [[Sa'id bin al-Jarw]], [[Salamah bin Kulthum]], [[Sahl bin Sa'd]], [[Abu Qirsafah]], [[Isma'il bin Yahya al-Taymi]], [[Dawud bin Awf]], [[Abdullah bin Muhammad bin al-Numan]], [[Farwah bin Abi al-Ma'ra]], [[Yusuf bin Maymun]], [[Atha bin Yasar]]
+- Halaman diperbarui: [[Adab Makan dan Minum]], [[Iman]], [[Sakaratul Maut]], [[Sabar Menghadapi Musibah dan Sakit]], [[Menyenangkan Hati Mukmin]], [[Atha bin Abi Rabah]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor bagian kelima huruf Meem dari syarah Fayd al-Qadir karya Al-Munawi. Menyusun konsep dasar takwa (benteng batin pelindung murka Allah pembawa kekuatan lahir-batin dan perlindungan mutlak). Menjelaskan korelasi spiritual khasyatullah dengan haibah (siapa takut Allah disegani segala makhluk, siapa takut makhluk diperbudak cemas). Menetapkan menahan amarah (kadhul ghaizh) dan lisan sebagai buah utama taqwa. Menyusun konsep kesaksian umat Islam di bumi (syuhada'ullah fil ardh) di mana pujian jujur kaum mukmin menentukan surga/neraka mayit. Menegaskan empat perkara utama pembawa jaminan surga (menjaga darah, menjaga harta, menjaga kemaluan, menjauhi khamr). Menetapkan adab menghormati otoritas penguasa sah (sultanullah) demi ketertiban umum. Menyusun fikih agraria menghidupkan lahan mati (ihya'ul mawat) dan hak kepemilikan tanah bagi yang memagarinya. Menjabarkan keutamaan kaum Ansar sebagai parameter keimanan lahir-batin, sunnah mencuci tangan sebelum dan sesudah makan (wudhu'ul tha'am), kesempurnaan iman melalui motivasi ikhlas (cinta, benci, memberi, menolak semata-mata karena Allah), tanda cinta (menyebut nama kekasih secara kontinu), rindu menemui Allah di saat sakaratul maut (ghargharah), dan cinta mendalam ahlul bait nabi.
+
 ## [2026-06-29] ingest | Ingest: meem_part_04.md (Commentary on Fayd al-Qadir Volume 6)
 - Sumber: `.raw/meem_part_04.md`
 - Ringkasan: [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 04]]

@@ -10,7 +10,7 @@ aliases:
   - "Etiket Makan"
   - "Manners of Eating"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-29
 tags:
   - concept
   - adab
@@ -18,6 +18,7 @@ tags:
   - sunnah
   - fiqh
 status: seed
+address: "c-000338"
 related:
   - "[[Kesederhanaan dalam Makan]]"
   - "[[Nabi Muhammad SAW]]"
@@ -27,6 +28,7 @@ related:
   - "[[Gaya Hidup Nabi dalam Makanan]]"
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[meem_part_05]]"
 ---
 
 # Adab Makan dan Minum
@@ -47,7 +49,7 @@ Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diaja
 
 4. **Menghindari wadah emas dan perak** — Nabi ﷺ melarang makan dan minum dari bejana emas dan perak. Larangan ini mengandung hikmah menghindari kemewahan berlebihan dan menjaga kesetaraan sosial.
 
-5. **Mencuci tangan** — Membersihkan tangan sebelum makan adalah sunnah yang juga sejalan dengan prinsip kebersihan modern.
+5. **Mencuci tangan** — Membersihkan tangan sebelum makan adalah sunnah yang juga sejalan dengan prinsip kebersihan modern. Nabi ﷺ menganjurkan: *"Barangsiapa yang senang jika Allah memperbanyak kebaikan di dalam rumahnya, hendaklah ia berwudhu (mencuci tangannya) ketika makanan dihadirkan dan ketika makanan diangkat (setelah selesai makan)."* (HR. Ibnu Majah dari **[[Anas bin Malik]]**).
 
 ### Saat Makan
 
@@ -117,3 +119,4 @@ Kisah Abu Juhayfah juga menggambarkan pentingnya adab ini: ia bersendawa di depa
 ## Sumber
 
 - [[Prophet Muhammads Recommendations Regarding Food]] — Islamweb Staff
+- [[meem_part_05]]

@@ -1690,6 +1690,43 @@
         "wiki/log.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/meem_part_05.md": {
+      "hash": "806676d6863f6367439130cf4c4a7701",
+      "ingested_at": "2026-06-29",
+      "pages_created": [
+        "wiki/sources/meem_part_05.md",
+        "wiki/concepts/Taqwa.md",
+        "wiki/concepts/Rasa Takut Kepada Allah.md",
+        "wiki/concepts/Menahan Amarah.md",
+        "wiki/concepts/Kesaksian Umat Islam di Bumi.md",
+        "wiki/concepts/Empat Perkara Utama yang Wajib Dijauhi.md",
+        "wiki/concepts/Menghormati Otoritas Pemimpin.md",
+        "wiki/concepts/Fikih Menghidupkan Lahan Mati.md",
+        "wiki/concepts/Keutamaan Kaum Ansar.md",
+        "wiki/entities/Sa'id bin al-Jarw.md",
+        "wiki/entities/Salamah bin Kulthum.md",
+        "wiki/entities/Sahl bin Sa'd.md",
+        "wiki/entities/Abu Qirsafah.md",
+        "wiki/entities/Isma'il bin Yahya al-Taymi.md",
+        "wiki/entities/Dawud bin Awf.md",
+        "wiki/entities/Abdullah bin Muhammad bin al-Numan.md",
+        "wiki/entities/Farwah bin Abi al-Ma'ra.md",
+        "wiki/entities/Yusuf bin Maymun.md",
+        "wiki/entities/Atha bin Yasar.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Atha bin Abi Rabah.md",
+        "wiki/concepts/Adab Makan dan Minum.md",
+        "wiki/concepts/Iman.md",
+        "wiki/concepts/Sakaratul Maut.md",
+        "wiki/concepts/Sabar Menghadapi Musibah dan Sakit.md",
+        "wiki/concepts/Menyenangkan Hati Mukmin.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -2010,6 +2047,26 @@
     "wiki/entities/Ya'qub bin Abdur Rahman.md": "c-000315",
     "wiki/entities/Sa'id al-Maqburi.md": "c-000316",
     "wiki/entities/Abu Bakr Ibn al-Arabi.md": "c-000317",
-    "wiki/entities/Hasan bin Ali.md": "c-000318"
+    "wiki/entities/Hasan bin Ali.md": "c-000318",
+    "wiki/sources/meem_part_05.md": "c-000319",
+    "wiki/concepts/Taqwa.md": "c-000320",
+    "wiki/concepts/Rasa Takut Kepada Allah.md": "c-000321",
+    "wiki/concepts/Menahan Amarah.md": "c-000322",
+    "wiki/concepts/Kesaksian Umat Islam di Bumi.md": "c-000323",
+    "wiki/concepts/Empat Perkara Utama yang Wajib Dijauhi.md": "c-000324",
+    "wiki/concepts/Menghormati Otoritas Pemimpin.md": "c-000325",
+    "wiki/concepts/Fikih Menghidupkan Lahan Mati.md": "c-000326",
+    "wiki/concepts/Keutamaan Kaum Ansar.md": "c-000327",
+    "wiki/entities/Sa'id bin al-Jarw.md": "c-000328",
+    "wiki/entities/Salamah bin Kulthum.md": "c-000329",
+    "wiki/entities/Sahl bin Sa'd.md": "c-000330",
+    "wiki/entities/Abu Qirsafah.md": "c-000331",
+    "wiki/entities/Isma'il bin Yahya al-Taymi.md": "c-000332",
+    "wiki/entities/Dawud bin Awf.md": "c-000333",
+    "wiki/entities/Abdullah bin Muhammad bin al-Numan.md": "c-000334",
+    "wiki/entities/Farwah bin Abi al-Ma'ra.md": "c-000335",
+    "wiki/entities/Yusuf bin Maymun.md": "c-000336",
+    "wiki/entities/Atha bin Yasar.md": "c-000337",
+    "wiki/concepts/Adab Makan dan Minum.md": "c-000338"
   }
 }

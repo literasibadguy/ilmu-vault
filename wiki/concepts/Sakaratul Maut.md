@@ -9,7 +9,7 @@ aliases:
   - "Agonies of Death"
   - "Stupor of Death"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-06-29"
 tags:
   - concept
   - kematian
@@ -45,6 +45,13 @@ Mengetahui kedahsyatan sakaratul maut merupakan pendorong utama bagi seorang muk
 
 - Hadis riwayat Lady Aisha (Aisyah binti Abu Bakar) menggambarkan bagaimana Prophet Muhammad SAW di akhir hayatnya membasuh wajah dengan air dari wadah untuk meringankan agonis maut, seraya berikrar bahwa kematian memiliki sakarat (penderitaan).
 
+## Menjelang Ajal: Kebahagiaan Menemui Allah
+
+Meskipun sakaratul maut dipenuhi dengan kesakitan fisik, detik-detik akhir menjelang ajal (*ghargharah*) menyimpan penyingkapan tabir gaib (*kashf*) bagi orang beriman.
+Nabi ﷺ bersabda:
+> *"Barangsiapa mencintai pertemuan dengan Allah, niscaya Allah mencintai pertemuan dengannya; dan barangsiapa yang membenci pertemuan dengan Allah, niscaya Allah membenci pertemuan dengannya."* (HR. Bukhari, Muslim & Tirmidzi dari **[[Aisyah binti Abu Bakar]]** dan **[[Ibnu Abbas]]**).
+> Syarah Al-Munawi menjelaskan bahwa hadits ini merujuk pada kondisi sakaratul maut di mana orang mukmin diperlihatkan tempat tinggalnya di Surga dan rida Allah, sehingga ketakutan atas kematian sirna dan ia sangat rindu untuk segera wafat menemui Tuhannya. Sebaliknya, orang munafik/kafir ditampakkan kemurkaan Allah dan siksaan-Nya, sehingga ia sangat membenci datangnya kematian.
+
 ## Hubungan
 
 - [[Mengingat Maut]] — Kesadaran kognitif akan datangnya sakaratul maut yang tak terhindarkan.
@@ -57,3 +64,4 @@ Mengetahui kedahsyatan sakaratul maut merupakan pendorong utama bagi seorang muk
 - **QS. Al-An'am: 93**: *"Dan sekiranya engkau melihat tatkala orang-orang zalim berada dalam agonis kematian..."*
 - **QS. Al-Waqi'ah: 83**: *"Maka mengapa tidak ketika nyawa telah mencapai tenggorokan..."*
 - Hadis Aisyah binti Abu Bakar dalam Sahih al-Bukhari tentang detik-detik wafatnya Rasulullah SAW.
+- **[[meem_part_05]]** (Hadits tentang kecintaan menemui Allah saat sakaratul maut).

@@ -5,7 +5,7 @@ entity_type: person
 role: "Mufti Makkah & Faqih Tabi'in"
 first_mentioned: "[[Blameworthy Sciences and Changing Meanings]]"
 created: "2026-06-26"
-updated: "2026-06-26"
+updated: "2026-06-29"
 tags:
   - entity
   - tabiin
@@ -14,7 +14,7 @@ tags:
 status: seed
 sources:
   - "[[Blameworthy Sciences and Changing Meanings]]"
-
+  - "[[meem_part_05]]"
 address: c-000141
 ---
 

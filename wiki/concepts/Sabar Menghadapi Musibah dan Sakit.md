@@ -19,6 +19,7 @@ related:
   - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
 sources:
   - "[[meem_part_03]]"
+  - "[[meem_part_05]]"
 ---
 
 # Sabar Menghadapi Musibah dan Sakit
@@ -35,6 +36,12 @@ Nabi SAW bersabda: *"Termasuk simpanan-simpanan kebajikan (kunuzul birr) adalah:
 2. **Kematangan Sabar**: Kebiasaan menceritakan penderitaan kepada setiap orang dapat mengikis pahala sabar karena didorong rasa ingin dikasihani oleh makhluk.
 3. **Keteladanan Salaf**: Imam Al-Ghazali menceritakan kisah sahabat Ahnaf bin Qais yang ketika dicurhati keluhan sakit gigi oleh pamannya, beliau berkata: *"Mataku telah buta sebelah sejak empat puluh tahun yang lalu, namun aku tidak pernah mengeluhkannya kepada seorang pun."*
 
+## Sabar atas Kehilangan Anak (Ihtisab)
+
+Kehilangan anak kandung (*tsukl*) merupakan salah satu ujian keluarga terberat bagi manusia. Rasulullah ﷺ memberikan jaminan khusus:
+> *"Barangsiapa kehilangan tiga orang anak dari sulbi (keturunannya) dalam keadaan ia bersabar dan mengharapkan pahala dari Allah (*ihtisab*), niscaya wajib baginya Surga."* (HR. Tabarani dari **[[Uqba bin Amir]]**).
+> Syarah Al-Munawi menjelaskan bahwa pahala agung ini diraih karena orang tua berhasil membendung kepedihan (*ihtisab*) atas wafatnya anak-anak mereka tanpa mengucapkan kalimat keluhan yang murka kepada takdir Allah.
+
 ## Hubungan
 
 - **[[Kesabaran]]** — Menyembunyikan kepedihan merupakan tingkatan kesabaran terbaik.
@@ -43,3 +50,4 @@ Nabi SAW bersabda: *"Termasuk simpanan-simpanan kebajikan (kunuzul birr) adalah:
 ## Sumber
 
 - **[[meem_part_03]]** (Hadits tentang tiga harta karun kebajikan menyembunyikan musibah).
+- **[[meem_part_05]]** (Hadits tentang jaminan surga bagi yang kehilangan tiga anak dan ihtisab).
