@@ -13,6 +13,7 @@ related:
   - "[[Abdur-Rahman Ibn Awf]]"
   - "[[Abu Al-Faraj Ibn Al-Jawzi]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -27,9 +28,13 @@ sources:
 
 ## Fakta Kunci
 
+- **Peringatan Pengikut Banyak**: Mengingatkan para pengikutnya bahwa berjalan beramai-ramai di belakangnya adalah sayap ketamakan bagi yang diikuti dan jalan kebinasaan neraka (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Kekayaan Halal yang Melimpah**: Meninggalkan warisan emas yang sangat besar setelah wafatnya (setara muatan emas 300 unta). Riwayat ini digunakan ulama untuk membantah kaum asketis ekstrem yang antipati terhadap pengumpulan harta halal oleh kaum beriman.
 
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[meem_part_06]]
 

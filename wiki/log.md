@@ -16,6 +16,27 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-06-30] Ingest: meem_part_07 (Fayd al-Qadir Vol 6)
+- Sumber: `.raw/meem_part_07.md`
+- Ringkasan: [[meem_part_07]]
+- Halaman dibuat: [[meem_part_07]], [[Ihya' al-Mawat]], [[Menyingkirkan Rintangan di Jalan]], [[Hukum Upah Mengajar Al-Quran]], [[Ubaidah bin as-Samit]], [[Maimunah binti al-Harits]]
+- Halaman diperbarui: [[Ikhlas]], [[Zuhud]], [[Etika Keuangan Islam]], [[Anas bin Malik]], [[Aisyah binti Abu Bakar]], [[Abu Hurayrah]], [[Ibnu Mas'ud]], [[Ibnu Umar]], [[Abu al-Darda]], [[Jabir bin Abdullah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor hadis-hadis berawalan huruf Meem dari Fayd al-Qadir Vol 6 halaman 51-58. Menjabarkan konsep Ihya' al-Mawat (reklamasi lahan mati) beserta perdebatan mazhab. Menjelaskan keutamaan menyingkirkan gangguan di jalan sebagai cabang keimanan berwujud jaminan surga. Membedah hukum mengambil imbalan dari pengajaran Al-Quran. Mengurai fadhilah menjaga keikhlasan ibadah 40 hari berturut-turut demi memancarkan hikmah rohani dari hati ke lisan. Menetapkan pentingnya niat jujur melunasi hutang serta ancaman bagi perampas tanah.
+
+## [2026-06-30] Ingest: Chapter_VIII_Part_3 (Ihya Ulumuddin Book VIII)
+- Sumber: `.raw/Chapter_VIII_Part_3_Riya_and_its_Treatment.md`
+- Ringkasan: [[Chapter_VIII_Part_3_Riya_and_its_Treatment]]
+- Halaman dibuat: [[Chapter_VIII_Part_3_Riya_and_its_Treatment]], [[Terapi Penyakit Riya]], [[Menyembunyikan Dosa]]
+- Halaman diperbarui: [[Riya]], [[Ikhlas]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan hakikat riya' (show), obat riya', dan pentingnya merahasiakan maksiat dari Ihya' Ulumiddin karya Imam Al-Ghazali. Menjabarkan klasifikasi objek riya' lahiriah (fisik, baju, ucapan, perbuatan, disciples). Menganalisis pengaruh riya' campuran dan riya' di tengah amal terhadap keabsahan ibadah. Menyusun metode terapi riya' preventif (membuang greed kedudukan) dan aktif (defend/reject seketika). Membedah etika menyembunyikan dosa pribadi dan meluruskan kekeliruan orang yang meninggalkan amal saleh karena takut riya'.
+
+## [2026-06-30] Ingest: Chapter_VIII_Part_1 & Part_2 (Ihya Ulumuddin Book VIII)
+- Sumber: `.raw/Chapter_VIII_Part_1_Love_of_Power.md`, `.raw/Chapter_VIII_Part_2_Praise_and_Blame.md`
+- Ringkasan: [[Chapter_VIII_Part_1_Love_of_Power]], [[Chapter_VIII_Part_2_Praise_and_Blame]]
+- Halaman dibuat: [[Chapter_VIII_Part_1_Love_of_Power]], [[Chapter_VIII_Part_2_Praise_and_Blame]], [[Cinta Kedudukan]], [[Khumul]], [[Bahaya Pujian]], [[Khalid bin Ma'dan]], [[Abu Muslim al-Khawlani]], [[Fudhayl bin Iyad]]
+- Halaman diperbarui: [[Cinta Dunia]], [[Zuhud]], [[Ibrahim bin Adham]], [[Bishr al-Hafi]], [[Ayyub as-Sakhtiyani]], [[Talhah bin Ubaidillah]], [[Ibnu Mas'ud]], [[Al-Hasan al-Basri]], [[Sufyan ath-Thawri]], [[Mu'adz bin Jabal]], [[Umar bin Khattab]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor pembahasan bahaya kedudukan (Hubbul Jah), keutamaan anonymity (Khumul), serta celaan pujian (Hubbul Madh) dari Ihya' Ulumiddin karya Imam Al-Ghazali. Menjabarkan sebab jiwa menyukai lordship kekuasaan batin atas pikiran manusia lain. Menjelaskan khumul sebagai maqam penyembunyian diri para salaf (Ibrahim bin Adham, Fudhayl bin Iyad, Khalid bin Ma'dan). Menyusun diagnosis sebab psikologis cinta pujian serta resep terapi rohani menghadapi pujian dan celaan makhluk.
+
 ## [2026-06-30] Ingest: Chapter_VII_Part_3 (Ihya Ulumuddin Book VII)
 - Sumber: `.raw/Chapter_VII_Part_3_Miserliness_and_Poverty.md`
 - Ringkasan: [[Chapter_VII_Part_3_Miserliness_and_Poverty]]

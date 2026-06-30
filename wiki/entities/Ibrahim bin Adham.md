@@ -1,13 +1,9 @@
 ---
+tags: [entity, sufi, tabiuttabiin, ihya]
 type: entity
 title: "Ibrahim bin Adham"
 created: "2026-06-26"
-updated: "2026-06-26"
-tags:
-  - entity
-  - sufi
-  - tabiut-tabiin
-  - ihya
+updated: "2026-06-30"
 status: evergreen
 
 address: c-000156
@@ -33,3 +29,10 @@ Kutipan ini menggambarkan pentingnya keheningan spiritual (*silence*) sebagai pe
 ## Rujukan
 - `[[Signs of the Learned of the Hereafter Part 2]]`
 - `.raw/ihya-vol1-chapter-1-part-9.md`
+
+
+## Fakta Kunci
+- **Pelajaran tentang Ketenaran**: Menyatakan bahwa orang yang mencintai nama dan kemasyhuran tidak akan pernah memiliki kejujuran sejati dalam ma'rifatullah (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
+## Sumber
+- [[Chapter_VIII_Part_1_Love_of_Power]]

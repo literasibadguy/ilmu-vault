@@ -1,13 +1,9 @@
 ---
+tags: [entity, sufi, tabiuttabiin, ihya]
 type: entity
 title: "Bishr al-Hafi"
 created: "2026-06-26"
-updated: "2026-06-26"
-tags:
-  - entity
-  - sufi
-  - tabiut-tabiin
-  - ihya
+updated: "2026-06-30"
 status: evergreen
 
 address: c-000155
@@ -37,3 +33,10 @@ Beliau juga sangat waspada terhadap kepemimpinan dan kekuasaan agama. Pernyataan
 ## Rujukan
 - `[[Signs of the Learned of the Hereafter Part 2]]`
 - `.raw/ihya-vol1-chapter-1-part-9.md`
+
+
+## Fakta Kunci
+- **Kezuhudan Terhadap Ketenaran**: Memberi nasihat bahwa orang yang mencintai ketenaran dan nama baik tidak akan pernah merasakan kelezatan spiritual kehidupan akhirat (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
+## Sumber
+- [[Chapter_VIII_Part_1_Love_of_Power]]

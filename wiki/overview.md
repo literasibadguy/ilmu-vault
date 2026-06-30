@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
  
- - Sumber diimpor (ingested): 82
- - Halaman wiki: 538
- - Aktivitas terakhir: 2026-06-30 (Mengimpor ringkasan Bab VII Bagian 3 Ihya Ulumuddin mengenai celaan kikir, derajat isar, dan keutamaan kemiskinan)
+ - Sumber diimpor (ingested): 86
+ - Halaman wiki: 555
+ - Aktivitas terakhir: 2026-06-30 (Mengimpor ringkasan hadis Meem Bagian 07 Fayd al-Qadir mengenai Ihya al-Mawat, kebersihan jalan, dan keikhlasan)
 
 ---
 

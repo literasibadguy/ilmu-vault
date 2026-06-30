@@ -17,6 +17,8 @@ related:
   - "[[Zuhud]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_07]]"
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -47,6 +49,10 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Penyesalan Dosa**: Meriwayatkan hadis mengenai kedudukan rasa penyesalan batin (*Nadam*) sebagai kaffarah penghapus dosa-dosa manusia (**[[meem_part_07]]**).
+
+- **Menghindari Diikuti Pengikut**: Meminta orang-orang yang mengikutinya kembali ke rumah masing-masing, seraya memperingatkan bahwa seandainya mereka tahu aib batinnya, niscaya tidak ada dua orang yang bersedia berjalan di belakangnya (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Kedekatan dengan Rasulullah**: Sangat dekat dengan Nabi SAW hingga sering disangka sebagai anggota keluarga Nabi. Beliau adalah pemegang sandal dan siwak Nabi.
 - **Perawi Hadis Nikah Tahlil**: Meriwayatkan hadis shahih tentang laknat Rasulullah SAW terhadap pelaku nikah tahlil (*muhallil*) dan mantan suami yang menyuruh atau diuntungkan oleh praktik tersebut (*muhallal lahu*).
 - **Pendiri Fiqih Irak**: Pemikirannya menjadi basis pembentukan pemikiran fiqih di wilayah Irak (Kufah) yang sangat menekankan pemahaman substansi hukum (*illat hukum*).
@@ -59,6 +65,10 @@ sources:
 - **Lamentasi Wafatnya Umar**: Mengungkapkan duka terdalam atas kematian Khalifah Umar bin Khattab dengan menyatakan bahwa sembilan persepuluh dari seluruh ilmu agama telah ikut hilang bersama kepergiannya (**[[Ilm]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[meem_part_06]]
 

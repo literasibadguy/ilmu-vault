@@ -20,6 +20,7 @@ related:
   - "[[Uwais al-Qarni]]"
   - "[[Ketergantungan Dunia Part 3]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -64,6 +65,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Menemui Mu'adz bin Jabal**: Menemukan Mu'adz bin Jabal sedang menangis di sisi makam Rasulullah SAW karena mengkhawatirkan bahaya riya' kecil di tengah umat (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Khalifah yang Adil**: Dikenal sering berpatroli menyamar di malam hari (*asas*) untuk melihat kondisi rakyatnya secara langsung secara objektif.
 - **Mendengar Kritikan**: Sangat terbuka terhadap saran dan kritikan dari rakyatnya, bahkan dari rakyat biasa atau kaum wanita.
 - **Sesi dengan Abu Dharr**: Meminta Abu Dharr meriwayatkan hadis tentang pertanggungjawaban berat pemimpin di Hari Kiamat sebagai pengingat bagi dirinya agar tidak tergelincir dalam kezaliman.
@@ -83,6 +86,8 @@ sources:
 - **Pencarian Uwais al-Qarni**: Demi menjalankan wasiat Nabi SAW, Umar gigih mencari keberadaan **[[Uwais al-Qarni]]** di antara rombongan kabilah Irak (Murad/Qaran) dan meminta doa ampunan darinya, serta menangisi wafatnya pilar-pilar keadilan setelah meyakini kezuhudan Uwais (**[[Ketergantungan Dunia Part 3]]**).
  
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[meem_part_06]]
 

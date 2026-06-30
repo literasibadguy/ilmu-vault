@@ -6,7 +6,7 @@ entity_type: person
 role: Ulama, Teolog, Filosof, dan Sufi Master
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
 created: 2026-06-14
-updated: 2026-06-29
+updated: "2026-06-30"
 status: seed
 address: c-000093
 related:
@@ -16,6 +16,9 @@ related:
   - "[[Ghibah]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_07]]"
+  - "[[Chapter_VIII_Part_3_Riya_and_its_Treatment]]"
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[Excellence of Learning]]"
   - "[[Harms of Greed and Sexual Passion]]"
@@ -60,6 +63,12 @@ sources:
 
 ## Fakta Kunci
 
+- **Tinjauan Ibadah Eid & Upah Mengajar**: Menjelaskan keutamaan rohani menghidupkan malam hari raya serta menganjurkan pengajar agama tidak menuntut upah agar menjaga kemurnian ikhlas (**[[meem_part_07]]**).
+
+- **Kajian Riya' dan Terapinya**: Membedah detail klasifikasi riya' lahiriah (tubuh, baju, ucapan, aksi, murid), pengaruh riya' terhadap ibadah, resep terapi preventif/aktif, dan etika menyembunyikan dosa pribadi (**[[Chapter_VIII_Part_3_Riya_and_its_Treatment]]**).
+
+- **Kajian Cinta Kedudukan dan Ketenaran**: Membedah bahaya nafsu kekuasaan batin (*Hubbul Jah*), keutamaan anonymity (*Khumul*), serta resep terapi pujian dan celaan makhluk (**[[Chapter_VIII_Part_1_Love_of_Power]]**, **[[Chapter_VIII_Part_2_Praise_and_Blame]]**).
+
 - **Kajian tentang Kikir dan Isar**: Membedah sifat kikir (*miserliness*) sebagai penyakit rohani pemutus kedermawanan dan memuji isar sebagai kedermawanan spiritual tingkat tertinggi (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
 
 - **Karya Utama**: Menulis kitab *Ihya' Ulumiddin*, di mana Kitab Pematah Dua Syahwat (*Greed for Food and Sexual Passion*) merupakan salah satu bab di dalamnya yang mendeskripsikan bahaya nafsu perut dan birahi.
@@ -85,6 +94,12 @@ sources:
 - [[Ghibah]] — Bencana lisan yang dikaji mendalam oleh beliau sebagai perusak persaudaraan Islam.
 
 ## Sumber
+
+- [[meem_part_07]]
+
+- [[Chapter_VIII_Part_3_Riya_and_its_Treatment]]
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 

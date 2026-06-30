@@ -11,7 +11,7 @@ aliases:
   - "Sum'ah"
   - "Pencitraan"
 created: 2026-06-10
-updated: 2026-06-10
+updated: "2026-06-30"
 status: seed
 related:
   - "[[Syirik Asghar]]"
@@ -52,7 +52,25 @@ Riya' adalah salah satu dosa besar hati yang paling merusak. Karakteristik bahay
 - **Teguran Abu Umamah**: Ketika melihat seseorang menangis tersedu-sedu dalam sujudnya di area umum masjid, Sahabat Abu Umamah menegurnya dengan keras, *"Kamu! Tangisan seperti ini seharusnya kamu lakukan di dalam kamarmu (agar terjaga dari riya')."*
 - **Pernyataan Al-Fudayl bin Iyad**: Memperingatkan batasan halus riya' dengan berkata: *"Meninggalkan suatu amal saleh karena takut dilihat orang adalah riya'. Sedangkan beramal saleh demi dilihat orang adalah syirik. Dan ikhlas adalah ketika Allah menyelamatkanmu dari keduanya."*
 
+
+## Klasifikasi Objek Riya' (Ihya Jilid 3 Bab 8)
+
+Menurut **[[Imam Al-Ghazali]]**, riya' dapat dilakukan melalui lima saluran objek lahiriah:
+1. **Fisik (Body)**: Memperlihatkan tubuh yang kurus, pucat, atau rambut berantakan agar disangka tekun berpuasa dan beribadah malam.
+2. **Pakaian (Dress)**: Mengenakan pakaian compang-camping atau kasar agar dinilai sebagai zahid yang zuhud terhadap dunia.
+3. **Ucapan (Speech)**: Berdebat tentang ilmu agama secara agresif atau sering menggerakkan bibir berzikir di depan umum agar dinilai sebagai ulama saleh.
+4. **Perbuatan (Action)**: Memperlama ruku', sujud, atau memperlihatkan gerakan lambat yang khusyuk saat shalat berjamaah.
+5. **Elemen Eksternal (Outer Elements)**: Memamerkan banyaknya murid, jaringan ulama, atau tamu penting yang mengunjungi dirinya agar dinilai memiliki kedudukan sosial-keagamaan yang tinggi.
+
+## Pengaruh Riya' Terhadap Amal Ibadah
+
+Pahala amal ibadah dipengaruhi oleh motivasi riya' dengan ketentuan sebagai berikut:
+- **Riya' Murni (Pure Show)**: Beribadah semata-mata demi dilihat makhluk (tanpa ada niat karena Allah). Amal ini batal total sejak awal.
+- **Riya' Campuran (Mixed Show)**: Niat ibadah bercampur antara karena Allah dan karena makhluk. Jika niat pamer lebih dominan, amal batal; jika niat karena Allah lebih dominan, pahala berkurang secara signifikan.
+- **Riya' yang Masuk di Tengah Amal**: Jika riya' menyusup saat sedang shalat atau sedekah, pahala tetap sah asalkan pelaku segera melawannya seketika (**[[Terapi Penyakit Riya]]**).
+
 ## Sumber
+- [[Chapter_VIII_Part_3_Riya_and_its_Treatment]]
 
 - [[Showing Off]]
 
@@ -67,19 +85,3 @@ Nabi SAW bersabda:
 Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.
 
 
-### Riya dalam Shalat (Mencemooh Rabb)
-
-Riya dalam shalat tecermin dari perbedaan kekhusyukan seseorang saat dilihat manusia dengan saat ia bersendirian.
-Nabi SAW bersabda:
-> *"Barangsiapa memperbagus shalatnya ketika dilihat manusia, lalu memperburuk shalatnya ketika ia bersendirian (sunyi), maka tindakan tersebut merupakan bentuk penghinaan/pelecehan yang ia lakukan terhadap Rabbnya."* (HR. Al-Bayhaqi & Ibnu Majah dari **[[Ibnu Mas'ud]]**).
-
-Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.
-
-
-### Riya dalam Shalat (Mencemooh Rabb)
-
-Riya dalam shalat tecermin dari perbedaan kekhusyukan seseorang saat dilihat manusia dengan saat ia bersendirian.
-Nabi SAW bersabda:
-> *"Barangsiapa memperbagus shalatnya ketika dilihat manusia, lalu memperburuk shalatnya ketika ia bersendirian (sunyi), maka tindakan tersebut merupakan bentuk penghinaan/pelecehan yang ia lakukan terhadap Rabbnya."* (HR. Al-Bayhaqi & Ibnu Majah dari **[[Ibnu Mas'ud]]**).
-
-Memperindah gerakan ruku', sujud, dan bacaan shalat di depan khalayak namun melakukan shalat secara tergesa-gesa tanpa thuma'ninah di saat sunyi menunjukkan bahwa orang tersebut lebih mengagungkan pandangan manusia daripada pandangan Allah SWT.

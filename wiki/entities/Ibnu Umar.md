@@ -1,4 +1,5 @@
 ---
+tags: [entity, tokoh]
 address: "c-000362"
 type: entity
 title: "Ibnu Umar"
@@ -19,6 +20,7 @@ related:
   - "[[Mengingat Maut]]"
   - "[[Persiapan Kematian]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -41,6 +43,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Ancaman Ghasb Tanah**: Meriwayatkan hadis ancaman keras dibenamkan ke tujuh lapis bumi bagi pelaku perampasan tanah secara zalim (**[[meem_part_07]]**).
+
 - **Hadits Precedensi Muhajirin Miskin**: Meriwayatkan hadits bahwa orang-orang miskin Muhajirin mendahului orang kaya masuk Surga dengan selisih 40 tahun, serta hadits keutamaan pemimpin yang adil di Hari Kiamat (**[[Ujian Kekayaan dan Kemiskinan]]**).\n- **Kepatuhan Terhadap Sunna**: Sangat berhati-hati dalam meneladani setiap gerak-gerik Nabi SAW tanpa menambah atau menguranginya.
 - **Penyampai Hadis Akhlak**: Meriwayatkan hadis tentang murka Allah terhadap orang yang sombong dalam berjalan (*strutting*) dan sombong terhadap dirinya sendiri, menegaskan pentingnya tawadhu dalam kehidupan bermasyarakat.
 - **Sikap Terhadap Nikah Tahlil**: Menentang keras rekayasa nikah tahlil. Beliau menegaskan bahwa pernikahan harus berlandaskan rasa suka dan keinginan tulus (desire). Beliau berfatwa bahwa pada zaman Rasulullah SAW, praktik tahlil dikategorikan sama dengan perbuatan zina.
@@ -52,6 +56,8 @@ sources:
 - **Hadis Keharaman Khamr**: Meriwayatkan sabda Rasulullah SAW tentang keharaman minuman keras secara mutlak baik sedikit maupun banyak, dan menegaskan makna *khamr* mencakup segala zat pemutus akal (intoksikan) baik padat maupun cair (**[[Major-Sin-19-Drinking-Alcohol]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
 
 - [[meem_part_06]]
 

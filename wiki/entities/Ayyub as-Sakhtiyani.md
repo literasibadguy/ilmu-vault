@@ -1,22 +1,20 @@
 ---
+address: "c-000393"
+tags: [entity, tabiin, basra, perawi]
 type: entity
 title: "Ayyub as-Sakhtiyani"
 entity_type: person
 role: "Ulama Tabi'in / Ahli Fiqih Basra"
 first_mentioned: "[[Neglect of the Prayer]]"
 created: 2026-06-15
-updated: "2026-06-23"
-tags:
-  - entity
-  - tabiin
-  - basra
-  - perawi
+updated: "2026-06-30"
 status: seed
 related:
   - "[[Ibrahim an-Nakha'i]]"
   - "[[Imam Malik bin Anas]]"
   - "[[Sufyan ath-Thawri]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[Neglect of the Prayer]]"
   - "[[Major-Sin-31-Corrupt-Judgement]]"
 ---
@@ -29,6 +27,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Keutamaan Khumul**: Bersumpah bahwa seorang hamba tidak akan jujur kepada Allah sebelum ia rida bahwa alamat rumahnya tidak diketahui oleh siapa pun (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Ketegasan Hukum Shalat**: Berpendapat keras mengenai orang yang sengaja meninggalkan shalat wajib, menyetujui fatwa kekufuran (keluar dari Islam) bagi pelakunya, sebagaimana yang disuarakan oleh ulama sezamannya seperti Ibrahim an-Nakha'i (**[[Meninggalkan Shalat]]**).
 - **Rujukan Hadis Basra**: Dinilai oleh ulama sezamannya sebagai "pemimpin para penghafal hadis di Basra". Imam Sufyan bin Uyainah menyatakan tidak pernah bertemu ulama seperti Ayyub.
 - **Kezuhudan Praktis**: Dikenal memiliki gaya hidup sederhana, tidak mau menerima pemberian dari penguasa, dan memfokuskan harinya untuk mengajar hadis dan ibadah sunnah.
@@ -40,6 +40,8 @@ sources:
 - **[[Imam Malik bin Anas]]**: Ayyub adalah salah satu perawi hadis senior di Madinah yang sangat dihormati dan diriwayatkan hadisnya oleh Imam Malik.
 
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[Neglect of the Prayer]]
 - [[Major-Sin-31-Corrupt-Judgement]]

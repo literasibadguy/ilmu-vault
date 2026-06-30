@@ -14,6 +14,7 @@ related:
   - "[[Ghibah]]"
   - "[[Husnudzon Kepada Allah]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -36,6 +37,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Ihya' al-Mawat**: Meriwayatkan hadis tentang hukum kepemilikan tanah mati hasil reklamasi dan pahala sedekah tanaman yang dimakan makhluk (**[[meem_part_07]]**).
+
 - **Hadis Celaan Ghibah**: Meriwayatkan sabda Nabi SAW tentang bahaya ghibah yang dinilai lebih berat daripada dosa zina karena pelaku ghibah memerlukan pemaafan langsung dari korbannya sebelum diampuni Allah.
 - **Kisah Siksa Kubur**: Bersama Nabi SAW dalam sebuah perjalanan dan meriwayatkan hadis tentang siksa kubur dua jenazah yang dihukum bukan karena dosa besar duniawi, melainkan karena salah satunya gemar melakukan ghibah (menggunjing orang) dan yang lainnya tidak membersihkan sisa urine.
 - **Hadis Perintah Husnudzon Sebelum Wafat**: Meriwayatkan wasiat penting Rasulullah SAW tiga hari sebelum wafatnya agar setiap Muslim tidak meninggal dunia melainkan dalam keadaan berprasangka baik terhadap rahmat Allah SWT (**[[Husnudzon Kepada Allah]]**).
@@ -44,6 +47,8 @@ sources:
 - Meriwayatkan hadis tentang larangan menyedekahkan hasil perdagangan haram (seperti khamr/miras) karena tidak diterima Allah (**[[Major-Sin-27-Tax-Collecting]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
 
 - [[meem_part_06]]
 

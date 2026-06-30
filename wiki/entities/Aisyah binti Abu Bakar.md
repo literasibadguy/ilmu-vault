@@ -19,6 +19,7 @@ related:
   - "[[Ghibah]]"
   - "[[Sakaratul Maut]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -49,6 +50,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Fadhilah Surah Pertama**: Meriwayatkan hadis mengenai keutamaan menjaga bacaan tujuh surah pertama (*As-Sab'u al-Thuwalah*) dalam Al-Quran (**[[meem_part_07]]**).
+
 - **Kesederhanaan Makanan Nabi**: Meriwayatkan bahwa keluarga Rasulullah SAW tidak pernah makan kenyang selama berhari-hari berturut-turut, mempraktikkan zuhud dan isar pada tingkat tertinggi (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
 
 - **Periwayat Ibadah Rumah Tangga**: Menjadi rujukan utama fiqih mengenai detail shalat malam (*tahajud*), tata cara wudhu, dan adab rumah tangga Nabi SAW.
@@ -66,6 +69,8 @@ sources:
 - Meriwayatkan hadis tentang beratnya hisab bagi hakim yang adil di hari Kiamat hingga berharap tidak pernah menghakimi perkara walau sebutir kurma (**[[Major-Sin-31-Corrupt-Judgement]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
 
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 

@@ -68,7 +68,15 @@ Berdasarkan penjelasan **[[Imam Al-Ghazali]]** dalam *Ihya' Ulumiddin*, cinta te
    - **[[Yahya bin Mu'adh]]** memperingatkan bahwa harta laksana ular berbisa yang tidak boleh disentuh kecuali oleh yang mahir penawarnya (mencari secara halal dan membelanjakan di jalan Allah).
    - **[[Salman al-Farisi]]** memperingatkan **[[Abu al-Darda]]** bahwa orang yang menimbun harta haram atau tidak menunaikan hak Allah akan dijerat hartanya di leher saat menyeberangi jembatan sirath.
 
+
+## Tambahan Konteks Ihya Jilid 3 Bab 8 (Cinta Kedudukan)
+
+Ambisi mencari kekuasaan, nama, dan ketenaran merupakan bagian dari cinta dunia yang sangat merusak spiritual:
+1. **Pemicu Nifak dan Kerusakan Iman**: Keinginan menguasai hati manusia lain (*Hubbul Jah*) dikategorikan oleh **[[Imam Al-Ghazali]]** lebih berbahaya dibanding cinta harta (**[[Cinta Kedudukan]]**).
+2. **Kecenderungan Jiwa**: Jiwa manusia cenderung menyukai lordship (ketuhanan kecil) berupa ketaatan mutlak manusia lain kepadanya, yang merupakan jebakan batin terbesar (**[[Cinta Kedudukan]]**).
+
 ## Sumber
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 - [[Chapter_VII_Part_1_Love_for_Wealth]]
 
 - [[Attachment-of-the-World]]

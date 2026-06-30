@@ -13,6 +13,7 @@ related:
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Ketergantungan Dunia Part 3]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Excellence of Learning]]"
   - "[[Ketergantungan Dunia Part 3]]"
@@ -42,10 +43,14 @@ Dalam pembahasan *Ihya' Ulumiddin* Bab I mengenai keutamaan ilmu:
 
 ## Sumber
 
+- [[meem_part_07]]
+
 - [[Chapter_VII_Part_1_Love_for_Wealth]]
 - [[Excellence of Learning]]
 - [[Ketergantungan Dunia Part 3]]
 
 
 ## Fakta Kunci
+
+- **Periwayatan Syiar Quran & Kebersihan Jalan**: Meriwayatkan hadis ancaman busur neraka bagi pengambil upah Quran serta hadis jaminan surga bagi pembersih rintangan di jalan kaum muslimin (**[[meem_part_07]]**).
 - **Penerima Surat Salman al-Farisi**: Menerima surat dari Salman al-Farisi yang berisi peringatan keras mengenai bahaya menimbun harta yang melebihi kebutuhan penopang ibadah (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).

@@ -1,4 +1,6 @@
 ---
+address: "c-000397"
+tags: [concept, akhlak, tauhid]
 type: concept
 title: "Ikhlas"
 complexity: intermediate
@@ -7,11 +9,7 @@ aliases:
   - "Keikhlasan"
   - "Sincerity"
 created: 2026-06-10
-updated: 2026-06-10
-tags:
-  - concept
-  - akhlak
-  - tauhid
+updated: "2026-06-30"
 status: seed
 related:
   - "[[Riya]]"
@@ -49,6 +47,22 @@ Ikhlas adalah fondasi utama diterimanya seluruh bangunan amal saleh. Kedudukanny
 - **Formulasi Al-Fudayl bin Iyad**: Beliau merumuskan esensi keikhlasan dengan sangat presisi: *"Meninggalkan amal karena takut manusia adalah riya'. Beramal karena manusia adalah syirik. Dan ikhlas adalah jika Allah menyelamatkanmu dari kedua kondisi tersebut."*
 - **Rahasia Amal Shalih**: Para salafus shalih sangat menjaga agar air mata khusyuk mereka tidak terlihat orang lain. Jika mereka merasakan luapan emosi keimanan saat berkumpul, mereka akan segera mengusap wajah dan berpura-pura sedang flu atau mengantuk demi menyembunyikan tangisan khusyuk mereka.
 
+
+## Larangan Meninggalkan Amal karena Takut Riya'
+
+**[[Imam Al-Ghazali]]** memperingatkan kesalahan fatal sebagian penuntut ilmu yang menghentikan amal ibadah sunnah atau sosial (seperti mengajar, sedekah, shalat jamaah) hanya karena takut dituduh pamer atau merasa ada riya' di dalam hatinya:
+- **Trik Iblis (Work of the Devil)**: Iblis menggunakan kekhawatiran riya' ini untuk menghalangi manusia dari kebaikan. Orang yang meninggalkan ibadah karena takut riya' sebenarnya telah terjebak dalam riya' pasif.
+- **Solusi Syar'i**: Tetap laksanakan ibadah tersebut secara konsisten, seraya berjuang keras menepis bisikan pamer di dalam hati menggunakan **[[Terapi Penyakit Riya]]**.
+
+
+## Mata Air Hikmah dari Keikhlasan 40 Hari
+
+Dalam syarah hadis berawalan huruf Meem, keikhlasan niat yang terjaga secara konsisten melahirkan keajaiban spiritual:
+- **Pancaran Hikmah**: Nabi SAW bersabda: *"Barangsiapa mengikhlaskan dirinya kepada Allah selama empat puluh hari (40 hari), niscaya akan tampak mata air hikmah dari hatinya ke lisannya."* (**[[meem_part_07]]**).
+- **Tinjauan Sufistik**: Ulama sufi menjelaskan bahwa pengosongan hati dari ambisi duniawi selama 40 hari secara kontinu mengubah sifat kebaikan menjadi watak asli lahiriah, membuka gerbang makrifat spiritual.
+
 ## Sumber
+- [[meem_part_07]]
+- [[Chapter_VIII_Part_3_Riya_and_its_Treatment]]
 
 - [[Showing Off]]

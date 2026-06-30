@@ -17,6 +17,7 @@ related:
   - "[[Ghibah]]"
   - "[[Raja' dan Khauf]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -47,6 +48,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Ihya' as-Sunnah**: Meriwayatkan hadis Rasulullah SAW mengenai keutamaan menghidupkan sunnah di tengah umat demi memperoleh kebersamaan bersama Nabi di surga (**[[meem_part_07]]**).
+
 - **Kedermawanan Luar Biasa Nabi**: Meriwayatkan kebaikan hati Nabi Muhammad SAW yang menyedekahkan seisi lembah kambing zakat kepada seorang pengemis, menumbuhkan kecintaan mendalam terhadap keadilan Islam (**[[Chapter_VII_Part_3_Miserliness_and_Poverty]]**).
 
 - **Dekat dengan Keseharian Nabi**: Berkat khidmatnya kepada Nabi SAW sejak kecil, beliau merekam banyak detail kebiasaan, doa, dan sifat pribadi Rasulullah SAW secara intim.
@@ -63,6 +66,8 @@ sources:
 - **Hadits Majelis Dzikir dan Faqih**: Meriwayatkan hadits keutamaan duduk di majelis dzikir dari Subuh hingga terbit matahari lebih dicintai daripada memerdekakan empat orang budak, serta penjelasan bahwa seseorang tidak menjadi faqih sejati kecuali ia membuat manusia memahami keberadaan Allah (**[[Dzikir]]** dan **[[Fiqh]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
 
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 

@@ -1,4 +1,6 @@
 ---
+address: "c-000404"
+tags: [concept, muamalah, akhlak]
 type: concept
 title: Etika Keuangan Islam
 complexity: intermediate
@@ -8,10 +10,6 @@ aliases:
   - Utang Piutang dalam Islam
 created: 2026-06-08
 updated: 2026-06-08
-tags:
-  - concept
-  - muamalah
-  - akhlak
 status: seed
 related:
   - "[[Kezaliman Diri]]"
@@ -41,6 +39,14 @@ Etika keuangan dalam Islam menyeimbangkan antara hubungan kepada Allah (*hablum-
 
 Dalam ceramah **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**, Syaikh Al-Utsaimin mengutip sabda Nabi SAW: *"Matal al-ghaniyyi zhulmun"* (Penundaan pembayaran utang oleh orang yang kaya/mampu adalah sebuah kezaliman). Syaikh merinci bahwa setiap detik atau menit yang dilewati oleh seorang debitur mampu yang sengaja menunda pembayaran utangnya dicatat oleh malaikat sebagai tindakan kezaliman yang mengikis pahala amalnya.
 
+
+## Transaksi Utang Piutang & Hukum Agraria (meem_part_07)
+
+Dalam etika keuangan Islam, terdapat beberapa ketentuan moral dan hukum baru:
+1. **Niat Melunasi Utang**: Utang piutang sangat bergantung pada niat awal. Orang yang berniat melunasi akan dibantu Allah (atau dilunasi dosanya di akhirat), sedangkan orang yang berniat menipu/merusak harta kreditur akan dibinasakan hidupnya (**[[meem_part_07]]**).
+2. **Larangan Kezaliman Agraria (Ghasb)**: Merampas tanah atau jalan umum kaum muslimin secara paksa merupakan dosa besar, di mana pelakunya akan dibenamkan hingga tujuh lapis bumi (**[[Ihya' al-Mawat]]**, **[[meem_part_07]]**).
+
 ## Sumber
+- [[meem_part_07]]
 
 - **[[Ceramah Azab Kubur (Syaikh Utsaimin)]]**

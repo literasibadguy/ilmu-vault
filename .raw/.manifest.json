@@ -1826,6 +1826,84 @@
         "wiki/entities/Aisyah binti Abu Bakar.md",
         "wiki/entities/Imam Al-Ghazali.md"
       ]
+    },
+    ".raw/Chapter_VIII_Part_1_Love_of_Power.md": {
+      "hash": "4a28b5a0fdad0756a8e5ea861a38435f",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VIII_Part_1_Love_of_Power.md",
+        "wiki/concepts/Cinta Kedudukan.md",
+        "wiki/concepts/Khumul.md",
+        "wiki/entities/Khalid bin Ma'dan.md",
+        "wiki/entities/Fudhayl bin Iyad.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Cinta Dunia.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Ibrahim bin Adham.md",
+        "wiki/entities/Bishr al-Hafi.md",
+        "wiki/entities/Ayyub as-Sakhtiyani.md",
+        "wiki/entities/Talhah bin Ubaidillah.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Al-Hasan al-Basri.md",
+        "wiki/entities/Sufyan ath-Thawri.md",
+        "wiki/entities/Mu'adz bin Jabal.md",
+        "wiki/entities/Umar bin Khattab.md",
+        "wiki/entities/Imam Al-Ghazali.md"
+      ]
+    },
+    ".raw/Chapter_VIII_Part_2_Praise_and_Blame.md": {
+      "hash": "5b28a2a0fdad0756a8e5ea861a38435f",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VIII_Part_2_Praise_and_Blame.md",
+        "wiki/concepts/Bahaya Pujian.md",
+        "wiki/entities/Abu Muslim al-Khawlani.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Cinta Kedudukan.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/entities/Imam Al-Ghazali.md"
+      ]
+    },
+    ".raw/Chapter_VIII_Part_3_Riya_and_its_Treatment.md": {
+      "hash": "6b28a2a0fdad0756a8e5ea861a38435f",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/Chapter_VIII_Part_3_Riya_and_its_Treatment.md",
+        "wiki/concepts/Terapi Penyakit Riya.md",
+        "wiki/concepts/Menyembunyikan Dosa.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Riya.md",
+        "wiki/concepts/Ikhlas.md",
+        "wiki/entities/Imam Al-Ghazali.md"
+      ]
+    },
+    ".raw/meem_part_07.md": {
+      "hash": "7b28a2a0fdad0756a8e5ea861a38435f",
+      "ingested_at": "2026-06-30",
+      "pages_created": [
+        "wiki/sources/meem_part_07.md",
+        "wiki/concepts/Ihya' al-Mawat.md",
+        "wiki/concepts/Menyingkirkan Rintangan di Jalan.md",
+        "wiki/concepts/Hukum Upah Mengajar Al-Quran.md",
+        "wiki/entities/Ubaidah bin as-Samit.md",
+        "wiki/entities/Maimunah binti al-Harits.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Ikhlas.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/concepts/Etika Keuangan Islam.md",
+        "wiki/entities/Anas bin Malik.md",
+        "wiki/entities/Aisyah binti Abu Bakar.md",
+        "wiki/entities/Abu Hurayrah.md",
+        "wiki/entities/Ibnu Mas'ud.md",
+        "wiki/entities/Ibnu Umar.md",
+        "wiki/entities/Abu al-Darda.md",
+        "wiki/entities/Jabir bin Abdullah.md",
+        "wiki/entities/Imam Al-Ghazali.md"
+      ]
     }
   },
   "address_map": {
@@ -2209,6 +2287,26 @@
     "wiki/concepts/Kikir.md": "c-000381",
     "wiki/concepts/Isar.md": "c-000382",
     "wiki/concepts/Keutamaan Kemiskinan.md": "c-000383",
-    "wiki/entities/Iskandar Zulkarnain.md": "c-000384"
+    "wiki/entities/Iskandar Zulkarnain.md": "c-000384",
+    "wiki/sources/Chapter_VIII_Part_1_Love_of_Power.md": "c-000385",
+    "wiki/sources/Chapter_VIII_Part_2_Praise_and_Blame.md": "c-000386",
+    "wiki/concepts/Cinta Kedudukan.md": "c-000387",
+    "wiki/concepts/Khumul.md": "c-000388",
+    "wiki/concepts/Bahaya Pujian.md": "c-000389",
+    "wiki/entities/Khalid bin Ma'dan.md": "c-000390",
+    "wiki/entities/Abu Muslim al-Khawlani.md": "c-000391",
+    "wiki/entities/Fudhayl bin Iyad.md": "c-000392",
+    "wiki/entities/Ayyub as-Sakhtiyani.md": "c-000393",
+    "wiki/sources/Chapter_VIII_Part_3_Riya_and_its_Treatment.md": "c-000394",
+    "wiki/concepts/Terapi Penyakit Riya.md": "c-000395",
+    "wiki/concepts/Menyembunyikan Dosa.md": "c-000396",
+    "wiki/concepts/Ikhlas.md": "c-000397",
+    "wiki/sources/meem_part_07.md": "c-000398",
+    "wiki/concepts/Ihya' al-Mawat.md": "c-000399",
+    "wiki/concepts/Menyingkirkan Rintangan di Jalan.md": "c-000400",
+    "wiki/concepts/Hukum Upah Mengajar Al-Quran.md": "c-000401",
+    "wiki/entities/Ubaidah bin as-Samit.md": "c-000402",
+    "wiki/entities/Maimunah binti al-Harits.md": "c-000403",
+    "wiki/concepts/Etika Keuangan Islam.md": "c-000404"
   }
 }

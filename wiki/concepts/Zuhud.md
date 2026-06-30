@@ -63,7 +63,24 @@ Dalam mengikis ketamakan dan menumbuhkan zuhud, **[[Imam Al-Ghazali]]** merumusk
 2. **Kemandirian Rohani**: Seseorang yang ridha dengan kesederhanaan (seperti **[[Muhammad ibn Wasi']]** yang makan roti kering dicelup air) tidak akan pernah tunduk diperbudak oleh belas kasih manusia lainnya.
 3. **Keseimbangan Rezeki Takdir**: Sebagaimana ditegaskan oleh **[[Abu Hazim al-A'raj]]**, rezeki yang ditakdirkan untuk seseorang tidak akan pernah bisa dirampas oleh kekuatan mana pun di langit dan bumi, sehingga ketamakan merupakan kesia-siaan batin.
 
+
+## Tambahan Konteks Ihya Jilid 3 Bab 8 (Khumul)
+
+Sikap zuhud terhadap kedudukan diwujudkan dalam bentuk mengutamakan ketidakpopuleran (*khumul*):
+- **Menghindari Keramaian**: Sikap menjauhi pengikut sosial dan panggung ketenaran demi menjaga kebersihan hati dari rasa bangga diri (**[[Khumul]]**).
+- **Meredam Ujub**: Membuang ambisi dipuji oleh makhluk dan melatih keridaan hati saat dicela (**[[Bahaya Pujian]]**).
+
+
+## Tambahan Konteks Ihya' as-Sunnah dan Keikhlasan 40 Hari
+
+Prinsip kezuhudan diperkuat oleh fadhilah berikut:
+- **Ihya' as-Sunnah**: Menghidupkan sunnah Nabi di tengah kemunduran zaman merupakan bukti kecintaan kepada Nabi dan berbalas surga (**[[meem_part_07]]**).
+- **Zuhud 40 Hari**: Sebagaimana dinukil dari Sahl at-Tustari, kezuhudan yang dijalani secara tulus (*sidq*) selama 40 hari akan melahirkan karamah batiniah (**[[meem_part_07]]**).
+
 ## Sumber
+- [[meem_part_07]]
+- [[Chapter_VIII_Part_1_Love_of_Power]]
+- [[Chapter_VIII_Part_2_Praise_and_Blame]]
 
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 - [[Chapter_VII_Part_2_Greed_for_Wealth]]

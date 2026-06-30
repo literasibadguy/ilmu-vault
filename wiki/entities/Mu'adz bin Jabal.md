@@ -14,6 +14,7 @@ related:
   - "[[Ghibah]]"
   - "[[Keutamaan Mengajar]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -37,6 +38,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Tangisan Tanggung Jawab Riya'**: Ditemukan menangis oleh Umar bin Khattab di sisi makam Nabi SAW karena mendengar sabda Nabi bahwa riya' sekecil apa pun dikategorikan sebagai syirik samar (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Ahli Fiqih Terkemuka**: Nabi SAW bersabda bahwa Mu'adz adalah orang yang paling mengerti tentang halal dan haram di kalangan umatnya.
 - **Peringatan Saat Bertugas**: Ketika mengutusnya ke Yaman, Nabi SAW memberikan pesan penutup yang sangat terkenal: *"Takutlah kamu akan doa orang yang dizalimi, karena tidak ada hijab (penghalang) antara doanya dengan Allah."* Ini menjadi pengingat agar Mu'adz selalu memimpin dengan penuh keadilan sosial.
 - **Teguran Shalat Isha**: Menjadi perawi dari teguran terkenal Nabi SAW saat ia memanjangkan shalat jamaah Isha (membaca Al-Baqarah). Nabi SAW bersabda: *"Apakah engkau ingin menimbulkan fitnah (menyulitkan umat), wahai Mu'adz?"*, yang melandasi prinsip kemudahan dan peringatan membaca surah-surah sedang bagi imam shalat jamaah (**[[Sifat Shalat Nabi]]**).
@@ -46,6 +49,8 @@ sources:
 - **Perkataan tentang Ta'lim**: Menyatakan bahwa mengajarkan ilmu kepada orang yang belum mengetahuinya adalah sedekah rohani (*alms-giving*), dan mengajarkannya kepada yang berhak adalah jalan mendekatkan diri kepada Allah (**[[Excellence of Teaching]]**).
 
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[meem_part_06]]
 

@@ -1,4 +1,5 @@
 ---
+tags: [entity, salaf, perawi]
 type: entity
 title: "Sufyan ath-Thawri"
 entity_type: person
@@ -6,15 +7,12 @@ role: "Ulama Salaf / Ahli Hadis & Fiqih / Mujtahid Mutlak"
 first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
 created: "2026-06-10"
 updated: 2026-06-29
-tags:
-  - entity
-  - salaf
-  - perawi
 status: seed
 related:
   - "[[Imam Malik bin Anas]]"
   - "[[Imam Ahmad bin Hanbal]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Introduction and Silence]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
@@ -34,6 +32,8 @@ address: c-000129
 
 ## Fakta Kunci
 
+- **Menjauhi Pakaian Menarik Perhatian**: Menyebutkan bahwa generasi saleh terdahulu sangat membenci pakaian yang membuat mata manusia melotot memandanginya karena ketenaran (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Otoritas Hadis Kufah**: Menjadi guru bagi ratusan ulama besar generasi setelahnya. Penilaian hadisnya diakui sebagai salah satu standar keshahihan tertinggi.
 - **Sikap Terhadap Nikah Tahlil**: Mengharamkan praktik nikah tahlil secara mutlak dan menyatakan pernikahan tahlil tersebut batil (*invalid*). Beliau bersepakat dengan Imam Malik dan Imam Ahmad bahwa rekayasa hukum (*hilah*) untuk membolehkan rujuk talak tiga tidak dapat diterima dalam syariat Islam.
 - **Kezuhudan Ekstrim**: Menghabiskan akhir hayatnya dalam pelarian dari kejaran khalifah karena menolak diangkat menjadi qadhi (hakim negara) demi menjaga kemandirian fatwanya.
@@ -42,6 +42,8 @@ address: c-000129
 - **Karakter Luhur**: Merupakan bagian dari lima ulama salaf utama pendiri hukum fiqih sejati yang menggabungkan kesalehan batin dengan keahlian hukum praktis.
 
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Major-Sin-28-Consuming-Unlawful-Property]]

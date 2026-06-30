@@ -22,6 +22,7 @@ related:
   - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
@@ -55,6 +56,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Periwayatan Transaksi Keuangan & Upah**: Meriwayatkan hadis larangan mengambil keuntungan materi atas Al-Quran serta hadis kemudahan rezeki bagi pembayar hutang yang jujur (**[[meem_part_07]]**).
+
 - **Hadits Keutamaan Orang Miskin**: Meriwayatkan hadits keutamaan orang miskin mendahului orang kaya masuk Surga dengan selisih setengah hari akhirat atau 500 tahun (**[[Ujian Kekayaan dan Kemiskinan]]**), serta hadits Qudsi kedekatan hamba melalui amalan wajib dan sunnah.\n- **Daya Ingat Luar Biasa**: Diberikan berkah daya ingat yang kuat berkat doa Rasulullah SAW, sehingga mampu meriwayatkan ribuan hadis secara akurat.
 - **Penyampai Hadis Keadilan Sosial**: Meriwayatkan hadis tentang tiga golongan yang pertama masuk neraka, di antaranya adalah orang miskin yang sombong (karena orang miskin tidak memiliki alasan duniawi untuk menyombongkan diri, sehingga kesombongannya murni penyakit hati).
 - **Hadis Pertama Masuk Neraka (Riya')**: Meriwayatkan hadis panjang dari Muslim tentang tiga golongan pertama yang dilemparkan ke neraka pada Hari Kiamat karena penyakit riya' (mujahid, dermawan, dan qari').
@@ -74,6 +77,8 @@ sources:
 - **Kisah Lembah Bangkai (Visualisasi Hakikat Dunia)**: Abu Hurayrah meriwayatkan bahwa Rasulullah ﷺ pernah menggandeng tangannya pergi ke sebuah lembah di Madinah yang penuh dengan bangkai hewan, kotoran manusia, pakaian usang, dan tulang-tulang lapuk. Nabi ﷺ bersabda: *"Wahai Abu Hurayrah, apakah engkau ingin melihat dunia?"* Beliau menunjukkan bahwa semua kotoran itu dahulunya adalah makanan lezat, pakaian indah, dan tubuh manusia yang megah, yang kini berakhir mengenaskan. Beliau bersabda: *"Menangislah atas kondisi dunia ini jika engkau ingin menangis."* (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
 
 ## Sumber
+
+- [[meem_part_07]]
 
 - [[meem_part_06]]
 

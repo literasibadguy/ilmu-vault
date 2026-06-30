@@ -19,6 +19,7 @@ related:
   - "[[Keutamaan Mengajar]]"
   - "[[Ketergantungan Dunia Part 2]]"
 sources:
+  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -57,6 +58,8 @@ sources:
 
 ## Fakta Kunci
 
+- **Kritik Pengikut Crowded**: Memperingatkan kerumunan orang yang berjalan di belakangnya dengan menyatakan bahwa hal itu tidak mendatangkan maslahat kebaikan bagi hati seorang mukmin yang diikuti (**[[Chapter_VIII_Part_1_Love_of_Power]]**).
+
 - **Kecaman terhadap Penyembah Uang**: Menyatakan bahwa Allah akan menghinakan siapa saja yang mencintai emas dan perak, serta menceritakan iblis yang mencium koin emas/perak seraya berkata bahwa pencintanya adalah budak iblis yang sejati (**[[Chapter_VII_Part_1_Love_for_Wealth]]**).
 
 - **Otoritas Spiritual & Ilmu**: Dipandang sebagai mercusuar ilmu di Basra, Irak. Perkataannya menyerupai perkataan para nabi karena kedalaman dan keindahan bahasanya.
@@ -79,6 +82,8 @@ sources:
 - **Nasihat kepada Khalifah Abdul Aziz**: Menulis surat kepada Caliph Abdul Aziz yang menegaskan bahwa dunia adalah tempat persinggahan fana yang diturunkan kepada Adam sebagai bentuk hukuman, serta menganalogikan dunia seperti racun yang mematikan bagi siapa saja yang tidak mengenalnya.
 
 ## Sumber
+
+- [[Chapter_VIII_Part_1_Love_of_Power]]
 
 - [[Chapter_VII_Part_1_Love_for_Wealth]]
 

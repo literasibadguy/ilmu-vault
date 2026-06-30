@@ -14,19 +14,20 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-06-30. Mengimpor syarah **[[Chapter_VII_Part_3_Miserliness_and_Poverty]]** dari Kitab *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai celaan terhadap kekikiran (**[[Kikir]]**), derajat pengorbanan tertinggi (**[[Isar]]**), serta fadhilah kemiskinan batin (**[[Keutamaan Kemiskinan]]**, **[[Zuhud]]**).
+2026-06-30. Mengimpor hadis-hadis huruf Meem **[[meem_part_07]]** dari Kitab *Fayd al-Qadir* Jilid 6 mengenai reklamasi lahan kosong (**[[Ihya' al-Mawat]]**), kebersihan jalan umum (**[[Menyingkirkan Rintangan di Jalan]]**), upah mengajarkan Al-Quran (**[[Hukum Upah Mengajar Al-Quran]]**), kesucian ikhlas (**[[Ikhlas]]**), serta etika utang piutang (**[[Etika Keuangan Islam]]**, **[[Zuhud]]**).
 
 ## Fakta Kunci Terbaru
-- Kikir diibaratkan sebagai dahan pohon neraka yang menjerat pecintanya, sedangkan dermawan adalah pohon surga (**[[Kikir]]**).
-- Derajat kedermawanan tertinggi adalah *Isar*, yaitu mendahulukan hajat saudara Muslim di atas kebutuhan diri sendiri (**[[Isar]]**).
-- Batas minimal terhindar dari kikir adalah membayar zakat mal, menafkahi keluarga secara layak, dan menghindari kikir kepada diri sendiri.
-- Kemiskinan meringankan beban hisab akhirat (orang miskin saleh masuk surga 500 tahun lebih awal) (**[[Keutamaan Kemiskinan]]**).
-- Dialog Iskandar Zulkarnain dengan ahli kubur asketis menegaskan bahwa kematian menyamakan tulang raja dengan rakyat jelata (**[[Iskandar Zulkarnain]]**).
-- Meriwayatkan sifat dermawan luar biasa Nabi yang menyedekahkan selembah kambing zakat kepada orang miskin (**[[Anas bin Malik]]**).
+- Mengolah lahan mati menghasilkan hak kepemilikan bagi pengolahnya, dan tanah hasil olahan menjadi sedekah jika dimakan pencari rezeki (**[[Ihya' al-Mawat]]**).
+- Mengambil upah mengajar Al-Quran dilarang sebagian salaf demi menjaga ikhlas, namun dibolehkan mazhab Syafi'i sebagai rukhshah darurat (**[[Hukum Upah Mengajar Al-Quran]]**).
+- Menyingkirkan duri/batu dari jalan kaum muslimin dicatat sebagai satu kebaikan pembawa masuk surga (**[[Menyingkirkan Rintangan di Jalan]]**).
+- Ikhlas beribadah 40 hari beruntun memancarkan mata air hikmah dari hati menuju lisan (**[[Ikhlas]]**).
+- Niat melunasi utang akan ditolong Allah, sedangkan niat merusak harta kreditur membinasakan keberkahan hidup (**[[Etika Keuangan Islam]]**).
+- Ubaidah bin as-Samit meriwayatkan hadis menghidupkan malam raya Idul Fitri/Adha menjaga hati tetap hidup (**[[Ubaidah bin as-Samit]]**).
+- Perampas tanah (*Ghasb*) diancam dibenamkan hingga tujuh lapis bumi pada hari kiamat.
 
 ## Perubahan Terbaru
-- Dibuat: [[Chapter_VII_Part_3_Miserliness_and_Poverty]], [[Kikir]], [[Isar]], [[Keutamaan Kemiskinan]], [[Iskandar Zulkarnain]].
-- Diperbarui: [[Zuhud]], [[Anas bin Malik]], [[Aisyah binti Abu Bakar]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]].
+- Dibuat: [[meem_part_07]], [[Ihya' al-Mawat]], [[Menyingkirkan Rintangan di Jalan]], [[Hukum Upah Mengajar Al-Quran]], [[Ubaidah bin as-Samit]], [[Maimunah binti al-Harits]].
+- Diperbarui: [[Ikhlas]], [[Zuhud]], [[Etika Keuangan Islam]], [[Anas bin Malik]], [[Aisyah binti Abu Bakar]], [[Abu Hurayrah]], [[Ibnu Mas'ud]], [[Ibnu Umar]], [[Abu al-Darda]], [[Jabir bin Abdullah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]].
 
 ## Alur Kerja Aktif
 - Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.
