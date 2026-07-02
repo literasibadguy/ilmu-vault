@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-06-30"
+updated: "2026-07-02"
 tags:
   - meta
   - log
@@ -15,6 +15,20 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-07-02] Re-ingest & Cleanup: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 09
+- Sumber: `.raw/meem_part_09.md`
+- Ringkasan: [[meem_part_09]]
+- Halaman dibuat: [[Adab Berpakaian]], [[Ghulul]]
+- Halaman diperbarui: [[meem_part_09]], [[index]], [[log]], [[hot]], [[overview]]
+- Tindakan: Melakukan peninjauan ulang dan perbaikan atas 10 tautan mati yang mengarah ke tokoh (Abdur Ra'uf al-Munawi, Aisyah binti Abu Bakar, Abu Hurayrah, Zubair bin al-Awwam) dan konsep (Adab Berpakaian, Ghulul, Keutamaan Istighfar, Amanah Kepemimpinan, Syahid, Taharah).
+
+## [2026-07-02] Ingest: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10
+- Sumber: `.raw/meem_part_10.md`
+- Ringkasan: [[meem_part_10]]
+- Halaman dibuat: [[meem_part_10]], [[Abdullah bin Busr]], [[Fikih Zakat]], [[Fikih Transaksi Salam]], [[Amanah dan Wadiah]], [[Hukum Musik dan Nyanyian]]
+- Halaman diperbarui: [[Ubaidah bin as-Samit]], [[Keutamaan Istighfar]], [[Zuhud]], [[Larangan Membahayakan Muslim]], [[Menjaga Kehormatan Muslim]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Kumpulan 25 hadis huruf Meem: Istighfar harian, istighfar untuk mukminin, istighna/ta'affuf, haul zakat mal, awal & akhir hari dengan kebaikan, larangan menguping pembicaraan, wadi'ah amanah, bersedih atas dunia vs akhirat, syarat sah akad salam, wala' mualaf, menyebarkan aib, laknat menodongkan senjata, dan zuhud. Memperkaya berbagai konsep adab dan fiqih muamalah.
 
 ## [2026-07-02] Ingest: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 09
 - Sumber: `.raw/meem_part_09.md`

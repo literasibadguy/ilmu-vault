@@ -3,7 +3,7 @@ type: source
 address: "c-000429"
 title: "Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 09"
 source_type: book_chapter
-author: "Imam Abdur Ra'uf al-Munawi"
+author: "Abdur Ra'uf al-Munawi"
 date_published: "2026-07-02"
 url: ""
 confidence: high
@@ -35,7 +35,7 @@ updated: "2026-07-02"
 tags: [source, fayd-al-qadir, hadis, adab, thaharah, kepemimpinan]
 status: seed
 related:
-  - "[[Imam Abdur Ra'uf al-Munawi]]"
+  - "[[Abdur Ra'uf al-Munawi]]"
   - "[[Fayd al-Qadir]]"
 sources:
   - "[[.raw/meem_part_09.md]]"
@@ -82,26 +82,26 @@ Bagian ini menghimpun hadis-hadis Nabi SAW yang dimulai dengan "Man a..." (Baran
 15. **Haste dan Kesalahan**: Barangsiapa terburu-buru, maka ia akan salah atau hampir salah.
 
 ## Tokoh yang Disebutkan
-
+  
 - [[Nabi Muhammad SAW]]
-- [[Imam Abdur Ra'uf al-Munawi]]
-- [[Aisyah]]
+- [[Abdur Ra'uf al-Munawi]]
+- [[Aisyah binti Abu Bakar]]
 - [[Anas bin Malik]]
 - [[Ibnu Umar]]
 - [[Ali bin Abi Thalib]]
-- [[Abu Hurairah]]
+- [[Abu Hurayrah]]
 - [[Jabir bin Abdullah]]
 - [[Umar bin Khattab]]
-- [[Zubair bin Awwam]]
+- [[Zubair bin al-Awwam]]
 
 ## Ilmu yang Diperkenalkan
 
-- [[Thaharah]]
+- [[Taharah]]
 - [[Adab Berpakaian]]
 - [[Zuhud]]
-- [[Kepemimpinan dan Amanah]]
-- [[Istighfar]]
-- [[Membela Harta dan Kehormatan]]
+- [[Amanah Kepemimpinan]]
+- [[Keutamaan Istighfar]]
+- [[Syahid]]
 - Keutamaan Madinah (lihat [[Larangan Menyakiti Penduduk Madinah]])
 - [[Ghulul]]
 

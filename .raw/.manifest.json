@@ -1992,6 +1992,44 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/meem_part_10.md": {
+      "hash": "7555604e0f588dab1d965834bf921105",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/meem_part_10.md",
+        "wiki/entities/Abdullah bin Busr.md",
+        "wiki/concepts/Fikih Zakat.md",
+        "wiki/concepts/Fikih Transaksi Salam.md",
+        "wiki/concepts/Amanah dan Wadiah.md",
+        "wiki/concepts/Hukum Musik dan Nyanyian.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Ubaidah bin as-Samit.md",
+        "wiki/concepts/Keutamaan Istighfar.md",
+        "wiki/concepts/Zuhud.md",
+        "wiki/concepts/Larangan Membahayakan Muslim.md",
+        "wiki/concepts/Menjaga Kehormatan Muslim.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/meem_part_09.md": {
+      "hash": "7363c1479ef8fb8347a4f4806043060c",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/meem_part_09.md",
+        "wiki/concepts/Adab Berpakaian.md",
+        "wiki/concepts/Ghulul.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -2418,6 +2456,14 @@
     "wiki/sources/Ihya-Repentance-Book-One-Part-10.md": "c-000427",
     "wiki/entities/Abdur Ra'uf al-Munawi.md": "c-000428",
     "wiki/entities/Imam as-Suyuti.md": "c-000429",
-    "wiki/sources/meem_part_09.md": "c-000429"
+    "wiki/sources/meem_part_09.md": "c-000429",
+    "wiki/sources/meem_part_10.md": "c-000430",
+    "wiki/entities/Abdullah bin Busr.md": "c-000431",
+    "wiki/concepts/Fikih Zakat.md": "c-000432",
+    "wiki/concepts/Fikih Transaksi Salam.md": "c-000433",
+    "wiki/concepts/Amanah dan Wadiah.md": "c-000434",
+    "wiki/concepts/Hukum Musik dan Nyanyian.md": "c-000435",
+    "wiki/concepts/Adab Berpakaian.md": "c-000436",
+    "wiki/concepts/Ghulul.md": "c-000437"
   }
 }

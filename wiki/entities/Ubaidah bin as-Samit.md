@@ -5,13 +5,15 @@ title: "Ubaidah bin as-Samit"
 entity_type: person
 role: "Sahabat Nabi / Panglima / Mufti"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-02"
 tags: [entity, tokoh, sahabat]
 status: seed
 related:
   - "[[Ikhlas]]"
+  - "[[Keutamaan Istighfar]]"
 sources:
   - "[[meem_part_07]]"
+  - "[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]"
 ---
 # Ubaidah bin as-Samit
 
@@ -28,5 +30,11 @@ Beliau meriwayatkan hadis mengenai keutamaan menghidupkan malam hari raya:
 
 Meskipun rantai sanad periwayatannya dinilai lemah oleh sebagian ahli hadis, para ulama sepakat mengamalkannya dalam ruang lingkup *Fadhail al-A'mal* (keutamaan amal shaleh).
 
+## Periwayatan Istighfar untuk Kaum Mukminin
+
+Beliau meriwayatkan hadis mengenai keutamaan memohonkan ampunan bagi kaum mukminin dan mukminat:
+> *"Barangsiapa memohonkan ampunan (istighfar) bagi kaum mukminin dan mukminat, Allah akan mencatat baginya satu kebaikan untuk setiap mukmin dan mukminat."* (**[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]**).
+
 ## Sumber
 - **[[meem_part_07]]**
+- **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]**

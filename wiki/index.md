@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-07-01"
+updated: "2026-07-02"
 tags:
   - meta
   - index
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-07-02 | Total halaman: 563 | Sumber diimpor: 92
+Terakhir diperbarui: 2026-07-02 | Total halaman: 571 | Sumber diimpor: 93
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -25,6 +25,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Abdal]] — **Abdal** (bentuk jamak dari *Badal* atau *Badil*) adalah golongan wali Allah atau kaum sufi/aske... (status: seed)
 - [[Adab Berbicara]] — **Adab Berbicara** (atau *Adab al-Kalam*) adalah disiplin akhlak Islam dalam menjaga lisan dari u... (status: developing)
 - [[Adab Berjabat Tangan]] — **Adab Berjabat Tangan** (*Mashafahah* / المصافحة) adalah etika bersosialisasi dalam Islam yang m... (status: seed)
+- [[Adab Berpakaian]] — Etika, norma syariat, dan tata krama dalam memilih, mengenakan, serta menyikapi pakaian. (status: seed)
 - [[Adab Buang Air]] — Seperangkat aturan hukum dan etika kesopanan syariat Islam saat melakukan buang air kecil maupun ... (status: evergreen)
 - [[Adab Hakim dalam Peradilan]] — **Adab Hakim dalam Peradilan** adalah sekumpulan aturan etika dan hukum syariat yang wajib ditera... (status: seed)
 - [[Adab Makan dan Minum]] — Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diajarkan oleh Nabi Mu... (status: seed)
@@ -42,6 +43,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Akal]] — **Akal** (*Aql* / *Intellect*) adalah substansi rohani atau cahaya spiritual yang dianugerahkan o... (status: evergreen)
 - [[Al-Ajz wal Kasal]] — **Al-'Ajz** (Kelemahan/Ketidakmampuan) dan **Al-Kasal** (Kemalasan) adalah dua penyakit mental-sp... (status: seed)
 - [[Al-Quran Sebagai Penyembuh]] — **Al-Quran Sebagai Penyembuh** (*Asy-Syifā'*) adalah konsep keyakinan dalam Islam bahwa seluruh a... (status: seed)
+- [[Amanah dan Wadiah]] — **Wadiah** adalah akad penitipan barang murni untuk dijaga keselamatan dan keamanannya tanpa adanya dhaman jika tidak lalai. (status: seed)
 - [[Amanah Kepemimpinan]] — **Amanah Kepemimpinan** adalah tanggung jawab suci dan kontrak moral-spiritual yang dibebankan Al... (status: seed)
 - [[Aqidah]] — Konsep dasar keyakinan teologis dalam Islam yang harus dibenarkan oleh hati. (status: evergreen)
 - [[Azab Kubur]] — **Azab Kubur** (siksa kubur) adalah penderitaan dan hukuman fisik serta spiritual yang dialami ol... (status: seed)
@@ -80,6 +82,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Fikih dan Waktu Hijamah]] — **Hijamah** (bekam / الحجامة) adalah metode pengobatan tradisional medis Islam (Thibbun Nabawi) dengan waktu sunnah tertentu. (status: seed)
 - [[Fikih Jual Beli Makanan]] — **Fikih Jual Beli Makanan** adalah sekumpulan aturan syariat Islam yang mengatur keabsahan transa... (status: seed)
 - [[Fikih Menghidupkan Lahan Mati]] — **Fikih Menghidupkan Lahan Mati** (*Ihya'ul Mawat* / إحياء الموات) adalah ketentuan hukum dalam s... (status: seed)
+- [[Fikih Transaksi Salam]] — **Jual Beli Salam** (Salaf) adalah sistem pembelian inden di mana pembayaran tunai dilakukan di muka saat akad dan penyerahan barang ditangguhkan. (status: seed)
+- [[Fikih Zakat]] — Cabang hukum ibadah dan keuangan Islam yang mengatur pengeluaran sebagian harta tertentu setelah memenuhi syarat nisab dan haul. (status: seed)
 - [[Fiqh]] — **Fiqh** (secara bahasa berarti pemahaman mendalam) adalah salah satu istilah sentral dalam tradi... (status: evergreen)
 - [[Fitnah dan Namimah]] — **Namimah** (Adu Domba / *Tale-bearing*) adalah tindakan memindahkan perkataan atau informasi rah... (status: seed)
 - [[Fitnah Kubur]] — **Fitnah Kubur** secara bahasa berarti ujian atau cobaan di dalam kubur. Dalam istilah syar'i, Fi... (status: seed)
@@ -90,6 +94,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ganja dan Hashish]] — **Ganja dan Hashish** (*al-hasyisyah*) merujuk pada hukum syariat yang mengatur penggunaan tanama... (status: seed)
 - [[Gaya Hidup Nabi dalam Makanan]] — Gaya hidup Nabi Muhammad SAW dalam urusan makanan mencerminkan zuhud (kesederhanaan) yang luar bi... (status: seed)
 - [[Ghibah]] — **Ghibah** (atau *ghība*) secara istilah syariat didefinisikan sebagai menyebutkan atau membicara... (status: developing)
+- [[Ghulul]] — Tindakan pengkhianatan atau penggelapan aset/harta publik yang diamanahkan kepada pejabat publik. (status: seed)
 - [[Ghusl]] — Tindakan meratakan air suci ke seluruh permukaan jasad (kulit dan rambut) guna menyucikan diri da... (status: evergreen)
 - [[Hak dan Kewajiban Suami]] — **Hak dan Kewajiban Suami** adalah aturan syariat Islam yang mengatur tanggung jawab finansial, m... (status: seed)
 - [[Hak dan Perlindungan Non-Muslim]] — **Hak dan Perlindungan Non-Muslim** (terutama *Kafir Dhimmi*) adalah jaminan perlindungan hukum k... (status: seed)
@@ -98,6 +103,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Hikmah]] — **Hikmah** (secara bahasa berarti kebijaksanaan, kebenaran mendalam, atau ketepatan dalam bertind... (status: evergreen)
 - [[Hilah]] — **Hilah** (jamak: *Hiyal*, bahasa Arab: الحيل) secara bahasa berarti tipu daya, kecerdikan, atau ... (status: seed)
 - [[Hilah Ribawiyah]] — **Hilah Ribawiyah** secara harfiah berarti trik atau tipu daya untuk memuluskan riba. Dalam fiqih... (status: seed)
+- [[Hukum Musik dan Nyanyian]] — Pandangan syariat mengenai mendengarkan musik, instrumen ma'azif, serta ancaman siksa mendengarkan biduanita (qinah). (status: seed)
 - [[Hukum Perceraian]] — **Hukum Perceraian** (atau *Talak/Firaq*) dalam Islam mengatur pembubaran ikatan pernikahan secar... (status: seed)
 - [[Hukum Upah Mengajar Al-Quran]] — **Hukum Upah Mengajar Al-Quran** adalah perdebatan fikih mengenai kebolehan menerima materi atas jasa pengajaran kitab suci. (status: seed)
 - [[Husnudzon Kepada Allah]] — **Husnudzon Kepada Allah** adalah sikap batin wajib di mana seorang hamba senantiasa menaruh pras... (status: seed)
@@ -269,6 +275,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Abdullah bin Anis]] — **Abdullah bin Anis al-Juhani** (wafat 54 H / 674 M) adalah sahabat setia Rasulullah SAW yang ter... (status: seed)
 - [[Abdullah bin az-Zubair]] — **Abdullah bin az-Zubair** (lahir 1 H / 622 M di Madinah, wafat 73 H / 692 M di Makkah) adalah sa... (status: seed)
 - [[Abdullah bin Buraydah]] — **Abdullah bin Buraydah** (wafat sekitar 115 H / 733 M) adalah seorang ulama tabi'in terkemuka, a... (status: seed)
+- [[Abdullah bin Busr]] — Sahabat muda Nabi SAW yang meriwayatkan tentang fadhilah memulai dan mengakhiri hari dengan amal kebaikan. (status: seed)
 - [[Abdullah bin Muhammad bin al-Numan]] — **Abdullah bin Muhammad bin al-Numan** (terkadang dieja Abdullah bin Muhammad bin al-Nu'man) adal... (status: seed)
 - [[Abdullah bin Rawahah]] — **Abdullah bin Rawahah** (Abdullah bin Rawahah bin Imru'ul Qais al-Anshari al-Khazraji, wafat 8 H... (status: seed)
 - [[Abdullah bin Salam]] — **Abdullah bin Salam** adalah sahabat Nabi SAW dari kalangan rabi/pendeta utama Yahudi Bani Qainu... (status: seed)
@@ -567,6 +574,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[meem_part_07]] — Ringkasan dari halaman 51-58 Kitab *Fayd al-Qadir* Jilid 6 karya **Al-Munawi** untuk hadis berawalan huruf Meem. (status: seed)
 - [[meem_part_08]] — Ringkasan hadis huruf Meem Bagian 08 dari *Fayd al-Qadir* Jilid 6 (hal. ~59-66): pahala adzan, haji, suhur, musyawarah, perlindungan Madinah, dan peringatan nifaq serta riddah. (status: seed)
 - [[meem_part_09]] — Kumpulan hadis huruf Meem Bagian 09 dari *Fayd al-Qadir* Jilid 6: adab ridha Allah vs manusia, bakti orang tua, membela harta, ilmu & zuhud, wudhu di dingin, adab pakaian & shalat, istijmar & istinja, keutamaan Madinah, amal tersembunyi, melindungi agama & ird, istighfar setelah shalat, kepemimpinan & amanah (ghulul), istighna, dan balas kebaikan. (status: seed)
+- [[meem_part_10]] — Kumpulan hadis huruf Meem Bagian 10 dari *Fayd al-Qadir* Jilid 6: istighfar harian, istighfar untuk mukminin, istighna/ta'affuf, haul zakat mal, awal & akhir hari dengan kebaikan, larangan menguping, wadi'ah amanah, bersedih atas dunia vs akhirat, syarat sah akad salam, wala' mualaf, menyebarkan aib, laknat menodongkan senjata, dan zuhud. (status: seed)
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]] — Bab dari kitab *Zad al-Ma'ad* karya **Ibnul Qayyim Al-Jauziyyah** yang menguraikan petunjuk **Nab... (status: seed)
 - [[Mysteries-of-Cleanliness-and-Purification]] — Bab III Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai hakikat batin bersuci... (status: evergreen)
 - [[Neglect of the Prayer]] — Bab ke-4 dari kitab *Kitab al-Kaba'ir* karya **Imam Adh-Dhahabi** yang membahas secara mendalam d... (status: seed)

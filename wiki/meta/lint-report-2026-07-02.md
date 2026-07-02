@@ -10,10 +10,10 @@ status: developing
 # Lint Report: 2026-07-02
 
 ## Summary
-- Pages scanned: 612
-- Issues found: 1240
+- Pages scanned: 620
+- Issues found: 1251
 - Auto-fixed: 0
-- Needs review: 1240
+- Needs review: 1251
 
 ## Orphan Pages
 - [[Abdul Wahed]]: no inbound links from non-meta pages.
@@ -75,33 +75,45 @@ status: developing
 - [[Utas Tazyin Kemaksiatan]]: no inbound links from non-meta pages.
 - [[Ya'qub bin Abdur Rahman]]: no inbound links from non-meta pages.
 - [[Yusuf bin Maymun]]: no inbound links from non-meta pages.
-- [[meem_part_09]]: no inbound links from non-meta pages.
+- [[meem_part_10]]: no inbound links from non-meta pages.
 - [[substack_ulama_akhirat]]: no inbound links from non-meta pages.
 - [[x_article_ulama_akhirat]]: no inbound links from non-meta pages.
 
 ## Dead Links
 - [[Abu Bakrah]]: referenced in [[Menghormati Otoritas Pemimpin]] but does not exist.
-- [[Abu Hurairah]]: referenced in [[meem_part_09]] but does not exist.
 - [[Abu Said]]: referenced in [[meem_part_03]] but does not exist.
-- [[Adab Berpakaian]]: referenced in [[meem_part_09]] but does not exist.
 - [[Adab Toilet]]: referenced in [[Larangan Mengotori Jalan]] but does not exist.
-- [[Aisyah]]: referenced in [[meem_part_09]] but does not exist.
+- [[Adi bin Amira]]: referenced in [[Ghulul]] but does not exist.
 - [[Bara' bin Azib]]: referenced in [[Keutamaan Kaum Ansar]] but does not exist.
-- [[Ghulul]]: referenced in [[meem_part_09]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Abdullah bin Busr]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Abdullah bin Busr]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Abdullah bin Busr]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Amanah dan Wadiah]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Amanah dan Wadiah]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Fikih Transaksi Salam]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Fikih Transaksi Salam]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Fikih Zakat]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Fikih Zakat]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Ghulul]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Ghulul]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Hukum Musik dan Nyanyian]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Hukum Musik dan Nyanyian]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Keutamaan Istighfar]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Larangan Membahayakan Muslim]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Menjaga Kehormatan Muslim]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Ubaidah bin as-Samit]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Ubaidah bin as-Samit]] but does not exist.
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]: referenced in [[Zuhud]] but does not exist.
 - [[Ibn Taymiyyah]]: referenced in [[Artikel Ghibah Realist]] but does not exist.
 - [[Ilm]]: referenced in [[Blameworthy-Sciences-and-Changing-Meanings]] but does not exist.
 - [[Ilm]]: referenced in [[Blameworthy-Sciences-and-Changing-Meanings]] but does not exist.
 - [[Ilm]]: referenced in [[Ibnu Mas'ud]] but does not exist.
 - [[Ilm]]: referenced in [[Pergeseran Makna Istilah]] but does not exist.
-- [[Imam Abdur Ra'uf al-Munawi]]: referenced in [[meem_part_09]] but does not exist.
 - [[Intellect and its Noble Nature]]: referenced in [[Akal]] but does not exist.
 - [[Intellect and its Noble Nature]]: referenced in [[Tamim ad-Dari]] but does not exist.
-- [[Istighfar]]: referenced in [[meem_part_09]] but does not exist.
 - [[Kebiasaan Harian Paling Unconventional untuk Sukses]]: referenced in [[Satu Hal Kecil yang Membedakan Orang Sukses]] but does not exist.
-- [[Kepemimpinan dan Amanah]]: referenced in [[meem_part_09]] but does not exist.
 - [[Lives and Virtues of the Great Imams]]: referenced in [[Fiqh]] but does not exist.
 - [[Masjidil Aqsa]]: referenced in [[meem_part_06]] but does not exist.
-- [[Membela Harta dan Kehormatan]]: referenced in [[meem_part_09]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Abu Dharr Al-Ghifari]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Mu'adz bin Jabal]] but does not exist.
 - [[Pemimpin yang Mengkhianati Rakyatnya]]: referenced in [[Nabi Muhammad SAW]] but does not exist.
@@ -133,13 +145,12 @@ status: developing
 - [[Signs of the Learned of the Hereafter Part 2]]: referenced in [[Keyakinan Batin]] but does not exist.
 - [[Signs of the Learned of the Hereafter Part 2]]: referenced in [[Sa'd ibn Abi Waqqas]] but does not exist.
 - [[Signs of the Learned of the Hereafter Part 2]]: referenced in [[Sa'd ibn Abi Waqqas]] but does not exist.
-- [[Thaharah]]: referenced in [[meem_part_09]] but does not exist.
 - [[Ummu Athiyyah]]: referenced in [[Cleansing-of-External-Bodily-Growths]] but does not exist.
 - [[Ummu Athiyyah]]: referenced in [[Fitrah Kebersihan Fisik]] but does not exist.
 - [[Ummu Salamah]]: referenced in [[Keutamaan Masjidil Aqsa]] but does not exist.
-- [[Zubair bin Awwam]]: referenced in [[meem_part_09]] but does not exist.
 
 ## Missing Pages
+- "Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10": mentioned in [[Abdullah bin Busr]], [[Amanah dan Wadiah]], [[Fikih Transaksi Salam]], [[Fikih Zakat]], [[Ghulul]], [[Hukum Musik dan Nyanyian]], [[Keutamaan Istighfar]], [[Larangan Membahayakan Muslim]], [[Menjaga Kehormatan Muslim]], [[Ubaidah bin as-Samit]], [[Zuhud]]. Suggest: create page.
 - "Settle the Argument": mentioned in [[Abdullah bin az-Zubair]], [[Abdur-Rahman Ibn Awf]], [[Abu Al-Faraj Ibn Al-Jawzi]], [[Abu Uthman al-Hiri]], [[Ash-Shibli]], [[Bilal bin Rabah]], [[Khalid Ibn Yazid]], [[Sahl bin Abdullah at-Tustari]], [[Syukur]], [[Talhah bin Ubaidillah]], [[Ujian Kekayaan dan Kemiskinan]]. Suggest: create page.
 - "Signs of the Learned of the Hereafter Part 2": mentioned in [[Abdur Rahman bin Abi Laila]], [[Abu Hafs al-Naysaburi]], [[Al-Awza'i]], [[Bishr al-Hafi]], [[Hudhayfah bin al-Yaman]], [[Ibrahim bin Adham]], [[Keyakinan Batin]], [[Sa'd ibn Abi Waqqas]]. Suggest: create page.
 - "Ilm": mentioned in [[Blameworthy-Sciences-and-Changing-Meanings]], [[Ibnu Mas'ud]], [[Pergeseran Makna Istilah]]. Suggest: create page.
@@ -147,21 +158,14 @@ status: developing
 - "Intellect and its Noble Nature": mentioned in [[Akal]], [[Tamim ad-Dari]]. Suggest: create page.
 - "Ummu Athiyyah": mentioned in [[Cleansing-of-External-Bodily-Growths]], [[Fitrah Kebersihan Fisik]]. Suggest: create page.
 - "Abu Bakrah": mentioned in [[Menghormati Otoritas Pemimpin]]. Suggest: create page.
-- "Abu Hurairah": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Abu Said": mentioned in [[meem_part_03]]. Suggest: create page.
-- "Adab Berpakaian": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Adab Toilet": mentioned in [[Larangan Mengotori Jalan]]. Suggest: create page.
-- "Aisyah": mentioned in [[meem_part_09]]. Suggest: create page.
+- "Adi bin Amira": mentioned in [[Ghulul]]. Suggest: create page.
 - "Bara' bin Azib": mentioned in [[Keutamaan Kaum Ansar]]. Suggest: create page.
-- "Ghulul": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Ibn Taymiyyah": mentioned in [[Artikel Ghibah Realist]]. Suggest: create page.
-- "Imam Abdur Ra'uf al-Munawi": mentioned in [[meem_part_09]]. Suggest: create page.
-- "Istighfar": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Kebiasaan Harian Paling Unconventional untuk Sukses": mentioned in [[Satu Hal Kecil yang Membedakan Orang Sukses]]. Suggest: create page.
-- "Kepemimpinan dan Amanah": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Lives and Virtues of the Great Imams": mentioned in [[Fiqh]]. Suggest: create page.
 - "Masjidil Aqsa": mentioned in [[meem_part_06]]. Suggest: create page.
-- "Membela Harta dan Kehormatan": mentioned in [[meem_part_09]]. Suggest: create page.
 - "QS. Al-An'am: 93": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]. Suggest: create page.
 - "QS. Al-Ma'idah: 106": mentioned in [[The Preparation for and Remembrance of Death]]. Suggest: create page.
 - "QS. Al-Waqi'ah: 83": mentioned in [[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]. Suggest: create page.
@@ -169,9 +173,7 @@ status: developing
 - "Sa'id bin al-Musayyib": mentioned in [[Artikel Ghibah Realist]]. Suggest: create page.
 - "Sahl at-Tustari": mentioned in [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter]]. Suggest: create page.
 - "Samurah bin Jundab": mentioned in [[Fikih Menghidupkan Lahan Mati]]. Suggest: create page.
-- "Thaharah": mentioned in [[meem_part_09]]. Suggest: create page.
 - "Ummu Salamah": mentioned in [[Keutamaan Masjidil Aqsa]]. Suggest: create page.
-- "Zubair bin Awwam": mentioned in [[meem_part_09]]. Suggest: create page.
 
 ## Frontmatter Gaps
 - [[2026-06-08-session-ingest-azab-kubur-utsaimin]]: missing fields: tags
@@ -634,6 +636,7 @@ status: developing
 - [[Abdullah bin Amr]]: empty section heading `# Abdullah bin Amr`.
 - [[Abdullah bin Anis]]: empty section heading `# Abdullah bin Anis`.
 - [[Abdullah bin Buraydah]]: empty section heading `# Abdullah bin Buraydah`.
+- [[Abdullah bin Busr]]: empty section heading `# Abdullah bin Busr`.
 - [[Abdullah bin Muhammad bin al-Numan]]: empty section heading `# Abdullah bin Muhammad bin al-Numan`.
 - [[Abdullah bin Rawahah]]: empty section heading `# Abdullah bin Rawahah`.
 - [[Abdullah bin Salam]]: empty section heading `# Abdullah bin Salam`.
@@ -1097,8 +1100,8 @@ status: developing
 - [[x_article_ulama_akhirat]]: empty section heading `## Tanya Jawab (FAQ)`.
 
 ## Address Validation
-- Counter state: `430`
-- Highest c- address observed: `c-000429`
+- Counter state: `438`
+- Highest c- address observed: `c-000437`
 - Address errors found: 181
 
 ### Errors

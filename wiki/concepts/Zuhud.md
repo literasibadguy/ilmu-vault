@@ -9,7 +9,7 @@ aliases:
   - "Asceticism"
   - "Zahid"
 created: "2026-06-19"
-updated: "2026-06-30"
+updated: "2026-07-02"
 status: seed
 related:
   - "[[Mengingat Maut]]"
@@ -19,6 +19,7 @@ sources:
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[What Reminds People of Death and the Hereafter]]"
   - "[[Attachment-of-the-World]]"
+  - "[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]"
 ---
 
 # Zuhud
@@ -77,13 +78,21 @@ Prinsip kezuhudan diperkuat oleh fadhilah berikut:
 - **Ihya' as-Sunnah**: Menghidupkan sunnah Nabi di tengah kemunduran zaman merupakan bukti kecintaan kepada Nabi dan berbalas surga (**[[meem_part_07]]**).
 - **Zuhud 40 Hari**: Sebagaimana dinukil dari Sahl at-Tustari, kezuhudan yang dijalani secara tulus (*sidq*) selama 40 hari akan melahirkan karamah batiniah (**[[meem_part_07]]**).
 
+## Tambahan Konteks Fayd al-Qadir Vol 6 (Huruf Meem - Bagian 10)
+
+Kezuhudan diperkuat dengan pemahaman bahwa dunia adalah fana dan bersedih atasnya adalah kerugian rohani:
+1. **Dampak Kesedihan atas Dunia & Akhirat**:
+   > *"Barangsiapa bersedih atas dunia yang luput darinya, maka ia mendekat ke neraka sejauh perjalanan seribu tahun; dan barangsiapa bersedih atas akhirat yang luput darinya, ia mendekat ke surga sejauh perjalanan seribu tahun."* (HR. Al-Razi dari **[[Abdullah bin Amr]]**).
+2. **Formula Zuhud Meringankan Musibah**:
+   Kezuhudan sejati memiliki korelasi langsung terhadap ketahanan menghadapi cobaan hidup:
+   > *"Barangsiapa merindukan surga ia akan bersegera melakukan kebaikan, barangsiapa takut mati ia akan meremehkan kelezatan dunia, dan barangsiapa zuhud terhadap dunia maka musibah akan terasa ringan baginya."* (HR. Al-Bayhaqi dari **[[Ali bin Abi Thalib]]**).
+
 ## Sumber
 - [[meem_part_07]]
 - [[Chapter_VIII_Part_1_Love_of_Power]]
 - [[Chapter_VIII_Part_2_Praise_and_Blame]]
-
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
 - [[Chapter_VII_Part_2_Greed_for_Wealth]]
-
 - Hadis Ibnu Mas'ud (riwayat Ibnu Majah): *"...maka ziarahilah sekarang, karena ia menumbuhkan zuhud di dunia dan mengingatkan akhirat."* ([[What Reminds People of Death and the Hereafter|What Reminds People of Death and the Hereafter]])
 - Kitab *Dzamm al-Dunya* Ihya' Ulumiddin: Peringatan para nabi dan ulama salaf mengenai kefanaan dunia dan keutamaan mengutamakan akhirat (**[[Attachment-of-the-World]]**).
+- [[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]
