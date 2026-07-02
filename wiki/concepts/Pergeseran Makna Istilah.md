@@ -49,4 +49,4 @@ Al-Ghazali merinci kelima pergeseran tersebut sebagai berikut:
 Al-Ghazali memperingatkan bahwa pergeseran makna ini secara sistematis menjauhkan penuntut ilmu dari prioritas keselamatan akhirat. Ketika istilah-istilah mulia ini direduksi menjadi ilmu duniawi penopang karir kekuasaan, para penuntut ilmu berbondong-bondong mengabaikan pembersihan hati dari penyakit hasad, riya, dan kikir demi menguasai teknik debat jurisprudensi spekulatif. Hal ini menyebabkan runtuhnya esensi keilmuan Islam yang bercorak rabbani.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

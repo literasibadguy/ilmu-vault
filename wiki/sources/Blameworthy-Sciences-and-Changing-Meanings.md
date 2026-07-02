@@ -14,6 +14,8 @@ address: c-000130
 
 # Blameworthy Sciences and Changing Meanings
 
+Sumber tentang ilmu yang tercela dan pergeseran makna.
+
 ## Tinjauan
 
 Ringkasan dari Bab I Bagian 3 (Seksi 3) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai klasifikasi **[[Ilmu Tercela]]** (*blameworthy sciences*) beserta sebab-sebabnya, terjadinya pergeseran makna dari lima kata kunci utama dalam tradisi keilmuan Islam (**[[Pergeseran Makna Istilah]]**), serta batas sejauh mana ilmu-ilmu yang terpuji (*praiseworthy sciences*) layak dipelajari sebelum menjadi sia-sia atau membahayakan.

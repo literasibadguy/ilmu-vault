@@ -41,8 +41,8 @@ sources:
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
   - "[[Excellence of Learning]]"
   - "[[Excellence of Teaching]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
-  - "[[Harms of Polemics and Evils of Debates]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
+  - "[[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]"
   - "[[Attachment-of-the-World]]"
   - "[[Ketergantungan Dunia Part 3]]"
   - "[[meem_part_01]]"
@@ -105,7 +105,7 @@ sources:
 - [[Backbiting Not Limited to Speech]]
 - [[Excellence of Learning]]
 - [[Excellence of Teaching]]
-- [[Blameworthy Sciences and Changing Meanings]]
-- [[Harms of Polemics and Evils of Debates]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
+- [[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]
 - [[Attachment-of-the-World]]
 - [[Ketergantungan Dunia Part 3]]

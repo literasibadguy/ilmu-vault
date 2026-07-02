@@ -3,7 +3,7 @@ type: entity
 title: "Imam Ahmad bin Hanbal"
 entity_type: person
 role: "Pendiri Mazhab Hanbali / Imam Ahlus Sunnah"
-first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+first_mentioned: "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-29
 tags:
@@ -15,11 +15,11 @@ related:
   - "[[Ibnul Qayyim Al-Jauziyyah]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Excellence of Learning]]"
 
-  - [[Praiseworthy and Blameworthy Branches of Knowledge]]
+  - [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"
 address: c-000100
@@ -43,6 +43,6 @@ address: c-000100
 
 ## Sumber
 
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Excellence of Learning]]

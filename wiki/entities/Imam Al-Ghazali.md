@@ -6,7 +6,7 @@ entity_type: person
 role: Ulama, Teolog, Filosof, dan Sufi Master
 first_mentioned: "[[Harms of Greed and Sexual Passion]]"
 created: 2026-06-14
-updated: "2026-06-30"
+updated: "2026-07-01"
 status: seed
 address: c-000093
 related:
@@ -31,6 +31,7 @@ sources:
   - "[[Justifications Authorizing Backbiting]]"
   - "[[Expiation for Backbiting]]"
   - "[[Introduction and Silence]]"
+  - "[[Ihya-Repentance-Book-One-Part-01]]"
   - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
   - "[[Harms 4 to 6 Disputes and Affectation in Speech]]"
   - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
@@ -85,6 +86,7 @@ sources:
 - **Bahaya Cinta Dunia**: Mengkaji Kitab *Dzamm al-Dunya* (Kecaman Terhadap Dunia) dalam *Ihya'*, merumuskan analogi dunia sebagai wanita tidak menjaga kehormatan yang menipu dan menganalisis dampak psikologis-spiritual dari kecintaan berlebihan terhadap dunia (**[[Attachment-of-the-World]]**, **[[Cinta Dunia]]**).
 - **15 Perumpamaan Dunia**: Merinci 15 perumpamaan klasik mengenai kefanaan dunia, laksana bayangan yang terus bergerak, mimpi tidur, ular berbisa, air laut yang asin (semakin diminum semakin dahaga), hingga sisa air jari ketika dicelupkan ke samudera luas (**[[Ketergantungan Dunia Part 2]]**, **[[Perumpamaan Dunia]]**).
 - **Pembagian Hakikat Dunia**: Menegaskan batas-batas dunia sebagai kondisi pikiran (*two conditions of the mind*) dan membaginya ke dalam tiga kategori (perkara bernilai akhirat seperti ilmu/amal saleh, kebutuhan hidup mutlak yang menunjang ibadah, dan perkara kemewahan berlebih-lebihan yang mendatangkan hisab berat) (**[[Ketergantungan Dunia Part 3]]**, **[[Hakikat Dunia]]**).
+- **Kitab Taubat (Tawbah)**: Dalam Jilid IV, Al-Ghazali menempatkan taubat sebagai fondasi pertama. Menjabarkan definisi taubat sebagai tiga unsur (ilmu–penyesalan–amal), kewajiban segera, keutamaan besar di sisi Allah, teladan Nabi Adam AS, serta perdebatan seputar takdir dan pilihan manusia dalam bertaubat menggunakan perumpamaan gajah dan orang buta (**[[Ihya-Repentance-Book-One-Part-01]]**).
 
 ## Hubungan
 

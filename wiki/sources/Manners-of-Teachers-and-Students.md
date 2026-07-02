@@ -14,6 +14,8 @@ address: c-000142
 
 # Manners of Teachers and Students
 
+Sumber tentang adab guru dan murid.
+
 ## Tinjauan
 
 Ringkasan dari Bab I Bagian 5 (Seksi 5) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai etika dan sopan santun yang harus dipatuhi dalam proses belajar mengajar. Etika ini dirumuskan dalam **[[Adab Penuntut Ilmu]]** (yang terdiri dari sepuluh kewajiban) dan **[[Adab Pengajar]]** (yang terdiri dari delapan kewajiban), serta penjelasan mendasar mengenai **[[Esensi Jiwa]]** sebagai wadah ilmu.

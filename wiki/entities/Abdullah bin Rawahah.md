@@ -3,7 +3,7 @@ type: entity
 title: "Abdullah bin Rawahah"
 entity_type: person
 role: "Sahabat Nabi / Penyair & Panglima Perang"
-first_mentioned: "[[Blameworthy Sciences and Changing Meanings]]"
+first_mentioned: "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
 created: "2026-06-26"
 updated: "2026-06-26"
 tags:
@@ -13,7 +13,7 @@ tags:
   - syahid
 status: seed
 sources:
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
 
 address: c-000140
 ---
@@ -35,4 +35,4 @@ address: c-000140
     Kisah ini menjadi rujukan teologis bagi larangan penggunaan kata-kata bersajak secara berlebihan dalam pidato atau ceramah agama (**[[Dzikir]]**), karena dinilai lebih mementingkan keindahan estetika lahiriah lisan ketimbang kedalaman pesan akhirat yang disampaikan.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

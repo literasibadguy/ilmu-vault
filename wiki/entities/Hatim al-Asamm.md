@@ -19,8 +19,8 @@ related:
   - "[[Imam Ahmad bin Hanbal]]"
 sources:
   - "[[Abandoning the Group Prayer]]"
-  - "[[Evils of Knowledge and Signs of the Learned of the Hereafter]]"
-  - "[[Manners of Teachers and Students]]"
+  - "[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]"
+  - "[[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]"
 ---
 
 # Hatim al-Asamm
@@ -61,6 +61,6 @@ sources:
 ## Sumber
 
 - [[Abandoning the Group Prayer]]
-- [[Evils of Knowledge and Signs of the Learned of the Hereafter]]
-- [[Manners of Teachers and Students]]
+- [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]
+- [[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]
 

@@ -14,6 +14,8 @@ address: c-000131
 
 # Harms of Polemics and Evils of Debates
 
+Sumber tentang bahaya perdebatan dan polemik menurut Al-Ghazali.
+
 ## Tinjauan
 
 Ringkasan dari Bab I Bagian 4 (Seksi 4) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai bahaya ilmu jidal/debat teologis (*polemics*), pergeseran sejarah pasca-Khulafaur Rasyidin yang membuat debat hukum/fiqih menjadi ajang pencarian popularitas, **[[Bahaya Debat]]** spekulatif bagi kebersihan hati, serta 8 syarat ketat bagi diperbolehkannya perdebatan mencari kebenaran demi kemaslahatan umat.

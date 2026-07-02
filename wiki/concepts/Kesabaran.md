@@ -7,7 +7,8 @@ aliases:
   - Sabar
   - Sabr
 created: 2026-06-07
-updated: "2026-06-21"\ntags:
+updated: "2026-06-21"
+tags:
   - concept
   - akhlak
 status: seed
@@ -15,8 +16,9 @@ related:
   - "[[Kepemimpinan Agama]]"
 sources:
   - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[Settle-the-Argument|Settle the Argument]]"
 ---
-  - "[[Settle the Argument]]"\n
+
 # Kesabaran (Sabr)
 
 ## Definisi

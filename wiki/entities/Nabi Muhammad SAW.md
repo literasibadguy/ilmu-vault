@@ -27,7 +27,7 @@ sources:
   - "[[Pemimpin yang Mengkhianati Rakyatnya]]"
   - "[[Pride]]"
   - "[[perjury]]"
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Showing Off]]"
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
@@ -112,7 +112,7 @@ sources:
 - [[Pemimpin yang Mengkhianati Rakyatnya]]
 - [[Pride]]
 - [[perjury]]
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Showing Off]]
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]

@@ -41,5 +41,5 @@ Al-Ghazali mengecam keras para penceramah zaman akhir yang mengganti esensi dzik
 Dzikir yang hakiki adalah dzikir yang melahirkan rasa takut kepada murka Allah, kesadaran akan kelalaian diri, dan dorongan kuat untuk memperbaiki amal ibadah lahir dan batin.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
 - [[Keutamaan Diam]]

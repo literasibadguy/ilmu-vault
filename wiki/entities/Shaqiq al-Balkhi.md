@@ -34,5 +34,5 @@ Dialog pengujian ini diangkat oleh Al-Ghazali sebagai model teladan metode inter
 - **[[Adab Pengajar]]**: Menunjukkan keteladanan seorang guru dalam membimbing dan menguji kedalaman pemahaman murid secara dialogis.
 
 ## Rujukan
-- `[[Evils of Knowledge and Signs of the Learned of the Hereafter]]`
+- `[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]`
 - `.raw/ihya-vol1-chapter-1-part-8.md`

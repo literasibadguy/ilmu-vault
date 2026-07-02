@@ -40,6 +40,6 @@ Al-Ghazali mengkritik tajam para ulama kontemporer di zamannya yang membatasi de
 Keselamatan akhirat, menurut Al-Ghazali, berada di bawah otoritas **[[Ilmu Mu'amalah]]** (ilmu tentang perilaku hati) yang bertugas membersihkan batin dari penyakit syahwat, hasad, dan kesombongan.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
-- [[Praiseworthy and Blameworthy Branches of Knowledge]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]
 - [[Lives and Virtues of the Great Imams]]

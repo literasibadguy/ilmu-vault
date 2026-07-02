@@ -35,5 +35,5 @@ address: c-000151
 - **[[Nabi Musa AS]]**: Nabi yang dihadapi dan dikhianati oleh Bal'am demi menyenangkan para penguasa tirani.
 
 ## Rujukan
-- `[[Evils of Knowledge and Signs of the Learned of the Hereafter]]`
+- `[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]`
 - `.raw/ihya-vol1-chapter-1-part-8.md`

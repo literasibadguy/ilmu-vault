@@ -39,4 +39,4 @@ address: c-000110
    - Kebohongan (**[[Bahaya Kebohongan]]**) dan Khianat (**[[Pengkhianatan dan Ingkar Janji]]**)
 
 ## Sumber
-- [[Praiseworthy and Blameworthy Branches of Knowledge]]
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]

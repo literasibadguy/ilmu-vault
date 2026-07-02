@@ -38,5 +38,5 @@ Sebagaimana diceritakan dalam QS. Al-Kahfi (ayat 66-82), Nabi Musa melakukan per
 - **[[Esensi Jiwa]]**: Ilmu hikmah yang dimiliki Khidir meresap langsung ke dalam esensi jiwa batiniahnya.
 
 ## Rujukan
-- `[[Manners of Teachers and Students]]`
+- `[[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]`
 - `.raw/ihya-vol1-chapter-1-part-7.md`

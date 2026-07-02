@@ -34,4 +34,4 @@ address: c-000108
 Al-Ghazali memperingatkan bahwa mengabaikan ilmu duniawi yang mendesak (seperti kedokteran) demi berdebat dalam detail fiqih secara berlebihan merupakan tanda kegagalan prioritas ulama di zamannya.
 
 ## Sumber
-- [[Praiseworthy and Blameworthy Branches of Knowledge]]
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]

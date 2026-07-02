@@ -14,6 +14,8 @@ address: c-000147
 
 # Evils of Knowledge and Signs of the Learned of the Hereafter
 
+Sumber tentang bahaya ilmu duniawi dan tanda ulama akhirat.
+
 ## Tinjauan
 
 Ringkasan dari Bab I Bagian 6 (Seksi 6) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai bahaya penyalahgunaan ilmu agama, ancaman siksa bagi para ulama jahat (**[[Ulama Dunia]]**), serta karakteristik terperinci dari ulama sejati yang mendedikasikan ilmunya demi keselamatan batin (**[[Ulama Akhirat]]**). Bab ini juga memuat dialog legendaris mengenai delapan prinsip hikmah antara **[[Shaqiq al-Balkhi]]** dan muridnya **[[Hatim al-Asamm]]**.

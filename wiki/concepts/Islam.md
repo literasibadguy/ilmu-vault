@@ -14,7 +14,8 @@ status: evergreen
 address: c-000172
 
 sources:
-  - "[[meem_part_02]]"---
+  - "[[meem_part_02]]"
+---
 
 # Islam
 

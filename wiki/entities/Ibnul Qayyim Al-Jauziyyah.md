@@ -3,7 +3,7 @@ type: entity
 title: Ibnul Qayyim Al-Jauziyyah
 entity_type: person
 role: Ulama / Murid Utama Ibnu Taimiyah
-first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+first_mentioned: "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-13
 tags:
@@ -15,7 +15,7 @@ related:
   - "[[Fitnah Pandangan Mata]]"
   - "[[Wahdatul Wujud dan Hulul]]"
 sources:
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[The Devils and The Eye]]"
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
@@ -40,7 +40,7 @@ sources:
 
 ## Sumber
 
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]
 - [[The Devils and The Eye]]
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Regarding His Guidance in Prayer]]

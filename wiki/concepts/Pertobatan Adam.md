@@ -1,16 +1,15 @@
 ---
 type: concept
+address: "c-000409"
 title: "Pertobatan Adam"
 complexity: intermediate
 domain: "Tazkiyatun Nafs"
 aliases:
   - "Taubat Adam"
   - "Taubat dan Istighfar"
-created: 2026-06-07
-updated: 2026-06-07
-tags:
-  - concept
-  - tazkiyatun-nafs
+created: "2026-06-07"
+updated: "2026-07-01"
+tags: [concept, tazkiyatun-nafs]
 status: seed
 related:
   - "[[Kezaliman Diri]]"
@@ -19,6 +18,10 @@ sources:
 ---
 
 # Pertobatan Adam
+
+Pertobatan Adam adalah teladan utama bagi manusia tentang bagaimana berdosa lalu kembali kepada Allah dengan pengakuan yang tulus dan tanpa pembelaan diri. 
+
+## Definisi
 
 ## Definisi
 
@@ -47,7 +50,9 @@ Doa taubat Nabi Adam AS and Hawa yang diilhamkan oleh Allah SWT:
 
 - [[Kezaliman Diri]] — Pengakuan atas kezaliman diri adalah landasan utama dalam kalimat taubat Adam.
 - [[Nabi Adam AS]] — Tokoh pertama yang mempraktikkan model taubat ini.
+- [[Tawbah]] — Perlakuan komprehensif Imam Al-Ghazali tentang hakikat, kewajiban, dan pilar-pilar taubat dalam Ihya' Ulum al-Din Jilid IV.
 
 ## Sumber
 
 - [[tafsir-sadi-iblis-adam]]
+- [[Ihya-Repentance-Book-One-Part-01]] (konteks lebih luas)

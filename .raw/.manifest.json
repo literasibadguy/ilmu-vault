@@ -1904,6 +1904,94 @@
         "wiki/entities/Jabir bin Abdullah.md",
         "wiki/entities/Imam Al-Ghazali.md"
       ]
+    },
+    ".raw/ihya-repentance-book-one-part-01.md": {
+      "hash": "b20150eca35392a524cb41bbd15b6b19",
+      "ingested_at": "2026-07-01",
+      "pages_created": [
+        "wiki/sources/Ihya-Repentance-Book-One-Part-01.md",
+        "wiki/concepts/Tawbah.md"
+      ],
+      "pages_updated": [
+        "wiki/entities/Imam Al-Ghazali.md",
+        "wiki/concepts/Pertobatan Adam.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/meem_part_08.md": {
+      "hash": "60d36b5d6b62bc64beab00578dfad269",
+      "ingested_at": "2026-07-01",
+      "pages_created": [
+        "wiki/sources/meem_part_08.md",
+        "wiki/concepts/Suhur.md",
+        "wiki/concepts/Musyawarah.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adhan.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-repentance-book-one-part-02.md": {
+      "hash": "a486b4771e46f9ce7ccf3c0dd05f41ef",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/Ihya-Repentance-Book-One-Part-02.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Tawbah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-repentance-book-one-part-03.md": {
+      "hash": "9926de1019c97662a3ef4418f0bfa4b9",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/Ihya-Repentance-Book-One-Part-03.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Tawbah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-repentance-book-one-part-04.md": {
+      "hash": "093144fe5ffb7b5c73b2de9f6de2ca58",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/Ihya-Repentance-Book-One-Part-04.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Tawbah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/ihya-repentance-book-one-part-05.md": {
+      "hash": "7768ed8fb3caeb42e0c56a18ae0151c4",
+      "ingested_at": "2026-07-02",
+      "pages_created": [
+        "wiki/sources/Ihya-Repentance-Book-One-Part-05.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Tawbah.md",
+        "wiki/index.md",
+        "wiki/log.md",
+        "wiki/hot.md",
+        "wiki/overview.md"
+      ]
     }
   },
   "address_map": {
@@ -2307,6 +2395,29 @@
     "wiki/concepts/Hukum Upah Mengajar Al-Quran.md": "c-000401",
     "wiki/entities/Ubaidah bin as-Samit.md": "c-000402",
     "wiki/entities/Maimunah binti al-Harits.md": "c-000403",
-    "wiki/concepts/Etika Keuangan Islam.md": "c-000404"
+    "wiki/concepts/Etika Keuangan Islam.md": "c-000404",
+    "wiki/drafts/Penyakit Aspal Berhala Jempol dan Adiksi Spill Aib.md": "c-000405",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-01.md": "c-000406",
+    "wiki/concepts/Tawbah.md": "c-000407",
+    "wiki/concepts/Pertobatan Adam.md": "c-000409",
+    "wiki/sources/meem_part_08.md": "c-000410",
+    "wiki/concepts/Suhur.md": "c-000411",
+    "wiki/concepts/Musyawarah.md": "c-000412",
+    "wiki/sources/ihya-repentance-book-one-part-02.md": "c-000417",
+    "wiki/sources/ihya-repentance-book-one-part-03.md": "c-000418",
+    "wiki/concepts/Hajj.md": "c-000413",
+    "wiki/concepts/Ighathah.md": "c-000416",
+    "wiki/concepts/Nifaq.md": "c-000414",
+    "wiki/concepts/Riddah.md": "c-000415",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-02.md": "c-000417",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-03.md": "c-000418",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-04.md": "c-000420",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-05.md": "c-000421",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-08.md": "c-000425",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-09.md": "c-000426",
+    "wiki/sources/Ihya-Repentance-Book-One-Part-10.md": "c-000427",
+    "wiki/entities/Abdur Ra'uf al-Munawi.md": "c-000428",
+    "wiki/entities/Imam as-Suyuti.md": "c-000429",
+    "wiki/sources/meem_part_09.md": "c-000429"
   }
 }

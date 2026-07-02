@@ -28,4 +28,4 @@ Al-Ghazali mengelompokkan ilmu fardhu 'ain ke dalam tiga kategori utama:
 Al-Ghazali juga menegaskan bahwa penyakit hati (seperti kikir, sombong, iri dengki) merupakan sifat destruktif (*muhlikat*). Oleh karena itu, mempelajari cara mendeteksi dan membersihkan hati dari sifat-sifat ini juga berstatus fardhu 'ain bagi setiap Muslim.
 
 ## Sumber
-- [[Praiseworthy and Blameworthy Branches of Knowledge]]
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]

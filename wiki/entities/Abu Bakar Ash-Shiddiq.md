@@ -23,7 +23,7 @@ sources:
   - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
   - "[[Harm 15 Backbiting]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"
 ---
@@ -50,4 +50,4 @@ sources:
 - [[Regarding His Guidance in Prayer]]
 - [[Backbiting Not Limited to Speech]]
 - [[Major-Sin-28-Consuming-Unlawful-Property]]
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

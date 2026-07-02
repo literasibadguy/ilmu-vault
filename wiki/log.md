@@ -16,6 +16,62 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-07-02] Ingest: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 09
+- Sumber: `.raw/meem_part_09.md`
+- Ringkasan: [[meem_part_09]]
+- Halaman dibuat: [[meem_part_09]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Kumpulan hadis "Man a..." tentang adab (mencari ridha Allah, bakti orang tua, membela harta, ilmu & zuhud, wudhu di dingin, adab pakaian & shalat, istijmar & istinja), keutamaan Madinah, amal tersembunyi, melindungi agama & ird dengan harta, istighfar setelah shalat, kepemimpinan & amanah (ghulul), istighna, istiaza, menjawab undangan, dan balas kebaikan. Memperkaya berbagai konsep adab dan fiqih.
+
+## [2026-07-02] Ingest: Repentance Part 10 (Ihya' Ulum al-Din Vol IV - Kitab Taubat)
+- Sumber: `.raw/ihya-repentance-book-one-part-10.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-10]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-10]]
+- Halaman diperbarui: [[Tawbah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Bagian penutup: sabar (forbearance) sebagai separuh iman dan kunci taubat berkelanjutan; perenungan (tafakur) untuk mengatasi penyebab ketetapan dalam dosa (kesenangan langsung, penundaan, harapan berlebih, keraguan); nasihat praktis dari nabi dan salaf tentang zuhud dan kontrol diri; transisi ke pembahasan penuh tentang sabar. Memperkaya [[Tawbah]].
+
+## [2026-07-02] Ingest: Repentance Part 08 & 09 (Ihya' Ulum al-Din Vol IV - Kitab Taubat)
+- Sumber: `.raw/ihya-repentance-book-one-part-08.md`, `.raw/ihya-repentance-book-one-part-09.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-08]], [[Ihya-Repentance-Book-One-Part-09]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-08]], [[Ihya-Repentance-Book-One-Part-09]]
+- Halaman diperbarui: [[Tawbah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Bagian 08: tindakan segera setelah berdosa (tebus dengan amal saleh melalui hati, lidah, dan anggota tubuh), istighfar lisan yang bermanfaat, kebiasaan lidah pada kebaikan. Bagian 09: cara nasihat yang benar (seimbangkan takut dan harap sesuai keadaan), gunakan ayat dan kisah nabi yang dihukum (Adam, Sulaiman), pengkhotbah harus mendiagnosis jiwa pendengar seperti dokter. Memperkaya [[Tawbah]].
+
+## [2026-07-02] Ingest: Repentance Part 06 & 07 (Ihya' Ulum al-Din Vol IV - Kitab Taubat)
+- Sumber: `.raw/ihya-repentance-book-one-part-06.md`, `.raw/ihya-repentance-book-one-part-07.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-06]], [[Ihya-Repentance-Book-One-Part-07]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-06]], [[Ihya-Repentance-Book-One-Part-07]]
+- Halaman diperbarui: [[Tawbah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Bagian 06: pembesaran dosa oleh ulama berpengaruh, bahaya membuka dosa, kesempurnaan taubat (ilmu-penyesalan-tekad), koreksi masa lalu ibadah dan ketidakadilan manusia, kecemasan sebagai penebus. Bagian 07: keabsahan taubat sebagian dosa, taubat orang yang sudah tidak mampu berbuat, perbandingan mujahadah, dan empat kategori orang bertaubat (jiwa muthma'innah, lawwamah, tergoda, ammarah). Memperkaya [[Tawbah]] dengan rincian kesempurnaan dan gradasi taubat.
+
+## [2026-07-02] Ingest: Repentance Part 04 & 05 (Ihya' Ulum al-Din Vol IV - Kitab Taubat)
+- Sumber: `.raw/ihya-repentance-book-one-part-04.md`, `.raw/ihya-repentance-book-one-part-05.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-04]], [[Ihya-Repentance-Book-One-Part-05]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-04]], [[Ihya-Repentance-Book-One-Part-05]]
+- Halaman diperbarui: [[Tawbah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Pilar Kedua: Konteks dosa. Bagian 04: klasifikasi dosa besar (kaba'ir) vs dosa kecil (sagha'ir), contoh (kufur, zina, pencurian, dll.), pengguguran dosa oleh shalat jika menghindari dosa besar, perumpamaan untuk akhirat (mimpi, segel, dll.). Bagian 05: distribusi keadaan di akhirat (binasa, dihukum, diselamatkan, berbahagia), tingkatan berdasarkan iman (taqlidi vs kasyfi) & amal, rahmat lebih besar daripada murka, makrifat puncak kebahagiaan. Memperbarui [[Tawbah]] dengan Pilar 2.
+
+## [2026-07-02] Ingest: Repentance Part 02 & 03 (Ihya' Ulum al-Din Vol IV - Book One)
+- Sumber: `.raw/ihya-repentance-book-one-part-02.md`, `.raw/ihya-repentance-book-one-part-03.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-02]], [[Ihya-Repentance-Book-One-Part-03]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-02]], [[Ihya-Repentance-Book-One-Part-03]]
+- Halaman diperbarui: [[Tawbah]], [[Imam Al-Ghazali]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Melanjutkan Pilar Pertama taubat. Bagian 02: kewajiban universal taubat bagi semua (termasuk nabi), analogi karat hati yang perlu digosok dengan amal saleh, hubungan ilmu-amal sebagai akar-cabang, serta teladan para nabi dalam bertaubat dari hal kecil. Bagian 03: jaminan penerimaan taubat selama hidup, banyak dalil dan perkataan salaf (Ibnu Mas'ud, 'Umar, dll.), kisah pemuda Bani Israil, serta deskripsi indah Dhun-Nun al-Misri tentang perjalanan spiritual orang yang bertaubat. Memperbarui dan memperkaya [[Tawbah]].
+
+## [2026-07-01] Ingest: meem_part_08 (Fayd al-Qadir Vol 6)
+- Sumber: `.raw/meem_part_08.md`
+- Ringkasan: [[meem_part_08]]
+- Halaman dibuat: [[meem_part_08]], [[Suhur]], [[Musyawarah]], [[Hajj]], [[Nifaq]], [[wiki/concepts/Riddah|Riddah]], [[wiki/concepts/Ighathah|Ighathah]]
+- Halaman diperbarui: [[Adhan]], [[Ibnu Abbas]], [[Abu Hurayrah]], [[Ibnu Umar]], [[Anas bin Malik]], [[Jabir bin Abdullah]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor Bagian 08 huruf Meem dari *Fayd al-Qadir* Jilid 6. Mencakup pahala adzan (7 tahun: bara'ah dari neraka; 12 tahun: wajib surga + hitungan hasanah), adzan tanpa upah, hukum haji segera, suhur, musyawarah dengan muslim, konsekuensi murtad, menyenangkan penguasa dengan yang memurkakan Allah, melindungi penduduk Madinah, meringankan orang kesulitan agar doa terkabul, serta peringatan tentang nifaq amali dan pengakuan dosa. Memperbarui [[Adhan]] dan menambahkan [[Suhur]] serta [[Musyawarah]].
+
+## [2026-07-01] Ingest: Ihya-Repentance-Book-One-Part-01 (Ihya' Ulum al-Din Vol IV)
+- Sumber: `.raw/ihya-repentance-book-one-part-01.md`
+- Ringkasan: [[Ihya-Repentance-Book-One-Part-01]]
+- Halaman dibuat: [[Ihya-Repentance-Book-One-Part-01]], [[Tawbah]]
+- Halaman diperbarui: [[Imam Al-Ghazali]], [[Pertobatan Adam]], [[index]], [[log]], [[hot]], [[overview]]
+- Temuan Kunci: Mengimpor Bagian 1 (dari 10) Book One tentang Repentance (Tawbah) dari *Iḥyāʾ ʿUlūm al-Dīn* Jilid IV (Quarter of the Saviors) karya **[[Imam Al-Ghazali]]**. Menjabarkan definisi taubat sebagai tiga unsur berurutan (Knowledge–Regret–Action), kewajiban segera bagi semua, keutamaan besar (kegembiraan Allah atas taubat melebihi pemilik unta), teladan Nabi Adam AS, serta pembahasan hubungan taubat dengan iman dan masalah takdir/pilihan (perumpamaan gajah). Menambahkan halaman konsep fondasi [[Tawbah]] yang menghubungkan ke [[Pertobatan Adam]].
+
 ## [2026-06-30] Ingest: meem_part_07 (Fayd al-Qadir Vol 6)
 - Sumber: `.raw/meem_part_07.md`
 - Ringkasan: [[meem_part_07]]

@@ -3,7 +3,7 @@ type: entity
 title: "Atha bin Abi Rabah"
 entity_type: person
 role: "Mufti Makkah & Faqih Tabi'in"
-first_mentioned: "[[Blameworthy Sciences and Changing Meanings]]"
+first_mentioned: "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
 created: "2026-06-26"
 updated: "2026-06-29"
 tags:
@@ -13,7 +13,7 @@ tags:
   - makkah
 status: seed
 sources:
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
   - "[[meem_part_05]]"
 address: c-000141
 ---
@@ -33,4 +33,4 @@ address: c-000141
     Bagi Atha, dzikir sejati bukan sekadar mengulang-ulang lafal zikir secara mekanis di lisan, melainkan memahami batasan syariat Allah SWT agar seorang Muslim dapat beramal lahir dan batin dengan benar di atas ilmu.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

@@ -47,7 +47,7 @@ Nabi Muhammad ﷺ juga memperingatkan bahwa tuhan terburuk yang disembah manusia
 Al-Ghazali mengkritik tajam pergeseran istilah Tauhid yang direduksi oleh para ulama pasca-salaf menjadi Ilmu Kalam (skolastik teologis). Para mutakallimun (ahli teologi) disibukkan dengan perdebatan filosofis yang rumit untuk membantah kaum bid'ah. Al-Ghazali menegaskan bahwa Ilmu Kalam hanya berfungsi sebagai tameng pelindung akidah orang awam dari syubhat (kulit kelapa), namun tidak mampu mengantarkan jiwa pada rasa takut kepada Allah dan tawakal hakiki yang merupakan isi dari buah Tauhid itu sendiri.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
 - [[Tawakkul]]
 - [[Foundation-of-Belief]]
 - [[Proof-of-Belief]]

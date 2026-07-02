@@ -28,6 +28,8 @@ sources: []
 
 # Bagaimana Menyelesaikan Perdebatan (Settle the Argument)
 
+Sumber tentang cara menyelesaikan perdebatan dengan adab.
+
 ## Ringkasan
 
 Tulisan ini merupakan analisis mendalam mengenai debat panjang di kalangan ulama mengenai keutamaan antara orang kaya yang bersyukur (*al-ghaniyyus syakir*) versus orang miskin yang bersabar (*al-faqirus shabir*). Penulis memetakan definisi syukur dan sabar, kedudukan teologis keduanya sebagai pilar ketakwaan (*taqwa*), serta membantah hadits-hadits palsu yang mencela kepemilikan harta halal para sahabat Nabi SAW (khususnya Abdur-Rahman bin Awf).

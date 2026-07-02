@@ -17,7 +17,7 @@ related:
 sources:
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"
-- "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[meem_part_03]]"
 ---
 

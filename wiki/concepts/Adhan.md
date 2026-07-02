@@ -8,7 +8,7 @@ aliases:
   - Adzan
   - Panggilan Shalat
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-01"
 tags: [concept, ibadah]
 status: evergreen
 
@@ -42,8 +42,11 @@ Setiap Muslim yang mendengar kumandang adzan disunnahkan untuk menghentikan akti
     > *Shadaqta wa bararta wa nashahta* (Engkau telah berkata benar, engkau telah berbuat baik, dan engkau telah memberi nasihat).
 4.  **Doa Setelah Adzan**: Setelah adzan selesai dikumandangkan, disunnahkan membaca shalawat atas Nabi SAW dan membaca doa *Wasilah* untuk memohonkan kedudukan mulia bagi Rasulullah ﷺ agar mendapatkan syafaat beliau di akhirat.
 
+**Pahala Adzan Menurut Hadis (Fayd al-Qadir)**: Muazin yang ikhlas selama 7 tahun ditulis baginya kebebasan dari neraka. Selama 12 tahun, surga diwajibkan baginya serta 60 hasanah untuk setiap adzan dan 30 untuk iqamah setiap hari.
+
 ## Sumber
 
 *   **[[Excellence-of-Prayer]]**
 *   **[[Shalat]]**
 *   **[[Shalat Berjamaah]]**
+*   **[[meem_part_08]]** (Fayd al-Qadir: pahala adzan 7/12 tahun, adzan tanpa upah duniawi)

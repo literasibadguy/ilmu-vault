@@ -25,6 +25,8 @@ sources: []
 
 # Urgensi Kesabaran dalam Al-Qur'an (where-patience)
 
+Analisis dari Ibnul Qayyim mengenai pentingnya sabar sebagaimana disebutkan dalam Al-Qur'an.
+
 ## Ringkasan
 
 Analisis mendalam mengenai penyebutan konsep kesabaran (*sabr*) di dalam Al-Qur'an yang mencakup 90 tempat. Tulisan ini merinci 22 bentuk penyajian kesabaran dalam ayat-ayat Al-Qur'an, hubungannya dengan rukun iman dan Islam, pandangan para ulama salaf, serta kedudukan sabar sebagai syarat mutlak meraih pertolongan, kemenangan, dan kepemimpinan agama.

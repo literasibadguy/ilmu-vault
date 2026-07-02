@@ -19,7 +19,7 @@ related:
   - "[[Ulama Dunia]]"
 sources:
   - "[[Settle the Argument]]"
-  - "[[Evils of Knowledge and Signs of the Learned of the Hereafter]]"
+  - "[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]"
 ---
 
 # Sahl bin Abdullah at-Tustari
@@ -47,5 +47,5 @@ sources:
 ## Sumber
 
 - [[Settle the Argument]]
-- [[Evils of Knowledge and Signs of the Learned of the Hereafter]]
+- [[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]
 

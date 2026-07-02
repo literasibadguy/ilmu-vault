@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-06-30"
+updated: "2026-07-01"
 tags:
   - meta
   - index
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-06-30 | Total halaman: 555 | Sumber diimpor: 86
+Terakhir diperbarui: 2026-07-02 | Total halaman: 563 | Sumber diimpor: 92
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -93,6 +93,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Ghusl]] — Tindakan meratakan air suci ke seluruh permukaan jasad (kulit dan rambut) guna menyucikan diri da... (status: evergreen)
 - [[Hak dan Kewajiban Suami]] — **Hak dan Kewajiban Suami** adalah aturan syariat Islam yang mengatur tanggung jawab finansial, m... (status: seed)
 - [[Hak dan Perlindungan Non-Muslim]] — **Hak dan Perlindungan Non-Muslim** (terutama *Kafir Dhimmi*) adalah jaminan perlindungan hukum k... (status: seed)
+- [[Hajj]] — **Hajj** adalah rukun kelima Islam: ziarah ke Baitullah pada waktu yang ditentukan. Hendaknya segera dilaksanakan sebelum halangan muncul. (status: seed)
 - [[Hakikat Dunia]] — Kajian mendalam mengenai esensi filosofis dan batas-batas syar'i antara apa yang didefinisikan se... (status: seed)
 - [[Hikmah]] — **Hikmah** (secara bahasa berarti kebijaksanaan, kebenaran mendalam, atau ketepatan dalam bertind... (status: evergreen)
 - [[Hilah]] — **Hilah** (jamak: *Hiyal*, bahasa Arab: الحيل) secara bahasa berarti tipu daya, kecerdikan, atau ... (status: seed)
@@ -101,6 +102,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Hukum Upah Mengajar Al-Quran]] — **Hukum Upah Mengajar Al-Quran** adalah perdebatan fikih mengenai kebolehan menerima materi atas jasa pengajaran kitab suci. (status: seed)
 - [[Husnudzon Kepada Allah]] — **Husnudzon Kepada Allah** adalah sikap batin wajib di mana seorang hamba senantiasa menaruh pras... (status: seed)
 - [[Iftitah]] — **Iftitah** (atau *Istiftah*) adalah doa sunnah pembuka yang dibaca setelah Takbiratul Ihram dan ... (status: seed)
+- [[Ighathah]] — **Ighathah** adalah meringankan beban orang kesulitan (mu'sir) agar doa terkabul dan kesulitan dihilangkan. (status: seed)
 - [[Ihya' al-Mawat]] — **Ihya' al-Mawat** adalah konsep reklamasi lahan kosong tidak bertuan guna menjadikannya produktif dan melahirkan hak kepemilikan. (status: seed)
 - [[Ikhlas]] — **Ikhlas** secara bahasa berasal dari kata *khalasha* yang berarti murni, bersih, jernih, atau te... (status: seed)
 - [[Ilmu Mu'amalah]] — **Ilmu Mu'amalah** (Ilmu Perilaku Praktis) adalah ilmu yang mempelajari kondisi hati (psikologi s... (status: evergreen)
@@ -177,6 +179,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Menerima Pemberian Tanpa Meminta]] — **Menerima Pemberian Tanpa Meminta** adalah adab dalam hukum muamalah Islam di mana seorang Musli... (status: seed)
 - [[Menerima Permintaan Maaf]] — **Menerima Permintaan Maaf** (*Qabulul Udzur* / قبول العذر) adalah kelapangan jiwa seorang Muslim... (status: seed)
 - [[Menghidupkan Malam-Malam Mulia]] — **Menghidupkan Malam-Malam Mulia** (Ihya'ul Layali) adalah menghidupkan malam hari raya/dzulhijjah tertentu dengan ibadah berbuah surga. (status: seed)
+- [[Musyawarah]] — **Musyawarah** adalah bermusyawarah dengan sesama muslim tentang suatu urusan agar Allah memberikan petunjuk kepada yang paling lurus. (status: seed)
 - [[Menghormati Otoritas Pemimpin]] — **Menghormati Otoritas Pemimpin** (*Ijlalus Sultan* / إجلال السلطان) adalah prinsip siyasah syar'... (status: seed)
 - [[Mengingat Maut]] — **Mengingat Maut** (*Dzikrul Maut*) adalah disiplin spiritual dan kondisi mental di mana seseoran... (status: seed)
 - [[Mengonsumsi Harta Haram]] — **Mengonsumsi Harta Haram** (*aklul haram*) adalah segala tindakan memanfaatkan, membelanjakan, m... (status: seed)
@@ -191,6 +194,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Menyingkirkan Rintangan di Jalan]] — **Menyingkirkan Rintangan di Jalan** adalah tindakan membuang duri atau gangguan dari jalan umum sebagai bukti iman. (status: seed)
 - [[Mujahadah]] — Perjuangan bersungguh-sungguh memerangi hawa nafsu dan kecenderungan duniawi demi mendekatkan dir... (status: evergreen)
 - [[Nadzar]] — **Nadzar** (secara bahasa berarti berjanji) adalah komitmen sukarela yang diucapkan oleh seorang ... (status: mature)
+- [[Nifaq]] — **Nifaq** (kemunafikan amali) adalah menampakkan ketakutan kepada Allah lebih dari yang sebenarnya ada di hati. (status: seed)
 - [[Nama Agung Allah]] — **Nama Agung Allah** (*Ism Allāh al-A'zam*) adalah nama Allah yang paling agung, yang memiliki ke... (status: seed)
 - [[Niat]] — Kehendak batin dan maksud hati yang disengaja untuk melaksanakan ibadah murni demi mencari ridha ... (status: evergreen)
 - [[Nikah Tahlil]] — **Nikah Tahlil** (secara harfiah berarti pernikahan yang menghalalkan) adalah praktik pernikahan ... (status: seed)
@@ -210,6 +214,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Raja' dan Khauf]] — **Raja' dan Khauf** adalah konsep batin ganda dalam tasawuf dan akidah Islam yang memadukan peras... (status: seed)
 - [[Rasa Takut Kepada Allah]] — **Rasa Takut Kepada Allah** (*Khawf* / خوف atau *Khasyah* / خشية) adalah kondisi kejiwaan seorang... (status: seed)
 - [[Riba]] — **Riba** secara bahasa berarti tambahan (*ziyadah*), tumbuh, atau membesar. Dalam istilah syariat... (status: seed)
+- [[Riddah]] — **Riddah** (kemurtadan) adalah keluar dari Islam; hukumnya adalah bunuh bagi yang melakukannya (setelah istita bah). (status: seed)
 - [[Riya]] — **Riya'** secara bahasa berasal dari kata *ar-ru'yah* (melihat), yang berarti melakukan suatu iba... (status: seed)
 - [[Sabar Menghadapi Musibah dan Sakit]] — **Sabar Menghadapi Musibah dan Sakit** adalah sikap menahan gejolak keluhan batin di hadapan sesa... (status: seed)
 - [[Sakaratul Maut]] — **Sakaratul Maut** adalah kondisi kritis berupa agonis fisik dan guncangan psikologis dahsyat yan... (status: seed)
@@ -219,6 +224,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Shalat Istikharah]] — Ibadah shalat sunnah dua rakaat untuk memohon ketetapan pilihan terbaik dari Allah SWT atas suatu... (status: evergreen)
 - [[Shalat Jumat]] — Ibadah shalat wajib dua rakaat secara berjamaah bagi laki-laki Muslim setiap hari Jumat pada wakt... (status: evergreen)
 - [[Shalat Sunnah]] — Ibadah shalat di luar shalat fardhu lima waktu yang dianjurkan untuk didirikan guna menambah paha... (status: evergreen)
+- [[Suhur]] — **Suhur** adalah makan minum sebelum fajar sebagai persiapan puasa yang dianjurkan meski hanya dengan seteguk air. (status: seed)
 - [[Shirk Lafzhi]] — **Shirk Lafzhi** (Syirik Lafal) adalah jenis **Syirik Asghar** (syirik kecil) yang terjadi melalu... (status: seed)
 - [[Sifat Shalat Nabi]] — **Sifat Shalat Nabi** adalah panduan fikih ibadah yang merinci tata cara, gerakan, bacaan, rukun,... (status: evergreen)
 - [[Silaturahmi]] — **Silaturahmi** (atau *Silaturahim* / صلة الرحم) adalah aktivitas menjalin dan menyambung hubunga... (status: seed)
@@ -239,6 +245,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Tathayyur dan Mitos Fisik]] — **Tathayyur dan Mitos Fisik** (kepercayaan nasib sial atau mujur berbasis ciri fisik tubuh) adala... (status: seed)
 - [[Tauhid]] — **Tauhid** (secara bahasa berarti mengesakan Allah) adalah pilar terpenting dalam akidah Islam. D... (status: evergreen)
 - [[Tawakkul]] — **Tawakkul** (Tawakal) secara bahasa berarti mewakilkan atau bersandar kepada pihak lain. Secara ... (status: seed)
+- [[Tawbah]] — **Tawbah** (Pertobatan) adalah kembalinya hamba kepada Allah setelah dosa melalui tiga unsur: Knowledge (ilmu bahaya dosa), Regret (penyesalan), dan Action (meninggalkan + koreksi). Fondasi utama Quarter of the Saviors dalam Ihya' karya Imam Al-Ghazali. (status: seed)
 - [[Tayammum]] — Tindakan bersuci menggunakan debu atau tanah suci bersih sebagai alternatif pengganti wudhu dan m... (status: evergreen)
 - [[Tazyin Kemaksiatan]] — **Tazyin Kemaksiatan** adalah taktik setan untuk memoles, memperindah, dan menghiasi perbuatan bu... (status: seed)
 - [[Terapi Penyakit Riya]] — **Terapi Penyakit Riya** (Obat Riya) adalah perpaduan pencegahan preventif (ilmu akhirat) dan aktif (menolak bisikan pamer) penyuci niat. (status: seed)
@@ -502,6 +509,16 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Chapter_VIII_Part_1_Love_of_Power]] — Ringkasan dari Bab VIII Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai bahaya kekuasaan dan khumul. (status: seed)
 - [[Chapter_VIII_Part_2_Praise_and_Blame]] — Ringkasan dari Bab VIII Bagian 2 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai pujian dan benci celaan. (status: seed)
 - [[Chapter_VIII_Part_3_Riya_and_its_Treatment]] — Ringkasan dari Bab VIII Bagian 3 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai celaan riya' dan obat riya'. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-01]] — Bagian 1 (dari 10) Ihya' - Kitab Taubat dari *Iḥyāʾ ʿUlūm al-Dīn* Jilid IV karya **Imam Al-Ghazali**. Hakikat, definisi tiga unsur (ilmu–penyesalan–amal), kewajiban segera, dan keutamaan taubat. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-02]] — Lanjutan: kewajiban universal taubat bagi semua (termasuk nabi), analogi karat hati, dan kebutuhan menggosok dengan amal saleh. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-03]] — Jaminan penerimaan taubat selama hidup; dalil salaf, kisah teladan, dan deskripsi Dhun-Nun al-Misri tentang perjalanan taubat. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-04]] — Pilar Kedua: dosa besar (kaba'ir) vs dosa kecil (sagha'ir), contoh, pengguguran dosa oleh shalat, perumpamaan akhirat. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-05]] — Distribusi keadaan di akhirat (4 kategori: binasa, dihukum, diselamatkan, berbahagia), tingkatan iman (taqlidi/kasyfi) & amal, rahmat lebih besar daripada murka. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-06]] — Pembesaran dosa oleh ulama, bahaya membuka tabir dosa, kesempurnaan taubat (ilmu, penyesalan mendalam, tekad), koreksi ibadah tertinggal dan restitusi terhadap manusia. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-07]] — Keabsahan taubat sebagian, perbandingan jenis taubat, dan empat kategori orang bertaubat (jiwa tenang, mencela diri, tergoda, memerintah keburukan). (status: seed)
+- [[Ihya-Repentance-Book-One-Part-08]] — Tindakan segera setelah berdosa (tebus dengan amal saleh melalui hati, lidah, dan anggota tubuh), manfaat istighfar lisan, dan kebiasaan baik pada lidah. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-09]] — Metode nasihat yang tepat (keseimbangan takut dan harap), kisah teladan nabi yang dihukum karena dosa, dan diagnosis keadaan jiwa pendengar. (status: seed)
+- [[Ihya-Repentance-Book-One-Part-10]] — Sabar sebagai kunci keberlangsungan taubat, perenungan (tafakur) untuk mengatasi penyebab ketetapan dalam dosa, nasihat salaf, dan kedudukan sabar sebagai separuh iman. (status: seed)
 - [[Chapter_VII_Part_1_Love_for_Wealth]] — Ringkasan dari Bab VII Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai cinta harta dan bahaya kekayaan. (status: seed)
 - [[Chapter_VII_Part_2_Greed_for_Wealth]] — Ringkasan dari Bab VII Bagian 2 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai ketamakan batin dan resep penyembuh tamak. (status: seed)
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]] — Ringkasan dari Bab VII Bagian 3 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai celaan kikir dan keutamaan fakir miskin. (status: seed)
@@ -548,6 +565,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[meem_part_05]] — Bagian ini mencakup pembahasan **Halaman 35 hingga Halaman 42** dari kitab *Fayd al-Qadir Syarah ... (status: seed)
 - [[meem_part_06]] — Catatan rujukan dari syarah kitab *Al-Jami' al-Saghir* karya **Abdur Ra'uf al-Munawi** (Fayd al-Qadir Jilid 6 Halaman 43-50, Huruf Meem lanjutan). (status: seed)
 - [[meem_part_07]] — Ringkasan dari halaman 51-58 Kitab *Fayd al-Qadir* Jilid 6 karya **Al-Munawi** untuk hadis berawalan huruf Meem. (status: seed)
+- [[meem_part_08]] — Ringkasan hadis huruf Meem Bagian 08 dari *Fayd al-Qadir* Jilid 6 (hal. ~59-66): pahala adzan, haji, suhur, musyawarah, perlindungan Madinah, dan peringatan nifaq serta riddah. (status: seed)
+- [[meem_part_09]] — Kumpulan hadis huruf Meem Bagian 09 dari *Fayd al-Qadir* Jilid 6: adab ridha Allah vs manusia, bakti orang tua, membela harta, ilmu & zuhud, wudhu di dingin, adab pakaian & shalat, istijmar & istinja, keutamaan Madinah, amal tersembunyi, melindungi agama & ird, istighfar setelah shalat, kepemimpinan & amanah (ghulul), istighna, dan balas kebaikan. (status: seed)
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]] — Bab dari kitab *Zad al-Ma'ad* karya **Ibnul Qayyim Al-Jauziyyah** yang menguraikan petunjuk **Nab... (status: seed)
 - [[Mysteries-of-Cleanliness-and-Purification]] — Bab III Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai hakikat batin bersuci... (status: evergreen)
 - [[Neglect of the Prayer]] — Bab ke-4 dari kitab *Kitab al-Kaba'ir* karya **Imam Adh-Dhahabi** yang membahas secara mendalam d... (status: seed)

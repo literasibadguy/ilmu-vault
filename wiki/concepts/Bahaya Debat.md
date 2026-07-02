@@ -45,5 +45,5 @@ Para pendahulu yang shalih memandang perdebatan spekulatif sebagai tanda hilangn
     > "Tidaklah suatu kaum tersesat setelah mereka mendapatkan hidayah melainkan karena mereka diberikan kesenangan untuk berdebat." Beliau kemudian membacakan firman Allah: *"Mereka tidak memberikan perumpamaan itu kepadamu melainkan dengan maksud membantah saja, sebenarnya mereka adalah kaum yang suka bertengkar."* (QS. Az-Zukhruf: 58).
 
 ## Sumber
-- [[Harms of Polemics and Evils of Debates]]
+- [[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]
 - [[Pertengkaran dan Perdebatan]]

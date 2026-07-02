@@ -51,5 +51,5 @@ address: c-000144
 - **[[Ulama Akhirat]]**: Para ulama yang mengamalkan adab mengajar ini demi kebaikan akhirat murid dan dirinya sendiri.
 
 ## Rujukan
-- `[[Manners of Teachers and Students]]`
+- `[[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]`
 - `.raw/ihya-vol1-chapter-1-part-7.md`

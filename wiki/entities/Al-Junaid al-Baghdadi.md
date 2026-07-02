@@ -34,4 +34,4 @@ sources:
 
 ## Sumber
 
-- [[Settle the Argument]]
+- [[Settle-the-Argument]]

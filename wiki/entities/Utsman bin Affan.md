@@ -35,5 +35,5 @@ Pernyataan ini dijadikan landasan penting oleh Al-Ghazali untuk mendefinisikan b
 - **[[Adab Penuntut Ilmu]]**: Nasihat ini mendorong penuntut ilmu untuk menyucikan batin agar terhindar dari penyakit munafik lisan.
 
 ## Rujukan
-- `[[Evils of Knowledge and Signs of the Learned of the Hereafter]]`
+- `[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]`
 - `.raw/ihya-vol1-chapter-1-part-8.md`

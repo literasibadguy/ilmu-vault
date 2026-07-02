@@ -3,7 +3,7 @@ type: entity
 title: "Sa'ad bin Ibrahim"
 entity_type: person
 role: "Qadhi & Faqih Madinah / Tabi'in"
-first_mentioned: "[[Blameworthy Sciences and Changing Meanings]]"
+first_mentioned: "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
 created: "2026-06-26"
 updated: "2026-06-26"
 tags:
@@ -13,7 +13,7 @@ tags:
   - madinah
 status: seed
 sources:
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
 
 address: c-000139
 ---
@@ -32,4 +32,4 @@ address: c-000139
     Pernyataan ini menegaskan prinsip Salafus Shalih bahwa esensi **[[Fiqh]]** adalah lahirnya rasa takut (*khauf*) kepada Allah di dalam hati, bukan keterampilan bersilat lidah dalam forum sengketa hukum lahiriah.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

@@ -41,4 +41,4 @@ Dalam pandangan generasi awal Islam (Sahabat dan Tabi'in), Hikmah bukanlah ilmu 
 Penyempitan makna ini mengaburkan esensi Hikmah sebagai ilmu yang menghubungkan manusia dengan akhirat, menyisakan pemahaman bahwa kebijaksanaan hanyalah trik-trik teknis duniawi atau spekulasi ramalan nasib.
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

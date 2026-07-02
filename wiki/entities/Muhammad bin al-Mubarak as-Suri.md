@@ -5,7 +5,8 @@ entity_type: person
 role: "Ulama Salaf / Tokoh Zuhud dari Wilayah Syam"
 first_mentioned: "[[Showing Off]]"
 created: 2026-06-10
-updated: "2026-06-21"\ntags:
+updated: "2026-06-21"
+tags:
   - entity
   - salaf
   - zuhud
@@ -15,8 +16,9 @@ related:
   - "[[Ikhlas]]"
 sources:
   - "[[Showing Off]]"
+  - "[[Settle the Argument]]"
 ---
-  - "[[Settle the Argument]]"\n
+
 # Muhammad bin al-Mubarak as-Suri
 
 ## Tinjauan

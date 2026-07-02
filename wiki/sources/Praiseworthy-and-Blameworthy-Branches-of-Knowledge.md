@@ -14,6 +14,8 @@ address: c-000106
 
 # Praiseworthy and Blameworthy Branches of Knowledge
 
+Sumber tentang cabang ilmu yang terpuji dan tercela.
+
 ## Tinjauan
 
 Ringkasan dari Bab I Bagian 2 (Seksi 2) *Ihya' Ulumiddin* karya **[[Imam Al-Ghazali]]** mengenai klasifikasi ilmu pengetahuan berdasarkan status hukum keagamaannya (praiseworthy/terpuji dan blameworthy/tercela) serta klasifikasi kewajiban menuntut ilmu menjadi **[[Fardhu 'Ain]]** (kewajiban individu) dan **[[Fardhu Kifayah]]** (kewajiban kolektif). Bagian ini juga menjelaskan kedudukan Fiqh sebagai ilmu duniawi dan tingkatan wara' (piety) serta perbedaan antara **[[Ilmu Mukasyafah]]** dan **[[Ilmu Mu'amalah]]**.

@@ -68,15 +68,10 @@ sources:
 ## Sumber
 
 - [[meem_part_07]]
-
 - [[Chapter_VII_Part_3_Miserliness_and_Poverty]]
-
 - [[meem_part_06]]
-
 - [[meem_part_06]]
-
 - [[meem_part_06]]
-
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Regarding His Guidance in Prayer]]
 - [[Prophet Muhammads Recommendations Regarding Food]]

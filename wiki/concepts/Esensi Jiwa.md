@@ -46,5 +46,5 @@ Karena jiwa bertindak sebagai cermin spiritual, kualitas ilmu yang dipantulkanny
 - **[[Ilmu Tercela]]**: Cabang ilmu yang dapat merusak esensi jiwa manusia.
 
 ## Rujukan
-- `[[Manners of Teachers and Students]]`
+- `[[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]`
 - `.raw/ihya-vol1-chapter-1-part-7.md`

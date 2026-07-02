@@ -16,7 +16,7 @@ related:
   - "[[Ikhlas]]"
 sources:
   - "[[Showing Off]]"
-- "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Major-Sin-31-Corrupt-Judgement]]"
 ---
 

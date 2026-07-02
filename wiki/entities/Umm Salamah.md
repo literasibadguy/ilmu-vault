@@ -15,7 +15,7 @@ related:
 sources:
   - "[[meem_part_06]]"
   - "[[The Ideal Husband]]"
-- "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
 ---
 
 # Umm Salamah

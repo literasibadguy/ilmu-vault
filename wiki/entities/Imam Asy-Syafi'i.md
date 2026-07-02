@@ -4,7 +4,7 @@ type: entity
 title: "Imam Asy-Syafi'i"
 entity_type: person
 role: "Pendiri Mazhab Syafi'i / Pembaharu Islam"
-first_mentioned: "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+first_mentioned: "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
 created: 2026-06-07
 updated: 2026-06-29
 status: seed
@@ -16,7 +16,7 @@ sources:
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"
-  - "[[Urgensi Kesabaran dalam Al-Qur'an]]"
+  - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[Excellence of Learning]]"
@@ -53,7 +53,7 @@ address: c-000099
 
 - [[meem_part_06]]
 
-- [[Urgensi Kesabaran dalam Al-Qur'an]]
+- [[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]
 - [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
 - [[Prophet Muhammads Recommendations Regarding Food]]
 - [[Excellence of Learning]]

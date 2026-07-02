@@ -42,4 +42,4 @@ Rasulullah ﷺ juga mengajarkan doa perlindungan dari ilmu yang tidak bermanfaat
 > "Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat..." (HR. Muslim)
 
 ## Sumber
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

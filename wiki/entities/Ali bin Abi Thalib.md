@@ -26,8 +26,8 @@ sources:
   - "[[Neglect of the Prayer]]"
   - "[[Major-Sin-20-Gambling]]"
   - "[[Excellence of Learning]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
-  - "[[Harms of Polemics and Evils of Debates]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
+  - "[[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]"
   - "[[Attachment-of-the-World]]"
   - "[[Ketergantungan Dunia Part 2]]"
   - "[[meem_part_01]]"
@@ -73,7 +73,7 @@ sources:
 - [[Neglect of the Prayer]]
 - [[Major-Sin-20-Gambling]]
 - [[Excellence of Learning]]
-- [[Blameworthy Sciences and Changing Meanings]]
-- [[Harms of Polemics and Evils of Debates]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
+- [[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]
 - [[Attachment-of-the-World]]
 - [[Ketergantungan Dunia Part 2]]

@@ -25,4 +25,4 @@ address: c-000109
 - **Hanya untuk Orang Bertakwa**: Hanya dapat dirasakan oleh para *Siddiqin* (orang-orang jujur dalam beragama) dan orang-orang yang dekat dengan Allah (*Muqarrabin*). Sifat sombong (*kibr*) dan cinta dunia (*hubbud dunya*) merupakan penghalang utama (*veil*) untuk meraih ilmu ini.
 
 ## Sumber
-- [[Praiseworthy and Blameworthy Branches of Knowledge]]
+- [[Praiseworthy-and-Blameworthy-Branches-of-Knowledge|Praiseworthy and Blameworthy Branches of Knowledge]]

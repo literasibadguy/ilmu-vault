@@ -54,5 +54,5 @@ Al-Ghazali menyitir beberapa perumpamaan dari Al-Qur'an, sabda Nabi, serta ucapa
 - **[[Adab Pengajar]]**: Pelanggaran terhadap adab mengajar (seperti mengharap upah materi atau tidak menyelaraskan ucapan dengan tindakan) memicu jatuhnya guru ke dalam golongan Ulama Dunia.
 
 ## Rujukan
-- `[[Evils of Knowledge and Signs of the Learned of the Hereafter]]`
+- `[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]`
 - `.raw/ihya-vol1-chapter-1-part-8.md`

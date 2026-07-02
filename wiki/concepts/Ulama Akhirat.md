@@ -81,5 +81,5 @@ Sebagai potret ideal Ulama Akhirat, Al-Ghazali menyajikan dialog antara **[[Shaq
 - **[[Adab Pengajar]]**: Karakter mulia yang wajib dimiliki saat menyampaikan ilmu kepada masyarakat.
 
 ## Rujukan
-- `[[Evils of Knowledge and Signs of the Learned of the Hereafter]]`
+- `[[Evils-of-Knowledge-and-Signs-of-the-Learned-of-the-Hereafter|Evils of Knowledge and Signs of the Learned of the Hereafter]]`
 - `.raw/ihya-vol1-chapter-1-part-8.md`

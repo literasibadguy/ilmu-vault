@@ -24,6 +24,8 @@ sources:
 
 # Sabar Menghadapi Musibah dan Sakit
 
+Kesabaran saat menghadapi musibah dan penyakit adalah salah satu bentuk sabar yang sangat dianjurkan dalam Islam.
+
 ## Definisi
 
 **Sabar Menghadapi Musibah dan Sakit** adalah sikap menahan gejolak keluhan batin di hadapan sesama manusia, serta merahasiakan kepayahan fisik akibat penyakit, kerugian finansial, atau duka cita keluarga (*kitmanul masha'ib wal amradh*) semata-mata demi membuktikan kemurnian tauhid dan rida atas ketetapan Allah SWT.

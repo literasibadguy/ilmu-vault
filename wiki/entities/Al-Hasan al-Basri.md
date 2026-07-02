@@ -36,7 +36,7 @@ sources:
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
   - "[[Excellence of Learning]]"
   - "[[Excellence of Teaching]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
   - "[[Attachment-of-the-World]]"
   - "[[Ketergantungan Dunia Part 2]]"
   - "[[meem_part_01]]"
@@ -95,6 +95,6 @@ sources:
 - [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
 - [[Excellence of Learning]]
 - [[Excellence of Teaching]]
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
 - [[Attachment-of-the-World]]
 - [[Ketergantungan Dunia Part 2]]

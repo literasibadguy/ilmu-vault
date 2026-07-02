@@ -32,7 +32,7 @@ sources:
   - "[[What Reminds People of Death and the Hereafter]]"
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
   - "[[Excellence of Learning]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
+  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"
   - "[[meem_part_03]]"
@@ -83,4 +83,4 @@ sources:
 - [[What Reminds People of Death and the Hereafter]]
 - [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
 - [[Excellence of Learning]]
-- [[Blameworthy Sciences and Changing Meanings]]
+- [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]

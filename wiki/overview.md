@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-06-30"
+updated: "2026-07-01"
 tags:
   - meta
   - overview
@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
  
- - Sumber diimpor (ingested): 86
- - Halaman wiki: 555
- - Aktivitas terakhir: 2026-06-30 (Mengimpor ringkasan hadis Meem Bagian 07 Fayd al-Qadir mengenai Ihya al-Mawat, kebersihan jalan, dan keikhlasan)
+ - Sumber diimpor (ingested): 92
+ - Halaman wiki: 563
+ - Aktivitas terakhir: 2026-07-02 (Mengimpor meem_part_09 dari Fayd al-Qadir Vol 6 Huruf Meem: adab, thaharah, kepemimpinan, istighfar, ghulul, keutamaan Madinah. Diperbarui sumber dan konsep terkait).
 
 ---
 

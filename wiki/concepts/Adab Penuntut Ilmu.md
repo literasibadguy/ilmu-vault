@@ -61,5 +61,5 @@ Kewajiban-kewajiban ini mengambil contoh keteladanan dari kisah perjalanan belaj
 - **[[Ulama Akhirat]]**: Golongan ulama yang mengamalkan adab-adab ini sepanjang hidupnya.
 
 ## Rujukan
-- `[[Manners of Teachers and Students]]`
+- `[[Manners-of-Teachers-and-Students|Manners of Teachers and Students]]`
 - `.raw/ihya-vol1-chapter-1-part-7.md`

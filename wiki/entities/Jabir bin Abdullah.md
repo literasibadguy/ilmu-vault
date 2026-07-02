@@ -21,7 +21,7 @@ sources:
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"
   - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-- "[[Major-Sin-19-Drinking-Alcohol]]"
+  - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Major-Sin-27-Tax-Collecting]]"
   - "[[meem_part_01]]"
   - "[[meem_part_02]]"

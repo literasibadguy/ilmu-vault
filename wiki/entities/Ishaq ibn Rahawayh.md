@@ -17,7 +17,7 @@ related:
   - "[[Imam Asy-Syafi'i]]"
 sources:
   - "[[Neglect of the Prayer]]"
-- "[[Major-Sin-20-Gambling]]"
+  - "[[Major-Sin-20-Gambling]]"
 ---
 
 # Ishaq ibn Rahawayh
