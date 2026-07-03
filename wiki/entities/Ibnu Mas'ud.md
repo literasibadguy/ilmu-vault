@@ -17,6 +17,8 @@ related:
   - "[[Zuhud]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_12]]"
+  - "[[meem_part_11]]"
   - "[[meem_part_07]]"
   - "[[Chapter_VIII_Part_1_Love_of_Power]]"
   - "[[meem_part_06]]"

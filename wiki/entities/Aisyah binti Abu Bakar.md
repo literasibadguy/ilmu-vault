@@ -19,6 +19,7 @@ related:
   - "[[Ghibah]]"
   - "[[Sakaratul Maut]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[meem_part_06]]"

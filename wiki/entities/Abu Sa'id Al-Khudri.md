@@ -15,6 +15,7 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ghibah]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"
   - "[[Major-Sin-19-Drinking-Alcohol]]"

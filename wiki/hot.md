@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: "2026-06-07"
-updated: "2026-07-02"
+updated: "2026-07-03"
 tags: [meta, hot-cache]
 status: evergreen
 related:
@@ -14,32 +14,25 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-07-02. Melakukan peninjauan ulang dan re-ingest **[[meem_part_09]]** untuk memperbaiki 10 tautan mati ke tokoh dan konsep. Membuat konsep baru **[[Adab Berpakaian]]** dan **[[Ghulul]]**.
+2026-07-03. Mengimpor dan mengonversi **[[meem_part_11]]** dan **[[meem_part_12]]** ke wiki. Membuat 8 entitas tokoh/perawi baru dan 28 konsep baru terkait fikih muamalah, pidana, adab sosial, akidah, dan ibadah.
 
 ## Fakta Kunci Terbaru
-- Pakaian baru Umar bin Khattab: pujilah Allah dan sedekahkan baju lama untuk jaminan hidup-mati dari Allah (**[[Adab Berpakaian]]**, **[[meem_part_09]]**).
-- Mengambil tambahan apa pun di luar gaji resmi untuk pegawai adalah pengkhianatan/ghulul, sekecil jarum atau benang akan dipikul di pundak di hari kiamat (**[[Ghulul]]**, **[[meem_part_09]]**).
-- Larangan sombong (*khuyala' / isbal*) dalam sarung saat shalat menyebabkan terputus perlindungan Allah (**[[Adab Berpakaian]]**, **[[meem_part_09]]**).
-- Istighfar 70 kali siang dibebaskan dari label pendusta, dan 70 kali malam dibebaskan dari lalai. Istighfar untuk mukminin/mukminat mendatangkan pahala kebaikan per orang, dan 27 kali sehari mendatangkan pengkabulan doa serta rezeki bumi (**[[meem_part_10]]**).
-- Tidak ada zakat pada harta yang diperoleh hingga berlalu satu tahun penuh (haul) (**[[Fikih Zakat]]**, **[[meem_part_10]]**).
-- Akad salam/salaf (inden) wajib menentukan takaran, timbangan, dan tempo penyerahan secara jelas (**[[Fikih Transaksi Salam]]**, **[[meem_part_10]]**).
-- Penerima titipan barang (wadi'ah amanah) yang tidak lalai tidak memikul kewajiban ganti rugi (dhaman) jika titipan rusak (**[[Amanah dan Wadiah]]**, **[[meem_part_10]]**).
-- Mengacungkan senjata/besi kepada saudara Muslim dilaknat malaikat meskipun dalam konteks bercanda (**[[Larangan Membahayakan Muslim]]**, **[[meem_part_10]]**).
-- Menyimak suara nyanyian diharamkan mendengar nyanyian suci ruhaniyyin di surga, dan menyimak penyanyi wanita (qinah) diancam dituangi timah cair di telinganya (**[[Hukum Musik dan Nyanyian]]**, **[[meem_part_10]]**).
-- Barangsiapa mencari ridha manusia dengan murka Allah, Allah serahkan kepadanya; sebaliknya yang mencari ridha Allah meski manusia murka, Allah cukupi dari gangguan manusia (**[[meem_part_09]]**).
-- Barangsiapa bertambah ilmunya tapi tidak bertambah zuhud di dunia, semakin jauh dari Allah. Barangsiapa membela hartanya dengan haq lalu terbunuh, syahid (**[[meem_part_09]]**).
-- Wudhu sempurna di cuaca sangat dingin pahalanya dua kali. Istijmar dan istinja dengan tiga kali (atau batu) adalah suci (**[[meem_part_09]]**).
-- Keutamaan meninggal di Madinah: Nabi beri syafaat khusus. Miliki amal saleh tersembunyi. Lindungi agama & ird dengan harta (**[[meem_part_09]]**).
-- Istighfar setelah shalat: "Astaghfirullah alladzi la ilaha illa huwal hayyul qayyum wa atubu ilaih" tiga kali, dosa diampuni meski pernah lari dari zihaf (**[[meem_part_09]]**).
-- Mengangkat pejabat yang kurang layak adalah khianat kepada Allah, Rasul, dan mukminin. Mengambil lebih dari rizqi jabatan adalah ghulul, akan dibawa di hari kiamat (**[[meem_part_09]]**).
-- Barangsiapa meminta perlindungan dengan nama Allah, lindungilah. Yang meminta dengan wajah Allah, berilah. Yang mengundang, penuhi. Yang berbuat baik, balaslah atau doakan hingga merasa cukup (**[[meem_part_09]]**).
-- Barangsiapa menjaga diri (istighna), Allah jaganya. Yang terburu-buru, akan salah (**[[meem_part_09]]**).
-- Sabar (forbearance) adalah separuh iman dan kunci keberlangsungan taubat; ganjarannya tak terukur, Allah menyertainya (**[[Tawbah]]**, Bagian 10).
-- Perenungan (tafakur) adalah obat utama: renungkan kematian yang dekat, sakitnya meninggalkan kesenangan sekarang vs siksa akhirat (**[[Tawbah]]**, Bagian 10).
+- Membeli barang curian yang diketahui keharamannya bersekutu dalam dosa dan kehinaan aibnya (**[[Hukum Membeli Barang Curian]]**, **[[meem_part_11]]**).
+- Melakukan dosa had (seperti pencurian) lalu ditegakkan hukuman had di dunia menjadi penebus/kaffarah dosanya di akhirat (**[[Penebusan Dosa Melalui Had]]**, **[[meem_part_11]]**).
+- Harta haram yang masuk ke dalam tubuh menghancurkan ketaatan; shalat ditolak jika mengenakan pakaian hasil haram (**[[Kehancuran Harta Haram]]**, **[[meem_part_11]]**).
+- Mengintip isi rumah orang lain secara sengaja tanpa izin adalah haram; jika matanya diciderai oleh pemilik rumah secara membela diri, tidak ada tuntutan diyat/qishash (**[[Larangan Mengintip Rumah]]**, **[[meem_part_12]]**).
+- Mengintip pesan digital/surat pribadi saudara Muslim tanpa izin diancam keras laksana melihat ke dalam jurang neraka (**[[Larangan Membaca Surat Orang Lain]]**, **[[meem_part_12]]**).
+- Menolong orang zalim dengan ucapan/tindakan berakibat dicabutnya perlindungan Allah dan dikuasakannya orang zalim tersebut atas dirinya (**[[Larangan Membantu Kezaliman]]**, **[[meem_part_12]]**).
+- Mengagungkan makhluk atau bersandar kepada manusia demi kemuliaan duniawi mendatangkan kehinaan konkrit dari Allah (**[[Larangan Mengagungkan Makhluk]]**, **[[meem_part_12]]**).
+- Itikaf 10 hari Ramadhan secara ikhlas setara dengan dua kali haji dan dua kali umrah, serta menghapuskan dosa kecil masa lalu (**[[Keutamaan Itikaf]]**, **[[meem_part_12]]**).
+- Sifat lemah lembut (*rifq*) mengumpulkan segala kebaikan hidup; kehilangan sifat lembut menutup semua akses kebajikan (**[[Keutamaan Sifat Lembut]]**, **[[meem_part_12]]**).
+- Berpura-pura memiliki suatu keutamaan yang tidak dikaruniakan Allah laksana mengenakan dua pakaian kebohongan (**[[Larangan Berpura-pura Memiliki Sesuatu]]**, **[[meem_part_12]]**).
+- Tuntutan ganti rugi finansial (*diyat*) atas luka/cedera tubuh dapat digugurkan dengan kedermawanan memaafkan pelaku (**[[Kompensasi Cedera Fisik]]**, **[[meem_part_11]]**).
+- Berbakti kepada orang tua adalah kewajiban tertinggi setelah tauhid; ridha Allah bergantung pada keridhaan mereka (**[[Berbakti Kepada Orang Tua]]**, **[[meem_part_11]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[Adab Berpakaian]], [[Ghulul]]
-- Diperbarui: [[meem_part_09]], [[index]], [[log]], [[hot]], [[overview]].
+- Dibuat: [[meem_part_11]], [[meem_part_12]], 8 entitas perawi/tokoh, dan 28 konsep fikih & akhlak.
+- Diperbarui: [[index]], [[log]], [[hot]], [[overview]], serta file perawi pendukung (seperti [[Abu Hurayrah]], [[Ibnu Umar]], dll.).
 
 ## Alur Kerja Aktif
 - Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.

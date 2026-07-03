@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-07-02"
+updated: "2026-07-03"
 tags:
   - meta
   - log
@@ -15,6 +15,15 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-07-03] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 11 & 12
+- Sumber: `.raw/meem_part_11.md` dan `.raw/meem_part_12.md`
+- Ringkasan: [[meem_part_11]], [[meem_part_12]]
+- Halaman dibuat (38):
+  - Entitas (8): [[Asma' bint Umays]], [[Abdullah bin Mihsan]], [[Al-Husayn bin Ali]], [[Khuzaymah bin Thabit]], [[Abu Salamah al-Homsi]], [[Waqid bin Amr]], [[Sahl bin Hunayf]], [[Raja' al-Ghanawi]]
+  - Konsep (28): [[Hukum Membeli Barang Curian]], [[Penebusan Dosa Melalui Had]], [[Kehancuran Harta Haram]], [[Konsistensi dalam Usaha]], [[Ketergantungan Hanya Kepada Allah]], [[Dzikir Penghilang Kesusahan]], [[Niat Baik di Pagi Hari]], [[Kepedulian Terhadap Urusan Umat Islam]], [[Berbakti Kepada Orang Tua]], [[Kecukupan dan Kesyukuran Harian]], [[Amalan Hari Jumat]], [[Keutamaan Istirja]], [[Keutamaan Talbiyah]], [[Kompensasi Cedera Fisik]], [[Ketaatan Sebagai Hakikat Dzikir]], [[Keutamaan Memberi Makan]], [[Menutupi Aib Muslim]], [[Larangan Mengintip Rumah]], [[Larangan Membaca Surat Orang Lain]], [[Naungan Allah di Hari Kiamat]], [[Larangan Membantu Kezaliman]], [[Larangan Mengagungkan Makhluk]], [[Keutamaan Memerdekakan Budak]], [[Keutamaan Itikaf]], [[Keutamaan Menghafal Al-Quran]], [[Keutamaan Sifat Lembut]], [[Larangan Berpura-pura Memiliki Sesuatu]], [[Anjuran Mencari Rezeki]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]], serta file perawi pendukung (seperti [[Abu Hurayrah]], [[Ibnu Umar]], [[Malik bin Dinar]], [[Ali bin Abi Thalib]], [[Ibnu Mas'ud]], [[Anas bin Malik]], [[Ibnu Abbas]], [[Salman al-Farisi]], [[Abu Sa'id Al-Khudri]], [[Abu al-Darda]], [[Jabir bin Abdullah]], [[Abdullah bin Amr]], [[Hasan bin Ali]], [[Aisyah binti Abu Bakar]], [[Dzikir]], [[Menerima Pemberian Tanpa Meminta]], [[Menerima Permintaan Maaf]]).
+- Tindakan: Mengimpor file markdown mentah berukuran masing-masing ~35KB dan ~33KB, mendeduksi dan menulis 38 halaman baru dengan alamat unik `c-000438` sampai `c-000475`, memperbarui file-file perawi pendukung untuk merujuk pada bab ini, memperbarui catalog utama index, hot cache, overview statistik, dan manifest pelacakan delta.
 
 ## [2026-07-02] Re-ingest & Cleanup: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 09
 - Sumber: `.raw/meem_part_09.md`

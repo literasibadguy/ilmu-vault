@@ -14,6 +14,7 @@ related:
   - "[[Ghibah]]"
   - "[[Husnudzon Kepada Allah]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"

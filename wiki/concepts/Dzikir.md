@@ -10,6 +10,8 @@ tags:
 status: evergreen
 
 address: c-000136
+sources:
+  - "[[meem_part_12]]"
 ---
 
 # Dzikir
@@ -41,5 +43,6 @@ Al-Ghazali mengecam keras para penceramah zaman akhir yang mengganti esensi dzik
 Dzikir yang hakiki adalah dzikir yang melahirkan rasa takut kepada murka Allah, kesadaran akan kelalaian diri, dan dorongan kuat untuk memperbaiki amal ibadah lahir dan batin.
 
 ## Sumber
+- [[meem_part_12]]
 - [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
 - [[Keutamaan Diam]]

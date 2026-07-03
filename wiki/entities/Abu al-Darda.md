@@ -13,6 +13,7 @@ related:
   - "[[Keutamaan Menuntut Ilmu]]"
   - "[[Ketergantungan Dunia Part 3]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Excellence of Learning]]"

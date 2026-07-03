@@ -22,6 +22,8 @@ related:
   - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_12]]"
+  - "[[meem_part_11]]"
   - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"

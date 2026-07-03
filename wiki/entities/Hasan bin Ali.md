@@ -17,6 +17,7 @@ related:
   - "[[Fatima binti Muhammad]]"
   - "[[Aqra' bin Habis]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[The Ideal Husband]]"
   - "[[meem_part_04]]"
 ---

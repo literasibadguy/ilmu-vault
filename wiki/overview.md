@@ -2,7 +2,7 @@
 type: overview
 title: "Wiki Overview"
 created: "2026-06-07"
-updated: "2026-07-02"
+updated: "2026-07-03"
 tags:
   - meta
   - overview
@@ -32,9 +32,9 @@ Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang d
 
 ## Status Saat Ini
  
- - Sumber diimpor (ingested): 93
- - Halaman wiki: 571
- - Aktivitas terakhir: 2026-07-02 (Mengimpor meem_part_10 serta meninjau/mengimpor ulang meem_part_09 guna memperbaiki 10 tautan mati, serta membuat konsep Adab Berpakaian dan Ghulul).
+ - Sumber diimpor (ingested): 95
+ - Halaman wiki: 609
+ - Aktivitas terakhir: 2026-07-03 (Mengimpor meem_part_11 dan meem_part_12, menciptakan 8 entitas dan 28 konsep baru untuk menopang materi hadits huruf Meem).
 
 ---
 

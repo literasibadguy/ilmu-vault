@@ -17,6 +17,8 @@ related:
   - "[[Mengingat Maut]]"
   - "[[Persiapan Kematian]]"
 sources:
+  - "[[meem_part_12]]"
+  - "[[meem_part_11]]"
   - "[[meem_part_07]]"
   - "[[meem_part_06]]"
   - "[[Pride]]"

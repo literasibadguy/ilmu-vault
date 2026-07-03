@@ -17,6 +17,7 @@ status: seed
 related:
   - "[[Kesederhanaan dalam Makan]]"
 sources:
+  - "[[meem_part_12]]"
   - "[[meem_part_03]]"
 ---
 
@@ -40,4 +41,5 @@ Rasulullah SAW bersabda: *"Barangsiapa diberi suatu harta oleh Allah tanpa memin
 
 ## Sumber
 
+- **[[meem_part_12]]** (Syarah penolakan pemberian tanpa membalas/memuji setara labisu thawbay zur).
 - **[[meem_part_03]]** (Hadits tentang penerimaan rezeki pemberian tanpa meminta, syarah Al-Munawi).
