@@ -24,8 +24,8 @@ Navigasi: [[index|Indeks]] | [[hot|Konteks Terbaru]] | [[log|Catatan Operasi]]
 ## Tujuan
 
 Wiki ini adalah **Ilmuzip Vault** — sebuah second brain dan mesin riset yang dinamis untuk kajian keislaman, koleksi ceramah/kajian, serta draf kreatif. Wiki ini mendukung pembuatan konten untuk:
-- Kanal YouTube **KICIKKU** (naskah video, draf video, catatan klip pendek)
-- Akun X **@jamaahquba** (postingan edukatif, utas/threads)
+- Kanal YouTube [**KICIKKU**](https://youtube.com/@kicikku) (naskah video, draf video, catatan klip pendek)
+- Akun X [**@ilmuzip**](https://x.com/ilmuzip) (postingan edukatif, utas/threads)
 - Draf artikel panjang dan bahan rujukan ceramah.
 
 ---
