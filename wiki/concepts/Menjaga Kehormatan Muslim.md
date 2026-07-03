@@ -34,9 +34,12 @@ Nabi SAW bersabda: *"Termasuk dosa besar adalah menjatuhkan kehormatan sesama Mu
 1. **Larangan Istithalah (Arogansi Lisan)**: Istithalah berarti merendahkan, menindas, menyombongkan diri, atau memosisikan diri lebih tinggi di atas kehormatan orang lain dengan lisan yang tajam.
 2. **Kaidah Membalas Cacian**: Jika seseorang dicaci, secara hukum ia diperbolehkan membalas dengan cacian yang setimpal (tanpa berdusta atau menuduh zina). Namun, membalas dengan cacian berlipat ganda (*al-sabtani bil sabtah*) dihukum sebagai dosa besar karena melampaui batas keadilan.
 3. **Keutamaan Menahan Diri**: Memaafkan dan menahan amarah jauh lebih mulia di sisi Allah daripada membalas cacian yang sama.
-4. **Larangan Menyebarkan Aib (Ishadah al-Awrah)**:
-   Menyebarkan aib sesama Muslim untuk menjatuhkan kehormatannya diancam dengan siksaan setimpal di hari kiamat:
-   > *"Barangsiapa membeberkan (menyebarkan) aib seorang Muslim untuk mencemarkan nama baiknya tanpa hak, maka Allah akan mencemarkan nama baiknya (menghinakannya) di dalam neraka pada hari kiamat."* (HR. Al-Bayhaqi dari **[[Abu Dharr Al-Ghifari]]**).
+5. **Kewajiban Membela Kehormatan yang Digunjing**:
+   Ketika mendengar aib saudara seiman dibicarakan, seorang Muslim wajib membela kehormatan tersebut jika ia memiliki kemampuan:
+   > *"Barangsiapa di hadapannya saudaranya yang Muslim digunjing, lalu ia tidak menolongnya padahal ia sanggup menolong, niscaya Allah akan menghinakannya di dunia dan di akhirat."* (HR. Ibn Abi ad-Dunya dari **[[Anas bin Malik]]**).
+6. **Memuliakan Sesama Muslim**:
+   Memuliakan kehormatan lahiriah dan batiniah sesama Muslim dihitung sebagai wujud pengagungan terhadap Allah SWT:
+   > *"Barangsiapa memuliakan seorang Muslim, sesungguhnya ia sedang memuliakan Allah SWT."* (HR. Thabrani al-Awsat dari **[[Jabir bin Abdullah]]**).
 
 ## Mengapa Ini Penting
 
@@ -45,8 +48,12 @@ Kehormatan seorang Muslim setara kesuciannya dengan darah dan hartanya. Keretaka
 ## Hubungan
 
 - **[[Ghibah]]** — Salah satu bentuk nyata perusakan kehormatan Muslim di belakang punggungnya.
+- **[[Larangan Menggunjing Pejuang]]** — Perlindungan reputasi bagi garis depan pertahanan kaum Muslimin.
 
 ## Sumber
 
 - **[[meem_part_01]]** (Hadits tentang dosa besar menjatuhkan kehormatan Muslim).
 - **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]**
+- **[[meem_part_13]]**
+- **[[meem_part_14]]**
+

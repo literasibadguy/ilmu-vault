@@ -24,6 +24,8 @@ related:
 sources:
   - "[[Major-Sin-27-Tax-Collecting]]"
   - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
+  - "[[meem_part_11]]"
+  - "[[meem_part_14]]"
 ---
 
 # Mengonsumsi Harta Haram
@@ -38,12 +40,23 @@ Mengonsumsi harta haram berakibat langsung pada rusaknya batin dan diterimanya i
 1. **Meracuni Jasmani**: Makanan dan minuman haram yang masuk ke tubuh berubah menjadi daging, di mana setiap daging yang tumbuh dari harta haram diancam dengan siksaan neraka.
 2. **Menghalangi Terkabulnya Doa**: Keadaan lahiriah yang memprihatinkan (seperti musafir yang berdebu) tidak membuat doa dikabulkan apabila makanan, minuman, dan pakaian yang dikenakan berasal dari sumber yang haram.
 3. **Membatalkan Nilai Kebaikan**: Amal kebajikan finansial seperti sedekah, zakat, ibadah haji, atau infak pembangunan fasilitas umum tidak akan mendatangkan pahala sedikit pun jika bersumber dari harta haram.
+4. **Menolak Keabsahan Ibadah (Shalat)**:
+   Mengenakan pakaian yang mengandung unsur haram secara langsung membatalkan diterimanya shalat seorang hamba:
+   > *"Barangsiapa membeli pakaian seharga sepuluh dirham dan di dalamnya terdapat satu dirham haram, maka Allah tidak menerima shalatnya selama pakaian itu melekat di tubuhnya."* (HR. Ahmad dari **[[Ibnu Umar]]** dalam **[[meem_part_11]]**).
+5. **Kepastian Lenyapnya Harta Haram**:
+   Harta syubhat/haram yang dikumpulkan secara batil (*naha-wusy*) dijamin akan dibinasakan oleh Allah:
+   > *"Barangsiapa memperoleh harta dari jalan haram/syubhat (naha-wusy), niscaya Allah akan melenyapkannya dalam kebinasaan/kerugian (nahabir)."* (HR. Ibn Najjar dari **[[Abu Salamah al-Homsi]]** dalam **[[meem_part_11]]**).
+
 
 ## Mengapa Ini Penting
 
 1. **Hijab Doa 40 Hari**: Berdasarkan riwayat dari Anas bin Malik, satu suap makanan haram yang masuk ke dalam perut dapat menyebabkan doa seseorang tidak dikabulkan oleh Allah SWT selama 40 hari lamanya.
 2. **Ketiadaan Berkah**: Harta haram memusnahkan ketenangan jiwa keluarga dan keberkahan umur, serta menjadi beban dosa di akhirat bagi pemilik yang mewariskannya.
-3. **Sikap Wara' sebagai Solusi**: Ulama salaf menekankan kewajiban memeriksa kehalalan makanan sebelum dikonsumsi. Sikap wara' (meninggalkan syubhat) merupakan benteng utama dari terjerumus ke dalam konsumsi harta haram.
+3. **Makan Halal Kunci Surga (Part 14)**:
+   Sebaliknya, menjaga kemurnian makanan agar hanya bersumber dari yang halal (*thayib*) diposisikan sebagai jaminan surga:
+   > *"Barangsiapa mengonsumsi makanan halal (thayyib), beramal sesuai sunnah, dan manusia merasa aman dari kejahatan/gangguannya, niscaya ia masuk surga."* (HR. Tirmidzi & Al-Hakim dari **[[Abu Sa'id Al-Khudri]]** dalam **[[meem_part_14]]**).
+4. **Sikap Wara' sebagai Solusi**: Ulama salaf menekankan kewajiban memeriksa kehalalan makanan sebelum dikonsumsi. Sikap wara' (meninggalkan syubhat) merupakan benteng utama dari terjerumus ke dalam konsumsi harta haram.
+
 
 ## Contoh Kasus
 
@@ -60,3 +73,6 @@ Mengonsumsi harta haram berakibat langsung pada rusaknya batin dan diterimanya i
 
 - [[Major-Sin-27-Tax-Collecting]]
 - [[Major-Sin-28-Consuming-Unlawful-Property]]
+- [[meem_part_11]]
+- [[meem_part_14]]
+

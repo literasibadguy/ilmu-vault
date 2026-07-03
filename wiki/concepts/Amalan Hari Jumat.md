@@ -15,6 +15,7 @@ related:
   - "[[Adab Menjenguk Orang Sakit]]"
 sources:
   - "[[meem_part_11]]"
+  - "[[meem_part_13]]"
 address: c-000454
 ---
 
@@ -38,6 +39,7 @@ Hari Jumat adalah *Sayyidul Ayyam* (pemimpin hari-hari) dalam Islam yang menyimp
 2. **Menjenguk Orang Sakit (*'Iyadatul Maridh*)**: Mempererat kasih sayang sosial (lihat [[Adab Menjenguk Orang Sakit]]).
 3. **Mengiringi Jenazah**: Mengingat akhirat dan mendoakan saudara Muslim yang wafat.
 4. **Sedekah**: Membantu meringankan penderitaan finansial kaum lemah.
+5. **Mandi Jumat (Ghusl)**: Membersihkan tubuh sebelum berangkat masjid guna menjaga kesucian jasmani dan ruhani (lihat [[Ghusl]] dan [[Abu Qatadah]]).
 
 ## Hubungan
 
@@ -47,3 +49,4 @@ Hari Jumat adalah *Sayyidul Ayyam* (pemimpin hari-hari) dalam Islam yang menyimp
 ## Sumber
 
 - [[meem_part_11]]
+- [[meem_part_13]]

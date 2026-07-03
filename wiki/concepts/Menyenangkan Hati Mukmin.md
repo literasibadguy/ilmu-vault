@@ -20,6 +20,7 @@ related:
 sources:
   - "[[meem_part_02]]"
   - "[[meem_part_05]]"
+  - "[[meem_part_14]]"
 ---
 
 # Menyenangkan Hati Mukmin
@@ -40,9 +41,11 @@ Hadis menyebutkan: *"Di antara amal paling utama adalah memasukkan rasa senang d
 
 Islam adalah agama kasih sayang. Allah SWT sangat mencintai hamba-Nya yang menjadi wasilah kegembiraan bagi hamba-Nya yang lain. Menghilangkan kesedihan batin seorang mukmin di dunia akan dibalas oleh Allah dengan dihilangkannya kesusahan pelaku di Hari Kiamat kelak.
 
-Nabi ﷺ bersabda:
-> *"Barangsiapa yang melalui tangannya Allah jadikan jalan keluar (kemudahan/فرخ) bagi seorang Muslim, maka Allah akan melapangkan baginya kesulitan-kesulitan dunia dan akhirat."* (HR. Al-Khatib dari **[[Hasan bin Ali]]**).
-> Ini membuktikan bahwa membantu meredakan penderitaan fisik dan psikologis Muslim merupakan investasi pahala terbesar untuk keselamatan kita sendiri di akhirat.
+- Nabi ﷺ bersabda:
+  > *"Barangsiapa yang melalui tangannya Allah jadikan jalan keluar (kemudahan/فرخ) bagi seorang Muslim, maka Allah akan melapangkan baginya kesulitan-kesulitan dunia dan akhirat."* (HR. Al-Khatib dari **[[Hasan bin Ali]]**).
+  > Ini membuktikan bahwa membantu meredakan penderitaan fisik dan psikologis Muslim merupakan investasi pahala terbesar untuk keselamatan kita sendiri di akhirat.
+- Hadis dari Ibnul Mubarak:
+  > *"Barangsiapa menyenangkan hati seorang mukmin (mewujudkan hajat atau mengamankannya dari rasa takut), niscaya Allah menyenangkan hatinya pada hari kiamat."* (HR. Ibnul Mubarak secara mursal dalam **[[meem_part_14]]**, hal. 106)
 
 ## Hubungan
 
@@ -53,3 +56,4 @@ Nabi ﷺ bersabda:
 
 - **[[meem_part_02]]** (Hadits tentang keutamaan memasukkan surur di hati mukmin).
 - **[[meem_part_05]]** (Hadits tentang pelapangan kesulitan dunia-akhirat bagi pembantu sesama Muslim).
+- **[[meem_part_14]]** (Hadits tentang pelapangan hati mukmin di kiamat).

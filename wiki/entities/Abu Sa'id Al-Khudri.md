@@ -15,6 +15,8 @@ related:
   - "[[Nabi Muhammad SAW]]"
   - "[[Ghibah]]"
 sources:
+  - "[[meem_part_11]]"
+  - "[[meem_part_14]]"
   - "[[meem_part_12]]"
   - "[[Censure of Backbiting]]"
   - "[[Harm 15 Backbiting]]"

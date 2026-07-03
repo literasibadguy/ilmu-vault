@@ -17,6 +17,7 @@ related:
 sources:
   - "[[meem_part_06]]"
   - "[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]"
+  - "[[meem_part_14]]"
 ---
 
 # Keutamaan Istighfar
@@ -38,6 +39,12 @@ Istighfar memiliki kedudukan yang sangat agung dalam ajaran Islam:
 2. **Penghapus Dosa**: Istighfar bertindak sebagai pembersih noda hitam di dalam hati akibat dosa yang dilakukan.
 
 3. **Pembuka Pintu Rezeki dan Rahmat**: Allah menjanjikan hujan yang lebat, harta yang melimpah, keturunan, dan kemudahan hidup bagi orang yang senantiasa beristighfar (QS. Nuh: 10-12).
+
+4. **Jalan Keluar dari Kesempitan dan Kesusahan**:
+   Melazimkan istighfar secara konsisten (*lazima al-istighfar*) menjadi wasilah terbukanya pintu kemudahan di kala terjepit kesulitan:
+   > *"Barangsiapa memperbanyak istighfar (melazimkannya), niscaya Allah menjadikan baginya kelapangan dari setiap kesedihan, jalan keluar dari setiap kesempitan, dan memberinya rezeki dari arah yang tidak disangka-sangka."* (HR. Ahmad & Al-Hakim dari **[[Ibnu Abbas]]**).
+   *Syarah*: Al-Munawi menjelaskan bahwa istighfar harian meredakan ketegangan batin akibat dosa dan cemas duniawi, sehingga Allah mengangkat beban mental tersebut berganti dengan jalan keluar yang tak terduga.
+
 
 4. **Pencegah Kebohongan dan Kelalaian**:
    Istighfar harian secara konsisten melindungi diri dari cap pendusta dan lalai:
@@ -65,3 +72,4 @@ Meskipun sering diiringi bersama, terdapat perbedaan konseptual antara istighfar
 
 - **[[meem_part_06]]** (Hadits tentang catatan amal yang menyenangkan melalui istighfar).
 - **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]**
+- **[[meem_part_14]]**

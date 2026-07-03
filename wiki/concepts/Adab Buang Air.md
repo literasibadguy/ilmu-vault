@@ -17,6 +17,7 @@ related:
   - "[[Wudhu]]"
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
+  - "[[meem_part_14]]"
 address: c-000201
 ---
 
@@ -34,7 +35,7 @@ Dalam kitab *Ihya' Ulumiddin*, **[[Imam Al-Ghazali]]** menguraikan tata cara ber
 
 ### 1. Larangan Tempat
 *   **Tempat Umum**: Dilarang keras buang air di tempat berkumpulnya manusia, jalan umum, tempat bernaung, air yang menggenang (*stagnant water*), di bawah pohon yang sedang berbuah, serta di tanah keras atau berangin (karena berisiko memercikkan air seni kembali ke badan/pakaian).
-*   **Menghadap Kiblat**: Dilarang buang air dengan menghadap atau membelakangi Ka'bah, matahari, atau bulan secara langsung di alam terbuka. Namun, diperbolehkan jika berada di dalam bangunan toilet tertutup.
+*   **Menghadap Kiblat**: Dilarang buang air dengan menghadap atau membelakangi Ka'bah (kiblat), matahari, atau bulan secara langsung di alam terbuka (lihat [[Menghormati Kiblat]]). Namun, diperbolehkan jika berada di dalam bangunan toilet tertutup.
 
 ### 2. Sopan Santun Fisik
 *   **Perlindungan**: Menjauh dari pandangan manusia dan mencari penutup/shelter. Jangan menyingkap pakaian sebelum posisi duduk mendekati tanah.
@@ -62,3 +63,4 @@ Setelah selesai beristinja, dianjurkan menggosokkan tangan kiri ke tanah atau di
 ## Sumber
 
 *   **[[Purification-of-the-Body-from-Excrements]]**
+*   **[[meem_part_14]]**

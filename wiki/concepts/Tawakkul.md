@@ -20,6 +20,7 @@ related:
   - "[[Qadar]]"
 sources:
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
+  - "[[meem_part_14]]"
 ---
 
 # Tawakkul (Kepasrahan Aktif)
@@ -50,6 +51,15 @@ Seringkali disalahgunakan oleh orang-orang yang malas atau gagal karena kelalaia
 - **Contoh Nabi Ibrahim AS**: Mengucapkannya saat dilemparkan ke dalam kobaran api setelah ia menempuh jalan dakwah yang panjang dan menghadapi penentangan kaumnya tanpa pernah menyerah.
 - **Contoh Para Sahabat di Perang Uhud**: Mengucapkannya setelah bersiap siaga menghadapi musuh yang kembali mengancam usai pertempuran Uhud, lalu mereka tetap maju menuju Hamra al-Asad (QS. Ali Imran: 173-174).
 
+## Batasan Sebab dalam Pengobatan (Medis)
+
+Tawakkul yang sempurna juga menuntut seorang Muslim untuk tidak bergantung pada sebab-sebab pengobatan yang bersifat makruh atau syubhat secara akidah. Rasulullah SAW memperingatkan hal ini dalam hadis riwayat **[[Mughirah bin Syu'bah]]**:
+> *"Barangsiapa melakukan pengobatan dengan besi panas (kauterisasi/ki) atau meminta dijampi-jampi (ruqyah syirkiyyah), maka sungguh ia telah berlepas diri dari sikap tawakkal."* (HR. Ahmad, Tirmidzi, & Al-Hakim)
+
+- **Makna Kauterisasi (Ki)**: Pengobatan dengan besi membara dinilai makruh karena mendatangkan rasa sakit ekstrem laksana menyiksa dengan api sebelum keadaan benar-benar darurat medis, sehingga bergantung padanya merusak kelembutan tawakkal.
+- **Makna Ruqyah Syirkiyyah**: Meminta dijampi dengan mantra non-Arab yang tidak dipahami maknanya dikhawatirkan dapat meluncurkan kesyirikan terselubung. Adapun ruqyah syar'iyyah dengan ayat Al-Qur'an dan doa ma'tsur adalah diperbolehkan bahkan dianjurkan.
+
+
 ## Hubungan dengan Al-'Ajz wal Kasal
 
 Tawakkul yang sejati adalah obat mujarab dari **[[Al-Ajz wal Kasal]]** (kelemahan dan kemalasan). Orang yang bertawakal tidak akan malas karena ia diperintahkan bekerja, dan tidak akan putus asa/lemah karena ia bersandar pada Dzat yang Maha Kuat.
@@ -57,3 +67,5 @@ Tawakkul yang sejati adalah obat mujarab dari **[[Al-Ajz wal Kasal]]** (kelemaha
 ## Sumber
 
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
+- [[meem_part_14]]
+

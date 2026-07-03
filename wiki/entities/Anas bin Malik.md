@@ -17,6 +17,9 @@ related:
   - "[[Ghibah]]"
   - "[[Raja' dan Khauf]]"
 sources:
+  - "[[meem_part_11]]"
+  - "[[meem_part_13]]"
+  - "[[meem_part_14]]"
   - "[[meem_part_07]]"
   - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
   - "[[meem_part_06]]"

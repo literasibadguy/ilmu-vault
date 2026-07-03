@@ -29,6 +29,7 @@ related:
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[meem_part_05]]"
+  - "[[meem_part_14]]"
 ---
 
 # Adab Makan dan Minum
@@ -61,6 +62,9 @@ Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diaja
 
 4. **Makan bersama** — Sangat dianjurkan makan secara berkelompok karena membawa keberkatan. Nabi ﷺ bersabda: *"Berkumpullah kalian pada makanan kalian, niscaya kalian akan diberkahi padanya."*
 
+5. **Larangan Qiran (Menggabungkan Makanan)**: Saat bersantap bersama dalam wadah kelompok, dilarang menyuap dua buah kurma (atau makanan sejenis seperti kismis, anggur) sekaligus ke dalam mulut secara serakah, kecuali telah memperoleh keizinan dari teman-teman makannya (HR. Thabrani dari **[[Ibnu Umar]]**).
+
+
 5. **Mengambil makanan yang jatuh** — Jika makanan jatuh, Nabi ﷺ mengajarkan untuk mengambilnya, membersihkannya, lalu memakannya. Jangan membiarkannya untuk setan.
 
 6. **Tidak bersandar saat makan** — Nabi ﷺ bersabda: *"Aku tidak makan sambil bersandar."* Beliau makan dalam posisi duduk tegak, terkadang dengan satu kaki tertekuk. Bersandar (*ittikā'*) tidak baik untuk pencernaan dan mencerminkan kenyamanan berlebih.
@@ -75,10 +79,11 @@ Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diaja
    - *"Alhamdulillāhilladhī at'amanā wa saqānā wa ja'alanā muslimīn"* — Segala puji bagi Allah yang telah memberi kami makan dan minum dan menjadikan kami muslim
    - *"Alhamdulillāhilladhī at'amanī hādhā wa razaqanīhi min ghayri hawlin minnī wa lā quwwah"* — Segala puji bagi Allah yang memberi makan ini kepadaku dan memberiku rezeki tanpa daya dan kekuatan dariku. Siapa yang mengucapkan ini, dosa-dosanya yang lalu diampuni.
    - *"Alhamdulillāhi hamdan kathīran tayyiban mubārakan fīhi, ghayra makfiyyin wa lā muwadda'in wa lā mustaghnan 'anhu Rabbanā"* — Segala puji yang banyak, baik, dan penuh berkah bagi Allah
+   - *"Alhamdulillahilladzi ath'amani wa asyba'ani wa saqani wa arwani"* (Segala puji bagi Allah yang telah memberiku makan, mengenyangkanku, memberiku minum, dan menyegarkanku). Pembacaan tahmid lengkap ini menjadi sebab gugurnya dosa-dosanya kecil harian (HR. Abu Ya'la & Ibnus Sunni dari **[[Abu Musa al-Ash'ari]]**).
 
-2. **Menjilat jari dan membersihkan wadah** — Sunnah membersihkan sisa makanan pada wadah dan menjilat jari sebelum dicuci, sebagai bentuk menghargai nikmat.
+2. **Menjilat jari dan membersihkan wadah** — Sunnah membersihkan sisa makanan pada wadah dan menjilat jari sebelum dicuci. Nabi ﷺ bersabda bahwa wadah makanan yang dijilati bersih (sebagai bentuk tawadhu dan menghargai rezeki) akan memohonkan ampunan bagi pemakannya (HR. Ahmad, Tirmidzi & Ibn Majah dari **[[Nubayshah]]**).
 
-3. **Mencuci tangan dan berkumur** — Membersihkan tangan dari sisa makanan dan berkumur untuk menjaga kebersihan mulut. Nabi ﷺ sangat memperhatikan kebersihan setelah makan.
+3. **Mencuci tangan dan berkumur** — Membersihkan tangan dari sisa makanan dan berkumur untuk menjaga kebersihan mulut. Terutama dianjurkan membasuh tangan dari aroma lemak dan daging tajam agar tidak mengganggu malaikat di sekitar (HR. Abu Ya'la dari **[[Ibnu Umar]]**).
 
 4. **Mendoakan tuan rumah** — Jika makan di rumah orang lain, disunnahkan mendoakan tuan rumah: *"Allāhumma bārik lahum fī mā razaqtahum, waghfir lahum warhamhum"* (Ya Allah, berkahilah rezeki mereka, ampunilah dan rahmatilah mereka).
 
@@ -120,3 +125,5 @@ Kisah Abu Juhayfah juga menggambarkan pentingnya adab ini: ia bersendawa di depa
 
 - [[Prophet Muhammads Recommendations Regarding Food]] — Islamweb Staff
 - [[meem_part_05]]
+- [[meem_part_14]]
+

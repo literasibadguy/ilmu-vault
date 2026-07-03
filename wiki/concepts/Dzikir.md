@@ -12,6 +12,8 @@ status: evergreen
 address: c-000136
 sources:
   - "[[meem_part_12]]"
+  - "[[meem_part_13]]"
+  - "[[meem_part_14]]"
 ---
 
 # Dzikir
@@ -42,7 +44,17 @@ Al-Ghazali mengecam keras para penceramah zaman akhir yang mengganti esensi dzik
 
 Dzikir yang hakiki adalah dzikir yang melahirkan rasa takut kepada murka Allah, kesadaran akan kelalaian diri, dan dorongan kuat untuk memperbaiki amal ibadah lahir dan batin.
 
+## Dzikir Harian dan Keterikatan Batin
+
+Di samping itu, melazimkan dzikir harian membawa dampak perlindungan akidah yang besar:
+- **Pembersih dari Nifaq**: Rasulullah SAW bersabda: *"Barangsiapa memperbanyak mengingat Allah (dzikir), maka ia telah berlepas diri dari kemunafikan (nifaq)."* (HR. Thabrani al-Awsat dari [[Abu Hurayrah]]).
+- **Mendatangkan Kecintaan Allah**: Rasulullah SAW bersabda: *"Barangsiapa banyak mengingat Allah, niscaya Allah mencintainya."* (HR. Ad-Dailami dari [[Aisyah binti Abu Bakar]]).
+- **Bahaya Lalai**: Berbaring atau berkumpul di suatu majelis tanpa berdzikir mendatangkan penyesalan (*tirah*) di hari kiamat (lihat [[Abu Hurayrah]]).
+
+
 ## Sumber
 - [[meem_part_12]]
+- [[meem_part_13]]
+- [[meem_part_14]]
 - [[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]
 - [[Keutamaan Diam]]

@@ -16,6 +16,7 @@ related:
   - "[[Adhan]]"
 sources:
   - "[[meem_part_08]]"
+  - "[[meem_part_14]]"
 ---
 
 # Suhur
@@ -26,16 +27,18 @@ sources:
 
 Suhur (sahur) adalah sunnah muakkad sebelum puasa. Bahkan cukup dengan seteguk air. Nabi SAW menganjurkan suhur karena di dalamnya ada keberkahan.
 
-Dari hadis: "Siapa yang ingin berpuasa, hendaknya ia bersuhur."
+Dari hadis: *"Siapa yang ingin berpuasa, hendaknya ia bersuhur."* (HR. Ahmad dalam **[[meem_part_08]]**).
 
-## Hikmah
+## Hikmah dan Tips Kebugaran
 
-- Memberi tenaga dan kekuatan untuk ibadah sepanjang hari.
-- Membedakan puasa umat Muhammad dengan umat-umat sebelumnya.
-- Membawa keberkahan (barakah) yang disebutkan Nabi SAW.
-
-Dari hadis dalam Fayd al-Qadir: "Siapa yang ingin berpuasa hendaknya ia bersuhur."
+- **Kekuatan Ibadah**: Memberi tenaga dan kekuatan untuk ibadah sepanjang hari.
+- **Pembeda**: Membedakan puasa umat Muhammad dengan umat-umat sebelumnya.
+- **Urutan dan Kebiasaan Sahur (Part 14)**:
+  Nabi SAW memberikan tips praktis agar stamina terjaga prima saat berpuasa:
+  > *"Barangsiapa makan sebelum ia minum (saat sahur), menyegerakan makan sahurnya di akhir waktu, dan mengusap wewangian (thib), niscaya ia lebih kuat dalam menjalankan puasa."* (HR. Al-Bayhaqi dari **[[Anas bin Malik]]** dalam **[[meem_part_14]]**).
+  *Syarah*: Makan mendahului minum mencegah lambung menjadi begah atau kembung air. Memakai wewangian membangkitkan kesegaran psikologis jiwa saat sahur di keheningan malam.
 
 ## Sumber
-
 - [[meem_part_08]]
+- [[meem_part_14]]
+

@@ -16,6 +16,15 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-07-03] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 13 & 14
+- Sumber: `.raw/meem_part_13.md` dan `.raw/meem_part_14.md`
+- Ringkasan: [[meem_part_13]], [[meem_part_14]]
+- Halaman dibuat (22):
+  - Entitas (6): [[Abu Qatadah]], [[Abu Abis]], [[Mughirah bin Syu'bah]], [[Jarir bin Abdullah]], [[Nubayshah]], [[Wail bin Hujr]]
+  - Konsep (14): [[Keutamaan Berdebu di Jalan Allah]], [[Larangan Menggunjing Pejuang]], [[Fatwa Tanpa Ilmu]], [[Fikih Puasa]], [[Keutamaan Iqalah]], [[Kewajiban Hijrah]], [[Larangan Astrologi]], [[Keutamaan Hidup Hemat]], [[Hukum Memelihara Anjing]], [[Keutamaan Memberi Pinjaman]], [[Hari Asyura]], [[Menghormati Kiblat]], [[Larangan Memakan yang Membahayakan Tubuh]], [[Adab Masjid]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]], serta file perawi dan konsep pendukung (seperti [[Abu Hurayrah]], [[Anas bin Malik]], [[Ibnu Mas'ud]], [[Ibnu Abbas]], [[Abdullah bin Amr]], [[Hasan bin Ali]], [[Aisyah binti Abu Bakar]], [[Abu al-Darda]], [[Abu Sa'id Al-Khudri]], [[Salman al-Farisi]], [[Abu Musa al-Ash'ari]], [[Ighathah]], [[Menjaga Kehormatan Muslim]], [[Ghusl]], [[Amalan Hari Jumat]], [[Menyenangkan Hati Mukmin]], [[Tawakkul]], [[Keutamaan Istighfar]], [[Dzikir]], [[Nifaq]], [[Adab Buang Air]], [[Masjid]], [[Menyembunyikan Ilmu dan Niat Duniawi]], [[Adab Makan dan Minum]], [[Suhur]], [[Mengonsumsi Harta Haram]], [[Sunnah Para Rasul]]).
+- Tindakan: Mengimpor file markdown mentah berukuran masing-masing ~28KB, mendeduksi dan menulis 22 halaman baru dengan alamat unik `c-000476` sampai `c-000497`, memperbarui file-file perawi dan konsep pendukung untuk merujuk pada bagian baru, memperbarui catalog utama index, hot cache, overview statistik, dan manifest pelacakan delta.
+
 ## [2026-07-03] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 11 & 12
 - Sumber: `.raw/meem_part_11.md` dan `.raw/meem_part_12.md`
 - Ringkasan: [[meem_part_11]], [[meem_part_12]]

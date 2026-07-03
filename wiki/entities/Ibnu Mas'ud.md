@@ -17,6 +17,8 @@ related:
   - "[[Zuhud]]"
   - "[[Keutamaan Menuntut Ilmu]]"
 sources:
+  - "[[meem_part_13]]"
+  - "[[meem_part_14]]"
   - "[[meem_part_12]]"
   - "[[meem_part_11]]"
   - "[[meem_part_07]]"

@@ -20,6 +20,7 @@ related:
   - "[[Siwak]]"
 sources:
   - "[[meem_part_03]]"
+  - "[[meem_part_14]]"
 ---
 
 # Sunnah Para Rasul
@@ -28,7 +29,11 @@ sources:
 
 **Sunnah Para Rasul** (*Sunanul Mursalin* / سنن المرسلين) adalah sekumpulan tradisi moral, kebiasaan hidup bersih lahiriah, keutamaan akhlak sosial, serta pedoman perilaku yang disepakati dan dipraktikkan secara konsisten oleh seluruh nabi dan utusan Allah sejak nabi terdahulu hingga Nabi Muhammad ﷺ.
 
-Hadis menyebutkan: *"Termasuk dari sunnah-sunnah para Rasul adalah: hilm (lemah lembut/sabar), haya' (malu), hijamah (bekam), siwak, memakai wewangian, dan berpasangan (pernikahan)."* (HR. Al-Bayhaqi dari **[[Ibnu Abbas]]**).
+Hadis menyebutkan: *"Termasuk dari sunnah-sunnah para Rasul adalah: hilm (lemah lembut/sabar), haya' (malu), hijamah (bekam), siwak, memakai wewangian, dan berpasangan (pernikahan)."* (HR. Al-Bayhaqi dari **[[Ibnu Abbas]]** dalam **[[meem_part_03]]**).
+
+Dalam riwayat lain yang menguatkan:
+> *"Empat perkara yang termasuk sunnah para Rasul: rasa malu (haya'), memakai wewangian (ta'aththur), bersiwak, dan menikah."* (HR. Ahmad & Tirmidzi dari Abu Ayyub al-Anshari, serta HR. Al-Bazzar dari **[[Abu Hurayrah]]** dalam **[[meem_part_14]]**).
+
 
 ## Rincian Enam Tradisi Utama
 
@@ -47,3 +52,4 @@ Hadis menyebutkan: *"Termasuk dari sunnah-sunnah para Rasul adalah: hilm (lemah 
 ## Sumber
 
 - **[[meem_part_03]]** (Hadits tentang enam sunnah rasul, syarah Al-Munawi).
+- **[[meem_part_14]]** (Variant hadits empat perkara sunnah para Rasul).

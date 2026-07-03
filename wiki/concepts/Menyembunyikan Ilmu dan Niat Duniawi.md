@@ -20,6 +20,7 @@ related:
   - "[[Kesombongan Ulama]]"
 sources:
   - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
+  - "[[meem_part_14]]"
 ---
 
 # Menyembunyikan Ilmu dan Niat Duniawi
@@ -45,6 +46,11 @@ Kerusakan rohani akibat dosa ini bekerja pada niat dan integritas pengemban ilmu
 
 Tuntutan untuk menjelaskan kebenaran termuat dalam perjanjian (*mitsaq*) yang diambil Allah dari orang-orang berilmu (QS. Ali 'Imran: 187). Mengabaikannya demi harga yang murah (keuntungan duniawi) dinilai sebagai seburuk-buruknya transaksi perdagangan jiwa.
 
+### 4. Ancaman Mencari Makan dengan Ilmu
+Rasulullah SAW memperingatkan bahaya komersialisasi ilmu agama demi menumpuk kekayaan:
+> *"Barangsiapa mencari makan (jasa/kekayaan) dengan memperalat ilmu agama (akal/retorika), niscaya Allah akan menghapus cahaya wajahnya (طمس الله على وجهه), mencampakkannya ke belakang tumitnya (kembali kafir/tersesat), dan neraka lebih berhak atas dirinya."* (HR. Asy-Syirazi dari **[[Abu Hurayrah]]**).
+
+
 ## Hubungan
 
 - **[[Riya]]**: Keinginan pamer ilmu agar dinilai hebat dan saleh oleh manusia.
@@ -53,3 +59,4 @@ Tuntutan untuk menjelaskan kebenaran termuat dalam perjanjian (*mitsaq*) yang di
 ## Sumber
 
 - [[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]
+- [[meem_part_14]]

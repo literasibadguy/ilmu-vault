@@ -13,6 +13,8 @@ related:
   - "[[Ketergantungan Dunia Part 2]]"
   - "[[Ali bin Abi Thalib]]"
 sources:
+  - "[[meem_part_11]]"
+  - "[[meem_part_14]]"
   - "[[meem_part_12]]"
   - "[[Chapter_VII_Part_1_Love_for_Wealth]]"
   - "[[Ketergantungan Dunia Part 2]]"

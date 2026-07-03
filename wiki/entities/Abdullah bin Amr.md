@@ -13,6 +13,8 @@ related:
   - "[[Major-Sin-19-Drinking-Alcohol]]"
   - "[[Umar bin Khattab]]"
 sources:
+  - "[[meem_part_11]]"
+  - "[[meem_part_14]]"
   - "[[meem_part_12]]"
   - "[[meem_part_06]]"
   - "[[meem_part_06]]"

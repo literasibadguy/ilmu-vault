@@ -12,6 +12,9 @@ updated: "2026-06-28"
 tags: [concept, ibadah]
 status: evergreen
 
+sources:
+  - "[[Excellence-of-Prayer]]"
+  - "[[meem_part_14]]"
 address: c-000178
 ---
 
@@ -40,15 +43,18 @@ Al-Ghazali memberikan peringatan keras mengenai adab batin di dalam masjid, khus
 
 ## Adab Terhadap Masjid
 
-Syariat menetapkan tata krama ketat untuk menjaga kesucian masjid:
-1.  **Kesucian Fisik**: Menggunakan pakaian bersih, wangi, dan bebas dari bau menyengat (seperti bau bawang putih, rokok, atau keringat) yang dapat mengganggu kekhusyukan jamaah lain dan malaikat.
+Syariat menetapkan tata krama ketat untuk menjaga kesucian masjid (lihat [[Adab Masjid]]):
+1.  **Kesucian Fisik**: Menggunakan pakaian bersih, wangi, dan bebas dari bau menyengat (seperti bau bawang putih/bawang merah mentah, rokok, atau keringat) yang dapat mengganggu kekhusyukan jamaah lain dan malaikat (lihat [[Jabir bin Abdullah]]).
 2.  **Langkah Kanan**: Masuk menggunakan kaki kanan seraya membaca shalawat dan doa memohon pembukaan pintu-pintu rahmat Allah.
 3.  **Shalat Tahiyyatul Masjid**: Melaksanakan shalat sunnah penghormatan masjid sebanyak dua rakaat sebelum duduk.
 4.  **Menjaga Ketenangan**: Tidak mengeraskan suara secara berlebihan, menghindari perdebatan, dan memfokuskan diri pada zikir, membaca Al-Qur'an, atau mendengarkan kajian ilmu.
-5.  **Langkah Kiri**: Keluar menggunakan kaki kiri seraya memohon curahan karunia dan keutamaan (*fadhl*) dari Allah.
+5.  **Cinta dan Keterikatan**: Membiasakan diri (*al-ulf*) tinggal di masjid untuk beribadah mendatangkan kecintaan dan perlindungan khusus dari Allah.
+6.  **Langkah Kiri**: Keluar menggunakan kaki kiri seraya memohon curahan karunia dan keutamaan (*fadhl*) dari Allah.
+
 
 ## Sumber
 
 *   **[[Excellence-of-Prayer]]**
+*   **[[meem_part_14]]**
 *   **[[Shalat]]**
 *   **[[Shalat Berjamaah]]**

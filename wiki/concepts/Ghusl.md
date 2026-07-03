@@ -19,6 +19,7 @@ related:
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_13]]"
 address: c-000198
 ---
 
@@ -42,7 +43,7 @@ Dalam kitab *Ihya' Ulumiddin*, **[[Imam Al-Ghazali]]** menyebutkan empat kondisi
 ## Ragam Mandi Sunnah (Sunnah Baths)
 
 Islam sangat menganjurkan mandi dalam momen-momen pertemuan sosial atau ibadah khusus demi kebersihan lahiriah. Ghazali merinci mandi sunnah meliputi:
-*   Mandi menghadiri Shalat Jumat (**[[Shalat Jumat]]**).
+*   Mandi menghadiri Shalat Jumat (**[[Shalat Jumat]]**): Hukumnya sunnah muakkadah; Rasulullah SAW bersabda: *"Barangsiapa mandi pada hari Jumat, ia berada dalam keadaan suci hingga Jumat berikutnya."* (HR. Al-Hakim dari [[Abu Qatadah]]).
 *   Mandi menghadiri Shalat Dua Hari Raya (Idul Fitri & Idul Adha).
 *   Mandi sebelum mengenakan pakaian Ihram haji/umrah.
 *   Mandi sebelum Wukuf di Padang Arafah.
