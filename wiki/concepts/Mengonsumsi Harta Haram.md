@@ -1,31 +1,16 @@
 ---
 type: concept
-title: "Mengonsumsi Harta Haram"
+title: Mengonsumsi Harta Haram
 address: c-000065
 complexity: intermediate
-domain: "Fiqih Muamalah / Tazkiyatun Nafs"
-aliases:
-  - "Makan Harta Haram"
-  - "Aklul Haram"
-created: "2026-06-23"
-updated: "2026-06-23"
-tags:
-  - concept
-  - akhlak
-  - fikih
-  - dosa-besar
+domain: Fiqih Muamalah / Tazkiyatun Nafs
+aliases: 
+created: 2026-06-23
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Riba]]"
-  - "[[Hilah]]"
-  - "[[Judi dan Maysir]]"
-  - "[[Pajak Zhalim dan Pungutan Liar]]"
-  - "[[Korupsi dan Suap dalam Peradilan]]"
-sources:
-  - "[[Major-Sin-27-Tax-Collecting]]"
-  - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
-  - "[[meem_part_11]]"
-  - "[[meem_part_14]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Mengonsumsi Harta Haram

@@ -14,8 +14,11 @@ updated: 2026-06-30
 status: seed
 related:
   - "[[Sunnah Para Rasul]]"
+  - "[[Uqba bin Amir]]"
 sources:
   - "[[meem_part_06]]"
+  - "[[meem_part_17]]"
+  - "[[meem_part_18]]"
 ---
 
 # Keutamaan Belajar Memanah
@@ -28,11 +31,12 @@ Berikut adalah penjelasan mengenai konsep **[[Keutamaan Belajar Memanah]]** dala
 
 ## Konsekuensi Meninggalkan Kemahiran Memanah
 
-Memanah dipandang sebagai nikmat keterampilan jasmani dari Allah SWT. Oleh karena itu, melalaikan atau membiarkan kemahiran memanah hilang setelah mempelajarinya dinilai sebagai bentuk pengabaian nikmat.
-Rasulullah SAW bersabda:
-> *"Barangsiapa yang mahir memanah (ar-ramy) kemudian ia meninggalkannya (hingga lupa atau kehilangan kemampuannya), maka sungguh ia telah meninggalkan salah satu nikmat dari nikmat-nikmat Allah."* (HR. Al-Qarrab dari **[[Yahya bin Said]]** secara mursal).
+Memanah dipandang sebagai nikmat keterampilan jasmani dari Allah SWT untuk membela kebenaran. Oleh karena itu, melalaikan atau membiarkan kemahiran memanah hilang setelah mempelajarinya dinilai sebagai bentuk kufur nikmat (*kufrun ni'mah*) dan pembangkangan.
 
-Ulama menyimpulkan bahwa mempertahankan keterampilan fisik yang bermanfaat untuk kemaslahatan umat Islam adalah bagian dari menjaga amanah kesehatan dan kecakapan motorik.
+Berdasarkan syarah *Fayd al-Qadir* (dari **[[meem_part_17]]** dan **[[meem_part_18]]**):
+- **Kufur Nikmat**: *"Barangsiapa meninggalkan/melupakan keterampilan memanah setelah mempelajarinya karena enggan, sesungguhnya itu adalah suatu nikmat yang ia ingkari."* (HR. Al-Tabarani dari **[[Uqba bin Amir]]** dalam **[[meem_part_17]]**).
+- **Pembangkangan Nyata**: *"Barangsiapa belajar memanah kemudian meninggalkannya, maka sungguh ia telah mendurhakaiku."* (HR. Ibnu Majah dari **[[Uqba bin Amir]]** dalam **[[meem_part_18]]**).
+- **Penjelasan Fikih**: Keterampilan memanah melatih ketangkasan membela agama. Melupakannya karena lalai/enggan dihukumi makruh atau bahkan haram (menurut sebagian ulama) karena membuang keterampilan strategis yang dibutuhkan umat, kecuali jika ada urusan lain yang lebih penting yang menyita waktunya.
 
 ## Hubungan
 
@@ -41,3 +45,5 @@ Ulama menyimpulkan bahwa mempertahankan keterampilan fisik yang bermanfaat untuk
 ## Sumber
 
 - **[[meem_part_06]]** (Hadits tentang meninggalkan memanah sebagai pengabaian nikmat).
+- **[[meem_part_17]]** (Hadits tentang melupakan memanah sebagai ingkar nikmat).
+- **[[meem_part_18]]** (Hadits tentang meninggalkan memanah sebagai kedurhakaan).

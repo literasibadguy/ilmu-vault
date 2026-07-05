@@ -1,15 +1,13 @@
 ---
 type: entity
-title: "Utsman bin Affan"
-created: "2026-06-26"
-updated: "2026-06-26"
-tags:
-  - entity
-  - tokoh
-  - sahabat
+title: Utsman bin Affan
+created: 2026-06-26
+updated: 2026-07-04
+tags: 
 status: evergreen
-
 address: c-000152
+related: [[[meem_part_15]], [[meem_part_16]]]
+sources: [[[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Utsman bin Affan

@@ -1,52 +1,16 @@
 ---
 tags: [entity, sahabat, tafsir]
 type: entity
-title: "Ibnu Abbas"
+title: Ibnu Abbas
 entity_type: person
-role: "Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi"
-first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: "2026-06-10"
-updated: 2026-06-29
+role: Sahabat Nabi / Ahli Tafsir & Fiqih / Sepupu Nabi
+first_mentioned: [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+created: 2026-06-10
+updated: 2026-07-04
 status: seed
 address: c-000095
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Ibnu Mas'ud]]"
-  - "[[Ibnu Umar]]"
-  - "[[Pendidikan Anak Perempuan]]"
-  - "[[Adab Makan dan Minum]]"
-  - "[[Doa dalam Kesulitan]]"
-  - "[[Keutamaan Menuntut Ilmu]]"
-  - "[[Keutamaan Mengajar]]"
-sources:
-  - "[[meem_part_13]]"
-  - "[[meem_part_14]]"
-  - "[[meem_part_12]]"
-  - "[[meem_part_11]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-  - "[[The Ideal Husband]]"
-  - "[[Prophet Muhammads Recommendations Regarding Food]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Neglect of the Prayer]]"
-  - "[[Abandoning the Group Prayer]]"
-  - "[[Introduction and Silence]]"
-  - "[[Harms 1 to 3 Unnecessary Excessive and Sinful Talk]]"
-  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
-  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[Major-Sin-20-Gambling]]"
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
-  - "[[Major-Sin-45-Perfidy-and-Breaking-Promises]]"
-  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
-  - "[[Settle the Argument]]"
-  - "[[Excellence of Learning]]"
-  - "[[Excellence of Teaching]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

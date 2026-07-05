@@ -1,24 +1,16 @@
 ---
 type: concept
-title: "Menghormati Otoritas Pemimpin"
-address: "c-000325"
+title: Menghormati Otoritas Pemimpin
+address: c-000325
 complexity: intermediate
-domain: "Siyasah Syar'iyah / Fiqh Kenegaraan"
-aliases:
-  - "Sultanullah"
-  - "Menghormati Pemimpin"
-  - "Kewajiban Taat Pemimpin"
+domain: Siyasah Syar'iyah / Fiqh Kenegaraan
+aliases: 
 created: 2026-06-29
-updated: 2026-06-29
-tags:
-  - concept
-  - siyasah
-  - fiqh
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Larangan Meminta Jabatan]]"
-sources:
-  - "[[meem_part_05]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Menghormati Otoritas Pemimpin (Sultanullah)

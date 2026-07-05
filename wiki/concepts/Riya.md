@@ -16,11 +16,11 @@ status: seed
 related:
   - "[[Syirik Asghar]]"
   - "[[Ikhlas]]"
+  - "[[Abu Hurayrah]]"
 sources:
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
   - "[[Showing Off]]"
+  - "[[meem_part_06]]"
+  - "[[meem_part_18]]"
 ---
 
 # Riya' (Pamer / Sum'ah)
@@ -45,6 +45,7 @@ Riya' adalah salah satu dosa besar hati yang paling merusak. Karakteristik bahay
 - **Pelebur Pahala**: Niat riya' yang menyertai suatu ibadah sejak awal akan membatalkan pahala ibadah tersebut secara total. Allah SWT adalah Dzat yang Maha Cukup dan tidak menerima persekutuan dalam ibadah.
 - **Tanda Kemunafikan**: Allah menyifati kaum munafik sebagai orang-orang yang shalat dengan malas dan bertujuan riya' kepada manusia (QS. An-Nisa: 142).
 - **Golongan Pertama Masuk Neraka**: Pelaku riya' dari kalangan orang berilmu, mujahid, dan dermawan akan menjadi bahan bakar pertama neraka sebelum para penyembah berhala, karena mereka memperalat agama demi popularitas dunia.
+- **Laknat di Langit dan di Bumi**: Orang yang menggunakan amal-amal akhirat hanya sebagai hiasan lahiriah demi mendapatkan simpati dan harta duniawi (*tazayyun*) tanpa menginginkan pahala akhirat akan mendapatkan laknat dari para malaikat di langit dan makhluk di bumi (HR. Al-Tabarani dari **[[Abu Hurayrah]]** dalam **[[meem_part_18]]**).
 
 ## Contoh Kasus
 
@@ -71,8 +72,9 @@ Pahala amal ibadah dipengaruhi oleh motivasi riya' dengan ketentuan sebagai beri
 
 ## Sumber
 - [[Chapter_VIII_Part_3_Riya_and_its_Treatment]]
-
 - [[Showing Off]]
+- [[meem_part_06]]
+- [[meem_part_18]]
 
 
 

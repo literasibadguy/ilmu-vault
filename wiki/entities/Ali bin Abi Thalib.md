@@ -4,35 +4,13 @@ type: entity
 title: Ali bin Abi Thalib
 entity_type: person
 role: Sahabat Nabi / Khalifah Rasyidah Keempat / Otoritas Fiqih & Hikmah
-first_mentioned: "[[Showing Off]]"
+first_mentioned: [[Showing Off]]
 created: 2026-06-10
-updated: 2026-06-29
+updated: 2026-07-04
 status: seed
 address: c-000094
-related:
-  - "[[Riya]]"
-  - "[[Ikhlas]]"
-  - "[[Doa dalam Kesulitan]]"
-  - "[[Keutamaan Menuntut Ilmu]]"
-  - "[[Kamil bin Ziyad]]"
-  - "[[Salman al-Farisi]]"
-  - "[[Ketergantungan Dunia Part 2]]"
-sources:
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Showing Off]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Neglect of the Prayer]]"
-  - "[[Major-Sin-20-Gambling]]"
-  - "[[Excellence of Learning]]"
-  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
-  - "[[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]"
-  - "[[Attachment-of-the-World]]"
-  - "[[Ketergantungan Dunia Part 2]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Ali bin Abi Thalib

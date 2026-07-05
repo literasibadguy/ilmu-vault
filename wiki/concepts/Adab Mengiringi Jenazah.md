@@ -17,8 +17,10 @@ tags:
 status: seed
 related:
   - "[[Persiapan Kematian]]"
+  - "[[Abu Hurayrah]]"
 sources:
   - "[[meem_part_04]]"
+  - "[[meem_part_17]]"
 ---
 
 # Adab Mengiringi Jenazah
@@ -29,13 +31,16 @@ sources:
 
 Nabi SAW bersabda: *"Barangsiapa mengiringi jenazah, hendaklah ia memikul pada keempat sudut keranda semuanya."* (HR. Ibnu Majah dari **[[Ibnu Mas'ud]]**).
 
-## Fikih Memikul Keranda (Dua Metode Utama)
+## Fikih Memikul Keranda (Dua Metode Utama & Hak Jenazah)
 
 Para ulama merinci hadis ini ke dalam dua mazhab utama mengenai cara memikul keranda:
 1. **Metode Tarbi' (Mazhab Hanafi & Hanbali)**:
    Menganjurkan pemikul untuk memutar keranda secara bergiliran pada keempat sudutnya (*tarbi'*). Seseorang memulainya dengan memikul sudut kanan depan jenazah, lalu kanan belakang, kemudian kiri depan, dan diakhiri kiri belakang. Metode ini dinilai paling kokoh menjaga keseimbangan keranda.
 2. **Metode Baina Al-Amudain (Mazhab Syafi'i)**:
    Menganjurkan satu orang memikul di antara dua tiang penyangga keranda depan di atas pundaknya, sedangkan tiang belakang dipikul oleh dua orang lainnya.
+
+Berdasarkan hadits dari **[[meem_part_17]]** (HR. Al-Tirmidzi dari **[[Abu Hurayrah]]**):
+- Orang yang mengiringi jenazah dianjurkan untuk ikut memikul keranda secara fisik minimal sebanyak **tiga kali** selama perjalanan. Tindakan ini dipandang telah memenuhi kewajiban sosial dan hak kesopanan terhadap jenazah.
 
 ## Adab Selama Mengiringi Jenazah
 
@@ -50,3 +55,4 @@ Para ulama merinci hadis ini ke dalam dua mazhab utama mengenai cara memikul ker
 ## Sumber
 
 - **[[meem_part_04]]** (Hadits tentang memikul keranda di keempat sudutnya dari riwayat Ibnu Mas'ud).
+- **[[meem_part_17]]** (Hadits tentang memikul jenazah tiga kali dari riwayat Abu Hurayrah).

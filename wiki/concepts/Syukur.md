@@ -1,23 +1,16 @@
 ---
 address: c-000049
 type: concept
-title: "Syukur"
+title: Syukur
 complexity: intermediate
 domain: Tazkiyatun Nafs / Akhlak
-aliases:
-  - Kesyukuran
-  - Shukr
+aliases: 
 created: 2026-06-21
-updated: 2026-06-29
-tags:
-  - concept
-  - akhlak
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Kesabaran]]"
-  - "[[Ujian Kekayaan dan Kemiskinan]]"
-sources:
-  - "[[Settle the Argument]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Syukur

@@ -1,18 +1,15 @@
 ---
-address: "c-000400"
+address: c-000400
 type: concept
-title: "Menyingkirkan Rintangan di Jalan"
+title: Menyingkirkan Rintangan di Jalan
 complexity: beginner
-domain: "Tazkiyatun Nafs / Sosial"
-created: "2026-06-30"
-updated: "2026-06-30"
+domain: Tazkiyatun Nafs / Sosial
+created: 2026-06-30
+updated: 2026-07-04
 tags: [concept, tazkiyah, sosial, akhlak]
 status: seed
-related:
-  - "[[Silaturahmi]]"
-  - "[[Adab Makan dan Minum]]"
-sources:
-  - "[[meem_part_07]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 # Menyingkirkan Rintangan di Jalan
 

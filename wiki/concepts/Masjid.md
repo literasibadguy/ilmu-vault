@@ -1,21 +1,16 @@
 ---
 type: concept
-title: "Masjid"
+title: Masjid
 complexity: basic
 domain: Fikih / Ibadah
-aliases:
-  - Masjid Allah
-  - Rumah Allah
-  - Tempat Sujud
-created: "2026-06-28"
-updated: "2026-06-28"
+aliases: 
+created: 2026-06-28
+updated: 2026-07-04
 tags: [concept, ibadah]
 status: evergreen
-
-sources:
-  - "[[Excellence-of-Prayer]]"
-  - "[[meem_part_14]]"
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000178
+related: [[[meem_part_16]]]
 ---
 
 # Masjid

@@ -1,21 +1,16 @@
 ---
 tags: [entity, tokoh, sahabat]
-address: "c-000368"
+address: c-000368
 type: entity
 title: Umm Salamah
 entity_type: person
 role: Ummul Mukminin / Istri Nabi SAW
-first_mentioned: "[[The Ideal Husband]]"
+first_mentioned: [[The Ideal Husband]]
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Adab Terhadap Istri]]"
-sources:
-  - "[[meem_part_06]]"
-  - "[[The Ideal Husband]]"
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Umm Salamah

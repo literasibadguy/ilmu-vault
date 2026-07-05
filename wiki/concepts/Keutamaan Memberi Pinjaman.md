@@ -1,25 +1,15 @@
 ---
 type: concept
-title: "Keutamaan Memberi Pinjaman"
+title: Keutamaan Memberi Pinjaman
 complexity: basic
-domain: "Fikih Muamalah / Sosial"
-aliases:
-  - Memberi Pinjaman
-  - Qardhul Hasan
-  - Memberi Hutang
-created: "2026-07-03"
-updated: "2026-07-03"
-tags:
-  - concept
-  - muamalah
-  - sosial
+domain: Fikih Muamalah / Sosial
+aliases: 
+created: 2026-07-03
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Etika Keuangan Islam]]"
-  - "[[Ighathah]]"
-  - "[[Ibnu Mas'ud]]"
-sources:
-  - "[[meem_part_14]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000493
 ---
 

@@ -1,25 +1,16 @@
 ---
 type: concept
-title: "Larangan Megah-megahan Masjid"
-address: "c-000251"
+title: Larangan Megah-megahan Masjid
+address: c-000251
 complexity: intermediate
-domain: "Fiqh Ibadah"
-aliases:
-  - "Menghias Masjid Berlebih"
-  - "Tafakhur fil Masajid"
+domain: Fiqh Ibadah
+aliases: 
 created: 2026-06-29
-updated: 2026-06-29
-tags:
-  - concept
-  - fiqh
-  - ibadah
-  - tanda-kiamat
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Shalat]]"
-  - "[[Tanda-Tanda Akhir Zaman]]"
-sources:
-  - "[[meem_part_02]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Larangan Megah-megahan Masjid

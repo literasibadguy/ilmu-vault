@@ -1,18 +1,15 @@
 ---
 tags: [entity, sahabat, perawi]
-address: "c-000354"
+address: c-000354
 type: entity
-title: "Ma'qil bin Yasar"
+title: Ma'qil bin Yasar
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadits"
+role: Sahabat Nabi / Perawi Hadits
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Abu Hurayrah]]"
-  - "[[Umar bin Khattab]]"
-sources:
-  - "[[meem_part_06]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Ma'qil bin Yasar

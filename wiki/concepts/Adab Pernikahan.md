@@ -18,8 +18,12 @@ status: seed
 related:
   - "[[Hak dan Kewajiban Suami]]"
   - "[[Adab Terhadap Istri]]"
+  - "[[Abu Qilabah]]"
+  - "[[Utsman bin Affan]]"
 sources:
   - "[[The Ideal Husband]]"
+  - "[[meem_part_17]]"
+  - "[[meem_part_18]]"
 ---
 
 # Adab Pernikahan
@@ -52,6 +56,18 @@ Nabi Muhammad SAW memberikan pedoman komprehensif bagi pria dalam memilih istri 
 1. **Pernyataan Publik (Pengumuman)**: Pernikahan dianjurkan untuk diumumkan kepada masyarakat luas demi menghindari prasangka buruk dan membedakannya dari ikatan rahasia/gelap.
 2. **Kederhanaan & Tanpa Kemegahan Berlebih**: Pernikahan sebaiknya dirayakan dengan penuh kegembiraan dan hidangan makanan (*walimatul 'urs*), namun harus menjauhi sikap pamer (*riya'*), mubazir, kesombongan, atau berutang demi gengsi sosial.
 
+## Keutamaan Pernikahan & Larangan Tabattul (Selibat)
+
+Berdasarkan syarah *Fayd al-Qadir* (dari [[meem_part_17]] dan [[meem_part_18]]):
+1. **Menyempurnakan Setengah Agama**:
+   - Menikah dinilai sebagai pelindung kemaluan dan perut dari maksiat, yang merupakan setengah dari pilar ketakwaan. Sisa setengahnya dipenuhi dengan takwa umum lainnya.
+2. **Larangan Tabattul (Membujang Selamanya)**:
+   - Islam melarang keras praktik membujang secara permanen (*tabattul*) atau menolak pernikahan demi mengkhususkan diri untuk ibadah (sebagaimana rahib Nasrani). Hal ini bertentangan dengan sunnah Nabi SAW yang menganjurkan memperbanyak keturunan.
+3. **Konsekuensi Hukum Fikih Shalat bagi Musafir**:
+   - Jika seorang musafir memutuskan untuk menikah (*tahahhal*) di kota persinggahannya, ia kehilangan rukhsah (keringanan) qashar shalat dan wajib menyempurnakan shalatnya empat rakaat penuh (*itman*), karena statusnya berubah menjadi mukim.
+
 ## Sumber
 
 - [[The Ideal Husband]]
+- [[meem_part_17]]
+- [[meem_part_18]]

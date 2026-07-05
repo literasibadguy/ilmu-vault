@@ -1,45 +1,16 @@
 ---
 tags: [entity, tokoh, sahabat, perawi]
-address: "c-000365"
+address: c-000365
 type: entity
-title: "Aisyah binti Abu Bakar"
+title: Aisyah binti Abu Bakar
 entity_type: person
-role: "Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama"
-first_mentioned: "[[Regarding His Guidance in Prayer]]"
-created: "2026-06-11"
-updated: 2026-06-29
+role: Ummul Mukminin / Istri Nabi SAW / Perawi Hadis Utama
+first_mentioned: [[Regarding His Guidance in Prayer]]
+created: 2026-06-11
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Sifat Shalat Nabi]]"
-  - "[[Adab Terhadap Istri]]"
-  - "[[Pendidikan Anak Perempuan]]"
-  - "[[Adab Makan dan Minum]]"
-  - "[[Kesederhanaan dalam Makan]]"
-  - "[[Ghibah]]"
-  - "[[Sakaratul Maut]]"
-sources:
-  - "[[meem_part_11]]"
-  - "[[meem_part_14]]"
-  - "[[meem_part_12]]"
-  - "[[meem_part_07]]"
-  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Regarding His Guidance in Prayer]]"
-  - "[[The Ideal Husband]]"
-  - "[[Prophet Muhammads Recommendations Regarding Food]]"
-  - "[[To Vow to Other Than Allah is an Act of Shirk]]"
-  - "[[Meaning and Definitions of Backbiting]]"
-  - "[[Backbiting Not Limited to Speech]]"
-  - "[[Harms 7 to 9 Obscenity Cursing and Poetry]]"
-  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-  - "[[Major-Sin-31-Corrupt-Judgement]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

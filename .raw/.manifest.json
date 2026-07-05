@@ -2194,6 +2194,95 @@
         "wiki/hot.md",
         "wiki/overview.md"
       ]
+    },
+    ".raw/meem_part_15.md": {
+      "hash": "a64d88f47a18b81d7a415ef47bb7f8df",
+      "ingested_at": "2026-07-04",
+      "pages_created": [
+        "wiki/entities/Junadah bin Abi Umayyah.md",
+        "wiki/entities/Abdullah bin Hudhafah.md",
+        "wiki/entities/Abu Rihanah.md",
+        "wiki/entities/Ali bin Shaiban.md",
+        "wiki/entities/Abu al-Yasar.md",
+        "wiki/entities/Khuzaim bin Fatik.md",
+        "wiki/entities/Saeed bin Huraith.md",
+        "wiki/entities/Mu'adh bin Anas.md",
+        "wiki/entities/Al-Nu'man bin Bashir.md",
+        "wiki/concepts/Kewajiban Imam Shalat.md",
+        "wiki/concepts/Adab Amar Ma'ruf Nahi Munkar.md",
+        "wiki/concepts/Larangan Menyombongkan Keturunan.md",
+        "wiki/concepts/Keutamaan Infak dan Sedekah.md",
+        "wiki/concepts/Kedudukan Quraysh.md",
+        "wiki/concepts/Adab Tidur.md",
+        "wiki/concepts/Etika Jual Beli.md",
+        "wiki/concepts/Fikih Udhiyah.md",
+        "wiki/concepts/Adab Salam.md",
+        "wiki/concepts/Larangan Berlebih-lebihan dalam Bangunan.md",
+        "wiki/concepts/Batasan Ketaatan Kepada Pemimpin.md",
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_15.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/meem_part_16.md": {
+      "hash": "a3e1d87b707dd58c8f07462b0646c934",
+      "ingested_at": "2026-07-04",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_16.md"
+      ],
+      "pages_updated": []
+    },
+    ".raw/meem_part_17.md": {
+      "hash": "f437f283756e54f654651c03775cdb80",
+      "ingested_at": "2026-07-05",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_17.md",
+        "wiki/entities/Abu Qilabah.md",
+        "wiki/entities/Abdullah bin Ummi Haram.md",
+        "wiki/entities/Abdullah bin Abi Mutarrif.md",
+        "wiki/entities/Samurah bin Jundub.md",
+        "wiki/entities/Abu al-Ja'd al-Dhamri.md",
+        "wiki/entities/Usama bin Zayd.md",
+        "wiki/concepts/Sifat Tenang dan Hati-hati (Ta'anni).md",
+        "wiki/concepts/Hukum Pelanggaran Mahram.md",
+        "wiki/concepts/Adab Majelis.md",
+        "wiki/concepts/Berobat dengan yang Haram.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Tawbah.md",
+        "wiki/concepts/Adab Pernikahan.md",
+        "wiki/concepts/Adab Mengiringi Jenazah.md",
+        "wiki/concepts/Adab Makan dan Minum.md",
+        "wiki/concepts/Bahaya Kebohongan.md",
+        "wiki/concepts/Shalat Jumat.md",
+        "wiki/concepts/Adab Berpakaian.md",
+        "wiki/concepts/Meninggalkan Shalat.md",
+        "wiki/concepts/Keutamaan Belajar Memanah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/meem_part_18.md": {
+      "hash": "082b25860070e848dd27a90e465136ca",
+      "ingested_at": "2026-07-05",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_18.md",
+        "wiki/entities/Abdullah bin Ukaym.md",
+        "wiki/entities/Shurahbil bin al-Simt.md",
+        "wiki/concepts/Tasyabbuh (Menyerupai Kaum Lain).md",
+        "wiki/concepts/Tanggung Jawab Pengobatan (Dhaman Malpraktik).md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Adab Pernikahan.md",
+        "wiki/concepts/Keutamaan Belajar Memanah.md",
+        "wiki/concepts/Riya.md",
+        "wiki/concepts/Makanan dalam Quran dan Sunnah.md",
+        "wiki/concepts/Kesombongan.md",
+        "wiki/concepts/Syirik Asghar.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2688,6 +2777,44 @@
     "wiki/concepts/Hari Asyura.md": "c-000494",
     "wiki/concepts/Menghormati Kiblat.md": "c-000495",
     "wiki/concepts/Larangan Memakan yang Membahayakan Tubuh.md": "c-000496",
-    "wiki/concepts/Adab Masjid.md": "c-000497"
+    "wiki/concepts/Adab Masjid.md": "c-000497",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_15.md": "c-000498",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_16.md": "c-000499",
+    "wiki/entities/Junadah bin Abi Umayyah.md": "c-000500",
+    "wiki/entities/Abdullah bin Hudhafah.md": "c-000501",
+    "wiki/entities/Abu Rihanah.md": "c-000502",
+    "wiki/entities/Ali bin Shaiban.md": "c-000503",
+    "wiki/entities/Abu al-Yasar.md": "c-000504",
+    "wiki/entities/Khuzaim bin Fatik.md": "c-000505",
+    "wiki/entities/Saeed bin Huraith.md": "c-000506",
+    "wiki/entities/Mu'adh bin Anas.md": "c-000507",
+    "wiki/entities/Al-Nu'man bin Bashir.md": "c-000508",
+    "wiki/concepts/Kewajiban Imam Shalat.md": "c-000509",
+    "wiki/concepts/Adab Amar Ma'ruf Nahi Munkar.md": "c-000510",
+    "wiki/concepts/Larangan Menyombongkan Keturunan.md": "c-000511",
+    "wiki/concepts/Keutamaan Infak dan Sedekah.md": "c-000512",
+    "wiki/concepts/Kedudukan Quraysh.md": "c-000513",
+    "wiki/concepts/Adab Tidur.md": "c-000514",
+    "wiki/concepts/Etika Jual Beli.md": "c-000515",
+    "wiki/concepts/Fikih Udhiyah.md": "c-000516",
+    "wiki/concepts/Adab Salam.md": "c-000517",
+    "wiki/concepts/Larangan Berlebih-lebihan dalam Bangunan.md": "c-000518",
+    "wiki/concepts/Batasan Ketaatan Kepada Pemimpin.md": "c-000519",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_17.md": "c-000521",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_18.md": "c-000522",
+    "wiki/entities/Abu Qilabah.md": "c-000523",
+    "wiki/entities/Abdullah bin Ummi Haram.md": "c-000524",
+    "wiki/entities/Abdullah bin Abi Mutarrif.md": "c-000525",
+    "wiki/entities/Samurah bin Jundub.md": "c-000526",
+    "wiki/entities/Abu al-Ja'd al-Dhamri.md": "c-000527",
+    "wiki/entities/Usama bin Zayd.md": "c-000528",
+    "wiki/entities/Abdullah bin Ukaym.md": "c-000529",
+    "wiki/entities/Shurahbil bin al-Simt.md": "c-000530",
+    "wiki/concepts/Sifat Tenang dan Hati-hati (Ta'anni).md": "c-000531",
+    "wiki/concepts/Hukum Pelanggaran Mahram.md": "c-000532",
+    "wiki/concepts/Adab Majelis.md": "c-000533",
+    "wiki/concepts/Berobat dengan yang Haram.md": "c-000534",
+    "wiki/concepts/Tasyabbuh (Menyerupai Kaum Lain).md": "c-000535",
+    "wiki/concepts/Tanggung Jawab Pengobatan (Dhaman Malpraktik).md": "c-000536"
   }
 }

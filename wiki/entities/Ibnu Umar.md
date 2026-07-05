@@ -1,36 +1,16 @@
 ---
 tags: [entity, tokoh, sahabat, perawi]
-address: "c-000362"
+address: c-000362
 type: entity
-title: "Ibnu Umar"
+title: Ibnu Umar
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadis Utama"
-first_mentioned: "[[Pride]]"
-created: "2026-06-07"
-updated: 2026-06-29
+role: Sahabat Nabi / Perawi Hadis Utama
+first_mentioned: [[Pride]]
+created: 2026-06-07
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Umar bin Khattab]]"
-  - "[[Adab Makan dan Minum]]"
-  - "[[Kesederhanaan dalam Makan]]"
-  - "[[Mengingat Maut]]"
-  - "[[Persiapan Kematian]]"
-sources:
-  - "[[meem_part_12]]"
-  - "[[meem_part_11]]"
-  - "[[meem_part_07]]"
-  - "[[meem_part_06]]"
-  - "[[Pride]]"
-  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-  - "[[Prophet Muhammads Recommendations Regarding Food]]"
-  - "[[The Preparation for and Remembrance of Death]]"
-  - "[[Major-Sin-20-Gambling]]"
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
-  - "[[Settle the Argument]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Ibnu Umar

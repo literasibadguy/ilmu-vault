@@ -22,6 +22,7 @@ related:
 sources:
   - "[[Ihya-Repentance-Book-One-Part-01]]"
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[meem_part_17]]"
 ---
 
 # Tawbah (Pertobatan)
@@ -96,7 +97,11 @@ Taubat wajib bagi semua manusia tanpa kecuali, termasuk para nabi. Tidak ada yan
 
 ## Penerimaan Taubat yang Dijamin (Bagian 3)
 
-Pintu taubat selalu terbuka selama manusia hidup: "Aku tidak akan menutup pintu taubat selama ia hidup." Taubat diterima meski berulang kali. Banyak dalil dari sahabat dan salaf:
+Pintu taubat selalu terbuka selama manusia hidup. Berdasarkan hadits dari [[meem_part_17]]:
+- **Batas Kosmologis**: Taubat diterima sebelum matahari terbit dari barat ([[Abu Hurayrah]]).
+- **Batas Individual**: Taubat diterima sebelum nyawa sampai di tenggorokan atau sakaratul maut/ghargharah (seorang sahabat). Setelah ghargharah, pintu taubat tertutup karena keimanan tidak lagi dinilai ghaib melainkan nyata (musyahadah).
+
+Taubat diterima meski berulang kali. Banyak dalil dari sahabat dan salaf:
 
 - Ibnu Mas'ud: Pintu taubat dijaga malaikat khusus dan tidak pernah ditutup.
 - 'Abdullah ibn Salam: Dosa terhapus lebih cepat dari kedipan mata jika ada penyesalan.

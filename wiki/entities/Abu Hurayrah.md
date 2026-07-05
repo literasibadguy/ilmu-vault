@@ -1,54 +1,16 @@
 ---
 tags: [entity, sahabat, perawi]
 type: entity
-title: "Abu Hurayrah"
+title: Abu Hurayrah
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadis Terbanyak"
-first_mentioned: "[[Pride]]"
-created: "2026-06-07"
-updated: 2026-06-29
+role: Sahabat Nabi / Perawi Hadis Terbanyak
+first_mentioned: [[Pride]]
+created: 2026-06-07
+updated: 2026-07-04
 status: seed
 address: c-000101
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Adab Pernikahan]]"
-  - "[[Poligami dalam Islam]]"
-  - "[[Adab Makan dan Minum]]"
-  - "[[Kesederhanaan dalam Makan]]"
-  - "[[Nama Agung Allah]]"
-  - "[[Ghibah]]"
-  - "[[Mengingat Maut]]"
-  - "[[Ziarah Kubur]]"
-  - "[[Ujian dan Sakit Sebagai Penggugur Dosa]]"
-  - "[[Keutamaan Menuntut Ilmu]]"
-sources:
-  - "[[meem_part_13]]"
-  - "[[meem_part_14]]"
-  - "[[meem_part_12]]"
-  - "[[meem_part_11]]"
-  - "[[meem_part_07]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Pride]]"
-  - "[[Showing Off]]"
-  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
-  - "[[The Ideal Husband]]"
-  - "[[Prophet Muhammads Recommendations Regarding Food]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Censure of Backbiting]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
-  - "[[The Preparation for and Remembrance of Death]]"
-  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-  - "[[Major-Sin-20-Gambling]]"
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
-  - "[[Settle the Argument]]"
-  - "[[Excellence of Learning]]"
-  - "[[Attachment-of-the-World]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

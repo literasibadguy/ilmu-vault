@@ -1,45 +1,16 @@
 ---
 tags: [entity, sahabat, perawi]
 type: entity
-title: "Ibnu Mas'ud"
+title: Ibnu Mas'ud
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih"
-first_mentioned: "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-created: "2026-06-10"
-updated: 2026-06-29
+role: Sahabat Nabi / Perawi Hadis / Ahli Tafsir & Fiqih
+first_mentioned: [[Marrying a Woman to Enable Her to Remarry Her Former Husband]]
+created: 2026-06-10
+updated: 2026-07-04
 status: seed
 address: c-000096
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Ibnu Abbas]]"
-  - "[[Doa dalam Kesulitan]]"
-  - "[[Ziarah Kubur]]"
-  - "[[Zuhud]]"
-  - "[[Keutamaan Menuntut Ilmu]]"
-sources:
-  - "[[meem_part_13]]"
-  - "[[meem_part_14]]"
-  - "[[meem_part_12]]"
-  - "[[meem_part_11]]"
-  - "[[meem_part_07]]"
-  - "[[Chapter_VIII_Part_1_Love_of_Power]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Marrying a Woman to Enable Her to Remarry Her Former Husband]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Neglect of the Prayer]]"
-  - "[[Abandoning the Group Prayer]]"
-  - "[[Introduction and Silence]]"
-  - "[[Harm 14 Lying and Falsehood]]"
-  - "[[Harms 17 and 18 Hypocrisy and Praise]]"
-  - "[[What Reminds People of Death and the Hereafter]]"
-  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
-  - "[[Excellence of Learning]]"
-  - "[[Blameworthy-Sciences-and-Changing-Meanings|Blameworthy Sciences and Changing Meanings]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

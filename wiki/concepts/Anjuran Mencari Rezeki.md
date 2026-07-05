@@ -1,20 +1,15 @@
 ---
 type: concept
-title: "Anjuran Mencari Rezeki"
+title: Anjuran Mencari Rezeki
 complexity: beginner
 domain: Fikih Muamalah
-aliases:
-  - Anjuran Bekerja
-  - Melapangkan Kasab
-created: "2026-07-03"
-updated: "2026-07-03"
+aliases: 
+created: 2026-07-03
+updated: 2026-07-04
 tags: [concept, fikih, muamalah]
 status: seed
-related:
-  - "[[Etika Keuangan Islam]]"
-  - "[[Zuhud]]"
-sources:
-  - "[[meem_part_12]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000475
 ---
 

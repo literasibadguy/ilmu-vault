@@ -1,24 +1,16 @@
 ---
 type: concept
-title: "Keutamaan Menuntut Ilmu"
+title: Keutamaan Menuntut Ilmu
 created: 2026-06-26
-updated: 2026-06-26
-tags:
-  - ilmu-keislaman
-  - concept
+updated: 2026-07-04
+tags: 
 status: developing
-related:
-  - "[[Keutamaan Mengajar]]"
-  - "[[Zuhud]]"
-  - "[[Imam Al-Ghazali]]"
-sources:
-  - "[[Excellence of Learning]]"
+related: [[[meem_part_15]]]
+sources: [[[meem_part_15]], [[meem_part_16]]]
 address: c-000088
 complexity: intermediate
-domain: "tazkiyatun nafs"
-aliases:
-  - "Acquisition of Knowledge"
-  - "Thalabul Ilmi"
+domain: tazkiyatun nafs
+aliases: 
 ---
 
 # Keutamaan Menuntut Ilmu (Acquisition of Knowledge)

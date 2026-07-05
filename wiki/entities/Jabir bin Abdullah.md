@@ -1,32 +1,16 @@
 ---
 tags: [entity, sahabat, perawi]
-address: "c-000361"
+address: c-000361
 type: entity
-title: "Jabir bin Abdullah"
+title: Jabir bin Abdullah
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadis"
-first_mentioned: "[[Censure of Backbiting]]"
-created: "2026-06-16"
-updated: 2026-06-29
+role: Sahabat Nabi / Perawi Hadis
+first_mentioned: [[Censure of Backbiting]]
+created: 2026-06-16
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Ghibah]]"
-  - "[[Husnudzon Kepada Allah]]"
-sources:
-  - "[[meem_part_12]]"
-  - "[[meem_part_07]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Censure of Backbiting]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
-  - "[[Major-Sin-27-Tax-Collecting]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

@@ -26,10 +26,12 @@ related:
   - "[[Makanan dalam Quran dan Sunnah]]"
   - "[[Bahaya Berlebihan dalam Makanan]]"
   - "[[Gaya Hidup Nabi dalam Makanan]]"
+  - "[[Abdullah bin Ummi Haram]]"
 sources:
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
   - "[[meem_part_05]]"
   - "[[meem_part_14]]"
+  - "[[meem_part_17]]"
 ---
 
 # Adab Makan dan Minum
@@ -65,7 +67,7 @@ Adab makan dan minum adalah seperangkat tata krama, etika, dan sunnah yang diaja
 5. **Larangan Qiran (Menggabungkan Makanan)**: Saat bersantap bersama dalam wadah kelompok, dilarang menyuap dua buah kurma (atau makanan sejenis seperti kismis, anggur) sekaligus ke dalam mulut secara serakah, kecuali telah memperoleh keizinan dari teman-teman makannya (HR. Thabrani dari **[[Ibnu Umar]]**).
 
 
-5. **Mengambil makanan yang jatuh** — Jika makanan jatuh, Nabi ﷺ mengajarkan untuk mengambilnya, membersihkannya, lalu memakannya. Jangan membiarkannya untuk setan.
+6. **Mengambil makanan yang jatuh** — Jika makanan jatuh dari alas makan, Nabi ﷺ menganjurkan untuk mengambilnya, membersihkannya, lalu memakannya seraya menjauhkan bagian yang kotor. Tindakan ini merupakan wujud ketundukan, rasa syukur atas nikmat makanan, dan dijanjikan ampunan dosa (HR. Al-Hakim dari **[[Abdullah bin Ummi Haram]]** dalam **[[meem_part_17]]**). Jangan membiarkannya untuk setan.
 
 6. **Tidak bersandar saat makan** — Nabi ﷺ bersabda: *"Aku tidak makan sambil bersandar."* Beliau makan dalam posisi duduk tegak, terkadang dengan satu kaki tertekuk. Bersandar (*ittikā'*) tidak baik untuk pencernaan dan mencerminkan kenyamanan berlebih.
 
@@ -126,4 +128,5 @@ Kisah Abu Juhayfah juga menggambarkan pentingnya adab ini: ia bersendawa di depa
 - [[Prophet Muhammads Recommendations Regarding Food]] — Islamweb Staff
 - [[meem_part_05]]
 - [[meem_part_14]]
+- [[meem_part_17]]
 

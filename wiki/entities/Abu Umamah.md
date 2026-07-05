@@ -1,24 +1,15 @@
 ---
 type: entity
-title: "Abu Umamah"
+title: Abu Umamah
 entity_type: person
-role: "Sahabat Nabi / Perawi Hadis di Wilayah Syam"
-first_mentioned: "[[Showing Off]]"
+role: Sahabat Nabi / Perawi Hadis di Wilayah Syam
+first_mentioned: [[Showing Off]]
 created: 2026-06-10
-updated: 2026-06-29
-tags:
-  - entity
-  - sahabat
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Riya]]"
-  - "[[Ikhlas]]"
-  - "[[Nama Agung Allah]]"
-sources:
-  - "[[Showing Off]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Major-Sin-38-Teaching-for-World-and-Concealing-Knowledge]]"
-  - "[[meem_part_02]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Abu Umamah

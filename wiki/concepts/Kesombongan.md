@@ -17,8 +17,10 @@ status: seed
 related:
   - "[[Kesombongan Ulama]]"
   - "[[Dosa Iblis]]"
+  - "[[Abdullah bin Amr]]"
 sources:
   - "[[Pride]]"
+  - "[[meem_part_18]]"
 ---
 
 # Kesombongan (Al-Kibr)
@@ -32,7 +34,7 @@ sources:
 Sifat sombong bekerja dengan merusak persepsi diri seseorang terhadap Allah dan sesama manusia:
 1. **Menolak Kebenaran**: Keengganan menerima nasihat, kebenaran hukum, atau fakta objektif jika hal itu disampaikan oleh orang yang dianggap lebih rendah derajat, usia, atau sosialnya.
 2. **Meremehkan Manusia**: Memandang orang lain dengan mata kehinaan, merasa diri lebih suci, lebih pintar, lebih kaya, atau lebih mulia ketimbang orang lain.
-3. **Membanggakan Diri**: Mengekspresikan kesombongan lewat cara berjalan yang angkuh, cara berpakaian yang sengaja dipanjangkan (*isbal* karena sombong), dan ucapan yang membual (*al-fakhr*).
+3. **Membanggakan Diri**: Mengekspresikan kesombongan lewat cara berjalan yang angkuh/membungkuk-bungkukkan tubuh demi gengsi (*ikhtiyal*), cara berpakaian yang sengaja dipanjangkan (*isbal* karena sombong), dan ucapan yang membual (*al-fakhr*). Nabi ﷺ memperingatkan bahwa siapa yang merasa besar dalam dirinya (*ta'adhdhama*) dan berjalan dengan angkuh (*ikhtala*), ia akan menemui Allah di hari kiamat dalam keadaan Allah murka kepadanya (HR. Ahmad & Bukhari dalam al-Adab al-Mufrad dari **[[Abdullah bin Amr]]** dalam **[[meem_part_18]]**).
 
 ## Mengapa Ini Penting
 
@@ -46,3 +48,4 @@ Kesombongan adalah penghalang utama seseorang untuk masuk surga. Nabi SAW menega
 ## Sumber
 
 - [[Pride]]
+- [[meem_part_18]]

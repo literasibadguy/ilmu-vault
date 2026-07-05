@@ -3,20 +3,13 @@ type: entity
 title: Hudhayfah bin al-Yaman
 entity_type: person
 role: Sahabat Nabi / Pemegang Rahasia Rasulullah
-first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
+first_mentioned: [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 created: 2026-06-11
-updated: 2026-06-11
-tags:
-  - entity
-  - tokoh
-  - sahabat
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Shirk Lafzhi]]"
-sources:
-  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
-  - "[[Signs of the Learned of the Hereafter Part 2]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Hudhayfah bin al-Yaman

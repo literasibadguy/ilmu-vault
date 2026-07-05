@@ -17,9 +17,13 @@ related:
   - "[[Sifat Shalat Nabi]]"
   - "[[Azab Kubur]]"
   - "[[Shalat Berjamaah]]"
+  - "[[Ibnu Abbas]]"
+  - "[[Anas bin Malik]]"
+  - "[[Burayda bin al-Husaib]]"
 sources:
   - "[[Neglect of the Prayer]]"
   - "[[Abandoning the Group Prayer]]"
+  - "[[meem_part_17]]"
 ---
 
 # Meninggalkan Shalat
@@ -33,9 +37,12 @@ sources:
 Dalam hukum Islam, kedudukan shalat sangat penting sebagai tiang agama (*'imaduddin*). Status hukum bagi pelaku yang melalaikan atau meninggalkan shalat terbagi menjadi beberapa tingkatan:
 
 ### 1. Hukum Melalaikan Waktu Shalat
-Menunda shalat dari awal waktunya tanpa alasan yang sah hingga mendekati atau melewati waktu shalat berikutnya (seperti menunda shalat Asar hingga matahari terbenam/waktu Maghrib) dikategorikan sebagai tindakan melalaikan shalat (*tadlyi'*. Allah SWT mengancam tindakan ini dengan:
+Menunda shalat dari awal waktunya tanpa alasan yang sah hingga mendekati atau melewati waktu shalat berikutnya (seperti menunda shalat Asar hingga matahari terbenam/waktu Maghrib) dikategorikan sebagai tindakan melalaikan shalat (*tadlyi'*). Allah SWT mengancam tindakan ini dengan:
 - **Lembah Ghayy**: Lembah yang sangat dalam di Neraka Jahannam dengan makanan yang sangat menjijikkan, diperuntukkan bagi orang yang melalaikan shalat (QS. Maryam: 59).
 - **Lembah Wayl**: Lembah di Neraka yang sangat panas, yang jika gunung di dunia diletakkan di dalamnya akan meleleh karena dahsyatnya panas, diperuntukkan bagi orang yang shalat namun lalai dalam pelaksanaannya (QS. Al-Ma'un: 4-5).
+- **Kemurkaan Allah**: Meninggalkan shalat secara sengaja akan membawa hamba menemui Allah di hari kiamat dalam keadaan Allah murka kepadanya (HR. Al-Tabarani dari **[[Ibnu Abbas]]** dalam **[[meem_part_17]]**).
+- **Gugurnya Amal karena Shalat Ashar**: Secara khusus, meninggalkan shalat Ashar secara sengaja menyebabkan terhapus atau gugurnya pahala seluruh amal kebaikan pada hari tersebut (HR. Ahmad, Bukhari, & An-Nasa'i dari **[[Burayda bin al-Husaib]]** dalam **[[meem_part_17]]**). Shalat Ashar merupakan shalat wustha yang paling ditekankan penjagaannya.
+- **Kekufuran Nyata**: Meninggalkan shalat dengan sengaja dinilai sebagai tindakan menyerupai perilaku orang kafir secara terang-terangan (HR. Al-Tabarani dari **[[Anas bin Malik]]** dalam **[[meem_part_17]]**).
 
 ### 2. Status Keislaman Pelaku
 Para ulama berbeda pendapat mengenai status hukum orang yang sengaja meninggalkan shalat fardhu secara total tanpa uzur:
@@ -62,3 +69,4 @@ Shalat adalah amal pertama yang dihisab pada Hari Kiamat. Jika shalat seseorang 
 
 - [[Neglect of the Prayer]]
 - [[Abandoning the Group Prayer]]
+- [[meem_part_17]]

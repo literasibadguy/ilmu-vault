@@ -14,8 +14,10 @@ status: seed
 related:
   - "[[Kebersihan Pakaian]]"
   - "[[Makarim al-Akhlaq]]"
+  - "[[Mu'adh bin Anas]]"
 sources:
   - "[[meem_part_09]]"
+  - "[[meem_part_17]]"
 ---
 
 # Adab Berpakaian
@@ -37,6 +39,9 @@ Berdasarkan syarah hadis dalam **[[meem_part_09]]**, terdapat dua prinsip dasar:
 2. **Larangan Sombong (Isbal Khuyala')**:
    Menurunkan atau menyeret sarung/celana melebihi mata kaki dengan niat sombong (*khuyala'*) dilarang keras, terutama saat beribadah shalat:
    > *"Barangsiapa menurunkan sarungnya dalam shalat karena sombong (khuyala'), maka ia tidak berada dalam naungan halal dan haram dari Allah (yakni terputus dari perlindungan dan rahmat-Nya)."* (HR. Abu Dawud dari **[[Ibnu Mas'ud]]**).
+   
+3. **Meninggalkan Pakaian Mewah karena Tawadhu**:
+   Dianjurkan bersikap sederhana dalam berpakaian dan meninggalkan pakaian yang terlalu megah/mewah demi menunjukkan sikap rendah hati (tawadhu) kepada Allah SWT, meskipun ia memiliki kemampuan finansial untuk membelinya. Nabi ﷺ bersabda bahwa orang yang mengamalkan hal ini secara ikhlas akan dipanggil Allah di hari kiamat di hadapan seluruh makhluk untuk memilih perhiasan iman mana yang ingin dikenakannya (HR. Al-Tirmidzi & Al-Hakim dari **[[Mu'adh bin Anas]]** dalam **[[meem_part_17]]**).
 
 ## Hubungan
 
@@ -45,3 +50,4 @@ Berdasarkan syarah hadis dalam **[[meem_part_09]]**, terdapat dua prinsip dasar:
 
 ## Sumber
 - **[[meem_part_09]]** (Hadits tentang pakaian baru Umar bin Khattab dan larangan isbal khuyala' Ibnu Mas'ud).
+- **[[meem_part_17]]** (Hadits tentang keutamaan meninggalkan pakaian mewah dari Mu'adh bin Anas).

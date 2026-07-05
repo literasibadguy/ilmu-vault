@@ -1,19 +1,16 @@
 ---
-address: "c-000413"
+address: c-000413
 type: concept
-title: "Hajj"
+title: Hajj
 complexity: basic
-domain: "Ibadah / Rukun Islam"
-aliases:
-  - "Haji"
-created: "2026-07-01"
-updated: "2026-07-01"
+domain: Ibadah / Rukun Islam
+aliases: 
+created: 2026-07-01
+updated: 2026-07-04
 tags: [concept, ibadah, rukun]
 status: seed
-related:
-  - "[[Suhur]]"
-sources:
-  - "[[meem_part_08]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Hajj

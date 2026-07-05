@@ -1,21 +1,16 @@
 ---
 type: entity
-title: "Mughirah bin Syu'bah"
+title: Mughirah bin Syu'bah
 entity_type: person
-role: "Sahabat Nabi, Negosiator dan Gubernur Kufah"
-aliases:
-  - Al-Mughirah bin Syu'bah al-Thaqafi
-first_mentioned: "[[meem_part_14]]"
-created: "2026-07-03"
-updated: "2026-07-03"
-tags:
-  - entity
-  - sahabat
+role: Sahabat Nabi, Negosiator dan Gubernur Kufah
+aliases: 
+first_mentioned: [[meem_part_14]]
+created: 2026-07-03
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Tawakkul]]"
-sources:
-  - "[[meem_part_14]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000480
 ---
 

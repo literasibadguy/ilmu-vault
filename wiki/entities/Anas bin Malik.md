@@ -1,44 +1,16 @@
 ---
 tags: [entity, tokoh, sahabat]
-address: "c-000363"
+address: c-000363
 type: entity
-title: "Anas bin Malik"
+title: Anas bin Malik
 entity_type: person
-role: "Sahabat Nabi / Pelayan Rasulullah"
-first_mentioned: "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
-created: "2026-06-11"
-updated: 2026-06-29
+role: Sahabat Nabi / Pelayan Rasulullah
+first_mentioned: [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
+created: 2026-06-11
+updated: 2026-07-04
 status: seed
-related:
-  - "[[Nabi Muhammad SAW]]"
-  - "[[Al-Ajz wal Kasal]]"
-  - "[[Adab Makan dan Minum]]"
-  - "[[Nama Agung Allah]]"
-  - "[[Ghibah]]"
-  - "[[Raja' dan Khauf]]"
-sources:
-  - "[[meem_part_11]]"
-  - "[[meem_part_13]]"
-  - "[[meem_part_14]]"
-  - "[[meem_part_07]]"
-  - "[[Chapter_VII_Part_3_Miserliness_and_Poverty]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[meem_part_06]]"
-  - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
-  - "[[Regarding His Guidance in Prayer]]"
-  - "[[Prophet Muhammads Recommendations Regarding Food]]"
-  - "[[Supplications That Are Most Likely Answered]]"
-  - "[[Harms of Greed and Sexual Passion]]"
-  - "[[Censure of Backbiting]]"
-  - "[[Harms 10 to 13 Joking Ridicule Secrets and Promises]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[In-the-Remembrance-of-the-Affairs-of-the-Dead-and-Doomsday]]"
-  - "[[Major-Sin-28-Consuming-Unlawful-Property]]"
-  - "[[Blameworthy Sciences and Changing Meanings]]"
-  - "[[meem_part_01]]"
-  - "[[meem_part_02]]"
-  - "[[meem_part_03]]"
+related: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

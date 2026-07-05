@@ -17,8 +17,10 @@ status: seed
 related:
   - "[[Riya]]"
   - "[[Ikhlas]]"
+  - "[[Abdullah bin Ukaym]]"
 sources:
   - "[[Showing Off]]"
+  - "[[meem_part_18]]"
 ---
 
 # Syirik Asghar (Syirik Kecil)
@@ -36,7 +38,7 @@ Syirik asghar dapat dikelompokkan ke dalam dua bentuk utama berdasarkan sifat ke
 2. **Syirik Lahiriah (Lafadz/Perbuatan/Jali)**: Syirik yang terucap lewat lisan atau diperbuat oleh anggota badan tanpa adanya keyakinan bahwa makhluk tersebut setara dengan pencipta. Contohnya:
    - Bersumpah dengan selain nama Allah (misalnya sumpah demi Ka'bah, demi kehormatan orang tua, dll.).
    - Menyejajarkan kehendak Allah dengan makhluk dalam ucapan, seperti: *"Ini semua terjadi karena kehendak Allah dan kehendakmu."* (Seharusnya menggunakan kata *"kemudian kehendakmu"*).
-   - Bergantung secara berlebihan pada sebab lahiriah (seperti jimat atau obat) hingga melupakan Dzat yang menakdirkan sebab tersebut.
+   - **Gantungan Jimat (Tamimah/Tiwalah)**: Mengenakan atau menggantungkan jimat, gelang benang penolak bala, atau rajah jahiliyah dengan keyakinan bahwa benda itu memiliki kekuatan bawaan untuk menolak penyakit atau mara bahaya. Rasulullah ﷺ bersabda: *"Barangsiapa menggantungkan sesuatu (jimat, dll), niscaya Allah akan menyerahkan urusannya kepada benda itu (menghilangkan taufik dan pertolongan-Nya)."* (HR. Ahmad & Tirmidzi dari **[[Abdullah bin Ukaym]]** dalam **[[meem_part_18]]**).
 
 ## Mengapa Ini Penting
 
@@ -55,3 +57,4 @@ Syirik asghar menjadi perhatian sangat besar dalam ajaran Islam karena:
 ## Sumber
 
 - [[Showing Off]]
+- [[meem_part_18]]

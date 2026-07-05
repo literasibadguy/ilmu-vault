@@ -1,20 +1,15 @@
 ---
 type: concept
-title: "Berbakti Kepada Orang Tua"
+title: Berbakti Kepada Orang Tua
 complexity: beginner
 domain: Akhlak
-aliases:
-  - Birrul Walidain
-  - Taat Orang Tua
-created: "2026-07-03"
-updated: "2026-07-03"
+aliases: 
+created: 2026-07-03
+updated: 2026-07-04
 tags: [concept, akhlak]
 status: seed
-related:
-  - "[[Durhaka Kepada Orang Tua]]"
-  - "[[Berbakti Kepada Teman Orang Tua]]"
-sources:
-  - "[[meem_part_11]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000452
 ---
 

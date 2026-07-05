@@ -1,20 +1,16 @@
 ---
-address: "c-000415"
+address: c-000415
 type: concept
-title: "Riddah"
+title: Riddah
 complexity: basic
-domain: "Fiqh / Akidah"
-aliases:
-  - "Murtad"
-  - "Kemurtadan"
-created: "2026-07-01"
-updated: "2026-07-01"
+domain: Fiqh / Akidah
+aliases: 
+created: 2026-07-01
+updated: 2026-07-04
 tags: [concept, fiqh, akidah]
 status: seed
-related:
-  - "[[Nifaq]]"
-sources:
-  - "[[meem_part_08]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Riddah

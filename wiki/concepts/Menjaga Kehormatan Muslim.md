@@ -1,24 +1,16 @@
 ---
 type: concept
-title: "Menjaga Kehormatan Muslim"
-address: "c-000236"
+title: Menjaga Kehormatan Muslim
+address: c-000236
 complexity: intermediate
-domain: "Akhlak"
-aliases:
-  - "Larangan Istithalah"
-  - "Larangan Saling Mencaci"
+domain: Akhlak
+aliases: 
 created: 2026-06-29
-updated: 2026-07-02
-tags:
-  - concept
-  - akhlak
-  - dosa-besar
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Ghibah]]"
-sources:
-  - "[[meem_part_01]]"
-  - "[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 # Menjaga Kehormatan Muslim

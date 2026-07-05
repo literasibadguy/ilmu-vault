@@ -1,37 +1,15 @@
 ---
 type: concept
-title: "Ghibah"
+title: Ghibah
 complexity: intermediate
 domain: Tazkiyatun Nafs / Akhlak
-aliases:
-  - Menggunjing
-  - Backbiting
-  - Ghiba
-created: "2026-06-16"
-updated: "2026-06-29"
-tags:
-  - concept
-  - akhlak
-  - lisan
-  - ghibah
+aliases: 
+created: 2026-06-16
+updated: 2026-07-04
+tags: 
 status: developing
-related:
-  - "[[Adab Berbicara]]"
-  - "[[Imam Al-Ghazali]]"
-  - "[[Abu Bakar Ash-Shiddiq]]"
-  - "[[Umar bin Khattab]]"
-  - "[[Menjaga Kehormatan Muslim]]"
-sources:
-  - "[[Censure of Backbiting]]"
-  - "[[Meaning and Definitions of Backbiting]]"
-  - "[[Backbiting Not Limited to Speech]]"
-  - "[[Causes Motivating Backbiting]]"
-  - "[[Remedy for Backbiting Restraining the Tongue]]"
-  - "[[Unlawfulness of Backbiting in the Heart]]"
-  - "[[Justifications Authorizing Backbiting]]"
-  - "[[Expiation for Backbiting]]"
-  - "[[Harm 15 Backbiting]]"
-  - "[[meem_part_01]]"
+related: [, [[meem_part_15]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 ---
 
 

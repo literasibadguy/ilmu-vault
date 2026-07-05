@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-07-03"
+updated: "2026-07-05"
 tags:
   - meta
   - log
@@ -15,6 +15,25 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-07-05] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 17 & 18
+- Sumber: `.raw/meem_part_17.md` dan `.raw/meem_part_18.md`
+- Ringkasan: [[meem_part_17]], [[meem_part_18]]
+- Halaman dibuat (16):
+  - Entitas (8): [[Abu Qilabah]], [[Abdullah bin Ummi Haram]], [[Abdullah bin Abi Mutarrif]], [[Samurah bin Jundub]], [[Abu al-Ja'd al-Dhamri]], [[Usama bin Zayd]], [[Abdullah bin Ukaym]], [[Shurahbil bin al-Simt]]
+  - Konsep (6): [[Sifat Tenang dan Hati-hati (Ta'anni)]], [[Hukum Pelanggaran Mahram]], [[Adab Majelis]], [[Berobat dengan yang Haram]], [[Tasyabbuh (Menyerupai Kaum Lain)]], [[Tanggung Jawab Pengobatan (Dhaman Malpraktik)]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], serta konsep pendukung (seperti [[Tawbah]], [[Adab Pernikahan]], [[Adab Mengiringi Jenazah]], [[Adab Makan dan Minum]], [[Bahaya Kebohongan]], [[Shalat Jumat]], [[Adab Berpakaian]], [[Meninggalkan Shalat]], [[Keutamaan Belajar Memanah]], [[Riya]], [[Makanan dalam Quran dan Sunnah]], [[Kesombongan]], [[Syirik Asghar]]) dan tokoh perawi pendukung (seperti [[Abu Hurayrah]], [[Uqba bin Amir]], [[Utsman bin Affan]], [[Ibnu Abbas]], [[Mu'adh bin Anas]], [[Abu Umamah]], [[Anas bin Malik]], [[Hudhayfah bin al-Yaman]], [[Sa'd ibn Abi Waqqas]], [[Ubaidah bin as-Samit]], [[Abdullah bin Amr]], [[Aisyah binti Abu Bakar]]).
+- Tindakan: Mengimpor file split markdown mentah berukuran masing-masing ~30KB, mendeduksi dan menulis 16 halaman baru dengan alamat unik `c-000521` sampai `c-000536`, memperbarui file-file perawi dan konsep pendukung untuk merujuk pada bagian baru, memperbarui catalog utama index, hot cache, dan manifest pelacakan delta.
+
+## [2026-07-04] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 15 & 16
+- Sumber: `.raw/meem_part_15.md` dan `.raw/meem_part_16.md`
+- Ringkasan: [[meem_part_15]], [[meem_part_16]]
+- Halaman dibuat (20):
+  - Entitas (9): [[Junadah bin Abi Umayyah]], [[Abdullah bin Hudhafah]], [[Abu Rihanah]], [[Ali bin Shaiban]], [[Abu al-Yasar]], [[Khuzaim bin Fatik]], [[Saeed bin Huraith]], [[Mu'adh bin Anas]], [[Al-Nu'man bin Bashir]]
+  - Konsep (11): [[Kewajiban Imam Shalat]], [[Adab Amar Ma'ruf Nahi Munkar]], [[Larangan Menyombongkan Keturunan]], [[Keutamaan Infak dan Sedekah]], [[Kedudukan Quraysh]], [[Adab Tidur]], [[Etika Jual Beli]], [[Fikih Udhiyah]], [[Adab Salam]], [[Larangan Berlebih-lebihan dalam Bangunan]], [[Batasan Ketaatan Kepada Pemimpin]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[overview]], serta konsep pendukung (seperti [[Ghibah]], [[Menyingkirkan Rintangan di Jalan]], [[Menghormati Otoritas Pemimpin]], [[Anjuran Mencari Rezeki]], [[Menjaga Kehormatan Muslim]], [[Keutamaan Menuntut Ilmu]], [[Mengonsumsi Harta Haram]], [[Keutamaan Memberi Pinjaman]], [[Syukur]], [[Hajj]], [[Khamr dan Intoksikasi]], [[Riddah]], [[Berbakti Kepada Orang Tua]], [[Masjid]], [[Larangan Megah-megahan Masjid]]) dan tokoh perawi pendukung (seperti [[Anas bin Malik]], [[Ma'qil bin Yasar]], [[Uqba bin Amir]], [[Ibnu Umar]], [[Abu Sa'id Al-Khudri]], [[Ibnu Abbas]], [[Aisyah binti Abu Bakar]], [[Jabir bin Abdullah]], [[Ali bin Abi Thalib]], [[Utsman bin Affan]], [[Umm Salamah]], [[Abu Hurayrah]], [[Hudhayfah bin al-Yaman]], [[Mughirah bin Syu'bah]], [[Abu Umamah]], [[Al-Bara' bin Azib]], [[Ibnu Mas'ud]]).
+- Tindakan: Mengimpor file markdown mentah berukuran masing-masing ~27KB dan ~29KB, mendeduksi dan menulis 20 halaman baru dengan alamat unik `c-000498` sampai `c-000520`, memperbarui file-file perawi dan konsep pendukung untuk merujuk pada bagian baru, memperbarui catalog utama index, hot cache, overview statistik, dan manifest pelacakan delta.
+
 
 ## [2026-07-03] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 13 & 14
 - Sumber: `.raw/meem_part_13.md` dan `.raw/meem_part_14.md`

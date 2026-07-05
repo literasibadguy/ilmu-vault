@@ -1,26 +1,15 @@
 ---
 type: concept
-title: "Khamr dan Intoksikasi"
+title: Khamr dan Intoksikasi
 complexity: intermediate
-domain: "Fikih / Muamalah"
-aliases:
-  - "Khamr"
-  - "Minuman Keras"
-  - "Intoksikan"
+domain: Fikih / Muamalah
+aliases: 
 created: 2026-06-20
-updated: 2026-06-29
-tags:
-  - concept
-  - fikih
-  - muamalah
-  - dosa-besar
+updated: 2026-07-04
+tags: 
 status: seed
-related:
-  - "[[Bahaya Khamr]]"
-  - "[[Ganja dan Hashish]]"
-sources:
-  - "[[Major-Sin-19-Drinking-Alcohol]]"
-  - "[[meem_part_01]]"
+related: [, [[meem_part_16]]]
+sources: [, [[meem_part_15]], [[meem_part_16]]]
 address: c-000043
 ---
 
