@@ -2,13 +2,17 @@
 type: concept
 title: "Bahaya Debat"
 created: "2026-06-26"
-updated: "2026-06-26"
+updated: "2026-07-05"
 tags:
   - concept
   - akhlak
   - debat
 status: evergreen
-
+related:
+  - "[[Kesombongan]]"
+  - "[[Bencana Lisan]]"
+sources:
+  - "[[meem_part_19]]"
 address: c-000138
 ---
 
@@ -43,7 +47,10 @@ Para pendahulu yang shalih memandang perdebatan spekulatif sebagai tanda hilangn
     > "Barangsiapa yang meninggalkan perdebatan dalam keadaan ia bersalah, maka Allah akan membangunkan baginya sebuah rumah di pinggiran surga. Dan barangsiapa yang meninggalkan perdebatan dalam keadaan ia benar, maka Allah akan membangunkan baginya sebuah rumah di surga yang paling tinggi."
 *   **Tanda Kehilangan Inspirasi Amal**: Rasulullah ﷺ bersabda:
     > "Tidaklah suatu kaum tersesat setelah mereka mendapatkan hidayah melainkan karena mereka diberikan kesenangan untuk berdebat." Beliau kemudian membacakan firman Allah: *"Mereka tidak memberikan perumpamaan itu kepadamu melainkan dengan maksud membantah saja, sebenarnya mereka adalah kaum yang suka bertengkar."* (QS. Az-Zukhruf: 58).
+*   **Kemurkaan Allah atas Debat Tanpa Ilmu**: Rasulullah ﷺ memperingatkan bahaya berdebat atau bertengkar dalam persengketaan (*خصومة*) tanpa dasar ilmu:
+    > *«Barangsiapa berdebat dalam suatu sengketa tanpa dasar ilmu, ia senantiasa berada dalam kemurkaan Allah hingga ia menghentikannya.»* (HR. Ibnu Abi Dunya dari **[[Abu Hurayrah]]** dalam **[[meem_part_19]]**).
 
 ## Sumber
 - [[Harms-of-Polemics-and-Evils-of-Debates|Harms of Polemics and Evils of Debates]]
 - [[Pertengkaran dan Perdebatan]]
+- [[meem_part_19]]

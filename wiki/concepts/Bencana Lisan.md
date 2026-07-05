@@ -31,6 +31,7 @@ sources:
   - "[[Harm 16 Slander and Tale Bearing]]"
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
+  - "[[meem_part_20]]"
 ---
 
 
@@ -72,3 +73,11 @@ Berikut adalah peta klasifikasi dua puluh bencana lisan menurut Imam Al-Ghazali:
 18. **Pujian Palsu (Flattery)**: Sanjungan berlebih yang memicu penyakit ujub pada korban.
 19. **Kelalaian Bicara (Careless Speech)**: Salah ucap dalam teologi/syariat (**[[Harms 19 and 20 Carelessness and Attributes]]**).
 20. **Spekulasi Sifat Allah (Mutashabihat)**: Debat filosofis mengenai rahasia takdir/sifat Allah.
+
+## Terapi Penjagaan Lisan
+Cara utama mengobati lisan dari bencana-bencana di atas adalah menyadari secara penuh bahwa setiap ucapan merupakan bagian dari lembaran amal yang akan dipertanggungjawabkan di akhirat. Rasulullah ﷺ memberi nasihat:
+> *«Barangsiapa menghitung ucapannya sebagai bagian dari amalnya, niscaya sedikit bicaranya kecuali dalam perkara yang bermanfaat baginya.»* (HR. Ibnu As-Sunni dari **[[Abu Dharr Al-Ghifari]]** dalam **[[meem_part_20]]**).
+
+## Sumber
+- [[Introduction and Silence]]
+- [[meem_part_20]]

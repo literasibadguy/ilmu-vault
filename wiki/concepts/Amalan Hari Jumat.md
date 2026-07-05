@@ -16,6 +16,7 @@ related:
 sources:
   - "[[meem_part_11]]"
   - "[[meem_part_13]]"
+  - "[[meem_part_19]]"
 address: c-000454
 ---
 
@@ -40,6 +41,7 @@ Hari Jumat adalah *Sayyidul Ayyam* (pemimpin hari-hari) dalam Islam yang menyimp
 3. **Mengiringi Jenazah**: Mengingat akhirat dan mendoakan saudara Muslim yang wafat.
 4. **Sedekah**: Membantu meringankan penderitaan finansial kaum lemah.
 5. **Mandi Jumat (Ghusl)**: Membersihkan tubuh sebelum berangkat masjid guna menjaga kesucian jasmani dan ruhani (lihat [[Ghusl]] dan [[Abu Qatadah]]).
+6. **Wudhu atau Mandi**: Mengambil wudhu untuk shalat Jumat adalah kebaikan yang sah, namun mandi Jumat jauh lebih utama (HR. Ahmad & Ibnu Khuzaimah dari **[[Samurah bin Jundub]]** dalam **[[meem_part_19]]**).
 
 ## Hubungan
 
@@ -50,3 +52,4 @@ Hari Jumat adalah *Sayyidul Ayyam* (pemimpin hari-hari) dalam Islam yang menyimp
 
 - [[meem_part_11]]
 - [[meem_part_13]]
+- [[meem_part_19]]

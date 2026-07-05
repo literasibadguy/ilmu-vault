@@ -16,6 +16,16 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-07-05] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 19 & 20
+- Sumber: `.raw/meem_part_19.md` dan `.raw/meem_part_20.md`
+- Ringkasan: [[meem_part_19]], [[meem_part_20]]
+- Halaman dibuat (14):
+  - Sumber (2): [[meem_part_19]], [[meem_part_20]]
+  - Entitas (4): [[Ummu Habibah]], [[Thawban]], [[Al-Fadhl bin Abbas]], [[Al-Harits bin Aus al-Thaqafi]]
+  - Konsep (8): [[Sifat Tawadhu (Rendah Hati)]], [[Larangan Wudhu di Tempat Buang Air]], [[Larangan Menjamak Shalat Tanpa Uzur]], [[Larangan Meriwayatkan Hadits Dusta]], [[Thawaf Wada']], [[Haji Badal]], [[Sikap Terhadap Kemaksiatan]], [[Hukum Kaffarah Sumpah]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[Wudhu]], [[Ghusl]], [[Amalan Hari Jumat]], [[Bahaya Debat]], [[Kewajiban Hijrah]], [[Adab Berpakaian]], [[Adab Hakim dalam Peradilan]], [[Keutamaan Menghafal Al-Quran]], [[Shalat Sunnah]], [[Adhan]], [[Hajj]], [[Bencana Lisan]], [[Berbakti Kepada Orang Tua]]
+- Tindakan: Mengimpor file split markdown mentah berukuran masing-masing ~30KB, mendeduksi dan menulis 14 halaman baru dengan alamat unik `c-000537` sampai `c-000550`, memperbarui file-file perawi dan konsep pendukung untuk merujuk pada bagian baru, memperbarui catalog utama index, hot cache, dan manifest pelacakan delta.
+
 ## [2026-07-05] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 17 & 18
 - Sumber: `.raw/meem_part_17.md` dan `.raw/meem_part_18.md`
 - Ringkasan: [[meem_part_17]], [[meem_part_18]]

@@ -20,6 +20,7 @@ related:
   - "[[Korupsi dan Suap dalam Peradilan]]"
 sources:
   - "[[meem_part_04]]"
+  - "[[meem_part_19]]"
 ---
 
 # Adab Hakim dalam Peradilan
@@ -38,6 +39,11 @@ sources:
    Hadis lain menyebutkan: *"Barangsiapa diuji menjadi hakim di antara kaum Muslimin, maka janganlah ia meninggikan suaranya kepada salah satu pihak yang bersengketa melebihi suaranya kepada pihak yang lain."* (HR. Tabarani dari **[[Umm Salamah]]**).
    Membentak salah satu terdakwa sementara menyapa lembut terdakwa lain merupakan bentuk kezaliman verbal yang merusak wibawa peradilan dan meruntuhkan mentalitas mencari keadilan.
 
+## Risiko dan Beratnya Jabatan Peradilan
+
+Jabatan hakim merupakan amanah yang sangat berat dan penuh risiko penyimpangan. Syariat mengibaratkan orang yang memikul jabatan ini berada di ambang kebinasaan spiritual jika ia tidak berhati-hati:
+> *«Barangsiapa diangkat menjadi hakim di antara manusia, sungguh ia telah disembelih tanpa pisau.»* (HR. Ahmad, Abu Dawud, dan Al-Hakim dari **[[Abu Hurayrah]]** dalam **[[meem_part_19]]**). Peringatan ini menegaskan agar seseorang tidak ambisius mengejar jabatan peradilan, melainkan memandangnya sebagai beban pertanggungjawaban yang mengerikan.
+
 ## Hubungan
 
 - **[[Larangan Meminta Jabatan]]** — Pentingnya taufik malaikat bagi hakim demi tegaknya adab peradilan.
@@ -46,3 +52,4 @@ sources:
 ## Sumber
 
 - **[[meem_part_04]]** (Hadits tentang keadilan pandangan, isyarat, tempat duduk, dan intonasi suara hakim).
+- **[[meem_part_19]]** (Hadits tentang ancaman bahaya bagi hakim yang diumpamakan disembelih tanpa pisau).

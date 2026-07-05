@@ -9,8 +9,14 @@ created: 2026-07-01
 updated: 2026-07-04
 tags: [concept, ibadah, rukun]
 status: seed
-related: [, [[meem_part_15]]]
-sources: [, [[meem_part_15]], [[meem_part_16]]]
+related:
+  - "[[meem_part_15]]"
+  - "[[Haji Badal]]"
+  - "[[Thawaf Wada']]"
+sources:
+  - "[[meem_part_15]]"
+  - "[[meem_part_16]]"
+  - "[[meem_part_20]]"
 ---
 
 # Hajj
@@ -27,6 +33,15 @@ Penjelasan: Perintah ini bersifat anjuran (nadb) untuk segera melaksanakan haji 
 
 Menunda haji meski mampu dapat berujung pada penyesalan jika halangan datang. Al-Qur'an dan Sunnah mendorong segera memenuhi kewajiban begitu syarat terpenuhi.
 
+## Poin dari Fayd al-Qadir (Meem part 20)
+
+- **Haji Mabrur Penggugur Dosa**: Haji mabrur yang dijaga dari perbuatan *rafats* (perkataan kotor/sensual) dan *fusuaq* (maksiat) mengembalikan kesucian seorang mukmin laksana hari ia dilahirkan ibunya (HR. Bukhari & Muslim dari **[[Abu Hurayrah]]** dalam **[[meem_part_20]]**).
+- **Kewajiban Thawaf Wada'**: Setiap orang yang menunaikan ibadah haji atau umrah wajib menutup rangkaian ibadahnya dengan melakukan Thawaf Wada' sebelum meninggalkan Makkah (HR. Ahmad dari **[[Al-Harits bin Aus al-Thaqafi]]** dalam **[[meem_part_20]]**).
+- **Haji Badal untuk Orang Tua**: Kebolehan dan keutamaan membadalkan haji orang tua yang tidak mampu secara fisik atau telah meninggal dunia, yang diganjar pahala berlipat ganda bagi anak yang membadalkannya (HR. Daruqutni dari **[[Jabir bin Abdullah]]** dalam **[[meem_part_20]]**).
+
 ## Sumber
 - [[meem_part_08]]
+- [[meem_part_15]]
+- [[meem_part_16]]
+- [[meem_part_20]]
 - Hadis riwayat Ahmad, Abu Dawud, al-Hakim, dll.

@@ -15,6 +15,7 @@ related:
   - "[[Keutamaan Mengikuti Al-Quran]]"
 sources:
   - "[[meem_part_12]]"
+  - "[[meem_part_20]]"
 address: c-000472
 ---
 
@@ -30,6 +31,8 @@ Dalam Islam, menghafal Al-Quran adalah amalan batin dan intelektual yang sangat 
 
 - Rasulullah SAW bersabda dalam hadis yang diriwayatkan oleh Raja' al-Ghanawi:
   > *"Barangsiapa dikaruniai oleh Allah kemampuan menghafal Al-Quran, lalu ia beranggapan ada orang lain yang diberi sesuatu yang lebih baik daripada yang ia terima, maka ia sungguh telah menganggap kecil nikmat Allah yang paling agung."* (HR. Al-Bukhari dalam Al-Tarikh dan Al-Bayhaqi)
+- Rasulullah ﷺ juga menjanjikan perlindungan akal (terhindar dari kepikunan di masa tua) bagi para penghafal Al-Quran:
+  > *«Barangsiapa mengumpulkan (menghafal) Al-Quran, niscaya Allah akan memberikan kenikmatan pada akalnya (menjaga akalnya tetap sehat/tidak pikun) hingga ia wafat.»* (HR. Ibnu Adi dari **[[Anas bin Malik]]** dalam **[[meem_part_20]]**).
 - Imam Al-Ghazali dalam kitab *Ihya' Ulumiddin* menjelaskan:
   > *"Setiap orang yang dianugerahi Al-Quran tidak layak baginya memandang rendah dirinya atau iri kepada kemewahan duniawi orang lain, karena Al-Quran adalah kekayaan sejati yang tidak ada tandingannya."*
 
@@ -47,3 +50,4 @@ Dalam Islam, menghafal Al-Quran adalah amalan batin dan intelektual yang sangat 
 ## Sumber
 
 - [[meem_part_12]]
+- [[meem_part_20]]

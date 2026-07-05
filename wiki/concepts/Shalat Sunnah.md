@@ -15,8 +15,10 @@ related:
   - "[[Shalat]]"
   - "[[Sifat Shalat Nabi]]"
   - "[[Shalat Istikharah]]"
+  - "[[Ummu Habibah]]"
 sources:
   - "[[Optional-and-Sunnah-Prayers]]"
+  - "[[meem_part_20]]"
 address: c-000190
 ---
 
@@ -50,12 +52,12 @@ Ghazali membagi shalat sunnah/nafilah menjadi empat kelompok utama berdasarkan w
 ### 1. Shalat Rawatib (Pendamping Shalat Fardhu)
 Merupakan sunnah harian yang mendampingi shalat wajib lima waktu untuk menambal kelalaian batin. Total berjumlah 17 rakaat (atau 12 rakaat rawatib muakkadah):
 *   2 rakaat sebelum Subuh (Fajr) — memiliki keutamaan lebih baik daripada dunia dan seisinya.
-*   4 rakaat sebelum dan 2 rakaat setelah Dzuhur.
+*   4 rakaat sebelum dan 2 rakaat setelah Dzuhur. (Diriwayatkan secara khusus oleh **[[Ummu Habibah]]** dalam **[[meem_part_20]]** bahwa menjaga 4 rakaat sebelum dan 4 rakaat sesudah Zhuhur berkhasiat mengharamkan jasad dari api neraka).
 *   4 rakaat sebelum Ashar — Rasulullah mendoakan rahmat bagi yang mendirikannya.
 *   2 rakaat setelah Maghrib.
 *   4 rakaat setelah Isha.
 *   **Witr**: Shalat ganjil (minimal 1 rakaat, biasanya 3 rakaat) sebagai penutup shalat malam.
-*   **Dhuha**: Shalat di waktu matahari naik sepenggalah (hingga 8 rakaat).
+*   **Dhuha**: Shalat di waktu matahari naik sepenggalah (hingga 8 rakaat). Menjaga shalat Dhuha (minimal dua rakaat) menjadi sebab pelebur dosa kecil meskipun sebanyak buih di lautan (HR. Ahmad dari **[[Abu Hurayrah]]** dalam **[[meem_part_20]]**).
 *   **Awabin**: Shalat sunnah di antara Maghrib dan Isha (6 rakaat).
 
 ### 2. Shalat Sunnah Mingguan (Hari & Malam)
@@ -79,6 +81,7 @@ Shalat sunnah optional berupa shalat 2 s.d 12 rakaat yang diamalkan pada hari/ma
 
 ## Sumber
 
-*   **[[Optional-and-Sunnah-Prayers]]**
-*   **[[Shalat]]**
-*   **[[Sifat Shalat Nabi]]**
+*   [[Optional-and-Sunnah-Prayers]]
+*   [[Shalat]]
+*   [[Sifat Shalat Nabi]]
+*   [[meem_part_20]]

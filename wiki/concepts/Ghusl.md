@@ -20,6 +20,7 @@ sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
   - "[[meem_part_02]]"
   - "[[meem_part_13]]"
+  - "[[meem_part_19]]"
 address: c-000198
 ---
 
@@ -67,7 +68,11 @@ Al-Ghazali menerangkan tata cara mendirikan mandi wajib secara runtut guna memas
 8.  **Menggosok Badan**: Menggosok-gosok seluruh bagian depan dan belakang tubuh, sela-sela telinga, lipatan kulit, pusar, dan sela-sela jari kaki.
 9.  **Membasuh Kaki**: Pindah sedikit dari tempat mandi semula (menghindari genangan air mandi), kemudian basuh kedua kaki kanan dan kiri hingga mata kaki.
 
+## Keterkaitan dengan Wudhu
+Mandi wajib secara otomatis telah mensucikan hadats besar dan kecil. Makruh hukumnya untuk mengulang wudhu setelah selesai mandi karena dinilai berlebih-lebihan (*israf*) (HR. Thabarani dari **[[Ibnu Abbas]]** dalam **[[meem_part_19]]**). Namun, dianjurkan untuk berwudhu terlebih dahulu sebelum mengguyur badan.
+
 ## Sumber
 
-*   **[[Purification-of-the-Body-from-Excrements]]**
-*   **[[Taharah]]**
+*   [[Purification-of-the-Body-from-Excrements]]
+*   [[Taharah]]
+*   [[meem_part_19]]

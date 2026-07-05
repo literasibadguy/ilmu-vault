@@ -11,7 +11,11 @@ created: "2026-06-28"
 updated: "2026-07-01"
 tags: [concept, ibadah]
 status: evergreen
-
+related:
+  - "[[Thawban]]"
+sources:
+  - "[[meem_part_08]]"
+  - "[[meem_part_20]]"
 address: c-000176
 ---
 
@@ -42,11 +46,15 @@ Setiap Muslim yang mendengar kumandang adzan disunnahkan untuk menghentikan akti
     > *Shadaqta wa bararta wa nashahta* (Engkau telah berkata benar, engkau telah berbuat baik, dan engkau telah memberi nasihat).
 4.  **Doa Setelah Adzan**: Setelah adzan selesai dikumandangkan, disunnahkan membaca shalawat atas Nabi SAW dan membaca doa *Wasilah* untuk memohonkan kedudukan mulia bagi Rasulullah ﷺ agar mendapatkan syafaat beliau di akhirat.
 
-**Pahala Adzan Menurut Hadis (Fayd al-Qadir)**: Muazin yang ikhlas selama 7 tahun ditulis baginya kebebasan dari neraka. Selama 12 tahun, surga diwajibkan baginya serta 60 hasanah untuk setiap adzan dan 30 untuk iqamah setiap hari.
+**Pahala Adzan Menurut Hadis (Fayd al-Qadir)**: 
+- Muazin yang ikhlas selama 7 tahun ditulis baginya kebebasan dari neraka.
+- Muazin yang menjaga adzan selama 12 tahun secara konsisten wajib baginya surga serta ditulis baginya 60 kebaikan setiap adzan dan 30 kebaikan setiap iqamah (**[[meem_part_08]]**).
+- Mengumandangkan dan menjaga adzan secara istiqamah selama satu tahun penuh secara ikhlas mendatangkan kewajiban jaminan masuk surga (HR. Al-Bayhaqi dari **[[Thawban]]** dalam **[[meem_part_20]]**).
 
 ## Sumber
 
-*   **[[Excellence-of-Prayer]]**
-*   **[[Shalat]]**
-*   **[[Shalat Berjamaah]]**
-*   **[[meem_part_08]]** (Fayd al-Qadir: pahala adzan 7/12 tahun, adzan tanpa upah duniawi)
+*   [[Excellence-of-Prayer]]
+*   [[Shalat]]
+*   [[Shalat Berjamaah]]
+*   [[meem_part_08]]
+*   [[meem_part_20]]

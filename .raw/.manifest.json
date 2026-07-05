@@ -2283,6 +2283,55 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/meem_part_19.md": {
+      "hash": "8008472d651c42636fb0d1d5468546fe",
+      "ingested_at": "2026-07-05",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_19.md",
+        "wiki/concepts/Sifat Tawadhu (Rendah Hati).md",
+        "wiki/concepts/Larangan Wudhu di Tempat Buang Air.md",
+        "wiki/concepts/Larangan Menjamak Shalat Tanpa Uzur.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Wudhu.md",
+        "wiki/concepts/Ghusl.md",
+        "wiki/concepts/Amalan Hari Jumat.md",
+        "wiki/concepts/Bahaya Debat.md",
+        "wiki/concepts/Kewajiban Hijrah.md",
+        "wiki/concepts/Adab Berpakaian.md",
+        "wiki/concepts/Adab Hakim dalam Peradilan.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/meem_part_20.md": {
+      "hash": "263c0903eed4536465ee9fc9c857cc26",
+      "ingested_at": "2026-07-05",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_20.md",
+        "wiki/entities/Ummu Habibah.md",
+        "wiki/entities/Thawban.md",
+        "wiki/entities/Al-Fadhl bin Abbas.md",
+        "wiki/entities/Al-Harits bin Aus al-Thaqafi.md",
+        "wiki/concepts/Larangan Meriwayatkan Hadits Dusta.md",
+        "wiki/concepts/Thawaf Wada'.md",
+        "wiki/concepts/Haji Badal.md",
+        "wiki/concepts/Sikap Terhadap Kemaksiatan.md",
+        "wiki/concepts/Hukum Kaffarah Sumpah.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Keutamaan Menghafal Al-Quran.md",
+        "wiki/concepts/Shalat Sunnah.md",
+        "wiki/concepts/Adhan.md",
+        "wiki/concepts/Hajj.md",
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/concepts/Berbakti Kepada Orang Tua.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2815,6 +2864,20 @@
     "wiki/concepts/Adab Majelis.md": "c-000533",
     "wiki/concepts/Berobat dengan yang Haram.md": "c-000534",
     "wiki/concepts/Tasyabbuh (Menyerupai Kaum Lain).md": "c-000535",
-    "wiki/concepts/Tanggung Jawab Pengobatan (Dhaman Malpraktik).md": "c-000536"
+    "wiki/concepts/Tanggung Jawab Pengobatan (Dhaman Malpraktik).md": "c-000536",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_19.md": "c-000537",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_20.md": "c-000538",
+    "wiki/entities/Ummu Habibah.md": "c-000539",
+    "wiki/entities/Thawban.md": "c-000540",
+    "wiki/entities/Al-Fadhl bin Abbas.md": "c-000541",
+    "wiki/entities/Al-Harits bin Aus al-Thaqafi.md": "c-000542",
+    "wiki/concepts/Sifat Tawadhu (Rendah Hati).md": "c-000543",
+    "wiki/concepts/Larangan Wudhu di Tempat Buang Air.md": "c-000544",
+    "wiki/concepts/Larangan Menjamak Shalat Tanpa Uzur.md": "c-000545",
+    "wiki/concepts/Larangan Meriwayatkan Hadits Dusta.md": "c-000546",
+    "wiki/concepts/Thawaf Wada'.md": "c-000547",
+    "wiki/concepts/Haji Badal.md": "c-000548",
+    "wiki/concepts/Sikap Terhadap Kemaksiatan.md": "c-000549",
+    "wiki/concepts/Hukum Kaffarah Sumpah.md": "c-000550"
   }
 }

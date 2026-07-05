@@ -8,8 +8,13 @@ created: 2026-07-03
 updated: 2026-07-04
 tags: [concept, akhlak]
 status: seed
-related: [, [[meem_part_16]]]
-sources: [, [[meem_part_15]], [[meem_part_16]]]
+related:
+  - "[[meem_part_16]]"
+  - "[[Haji Badal]]"
+sources:
+  - "[[meem_part_15]]"
+  - "[[meem_part_16]]"
+  - "[[meem_part_20]]"
 address: c-000452
 ---
 
@@ -34,6 +39,11 @@ Dalam Islam, **Berbakti Kepada Orang Tua** (*Birrul Walidain*) diposisikan langs
 2. **Kebaikan Batiniah**: Tidak boleh menunjukkan kejenuhan, membentak, atau berkata kasar (bahkan sekadar berkata *"ah"* / *uffin*).
 3. **Penyambung Kerabat**: Bagian dari berbakti setelah mereka wafat adalah menyambung hubungan baik dengan sahabat-sahabat mereka (lihat [[Berbakti Kepada Teman Orang Tua]]).
 
+## Berbakti Setelah Orang Tua Wafat
+Seorang anak tetap wajib berbakti kepada orang tuanya yang telah wafat melalui pemenuhan hak-hak ibadah dan finansial mereka:
+- **Membadalkan Haji**: Anak diperbolehkan menghajikan orang tuanya yang telah wafat atau tidak mampu secara fisik (HR. Daruqutni dari **[[Jabir bin Abdullah]]** dalam **[[meem_part_20]]**).
+- **Melunasi Utang**: Melunasi utang orang tua merupakan puncak bakti yang diganjar dibangkitkan bersama golongan orang-orang berbakti (*al-abrar*) di hari kiamat (HR. Thabarani & Daruqutni dari **[[Ibnu Abbas]]** dalam **[[meem_part_20]]**).
+
 ## Hubungan
 
 - [[Durhaka Kepada Orang Tua]] — Kebalikan dari birrul walidain, merupakan dosa besar yang disegerakan azabnya di dunia.
@@ -42,3 +52,6 @@ Dalam Islam, **Berbakti Kepada Orang Tua** (*Birrul Walidain*) diposisikan langs
 ## Sumber
 
 - [[meem_part_11]]
+- [[meem_part_15]]
+- [[meem_part_16]]
+- [[meem_part_20]]

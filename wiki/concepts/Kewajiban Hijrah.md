@@ -15,9 +15,11 @@ tags:
 status: seed
 related:
   - "[[Jarir bin Abdullah]]"
+  - "[[Samurah bin Jundub]]"
   - "[[Hak dan Perlindungan Non-Muslim]]"
 sources:
   - "[[meem_part_13]]"
+  - "[[meem_part_19]]"
 address: c-000489
 ---
 
@@ -29,8 +31,10 @@ address: c-000489
 
 ## Landasan Syariat
 
-Berdasarkan hadis yang diriwayatkan oleh **[[Jarir bin Abdullah]]**:
-> *"Barangsiapa tinggal menetap bersama kaum musyrikin, maka jaminan keamanan (dzimmah) telah terlepas darinya."* (HR. Thabrani & Al-Bayhaqi)
+1. Berdasarkan hadis yang diriwayatkan oleh **[[Jarir bin Abdullah]]**:
+   > *"Barangsiapa tinggal menetap bersama kaum musyrikin, maka jaminan keamanan (dzimmah) telah terlepas darinya."* (HR. Thabrani & Al-Bayhaqi)
+2. Diriwayatkan pula dari **[[Samurah bin Jundub]]**:
+   > *«Barangsiapa berkumpul (tinggal bersama) orang musyrik dan menetap bersamanya, maka ia seperti dia.»* (HR. Abu Dawud dalam **[[meem_part_19]]**). Hadits ini menegaskan larangan keras berserikat dan melebur secara sukarela ke dalam lingkungan yang mengikis identitas keimanan seorang Muslim.
 
 ## Tinjauan Syarah Fayd al-Qadir
 
@@ -47,3 +51,4 @@ Imam Abdur Ra'uf al-Munawi menjelaskan konteks sejarah dan relevansi hukum hadis
 ## Sumber
 
 - [[meem_part_13]]
+- [[meem_part_19]]

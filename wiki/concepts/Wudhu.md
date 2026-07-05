@@ -20,6 +20,7 @@ related:
 sources:
   - "[[Purification-of-the-Body-from-Excrements]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_19]]"
 address: c-000197
 ---
 
@@ -41,7 +42,7 @@ Dalam hadis-hadis yang dikutip oleh **[[Imam Al-Ghazali]]** dalam *Ihya' Ulumidd
     *   Membasuh tangan mengeluarkan dosa dari tangannya (bahkan dari bawah kukunya).
     *   Mengusap kepala mengeluarkan dosa dari kepalanya (bahkan dari telinganya).
     *   Membasuh kaki mengeluarkan dosa dari kakinya (bahkan dari bawah sela-sela jarinya).
-*   **Cahaya di Atas Cahaya**: Memperbarui wudhu di atas wudhu yang masih suci (*tajdidul wudhu*) diibaratkan Nabi seperti cahaya di atas cahaya (*nurun 'ala nur*) dan dicatat sepuluh kebajikan khusus baginya.
+*   **Cahaya di Atas Cahaya**: Memperbarui wudhu di atas wudhu yang masih suci (*tajdidul wudhu*) setelah digunakan untuk shalat dicatat bagi mushalli sepuluh kebaikan khusus (HR. Abu Dawud dari **[[Ibnu Umar]]** dalam **[[meem_part_19]]**).
 *   **Jaminan Kesucian Total**: Rasulullah ﷺ bersabda:
     > *"Barangsiapa berwudhu dengan sempurna, kemudian mendirikan shalat dua rakaat tanpa memikirkan sedikit pun urusan keduniawian di dalam hatinya, niscaya ia keluar dari dosa-dosanya laksana hari ia dilahirkan oleh ibunya."* (HR. Bukhari & Muslim).
 
@@ -72,9 +73,12 @@ Berdasarkan ketetapan hadits riwayat **[[Ali bin Abi Thalib]]**, terdapat perbed
 *   **Membasuh Lebih dari Tiga Kali**: Rasulullah ﷺ bersabda bahwa membasuh anggota wudhu melebihi 3 kali adalah perbuatan melampaui batas (*transgression*) dan zhalim.
 *   **Israf (Boros Air)**: Membuang-buang air secara berlebihan saat berwudhu.
 *   **Berbicara**: Mengobrol urusan duniawi di tengah-tengah berwudhu.
+*   **Wudhu di Tempat Buang Air**: Berwudhu di area yang bernajis atau biasa digunakan untuk kencing makruh karena kekhawatiran percikan najis dan dapat memicu waswas (**[[Larangan Wudhu di Tempat Buang Air]]**, **[[meem_part_19]]**).
+*   **Wudhu Setelah Mandi Janabah**: Berwudhu kembali setelah selesai mandi wajib dinilai makruh dan berlebih-lebihan (*israf*), karena mandi wajib sudah otomatis menyucikan hadats besar dan kecil (**[[Ghusl]]**, **[[meem_part_19]]**).
 
 ## Sumber
 
-*   **[[Purification-of-the-Body-from-Excrements]]**
-*   **[[Taharah]]**
-*   **[[meem_part_02]]**
+*   [[Purification-of-the-Body-from-Excrements]]
+*   [[Taharah]]
+*   [[meem_part_02]]
+*   [[meem_part_19]]
