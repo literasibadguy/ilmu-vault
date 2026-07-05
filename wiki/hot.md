@@ -14,18 +14,18 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-07-05. Mengimpor dan mengonversi **[[meem_part_19]]** dan **[[meem_part_20]]** ke wiki. Membuat 4 entitas perawi/tokoh baru dan 8 konsep baru terkait tawadhu, wudhu toilet, jamak shalat tanpa uzur, larangan meriwayatkan hadits dusta, thawaf wada, haji badal, sikap terhadap kemaksiatan, dan kaffarah sumpah.
+2026-07-05. Mengimpor dan mengonversi transkrip kajian **[[ad-dawa-fadr-bagian2]]** oleh **[[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]]** mengenai bab doa dari kitab *Ad-Da' wa Ad-Dawa'*. Membuat 4 konsep baru (Ketergesaan dalam Berdoa, Mendesak dalam Berdoa, Penyakit Asmara, dan Penyembahan Kubur) serta memperbarui profil Syaikh Abdurrazzaq, Ibnul Qayyim, dan konsep Du'a.
 
 ## Fakta Kunci Terbaru
-- **Tawadhu & Kedudukan**: Sikap rendah hati (*tawadhu*) mengangkat derajat seseorang di sisi Allah (**[[Sifat Tawadhu (Rendah Hati)]]**, **[[meem_part_19]]**).
-- **Haji Mabrur & Penghapusan Dosa**: Haji mabrur yang steril dari perkataan kotor (*rafats*) dan maksiat (*fusuaq*) membersihkan dosa total layaknya bayi baru lahir (**[[Hajj]]**, **[[meem_part_20]]**).
-- **Larangan Meriwayatkan Dusta**: Keharaman menyebarkan hadits yang diduga palsu tanpa penjelasan derajat kepalsuannya (**[[Larangan Meriwayatkan Hadits Dusta]]**, **[[meem_part_20]]**).
-- **Risiko Jabatan Hakim**: Jabatan hakim diibaratkan seperti disembelih tanpa pisau karena beratnya pertanggungjawaban (**[[Adab Hakim dalam Peradilan]]**, **[[meem_part_19]]**).
-- **Sikap Terhadap Maksiat**: Keridhaan hati terhadap maksiat yang jauh menyatukan dosa pelakunya (**[[Sikap Terhadap Kemaksiatan]]**, **[[meem_part_20]]**).
+- **Doa Penolak Bala**: Doa memiliki 3 tingkatan kekuatan dalam menghadapi musibah (menolak total, meringankan, atau bertarung seimbang hingga kiamat) (**[[Du'a]]**, **[[ad-dawa-fadr-bagian2]]**).
+- **Ketergesaan Penghalang Doa**: Sikap bosan/jenuh merasa doa tidak kunjung dikabulkan (*isti'jal*) menjadi penghalang utama terkabulnya doa (**[[Ketergesaan dalam Berdoa]]**, **[[ad-dawa-fadr-bagian2]]**).
+- **Mendesak dalam Berdoa**: Sikap mengulang-ulang doa dengan gigih (*al-ilhah*) sangat dicintai Allah dan membuka pintu rahmat-Nya (**[[Mendesak dalam Berdoa]]**, **[[ad-dawa-fadr-bagian2]]**).
+- **Penyembahan Kubur**: Berdoa atau beristighatsah langsung ke makam wali/orang saleh merupakan bentuk syirik akbar pembatal amal (**[[Penyembahan Kubur]]**, **[[ad-dawa-fadr-bagian2]]**).
+- **Terapi Penyakit Asmara**: Risalah *Ad-Da' wa Ad-Dawa'* disusun khusus sebagai terapi penyembuh penyakit kasmaran berlebihan (*al-isyq*) (**[[Penyakit Asmara (Al-Isyq)]]**, **[[ad-dawa-fadr-bagian2]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[meem_part_19]], [[meem_part_20]], 4 entitas perawi/tokoh baru, dan 8 konsep fikih/akhlak baru.
-- Diperbarui: [[index]], [[log]], [[hot]], [[Wudhu]], [[Ghusl]], [[Amalan Hari Jumat]], [[Bahaya Debat]], [[Kewajiban Hijrah]], [[Adab Berpakaian]], [[Adab Hakim dalam Peradilan]], [[Keutamaan Menghafal Al-Quran]], [[Shalat Sunnah]], [[Adhan]], [[Hajj]], [[Bencana Lisan]], [[Berbakti Kepada Orang Tua]].
+- Dibuat: [[ad-dawa-fadr-bagian2]], [[Ketergesaan dalam Berdoa]], [[Mendesak dalam Berdoa]], [[Penyakit Asmara (Al-Isyq)]], [[Penyembahan Kubur]].
+- Diperbarui: [[index]], [[log]], [[hot]], [[Du'a]], [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Ibnul Qayyim Al-Jauziyyah]].
 
 ## Alur Kerja Aktif
-- Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan memelihara keutuhan metadata/frontmatter seluruh halaman baru.
+- Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan menjaga konsistensi DragonScale address map.

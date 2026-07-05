@@ -12,8 +12,11 @@ tags:
 status: seed
 related:
   - "[[Syaikh Abdurrahman bin Nashir As-Sa'di]]"
+  - "[[Du'a]]"
+  - "[[Penyembahan Kubur]]"
 sources:
   - "[[tafsir-sadi-iblis-adam]]"
+  - "[[ad-dawa-fadr-bagian2]]"
 ---
 
 # Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr
@@ -27,6 +30,7 @@ Prof. Dr. Abdurrazzaq bin Abdulmuhsin al-Badr merupakan seorang ulama kontempore
 - Putra dari ulama ahli hadis besar Masjid Nabawi, Syaikh Abdul Muhsin al-Abbad al-Badr.
 - Menulis dan mengajar puluhan syarah kitab ulama salaf terdahulu.
 - Sering mengisi daurah ilmiah internasional, termasuk menyapa jamaah di Indonesia.
+- Menyusun penjelasan (*syarah*) sistematis terhadap kitab *Ad-Da' wa Ad-Dawa'* karya Ibnul Qayyim (**[[ad-dawa-fadr-bagian2]]**), termasuk bab keutamaan doa dan bahaya kesyirikan.
 
 ## Hubungan
 
@@ -35,3 +39,4 @@ Prof. Dr. Abdurrazzaq bin Abdulmuhsin al-Badr merupakan seorang ulama kontempore
 ## Sumber
 
 - [[tafsir-sadi-iblis-adam]]
+- [[ad-dawa-fadr-bagian2]]

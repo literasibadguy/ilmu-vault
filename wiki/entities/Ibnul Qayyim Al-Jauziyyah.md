@@ -14,11 +14,15 @@ related:
   - "[[Imam Ahmad bin Hanbal]]"
   - "[[Fitnah Pandangan Mata]]"
   - "[[Wahdatul Wujud dan Hulul]]"
+  - "[[Du'a]]"
+  - "[[Penyakit Asmara (Al-Isyq)]]"
+  - "[[Penyembahan Kubur]]"
 sources:
   - "[[where-patience|Urgensi Kesabaran dalam Al-Qur'an]]"
   - "[[The Devils and The Eye]]"
   - "[[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]"
   - "[[Prophet Muhammads Recommendations Regarding Food]]"
+  - "[[ad-dawa-fadr-bagian2]]"
 ---
 
 # Ibnul Qayyim Al-Jauziyyah
@@ -30,6 +34,7 @@ sources:
 ## Fakta Kunci
 
 - **Karya Terkenal Tazkiyah**: Menulis kitab-kitab legendaris seperti *Madarijus Salikin*, *Uddatush Shabirin* (bekal bagi orang sabar), *Al-Fawaid*, dan *Zadul Ma'ad*.
+- **Kitab Ad-Da' wa Ad-Dawa'**: Menulis risalah spiritual agung *Ad-Da' wa Ad-Dawa'* (Penyakit dan Obatnya) sebagai jawaban atas penanya yang menderita **[[Penyakit Asmara (Al-Isyq)]]** parah, di mana di dalamnya ia menerangkan secara mendalam fungsi **[[Du'a]]** sebagai penolak bala' (bencana) dan bahaya syirik berupa **[[Penyembahan Kubur]]**.
 - **Penyusun Kajian Sabar**: Mengkaji dan menguraikan sistematika ayat-ayat kesabaran dalam Al-Qur'an, menganalisis kedudukan dan keutamaan sabar, serta mengaitkannya dengan kesyukuran dan tauhid.
 - **Analisis Tipu Daya Setan**: Merinci secara mendalam perangkap-perangkap setan (*masyayid asy-syaitan*) dalam kitab *Ighathat al-Lahfan*, termasuk taktik setan mengeksploitasi pandangan mata dan menyesatkan akidah manusia.
 - **Dokumentasi Petunjuk Lisan Nabi**: Menyusun ulasan mendalam dalam kitab *Zadul Ma'ad* mengenai bagaimana Rasulullah SAW memilih kata, mendefinisikan adab berbicara (**[[Adab Berbicara]]**), menyelaraskan lafal tauhid (**[[Shirk Lafzhi]]**), dan menyelaraskan tawakal (**[[Tawakkul]]**) serta takdir (**[[Qadar]]**).
@@ -45,3 +50,4 @@ sources:
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]]
 - [[Regarding His Guidance in Prayer]]
 - [[Prophet Muhammads Recommendations Regarding Food]]
+- [[ad-dawa-fadr-bagian2]]

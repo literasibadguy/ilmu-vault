@@ -17,8 +17,12 @@ status: mature
 related:
   - "[[Syirik Akbar]]"
   - "[[Istigatsah]]"
+  - "[[Ketergesaan dalam Berdoa]]"
+  - "[[Mendesak dalam Berdoa]]"
+  - "[[Penyembahan Kubur]]"
 sources:
   - "[[To Seek Help in Other Than Allah is an Act of Shirk]]"
+  - "[[ad-dawa-fadr-bagian2]]"
 ---
 
 # Du'a (Doa)
@@ -42,6 +46,26 @@ Dalam Al-Qur'an, Allah SWT memberikan argumen teologis yang sangat tegas mengena
 - **Kesesatan Terbesar**: Tidak ada orang yang lebih sesat daripada orang yang menyeru/berdoa kepada selain Allah. Makhluk yang diseru tidak akan mampu menjawab doa tersebut hingga Hari Kiamat karena mereka tidak mendengar, atau jika mendengar, tidak memiliki kuasa untuk memberi manfaat sedikit pun (QS. Al-Ahqaf: 5).
 - **Penyembahan yang Diingkari**: Doa dinilai sebagai bentuk penyembahan (*ibadah*). Maka, ketika seseorang berdoa kepada wali atau jin, ia sedang menyembah mereka. Kelak di Hari Kiamat, sesembahan tersebut akan berbalik menjadi musuh dan mengingkari penyembahan mereka (QS. Al-Ahqaf: 6).
 
+## Hubungan Doa dengan Takdir dan Bencana (Bala')
+
+Dalam kitab *Ad-Da' wa Ad-Dawa'* karya **[[Ibnul Qayyim Al-Jauziyyah]]**, doa dijelaskan sebagai salah satu obat (*dawa'*) yang paling bermanfaat untuk menghalau bencana (*bala'*). Terdapat tiga tingkatan hubungan doa dengan bencana:
+1. **Doa lebih kuat**: Doa menghalau dan menolak bencana secara total sebelum terjadi.
+2. **Doa lebih lemah**: Bencana tetap terjadi menimpa hamba, namun doa tersebut meringankan dampaknya.
+3. **Doa dan bencana seimbang**: Keduanya bertarung dan menahan satu sama lain hingga Hari Kiamat.
+
+Doa juga dapat mengubah takdir yang menggantung (*qadar mu'allaq*), karena doa itu sendiri merupakan bagian dari takdir Allah yang tertulis di Lauhul Mahfuzh.
+
+## Formulasi dan Adab Terkabulnya Doa
+
+Doa memiliki kekuatan maksimal dan hampir mustahil ditolak jika menghimpun beberapa adab batiniah dan lahiriah berikut:
+- **Kehadiran Hati dan Konsentrasi**: Berdoa dengan penuh kesadaran dan kekhusyukan (**[[Khusyuk]]**), tidak lalai.
+- **Ketundukan Jiwa**: Menunjukkan rasa butuh, rasa hancur (*inkisar*), dan kerendahan diri yang mendalam (*tadlarru'*) di hadapan Allah.
+- **Mendesak dalam Meminta**: Mengulang-ulang doa dengan gigih dan penuh harap (**[[Mendesak dalam Berdoa]]**).
+- **Menjauhi Ketergesaan**: Sabar menanti hasil dan tidak berhenti berdoa karena merasa bosan (**[[Ketergesaan dalam Berdoa]]**).
+- **Memperhatikan Waktu Mustajab**: Seperti sepertiga malam terakhir, saat berkumandang adzan, di antara adzan dan iqamah, serta waktu-waktu utama pada hari Jumat.
+- **Adab Fisik**: Menghadap kiblat, suci dari hadats (berwudhu), mengangkat kedua tangan, memulai dengan memuji Allah, dan bershalawat kepada Nabi ﷺ.
+
 ## Sumber
 
 - [[To Seek Help in Other Than Allah is an Act of Shirk]]
+- [[ad-dawa-fadr-bagian2]]

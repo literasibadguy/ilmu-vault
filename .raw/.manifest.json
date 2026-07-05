@@ -2332,6 +2332,25 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/ad-dawa-fadr-bagian2.srt": {
+      "hash": "397d66dd11f2f4387ee6c54666e53d2a",
+      "ingested_at": "2026-07-05",
+      "pages_created": [
+        "wiki/sources/ad-dawa-fadr-bagian2.md",
+        "wiki/concepts/Ketergesaan dalam Berdoa.md",
+        "wiki/concepts/Mendesak dalam Berdoa.md",
+        "wiki/concepts/Penyakit Asmara (Al-Isyq).md",
+        "wiki/concepts/Penyembahan Kubur.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Du'a.md",
+        "wiki/entities/Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr.md",
+        "wiki/entities/Ibnul Qayyim Al-Jauziyyah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2878,6 +2897,11 @@
     "wiki/concepts/Thawaf Wada'.md": "c-000547",
     "wiki/concepts/Haji Badal.md": "c-000548",
     "wiki/concepts/Sikap Terhadap Kemaksiatan.md": "c-000549",
-    "wiki/concepts/Hukum Kaffarah Sumpah.md": "c-000550"
+    "wiki/concepts/Hukum Kaffarah Sumpah.md": "c-000550",
+    "wiki/sources/ad-dawa-fadr-bagian2.md": "c-000551",
+    "wiki/concepts/Ketergesaan dalam Berdoa.md": "c-000552",
+    "wiki/concepts/Mendesak dalam Berdoa.md": "c-000553",
+    "wiki/concepts/Penyakit Asmara (Al-Isyq).md": "c-000554",
+    "wiki/concepts/Penyembahan Kubur.md": "c-000555"
   }
 }

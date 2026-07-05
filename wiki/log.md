@@ -16,6 +16,15 @@ related:
 
 # Catatan Operasi (Operation Log)
 
+## [2026-07-05] Ingestion: Syarah Ad-Da' wa Ad-Dawa' - Bagian 2
+- Sumber: `.raw/ad-dawa-fadr-bagian2.srt`
+- Ringkasan: [[ad-dawa-fadr-bagian2]]
+- Halaman dibuat (5):
+  - Sumber (1): [[ad-dawa-fadr-bagian2]]
+  - Konsep (4): [[Ketergesaan dalam Berdoa]], [[Mendesak dalam Berdoa]], [[Penyakit Asmara (Al-Isyq)]], [[Penyembahan Kubur]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[Du'a]], [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Ibnul Qayyim Al-Jauziyyah]]
+- Tindakan: Mengimpor file srt transkrip kajian berukuran ~90KB, mengalokasikan 5 alamat unik (`c-000551` sampai `c-000555`), mengekstrak 4 konsep baru mengenai akhlak dan teologi doa, memperbarui profil Syaikh Abdurrazzaq dan Ibnul Qayyim, menyelaraskan manifest delta tracking, dan memverifikasi integritas vault dengan linter.
+
 ## [2026-07-05] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 19 & 20
 - Sumber: `.raw/meem_part_19.md` dan `.raw/meem_part_20.md`
 - Ringkasan: [[meem_part_19]], [[meem_part_20]]
@@ -23,7 +32,7 @@ related:
   - Sumber (2): [[meem_part_19]], [[meem_part_20]]
   - Entitas (4): [[Ummu Habibah]], [[Thawban]], [[Al-Fadhl bin Abbas]], [[Al-Harits bin Aus al-Thaqafi]]
   - Konsep (8): [[Sifat Tawadhu (Rendah Hati)]], [[Larangan Wudhu di Tempat Buang Air]], [[Larangan Menjamak Shalat Tanpa Uzur]], [[Larangan Meriwayatkan Hadits Dusta]], [[Thawaf Wada']], [[Haji Badal]], [[Sikap Terhadap Kemaksiatan]], [[Hukum Kaffarah Sumpah]]
-- Halaman diperbarui: [[index]], [[log]], [[hot]], [[Wudhu]], [[Ghusl]], [[Amalan Hari Jumat]], [[Bahaya Debat]], [[Kewajiban Hijrah]], [[Adab Berpakaian]], [[Adab Hakim dalam Peradilan]], [[Keutamaan Menghafal Al-Quran]], [[Shalat Sunnah]], [[Adhan]], [[Hajj]], [[Bencana Lisan]], [[Berbakti Kepada Orang Tua]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[Wudhu]], [[Ghusl]], [[Amalan Hari Jumat]], [[Bahaya Debat]], [[Kewajiban Hijrah]], [[Adab Berpakaian]], [[Adab Hakim dalam Peradilan]], [[Keutamaan Menghafal Al-Quran]], [[Shalat Sunnah]], [[Adhan]], [[wiki/concepts/Hajj|Hajj]], [[Bencana Lisan]], [[Berbakti Kepada Orang Tua]]
 - Tindakan: Mengimpor file split markdown mentah berukuran masing-masing ~30KB, mendeduksi dan menulis 14 halaman baru dengan alamat unik `c-000537` sampai `c-000550`, memperbarui file-file perawi dan konsep pendukung untuk merujuk pada bagian baru, memperbarui catalog utama index, hot cache, dan manifest pelacakan delta.
 
 ## [2026-07-05] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 17 & 18

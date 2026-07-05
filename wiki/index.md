@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-07-05 | Total halaman: 669 | Sumber diimpor: 101
+Terakhir diperbarui: 2026-07-05 | Total halaman: 674 | Sumber diimpor: 102
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -165,7 +165,9 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Kesederhanaan dalam Makan]] — **Kesederhanaan dalam Makan** adalah prinsip makan secukupnya untuk mempertahankan kelangsungan h... (status: seed)
 - [[Kesombongan]] — **Kesombongan** (*al-kibr*) dalam perspektif Islam adalah penyakit hati yang didefinisikan sebaga... (status: seed)
 - [[Kesombongan Ulama]] — **Kesombongan Ulama** (atau kesombongan intelektual) adalah bentuk kesombongan yang menjangkiti p... (status: seed)
-- [[Ketaatan Sebagai Hakikat Dzikir]] — Prinsip bahwa esensi sejati dari dzikir adalah - [[Keutamaan Belajar Memanah]] — **Memanah** (Ar-Ramy) adalah ketangkasan militer sunnah Rasul yang dipandang sebagai nikmat fisik yang makruh dilupakan. (status: seed)
+- [[Ketaatan Sebagai Hakikat Dzikir]] — Esensi sejati dzikir adalah kepatuhan batin dan lahiriah dalam menjalankan syariat serta menjauhi maksiat. (status: seed)
+- [[Ketergesaan dalam Berdoa]] — Sikap ketidaksabaran seorang hamba yang merasa pengabulan doanya lambat sehingga ia berhenti berdoa. (status: seed)
+- [[Keutamaan Belajar Memanah]] — **Memanah** (Ar-Ramy) adalah ketangkasan militer sunnah Rasul yang dipandang sebagai nikmat fisik yang makruh dilupakan. (status: seed)
 - [[Keutamaan Berdebu di Jalan Allah]] — Keutamaan fisik pejuang yang berdebu di jalan Allah sebagai asbab perlindungan dari api neraka. (status: seed)
 - [[Keutamaan Bershalawat Kepada Nabi]] — **Keutamaan Bershalawat Kepada Nabi** adalah anjuran dan kewajiban bagi setiap Muslim untuk memoh... (status: seed)
 - [[Keutamaan Diam]] — **Keutamaan Diam** (*As-Samt*) adalah disiplin akhlak Islam dalam menahan lisan dari ucapan sia-s... (status: seed)
@@ -237,6 +239,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Masjid]] — Rumah ibadah suci umat Islam yang berfungsi sebagai pusat sujud, shalat berjamaah, dan pembinaan ... (status: evergreen)
 - [[Memberi Makan Orang Lapar]] — **Memberi Makan Orang Lapar** (*It'amul Muslim al-Saghban*) adalah amalan kebajikan sosial terbes... (status: seed)
 - [[Menahan Amarah]] — **Menahan Amarah** (*Kadhul Ghaizh* / كظم الغيظ) adalah kemampuan spiritual dan emosional seorang... (status: seed)
+- [[Mendesak dalam Berdoa]] — Sikap gigih, bersungguh-sungguh, dan terus-menerus memohon kepada Allah SWT tanpa rasa bosan. (status: seed)
 - [[Menerima Pemberian Tanpa Meminta]] — **Menerima Pemberian Tanpa Meminta** adalah adab dalam hukum muamalah Islam di mana seorang Musli... (status: seed)
 - [[Menerima Permintaan Maaf]] — **Menerima Permintaan Maaf** (*Qabulul Udzur* / قبول العذر) adalah kelapangan jiwa seorang Muslim... (status: seed)
 - [[Menghidupkan Malam-Malam Mulia]] — **Menghidupkan Malam-Malam Mulia** (Ihya'ul Layali) adalah menghidupkan malam hari raya/dzulhijjah tertentu dengan ibadah berbuah surga. (status: seed)
@@ -266,6 +269,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Penebusan Dosa Melalui Had]] — Konsep bahwa penegakan hukum pidana syariat (had) menjadi kaffarah dosa pelaku di akhirat. (status: seed)
 - [[Penggabungan Makanan]] — Penggabungan makanan (*food combining*) adalah prinsip mengatur kombinasi jenis makanan yang diko... (status: seed)
 - [[Pengkhianatan dan Ingkar Janji]] — **Pengkhianatan dan Ingkar Janji** adalah tindakan menyalahgunakan amanah (*perfidy/treachery*), ... (status: seed)
+- [[Penyakit Asmara (Al-Isyq)]] — Gangguan hati berupa ketertarikan kasmaran berlebihan kepada lawan jenis yang merusak orientasi ibadah. (status: seed)
+- [[Penyembahan Kubur]] — Bentuk syirik akbar berupa pengultusan, berdoa, atau memohon bantuan (istighatsah) langsung kepada penghuni kubur wali/orang saleh. (status: seed)
 - [[Pergeseran Makna Istilah]] — **Pergeseran Makna Istilah** keagamaan adalah fenomena sejarah di mana istilah-istilah kunci dala... (status: evergreen)
 - [[Perlakuan Terhadap Budak]] — **Perlakuan Terhadap Budak** (hamba sahaya / *pelayan*) adalah konsep etika sosial Islam yang men... (status: seed)
 - [[Perlindungan dan Pengasuhan Anak Yatim]] — **Perlindungan dan Pengasuhan Anak Yatim** (*Kafalatul Yatim* / كفالة اليتيم) adalah kewajiban so... (status: seed)
@@ -605,6 +610,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 ## Sumber & Rujukan (Sources)
 - [[Abandoning the Group Prayer]] — Bab ke-65 (*Abandoning the Group Prayer and Praying Alone Without a Valid Excuse*) dan Bab ke-66 ... (status: seed)
 - [[Actions-and-Internal-Conditions-of-Prayer]] — Bab IV Bagian 2 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai gerakan lahiriah dan k... (status: evergreen)
+- [[ad-dawa-fadr-bagian2]] — Kajian syarah kitab *Ad-Da' wa Ad-Dawa'* (Penyakit dan Obatnya) oleh **[[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]]** mengenai doa, takdir, dan syirik. (status: seed)
 - [[Attachment-of-the-World]] — Catatan rujukan bab keenam dari Kitab Dzamm al-Dunya (Kecaman Terhadap Dunia) dalam Ihya' Ulumiddin. (status: seed)
 - [[Backbiting Not Limited to Speech]] — **Backbiting Not Limited to Speech** (Ghibah Tidak Terbatas pada Ucapan Lisan) merupakan bagian d... (status: seed)
 - [[Blameworthy-Sciences-and-Changing-Meanings]] — Ringkasan dari Bab I Bagian 3 (Seksi 3) *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai klas... (status: evergreen)
