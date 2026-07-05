@@ -10,6 +10,7 @@ VAULT_ROOT = Path("/Users/firasrafislam/Documents/ilmuzip-vault")
 WIKI_DIR = VAULT_ROOT / "wiki"
 MANIFEST_PATH = VAULT_ROOT / ".raw" / ".manifest.json"
 COUNTER_PATH = VAULT_ROOT / ".vault-meta" / "address-counter.txt"
+LEGACY_PAGES_PATH = VAULT_ROOT / ".vault-meta" / "legacy-pages.txt"
 
 def parse_frontmatter(content):
     lines = content.split('\n')
@@ -99,6 +100,15 @@ def main():
         except Exception as e:
             print(f"Error reading manifest: {e}")
             
+    # Load legacy pages list
+    legacy_pages = set()
+    if LEGACY_PAGES_PATH.is_file():
+        with open(LEGACY_PAGES_PATH, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    legacy_pages.add(line)
+            
     peek_value = run_peek_counter()
     
     # Excluded files for validation & orphan checks
@@ -120,6 +130,9 @@ def main():
     # Stats & Issue buckets
     scanned_count = len(all_md_files)
     issues_found = 0
+    post_rollout_checked = 0
+    post_rollout_errors = 0
+    legacy_pending_backfill = 0
     
     orphans = []
     dead_links = [] # list of dict: {source, target, display}
@@ -165,7 +178,10 @@ def main():
         address = fm.get("address") if fm else None
         
         if not excluded:
-            # Post-rollout pages must have address
+            # Check if page is in legacy manifest
+            is_legacy = str(rel_path_str) in legacy_pages
+            
+            # Post-rollout pages must have address (unless legacy)
             # (In this vault, all pages are created post-rollout June 2026)
             created_str = fm.get("created") if fm else None
             # Check if created is valid date
@@ -178,31 +194,41 @@ def main():
                 except:
                     pass
             
+            # Legacy pages don't need addresses
+            if is_legacy:
+                is_post_rollout = False
+            
             if is_post_rollout:
-                if not address:
-                    address_errors.append(f"[[{basename}]]: missing address. Page created {created_str or 'unknown'} (post-rollout); address required.")
+                post_rollout_checked += 1
+                
+            if address:
+                # Format check
+                if not re.match(r"^[cl]-[0-9]{6}$", address):
+                    address_errors.append(f"[[{basename}]]: invalid address format `{address}`. Expected `c-NNNNNN` or `l-NNNNNN`.")
                     issues_found += 1
                 else:
-                    # Format check
-                    if not re.match(r"^[cl]-[0-9]{6}$", address):
-                        address_errors.append(f"[[{basename}]]: invalid address format `{address}`. Expected `c-NNNNNN` or `l-NNNNNN`.")
-                        issues_found += 1
-                    else:
-                        # Counter consistency for c- addresses
-                        if address.startswith("c-"):
-                            try:
-                                addr_val = int(address.split("-")[1])
-                                if addr_val >= peek_value:
-                                    address_errors.append(f"[[{basename}]] has address `{address}` but counter peek is `{peek_value}`. Counter drift.")
-                                    issues_found += 1
-                            except ValueError:
-                                pass
-                                
-                    # Address-map consistency with manifest
-                    manifest_addr = manifest_address_map.get(rel_path_str)
-                    if manifest_addr != address:
-                        manifest_mismatches.append(f"`.raw/.manifest.json` maps `{rel_path_str}` -> `{manifest_addr}` but page frontmatter has `{address}`.")
-                        issues_found += 1
+                    # Counter consistency for c- addresses
+                    if address.startswith("c-"):
+                        try:
+                            addr_val = int(address.split("-")[1])
+                            if addr_val >= peek_value:
+                                address_errors.append(f"[[{basename}]] has address `{address}` but counter peek is `{peek_value}`. Counter drift.")
+                                issues_found += 1
+                        except ValueError:
+                            pass
+                            
+                # Address-map consistency with manifest
+                manifest_addr = manifest_address_map.get(rel_path_str)
+                if manifest_addr != address:
+                    manifest_mismatches.append(f"`.raw/.manifest.json` maps `{rel_path_str}` -> `{manifest_addr}` but page frontmatter has `{address}`.")
+                    issues_found += 1
+            else:
+                if is_post_rollout:
+                    post_rollout_errors += 1
+                    address_errors.append(f"[[{basename}]]: missing address. Page created {created_str or 'unknown'} (post-rollout); address required.")
+                    issues_found += 1
+                elif is_legacy:
+                    legacy_pending_backfill += 1
         else:
             # For excluded pages, they should not have address
             if address:
@@ -401,6 +427,8 @@ def main():
         except:
             pass
     report_lines.append(f"- Highest c- address observed: `c-{max_c:06d}`" if max_c else "- Highest c- address observed: `none`")
+    report_lines.append(f"- Post-rollout pages checked: {post_rollout_checked} ({post_rollout_checked - post_rollout_errors} passing, {post_rollout_errors} errors)")
+    report_lines.append(f"- Legacy pages pending backfill: {legacy_pending_backfill}")
     
     address_errors_count = len(address_errors) + len(manifest_mismatches) + len(duplicate_errors)
     report_lines.append(f"- Address errors found: {address_errors_count}")
@@ -425,6 +453,10 @@ def main():
             
     if not has_errors:
         report_lines.append("- None found.")
+    report_lines.append("")
+    
+    report_lines.append("### Pending backfill (informational)")
+    report_lines.append(f"- {legacy_pending_backfill} legacy pages without addresses. See `.vault-meta/legacy-pages.txt` for the canonical legacy set, or filter by `created:` < 2026-04-23.")
     report_lines.append("")
     
     report_lines.append("## Semantic Tiling")
