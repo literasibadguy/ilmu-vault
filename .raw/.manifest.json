@@ -2351,6 +2351,36 @@
         "wiki/hot.md",
         "wiki/log.md"
       ]
+    },
+    ".raw/meem_part_21.md": {
+      "hash": "04f5bcce437c9e42825f59afe7434b3c",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_21.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Bencana Lisan.md",
+        "wiki/concepts/Sumpah Palsu.md",
+        "wiki/concepts/Hukum Kaffarah Sumpah.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/meem_part_22.md": {
+      "hash": "2e39631dfe26f6845f458756685ad696",
+      "ingested_at": "2026-07-06",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_22.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Menutupi Aib Muslim.md",
+        "wiki/concepts/Ghibah.md",
+        "wiki/concepts/Fikih Puasa.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
     }
   },
   "address_map": {
@@ -2902,6 +2932,8 @@
     "wiki/sources/Ihya-Repentance-Book-One/Ihya-Repentance-Book-One-Part-09.md": "c-000426",
     "wiki/sources/Ihya-Repentance-Book-One/Ihya-Repentance-Book-One-Part-10.md": "c-000427",
     "wiki/sources/Ketergantungan Dunia Part 2.md": "c-000212",
-    "wiki/sources/Ketergantungan Dunia Part 3.md": "c-000213"
+    "wiki/sources/Ketergantungan Dunia Part 3.md": "c-000213",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_21.md": "c-000556",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_22.md": "c-000557"
   }
 }

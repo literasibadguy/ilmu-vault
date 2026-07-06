@@ -2,7 +2,7 @@
 type: meta
 title: "Operation Log"
 created: "2026-06-07"
-updated: "2026-07-05"
+updated: "2026-07-06"
 tags:
   - meta
   - log
@@ -15,6 +15,14 @@ related:
 
 
 # Catatan Operasi (Operation Log)
+
+## [2026-07-06] Ingestion: Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 21 & 22
+- Sumber: `.raw/meem_part_21.md` dan `.raw/meem_part_22.md`
+- Ringkasan: [[meem_part_21]], [[meem_part_22]]
+- Halaman dibuat (2):
+  - Sumber (2): [[meem_part_21]], [[meem_part_22]]
+- Halaman diperbarui: [[index]], [[log]], [[hot]], [[Menutupi Aib Muslim]], [[Bencana Lisan]], [[Ghibah]], [[Sumpah Palsu]], [[Hukum Kaffarah Sumpah]], [[Fikih Puasa]]
+- Tindakan: Mengimpor berkas split markdown berukuran masing-masing ~29KB, menulis 2 halaman sumber baru dengan alamat unik `c-000556` dan `c-000557`, memperbarui konsep-konsep terkait untuk merujuk pada bagian yang baru dibuat (seperti fikih muntah dalam puasa, sumpah palsu yamin al-sabr, istitsna sumpah, perlindungan kehormatan muslim dari ghibah, dan penutupan aib), serta memperbarui katalog index, hot cache, dan manifest delta tracking.
 
 ## [2026-07-05] Ingestion: Syarah Ad-Da' wa Ad-Dawa' - Bagian 2
 - Sumber: `.raw/ad-dawa-fadr-bagian2.srt`

@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-07-05 | Total halaman: 674 | Sumber diimpor: 102
+Terakhir diperbarui: 2026-07-06 | Total halaman: 678 | Sumber diimpor: 106
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -687,6 +687,10 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[meem_part_16]] — Kumpulan hadis huruf Meem Bagian 16 dari *Fayd al-Qadir* Jilid 6: penjelasan aib niaga, haram khamr/babi, berkah tanah/rumah, kulit kurban, keutamaan salam, bahaya badia, riddah, bakti orang tua, batas ta'zir, keutamaan bangun masjid, dan celaan boros bangunan. (status: seed)
 - [[meem_part_17]] — Kumpulan hadis huruf Meem Bagian 17 dari *Fayd al-Qadir* Jilid 6: batas waktu taubat, sifat tenang (ta'anni), larangan selibat, memikul jenazah, dusta mimpi, adab Jumat, dan ancaman meninggalkan shalat. (status: seed)
 - [[meem_part_18]] — Kumpulan hadis huruf Meem Bagian 18 dari *Fayd al-Qadir* Jilid 6: menikah menyempurnah agama, laknat riya akhirat, larangan tasyabbuh, khasiat kurma ajwah, dhaman malpraktik medis, larangan jimat, dan spekulasi harga pokok. (status: seed)
+- [[meem_part_19]] — Kumpulan hadis huruf Meem Bagian 19 dari *Fayd al-Qadir* Jilid 6: larangan wudhu di tempat buang air, larangan menolak pemberian wewangian, shalat jamaah di rumah/safar, bahaya suap, dan larangan menimbun makanan pokok. (status: seed)
+- [[meem_part_20]] — Kumpulan hadis huruf Meem Bagian 20 dari *Fayd al-Qadir* Jilid 6: menjaga kesehatan akal penghafal Al-Quran, keutamaan membekali pejuang, keutamaan shalat sunnah rawatib Zhuhur, ibadah haji/umrah badal, ziarah makam nabi, dan larangan hadits palsu. (status: seed)
+- [[meem_part_21]] — Kumpulan hadis huruf Meem Bagian 21 dari *Fayd al-Qadir* Jilid 6: menjaga lisan/kemaluan, larangan sumpah selain Allah, sumpah palsu yamin al-sabr/sabri, istitsna sumpah, larangan mengangkat senjata, tarbi' memikul jenazah, keutamaan 40 hadits, dan larangan takhbib. (status: seed)
+- [[meem_part_22]] — Kumpulan hadis huruf Meem Bagian 22 dari *Fayd al-Qadir* Jilid 6: dakwah petunjuk hidayah vs kesesatan, mendoakan saudara seiman secara rahasia, memaafkan kezhaliman, walimah pernikahan, keutamaan menahan amarah, membela kehormatan muslim dari ghibah, fikih muntah puasa, menangis karena takut Allah, bershalawat, menutup aib muslim, dan penyakit Ain. (status: seed)
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]] — Bab dari kitab *Zad al-Ma'ad* karya **Ibnul Qayyim Al-Jauziyyah** yang menguraikan petunjuk **Nab... (status: seed)
 - [[Mysteries-of-Cleanliness-and-Purification]] — Bab III Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai hakikat batin bersuci... (status: evergreen)
 - [[Neglect of the Prayer]] — Bab ke-4 dari kitab *Kitab al-Kaba'ir* karya **Imam Adh-Dhahabi** yang membahas secara mendalam d... (status: seed)

@@ -2,7 +2,7 @@
 type: meta
 title: "Hot Cache"
 created: "2026-06-07"
-updated: "2026-07-05"
+updated: "2026-07-06"
 tags: [meta, hot-cache]
 status: evergreen
 related:
@@ -14,18 +14,18 @@ related:
 Navigasi: [[index|Indeks]] | [[log|Catatan Operasi]] | [[overview|Ringkasan]]
 
 ## Terakhir Diperbarui
-2026-07-05. Mengimpor dan mengonversi transkrip kajian **[[ad-dawa-fadr-bagian2]]** oleh **[[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]]** mengenai bab doa dari kitab *Ad-Da' wa Ad-Dawa'*. Membuat 4 konsep baru (Ketergesaan dalam Berdoa, Mendesak dalam Berdoa, Penyakit Asmara, dan Penyembahan Kubur) serta memperbarui profil Syaikh Abdurrazzaq, Ibnul Qayyim, dan konsep Du'a.
+2026-07-06. Mengimpor dan mengonversi hadits-hadits split markdown **[[meem_part_21]]** dan **[[meem_part_22]]** dari kitab *Fayd al-Qadir* karya **[[Abdur Ra'uf al-Munawi]]**. Memperbarui konsep-konsep berkaitan dengan bahaya ghibah dan buhtan, pengecualian denda sumpah melalui lafal istitsna, hukum muntah dalam puasa, dan studi kasus penutupan aib oleh sahabat Uqbah bin Amir.
 
 ## Fakta Kunci Terbaru
-- **Doa Penolak Bala**: Doa memiliki 3 tingkatan kekuatan dalam menghadapi musibah (menolak total, meringankan, atau bertarung seimbang hingga kiamat) (**[[Du'a]]**, **[[ad-dawa-fadr-bagian2]]**).
-- **Ketergesaan Penghalang Doa**: Sikap bosan/jenuh merasa doa tidak kunjung dikabulkan (*isti'jal*) menjadi penghalang utama terkabulnya doa (**[[Ketergesaan dalam Berdoa]]**, **[[ad-dawa-fadr-bagian2]]**).
-- **Mendesak dalam Berdoa**: Sikap mengulang-ulang doa dengan gigih (*al-ilhah*) sangat dicintai Allah dan membuka pintu rahmat-Nya (**[[Mendesak dalam Berdoa]]**, **[[ad-dawa-fadr-bagian2]]**).
-- **Penyembahan Kubur**: Berdoa atau beristighatsah langsung ke makam wali/orang saleh merupakan bentuk syirik akbar pembatal amal (**[[Penyembahan Kubur]]**, **[[ad-dawa-fadr-bagian2]]**).
-- **Terapi Penyakit Asmara**: Risalah *Ad-Da' wa Ad-Dawa'* disusun khusus sebagai terapi penyembuh penyakit kasmaran berlebihan (*al-isyq*) (**[[Penyakit Asmara (Al-Isyq)]]**, **[[ad-dawa-fadr-bagian2]]**).
+- **Penyembunyian Aib**: Menutupi cela/aib pribadi sesama Muslim yang tidak terang-terangan berbuat fasik diibaratkan seperti menyelamatkan nyawa bayi perempuan dari kuburnya (**[[Menutupi Aib Muslim]]**, **[[meem_part_22]]**).
+- **Muntah Saat Puasa**: Muntah tanpa sengaja tidak merusak puasa, sedangkan sengaja memicu muntah membatalkan puasa dan wajib diqadha (**[[Fikih Puasa]]**, **[[meem_part_22]]**).
+- **Kebenaran Istitsna**: Mengucapkan *"Insya Allah"* secara tersambung setelah sumpah menggugurkan kewajiban membayar denda sumpah jika sumpah dilanggar (**[[Hukum Kaffarah Sumpah]]**, **[[meem_part_21]]**).
+- **Yamin al-Sabr**: Sumpah palsu di hadapan hakim pengadilan untuk menyita tanah/harta adalah dosa besar yang mendatangkan murka Allah, seperti kisah sengketa Al-Asy'ats bin Qais (**[[Sumpah Palsu]]**, **[[meem_part_21]]**).
+- **Pembelaan Kehormatan**: Menepis ghibah dan membela kehormatan saudara seiman di hadapan orang lain mendatangkan pembebasan jasad dari api neraka (**[[Ghibah]]**, **[[meem_part_22]]**).
 
 ## Perubahan Terbaru
-- Dibuat: [[ad-dawa-fadr-bagian2]], [[Ketergesaan dalam Berdoa]], [[Mendesak dalam Berdoa]], [[Penyakit Asmara (Al-Isyq)]], [[Penyembahan Kubur]].
-- Diperbarui: [[index]], [[log]], [[hot]], [[Du'a]], [[Syaikh Abdurrazzaq bin Abdulmuhsin al-Badr]], [[Ibnul Qayyim Al-Jauziyyah]].
+- Dibuat: [[meem_part_21]], [[meem_part_22]].
+- Diperbarui: [[index]], [[log]], [[hot]], [[Menutupi Aib Muslim]], [[Bencana Lisan]], [[Ghibah]], [[Sumpah Palsu]], [[Hukum Kaffarah Sumpah]], [[Fikih Puasa]].
 
 ## Alur Kerja Aktif
 - Melakukan verifikasi kesehatan wiki menggunakan `scripts/lint-vault.py` dan menjaga konsistensi DragonScale address map.

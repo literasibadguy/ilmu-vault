@@ -13,8 +13,10 @@ status: seed
 related:
   - "[[Menjaga Kehormatan Muslim]]"
   - "[[Ghibah]]"
+  - "[[meem_part_22]]"
 sources:
   - "[[meem_part_12]]"
+  - "[[meem_part_22]]"
 address: c-000464
 ---
 
@@ -28,10 +30,15 @@ Dalam Islam, menjaga rahasia kehormatan sesama Muslim (*Satrul 'Aurat / Satrul M
 
 ## Landasan Syariat
 
-- Rasulullah SAW bersabda dalam hadis riwayat Abu Hurairah:
+- Rasulullah SAW bersabda dalam hadis riwayat Uqbah bin Amir:
+  > *"Barangsiapa melihat aib (aurat) saudaranya lalu ia menyembunyikannya (menutupinya), ia laksana menghidupkan kembali bayi perempuan yang dikubur hidup-hidup dari kuburnya."* (HR. Bukhari dalam al-Adab al-Mufrad, Abu Dawud, Al-Hakim)
+- Hadis riwayat Abu Hurairah tentang anjuran menutupi keburukan:
   > *"Barangsiapa memadamkan (menyembunyikan) keburukan/aib seorang mukmin, maka pahalanya seperti pahala orang yang menghidupkan kembali bayi perempuan yang dikubur hidup-hidup (wa'idah)."* (HR. Al-Bayhaqi)
 - Hadis masyhur pendukung:
   > *"Barangsiapa menutupi aib seorang Muslim, Allah akan menutupi aibnya di dunia dan di akhirat."* (HR. Muslim)
+
+### Studi Kasus Sahabat: Uqbah bin Amir
+Dalam syarah [[Abdur Ra'uf al-Munawi]] (**[[meem_part_22]]**), sekretaris Uqbah bin Amir bernama Dujain menceritakan bahwa mereka memiliki tetangga yang suka meminum khamr. Dujain berniat melaporkan mereka kepada petugas keamanan patrolei (syurthah). Namun, Uqbah bin Amir melarangnya dan berkata: *"Jangan panggil mereka (polisi), melainkan nasehatilah dan berilah peringatan."* Ketika Dujain merasa mereka tidak mau berhenti dan tetap ingin memanggil polisi, Uqbah menegaskan hadits larangan menyebarkan aib tersebut dan menyarankan untuk tetap membina mereka secara tersembunyi tanpa melibatkan otoritas penguasa jika aib tersebut tidak merugikan orang banyak secara langsung.
 
 ## Ruang Lingkup dan Batasan Menerapkan Satrul Muslim
 
@@ -46,3 +53,4 @@ Dalam Islam, menjaga rahasia kehormatan sesama Muslim (*Satrul 'Aurat / Satrul M
 ## Sumber
 
 - [[meem_part_12]]
+- [[meem_part_22]]

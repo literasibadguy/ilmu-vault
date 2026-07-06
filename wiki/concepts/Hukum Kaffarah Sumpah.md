@@ -13,8 +13,10 @@ status: seed
 tags: [concept, fikih, muamalah]
 related:
   - "[[Sumpah Palsu]]"
+  - "[[meem_part_21]]"
 sources:
   - "[[meem_part_20]]"
+  - "[[meem_part_21]]"
 ---
 
 # Hukum Kaffarah Sumpah
@@ -32,6 +34,12 @@ Islam melarang keras seseorang bersikap keras kepala mempertahankan sumpahnya ji
 Nabi ﷺ bersabda:
 > *«Barangsiapa bersumpah atas suatu hal lalu ia melihat hal lain yang lebih baik darinya, hendaklah ia mendatangi kebaikan tersebut (melanggar sumpahnya) dan membayar kaffarah atas sumpahnya.»* (HR. Ahmad, Muslim, dan Tirmidzi dari **[[Abu Hurayrah]]** dalam **[[meem_part_20]]**).
 
+## Pengecualian Kaffarah Melalui Istitsna
+Dalam **[[meem_part_21]]** diterangkan bahwa seseorang terbebas dari tuntutan kaffarah sumpah bila ia mengucapkan kalimat pengecualian (*istitsna*) berupa lafal *"Insya Allah"* (*jika Allah menghendaki*) secara langsung tersambung (*muttashil*) setelah mengucapkan lafal sumpahnya.
+
+Nabi ﷺ bersabda:
+> *«Barangsiapa bersumpah lalu mengucapkan "Insya Allah", maka ia telah melakukan istitsna dan tidak ada dosa/kaffarah atasnya jika ia melanggarnya.»* (HR. Abu Dawud, An-Nasa'i, Al-Hakim dari **[[Ibnu Umar]]**).
+
 ## Bentuk-bentuk Kaffarah Sumpah
 
 Berdasarkan ketentuan Al-Quran (QS. Al-Ma'idah: 89), kaffarah sumpah dilakukan secara bertahap (*tartib* dan *takhyir*):
@@ -48,3 +56,4 @@ Seseorang tidak diperbolehkan langsung memilih puasa jika ia masih memiliki kema
 ## Sumber
 
 - [[meem_part_20]]
+- [[meem_part_21]] (Pengecualian kaffarah via lafal istitsna).

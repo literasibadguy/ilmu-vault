@@ -32,16 +32,8 @@ sources:
   - "[[Harms 17 and 18 Hypocrisy and Praise]]"
   - "[[Harms 19 and 20 Carelessness and Attributes]]"
   - "[[meem_part_20]]"
+  - "[[meem_part_21]]"
 ---
-
-
-
-
-
-
-
-
-
 
 # Bencana Lisan (Aflat al-Lisan)
 
@@ -81,3 +73,4 @@ Cara utama mengobati lisan dari bencana-bencana di atas adalah menyadari secara 
 ## Sumber
 - [[Introduction and Silence]]
 - [[meem_part_20]]
+- [[meem_part_21]]

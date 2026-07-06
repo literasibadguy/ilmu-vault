@@ -17,8 +17,10 @@ status: seed
 related:
   - "[[Kesaksian Palsu]]"
   - "[[Mengonsumsi Harta Haram]]"
+  - "[[meem_part_21]]"
 sources:
   - "[[meem_part_02]]"
+  - "[[meem_part_21]]"
 ---
 
 # Sumpah Palsu
@@ -39,6 +41,12 @@ Nabi SAW bersabda: *"Termasuk sebesar-besar dosa besar adalah syirik kepada Alla
 
 Sumpah palsu merusak tatanan peradilan dan meruntuhkan kepercayaan sosial. Ketika seseorang berani mempermainkan sumpah nama Allah, maka instrumen penegakan hukum akan lumpuh karena kebenaran menjadi tidak terlindungi.
 
+### Yamin al-Sabr dan Kisah Al-Asy'ats bin Qais
+Dalam **[[meem_part_21]]**, sumpah palsu untuk merebut harta orang lain juga diistilahkan sebagai *Yamin al-Sabr* (يَمين صَبْر), yaitu sumpah yang dipaksakan atau ditetapkan oleh hakim pengadilan kepada tertuduh/terdakwa. 
+
+Asal-usul hadits larangan ini dilatarbelakangi oleh sengketa tanah di Yaman antara **[[Ammar bin Yasir|Al-Asy'ats bin Qais]]** (tokoh Kabilah Kindah) dengan mitranya yang berujung pada persidangan di hadapan Rasulullah ﷺ. Karena Al-Asy'ats tidak memiliki bukti tertulis (*bayyinah*), Rasulullah ﷺ memutuskan bahwa tergugat berhak mengajukan sumpah. Al-Asy'ats sempat keberatan karena ia menduga mitranya akan berani bersumpah dusta demi tanah tersebut. Saat itulah Rasulullah ﷺ menegaskan ancaman keras bagi pelaku sumpah palsu, lalu turun ayat 77 Surat Ali Imran:
+> *"Sesungguhnya orang-orang yang menukar janji Allah dan sumpah-sumpah mereka dengan harga yang murah, mereka itu tidak mendapat bahagian (pahala) di akhirat..."*
+
 ## Hubungan
 
 - **[[Kesaksian Palsu]]** — Sumpah dusta sering kali digunakan untuk memperkuat kesaksian palsu di pengadilan.
@@ -47,3 +55,4 @@ Sumpah palsu merusak tatanan peradilan dan meruntuhkan kepercayaan sosial. Ketik
 ## Sumber
 
 - **[[meem_part_02]]** (Hadits tentang sumpah ghamus sebagai dosa besar terburuk).
+- **[[meem_part_21]]** (Syarah mengenai yamin al-sabr dan sengketa Al-Asy'ats bin Qais).

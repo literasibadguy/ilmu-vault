@@ -16,8 +16,10 @@ tags:
 status: seed
 related:
   - "[[Suhur]]"
+  - "[[meem_part_22]]"
 sources:
   - "[[meem_part_13]]"
+  - "[[meem_part_22]]"
 address: c-000487
 ---
 
@@ -49,6 +51,14 @@ Dalam syarah *Fayd al-Qadir* atas hadis-hadis huruf Meem bagian 13, dibahas bebe
   - **Mazhab Maliki**: Berpendapat bahwa ia tetap wajib mengqadha hari tersebut karena nawaitu puasanya terputus oleh masuknya makanan secara fisik.
   - **Argumentasi Syafi'iyah**: Berpegang teguh pada hadis di atas serta sabda Nabi SAW bahwa perbuatan lupa merupakan bentuk pemberian makan dan minum langsung dari Allah (*fainnama ath'amahullahu wa saqahu*).
 
+### 4. Hukum Muntah Saat Puasa (Bagian 22)
+- Hadis dari **[[Abu Hurayrah]]**:
+  > *«Barangsiapa didesak muntah (muntah tanpa sengaja) sementara ia berpuasa, maka tidak ada qadha atasnya. Dan barangsiapa sengaja memicu muntah, hendaklah ia mengqadha puasanya.»* (HR. Al-Hakim, Tirmidzi, Abu Dawud dalam **[[meem_part_22]]**)
+- **Syarah & Pembagian Hukum**: 
+  - **Muntah Alami (Tanpa Sengaja)**: Keluar dengan sendirinya akibat sakit atau mual. Tidak membatalkan puasa dan tidak wajib mengqadha.
+  - **Sengaja Memicu Muntah (Istiga'ah)**: Sengaja memaksakan muntah (seperti memasukkan jari ke dalam tenggorokan). Membatalkan puasa dan pelakunya wajib membayar qadha setelah Ramadhan berakhir.
+
 ## Sumber
 
 - [[meem_part_13]]
+- [[meem_part_22]] (Fikih muntah saat berpuasa).

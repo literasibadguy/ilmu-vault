@@ -8,8 +8,8 @@ created: 2026-06-16
 updated: 2026-07-04
 tags: 
 status: developing
-related: [, [[meem_part_15]]]
-sources: [, [[meem_part_15]], [[meem_part_16]]]
+related: [ [[meem_part_15]], [[meem_part_22]] ]
+sources: [ [[meem_part_15]], [[meem_part_16]], [[meem_part_22]] ]
 ---
 
 
@@ -63,7 +63,8 @@ Islam mengutuk keras perbuatan ghibah melalui berbagai sumber dalil syariat:
 Islam menetapkan bahwa pendengar ghibah menanggung dosa yang sama dengan pembicara ghibah jika ia mendengarkannya dengan rida, merasa takjub, atau diam saja tanpa membantah. Nabi SAW bersabda: *"Pendengar adalah salah satu dari dua orang yang berghibah."*
 
 Untuk terbebas dari dosa ini, pendengar wajib:
-1. **Membantah secara Lisan**: Menegur pelaku ghibah secara langsung untuk diam.
+1. **Membantah secara Lisan (Membela Kehormatan Saudara)**: Menegur pelaku ghibah secara langsung untuk diam dan membela kehormatan orang yang digunjingkan. Rasulullah ﷺ bersabda:
+   > *"Barangsiapa membela kehormatan saudaranya saat digunjing (ghibah), adalah hak bagi Allah untuk membebaskannya dari api neraka."* (HR. Ahmad, Thabarani dari **[[Asma' bint Yazid]]** dalam **[[meem_part_22]]**).
 2. **Menolak dalam Hati**: Jika takut/terancam untuk menegur lisan, ia wajib membenci gunjingan tersebut di dalam hatinya. Mengatakan "diam" secara lisan sementara hati ingin mendengar lebih jauh adalah kemunafikan.
 3. **Mengubah Pembicaraan / Meninggalkan Majelis**: Berusaha mengalihkan pembicaraan atau bangkit berdiri meninggalkan tempat gunjingan tersebut. Gestur isyarat alis atau tangan saja tidak dianggap cukup jika masih terus berdiam mendengarkan.
 
