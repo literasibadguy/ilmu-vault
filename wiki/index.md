@@ -2,7 +2,7 @@
 type: meta
 title: "Wiki Index"
 created: "2026-06-07"
-updated: "2026-07-04"
+updated: "2026-07-07"
 tags:
   - meta
   - index
@@ -15,7 +15,7 @@ related:
 
 # Indeks Wiki
 
-Terakhir diperbarui: 2026-07-06 | Total halaman: 678 | Sumber diimpor: 106
+Terakhir diperbarui: 2026-07-07 | Total halaman: 687 | Sumber diimpor: 108
 
 Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terbaru]]
 
@@ -58,9 +58,10 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Bahaya Debat]] — **Bahaya Debat** (*harms and evils of debates*) merujuk pada dampak negatif yang sangat merusak b... (status: evergreen)
 - [[Bahaya Harta]] — **Bahaya Harta** mencakup konsekuensi kelalaian berzikir, dorongan syahwat/maksiat, dan pintu fitnah spiritual. (status: seed)
 - [[Bahaya Kebohongan]] — **Kebohongan** (*al-kadzib*) adalah tindakan menyampaikan informasi yang bertentangan dengan keny... (status: seed)
-- [[Bahaya Khamr]] — **Bahaya Khamr** mencakup konsekuensi teologis, hukuman ukhrawi (akhirat), dampak sosial, dan ker... (status: seed)
-- [[Bahaya Pujian]] — **Bahaya Pujian** adalah kecanduan pujian manusia (Hubbul Madh) dan ketakutan berlebih akan celaan. (status: seed)
-- [[Bahaya Riya dalam Menuntut Ilmu]] — **Bahaya Riya dalam Menuntut Ilmu** adalah ancaman spiritual berupa murka Allah dan siksa neraka ... (status: seed)
+- [[Bahaya Khamr]] — **Bahaya Khamr** (*khamr*) dalam fikih Islam dihukum sebagai induk keburukan yang merusak akal da... (status: seed)
+- [[Bahaya Pujian]] — **Bahaya Pujian** (*harms of praise*) adalah dampak psikologis dan spiritual negatif dari pujian ... (status: evergreen)
+- [[Bahaya Riya dalam Menuntut Ilmu]] — **Bahaya Riya dalam Menuntut Ilmu** adalah motivasi menuntut ilmu syar'i demi tujuan duniawi y... (status: seed)
+- [[Bahaya Takfir]] — Bahaya dan konsekuensi dosa menuduh kafir sesama muslim (takfir) yang disetarakan dengan pembunuhan. (status: seed)
 - [[Barzakh]] — **Barzakh** secara bahasa berarti pembatas atau sekat antara dua hal. Dalam terminologi akidah Is... (status: seed)
 - [[Batasan Ketaatan Kepada Pemimpin]] — Batas kepatuhan di mana tidak ada ketaatan dalam maksiat kepada Allah. (status: seed)
 - [[Bencana Lisan]] — **Bencana Lisan** (*Aflat al-Lisan*) adalah kumpulan penyakit hati dan kesalahan moral yang diwuj... (status: developing)
@@ -188,13 +189,12 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Keutamaan Menghafal Al-Quran]] — Kemuliaan derajat di dunia dan akhirat bagi para huffaz Al-Quran yang berakhlak mulia. (status: seed)
 - [[Keutamaan Mengikuti Al-Quran]] — **Keutamaan Mengikuti Al-Quran** adalah jaminan keselamatan kehidupan dunia dan perlindungan akhi... (status: seed)
 - [[Keutamaan Menuntut Ilmu]] — **Keutamaan Menuntut Ilmu** (Thalabul Ilmi) adalah salah satu konsep sentral dalam ajaran Islam y... (status: developing)
+- [[Keutamaan Ribat]] — Keutamaan bersiap siaga di perbatasan wilayah muslim (ribat) untuk menjaga keamanan umat. (status: seed)
 - [[Keutamaan Sifat Lembut]] — Fadhilah memiliki sifat lemah lembut (rifq) dalam segala urusan kehidupan manusia. (status: seed)
 - [[Keutamaan Syafaat Pernikahan]] — **Keutamaan Syafaat Pernikahan** (menjadi perantara/mak comblang dalam pernikahan) adalah anjuran... (status: seed)
 - [[Keutamaan Talbiyah]] — Keistimewaan membaca talbiyah di bawah terik matahari bagi jamaah haji/umrah. (status: seed)
-- [[Keutamaan Talbiyah]] — Keistimewaan membaca talbiyah di bawah terik matahari bagi jamaah haji/umrah. (status: seed)
 - [[Kewajiban Hijrah]] — Kewajiban berpindah dari negeri syirik/maksiat ke negeri Islam demi keselamatan iman. (status: seed)
 - [[Kewajiban Imam Shalat]] — Pedoman syariat dan adab bagi orang yang memimpin shalat berjamaah. (status: seed)
-- [[Kewajiban Meluruskan Pemimpin]] — **Kewajiban Meluruskan Pemimpin** adalah tugas keagamaan dan sosial bagi setiap muslim, khususnya... (status: seed)utamaan Syafaat Pernikahan]] — **Keutamaan Syafaat Pernikahan** (menjadi perantara/mak comblang dalam pernikahan) adalah anjuran... (status: seed)
 - [[Kewajiban Meluruskan Pemimpin]] — **Kewajiban Meluruskan Pemimpin** adalah tugas keagamaan dan sosial bagi setiap muslim, khususnya... (status: seed)
 - [[Keyakinan Batin]] — **Keyakinan Batin** (*Yaqin*) adalah kemantapan iman di dalam hati tanpa menyisakan sedikit pun k... (status: evergreen)
 - [[Kezaliman Diri]] — **Kezaliman Diri** (*Zhulmul Nafsi*) adalah tindakan seorang hamba yang merugikan atau membahayak... (status: seed)
@@ -252,11 +252,14 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Menjaga Kehormatan Muslim]] — **Menjaga Kehormatan Muslim** adalah kewajiban syariat untuk melindungi harga diri, nama baik, da... (status: seed)
 - [[Menjaga Pandangan Mata]] — **Menjaga Pandangan Mata** (*Ghadhul Bashar*) adalah tindakan aktif membatasi pandangan mata dari... (status: seed)
 - [[Menjual Akhirat demi Dunia Orang Lain]] — **Menjual Akhirat demi Dunia Orang Lain** adalah kebodohan rohani terbesar di mana seseorang rela... (status: seed)
+- [[Menolong Sesama dalam Kesusahan]] — Aksi kepedulian sosial membantu meringankan beban atau menyelamatkan nyawa/harta dari bencana. (status: seed)
 - [[Menutupi Aib Muslim]] — Kewajiban etika sosial Islam untuk merahasiakan, menyembunyikan, dan tidak mempublikasikan cela sesama. (status: seed)
+- [[Menyayangi Hewan]] — Penerapan belas kasih terhadap seluruh makhluk hidup bernyawa, termasuk adab saat menyembelih hewan. (status: seed)
 - [[Menyembunyikan Dosa]] — **Menyembunyikan Dosa** adalah etika merahasiakan aib maksiat pribadi dari pandangan publik demi menjaga malu dan tobat nasuha. (status: seed)
 - [[Menyembunyikan Ilmu dan Niat Duniawi]] — **Menyembunyikan Ilmu dan Niat Duniawi** adalah perbuatan menuntut atau mengajarkan ilmu agama (*... (status: seed)
 - [[Menyenangkan Hati Mukmin]] — **Menyenangkan Hati Mukmin** (*Idkhalus Surur 'ala Al-Mukmin* / إدخال السرور على المؤمن) adalah a... (status: seed)
 - [[Menyingkirkan Rintangan di Jalan]] — **Menyingkirkan Rintangan di Jalan** adalah tindakan membuang duri atau gangguan dari jalan umum sebagai bukti iman. (status: seed)
+- [[Mimpi Melihat Nabi]] — Kabar gembira mimpi bertemu Rasulullah ﷺ, validitas perlindungan setan, dan takwil rupa beliau. (status: seed)
 - [[Mujahadah]] — Perjuangan bersungguh-sungguh memerangi hawa nafsu dan kecenderungan duniawi demi mendekatkan dir... (status: evergreen)
 - [[Nadzar]] — **Nadzar** (secara bahasa berarti berjanji) adalah komitmen sukarela yang diucapkan oleh seorang ... (status: mature)
 - [[Nama Agung Allah]] — **Nama Agung Allah** (*Ism Allāh al-A'zam*) adalah nama Allah yang paling agung, yang memiliki ke... (status: seed)
@@ -265,6 +268,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Nifaq]] — **Nifaq** (kemunafikan amali) adalah menampakkan ketakutan kepada Allah lebih dari yang sebenarnya ada di hati. (status: seed)
 - [[Nikah Tahlil]] — **Nikah Tahlil** (secara harfiah berarti pernikahan yang menghalalkan) adalah praktik pernikahan ... (status: seed)
 - [[Pajak Zhalim dan Pungutan Liar]] — **Pajak Zhalim dan Pungutan Liar** (*al-maks* atau bentuk jamaknya *al-mukus*) adalah penarikan h... (status: seed)
+- [[Pendidikan Anak]] — Prinsip asuhan jasmani-spiritual anak sejak dini dengan landasan ketauhidan dan adab Islam. (status: seed)
 - [[Pendidikan Anak Perempuan]] — **Pendidikan Anak Perempuan** dalam Islam merujuk pada keutamaan, tanggung jawab, dan tata cara m... (status: seed)
 - [[Penebusan Dosa Melalui Had]] — Konsep bahwa penegakan hukum pidana syariat (had) menjadi kaffarah dosa pelaku di akhirat. (status: seed)
 - [[Penggabungan Makanan]] — Penggabungan makanan (*food combining*) adalah prinsip mengatur kombinasi jenis makanan yang diko... (status: seed)
@@ -334,6 +338,7 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[Waswasah Setan]] — **Waswasah Setan** adalah bisikan halus dan samar yang ditiupkan oleh setan ke dalam hati atau da... (status: seed)
 - [[Wudhu]] — Tata cara menyucikan diri dari hadas kecil menggunakan air bersih pada empat anggota tubuh wajib ... (status: evergreen)
 - [[Ziarah Kubur]] — **Ziarah Kubur** adalah praktik mendatangi makam orang yang telah meninggal dunia dengan tujuan m... (status: seed)
+- [[Ziarah Makam Nabi Muhammad SAW]] — Keutamaan menziarahi makam Rasulullah ﷺ di Madinah yang menjanjikan perolehan syafaat khusus di hari kiamat. (status: seed)
 - [[Zuhud]] — **Zuhud** adalah sikap batiniah di mana seseorang membebaskan hatinya dari ketergantungan dan kec... (status: seed)
 
 ## Tokoh & Lembaga (Entities)
@@ -691,6 +696,8 @@ Navigasi: [[overview|Ringkasan]] | [[log|Catatan Operasi]] | [[hot|Konteks Terba
 - [[meem_part_20]] — Kumpulan hadis huruf Meem Bagian 20 dari *Fayd al-Qadir* Jilid 6: menjaga kesehatan akal penghafal Al-Quran, keutamaan membekali pejuang, keutamaan shalat sunnah rawatib Zhuhur, ibadah haji/umrah badal, ziarah makam nabi, dan larangan hadits palsu. (status: seed)
 - [[meem_part_21]] — Kumpulan hadis huruf Meem Bagian 21 dari *Fayd al-Qadir* Jilid 6: menjaga lisan/kemaluan, larangan sumpah selain Allah, sumpah palsu yamin al-sabr/sabri, istitsna sumpah, larangan mengangkat senjata, tarbi' memikul jenazah, keutamaan 40 hadits, dan larangan takhbib. (status: seed)
 - [[meem_part_22]] — Kumpulan hadis huruf Meem Bagian 22 dari *Fayd al-Qadir* Jilid 6: dakwah petunjuk hidayah vs kesesatan, mendoakan saudara seiman secara rahasia, memaafkan kezhaliman, walimah pernikahan, keutamaan menahan amarah, membela kehormatan muslim dari ghibah, fikih muntah puasa, menangis karena takut Allah, bershalawat, menutup aib muslim, dan penyakit Ain. (status: seed)
+- [[meem_part_23]] — Kumpulan hadis huruf Meem Bagian 23 dari *Fayd al-Qadir* Jilid 6: tingkatan amar ma'ruf nahi munkar, mimpi melihat Nabi SAW (validitas & hukumnya), larangan mencela Abu Bakar/Umar, keutamaan ribat di perbatasan, debu jihad kasturi akhirat, bahaya riya', pendidikan tauhid anak, kasih sayang hewan (burung pipit), dan membela kehormatan muslim. (status: seed)
+- [[meem_part_24]] — Kumpulan hadis huruf Meem Bagian 24 dari *Fayd al-Qadir* Jilid 6: membela kehormatan muslim, menolong bencana banjir/kebakaran pahala syahid, larangan tathayyur (mitos sial), konsistensi rezeki, takwa karunia terbaik, istri shalihah, qana'ah harian, ridha takdir, adab makmum ikuti imam shalat, menyingkirkan gangguan jalan surga, shalat Dhuha rawatib, shalat Awwabin Maghrib-Isya, keutamaan memanah, bahaya takfir, larangan meneror, dan ziarah makam nabi & orang tua hari Jumat. (status: seed)
 - [[Mengenai Petunjuk-Nya dalam Menjaga Firman-Nya]] — Bab dari kitab *Zad al-Ma'ad* karya **Ibnul Qayyim Al-Jauziyyah** yang menguraikan petunjuk **Nab... (status: seed)
 - [[Mysteries-of-Cleanliness-and-Purification]] — Bab III Bagian 1 Kitab *Ihya' Ulumiddin* karya **Imam Al-Ghazali** mengenai hakikat batin bersuci... (status: evergreen)
 - [[Neglect of the Prayer]] — Bab ke-4 dari kitab *Kitab al-Kaba'ir* karya **Imam Adh-Dhahabi** yang membahas secara mendalam d... (status: seed)

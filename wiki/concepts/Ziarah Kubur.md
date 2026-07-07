@@ -18,6 +18,7 @@ related:
   - "[[Zuhud]]"
 sources:
   - "[[What Reminds People of Death and the Hereafter]]"
+  - "[[meem_part_24]]"
 ---
 
 # Ziarah Kubur
@@ -46,6 +47,13 @@ Secara psikologis dan spiritual, ziarah kubur berfungsi melunakkan hati yang ker
 - Mengunjungi kompleks pemakaman umum secara berkala demi mengingat kematian diri sendiri.
 - Menangis saat mengingat kematian ketika berada di area pekuburan sebagaimana dicontohkan oleh Rasulullah SAW ketika berziarah ke makam ibunya.
 
+## Ziarah Kubur Orang Tua (Birrul Walidain)
+
+Ziarah ke makam orang tua setelah wafatnya mereka merupakan salah satu cara berbakti (*birrul walidain*) yang sangat utama:
+- **Pengampunan Dosa**: Rasulullah ﷺ bersabda: *"Barangsiapa menziarahi makam kedua orang tuanya atau salah satunya pada hari Jumat lalu membaca surah Yasin di sisinya, maka ia diampuni dosanya."* (HR. Ibnu Adi dari **[[Abu Bakar Ash-Shiddiq]]** dalam **[[meem_part_24]]**).
+- **Ditulis Sebagai Anak Berbakti**: Merutinkan ziarah ke makam orang tua minimal seminggu sekali (khususnya hari Jumat) dicatat di sisi Allah sebagai bentuk kebaktian, dan berkhasiat menghapus catatan kedurhakaan masa lalu (HR. Al-Hakim al-Tirmidzi dari **[[Abu Hurayrah]]** dalam **[[meem_part_24]]**).
+- **Ziarah Kubur Rasulullah SAW**: Terkait ziarah makam, mengunjungi makam Rasulullah ﷺ di Madinah memiliki kedudukan tersendiri yang menjanjikan perolehan syafaat khusus beliau di akhirat (**[[Ziarah Makam Nabi Muhammad SAW]]**).
+
 ## Hubungan
 
 - [[Mengingat Maut]] — Dampak batiniah langsung dari melakukan ziarah kubur.
@@ -54,3 +62,4 @@ Secara psikologis dan spiritual, ziarah kubur berfungsi melunakkan hati yang ker
 ## Sumber
 
 - Hadis Abu Hurayrah (riwayat Muslim): *"Dahulu aku melarang kalian berziarah kubur, maka ziarahilah..."* dan kisah tangis Rasulullah SAW saat mengunjungi makam ibunya. ([[What Reminds People of Death and the Hereafter|What Reminds People of Death and the Hereafter]])
+- Hadis Abu Bakar dan Abu Hurayrah mengenai ziarah kubur kedua orang tua pada hari Jumat (**[[meem_part_24]]**).

@@ -19,6 +19,7 @@ related:
 sources:
   - "[[Optional-and-Sunnah-Prayers]]"
   - "[[meem_part_20]]"
+  - "[[meem_part_24]]"
 address: c-000190
 ---
 
@@ -57,8 +58,8 @@ Merupakan sunnah harian yang mendampingi shalat wajib lima waktu untuk menambal 
 *   2 rakaat setelah Maghrib.
 *   4 rakaat setelah Isha.
 *   **Witr**: Shalat ganjil (minimal 1 rakaat, biasanya 3 rakaat) sebagai penutup shalat malam.
-*   **Dhuha**: Shalat di waktu matahari naik sepenggalah (hingga 8 rakaat). Menjaga shalat Dhuha (minimal dua rakaat) menjadi sebab pelebur dosa kecil meskipun sebanyak buih di lautan (HR. Ahmad dari **[[Abu Hurayrah]]** dalam **[[meem_part_20]]**).
-*   **Awabin**: Shalat sunnah di antara Maghrib dan Isha (6 rakaat).
+*   **Dhuha**: Shalat di waktu matahari naik sepenggalah (2 hingga 8 rakaat, sebagian ulama menyebut hingga 12 rakaat). Menjaga shalat Dhuha (minimal dua rakaat) menjadi sebab pelebur dosa kecil meskipun sebanyak buih di lautan (HR. Ahmad dari **[[Abu Hurayrah]]** dalam **[[meem_part_20]]**). Sementara merutinkan 12 rakaat dijanjikan ganjaran berupa rumah di surga (HR. Thabarani dari **[[Abu Dharr Al-Ghifari]]** dalam **[[meem_part_24]]**).
+*   **Awabin**: Shalat sunnah yang didirikan di antara Maghrib dan Isya. Waktu ini diistilahkan sebagai waktu lalai (*waqt ghaflah*) karena orang-orang biasanya sibuk dengan makan malam atau istirahat. Rasulullah ﷺ bersabda: *"Barangsiapa shalat sepuluh rakaat di antara waktu Maghrib dan Isya, dibangunkan baginya sebuah istana di surga."* (HR. Ibnu Nashr secara mursal dalam **[[meem_part_24]]**).
 
 ### 2. Shalat Sunnah Mingguan (Hari & Malam)
 Shalat sunnah optional berupa shalat 2 s.d 12 rakaat yang diamalkan pada hari/malam tertentu (Ahad sampai Sabtu) dengan keutamaan pengampunan dosa mingguan dan peningkatan derajat spiritual.
@@ -85,3 +86,4 @@ Shalat sunnah optional berupa shalat 2 s.d 12 rakaat yang diamalkan pada hari/ma
 *   [[Shalat]]
 *   [[Sifat Shalat Nabi]]
 *   [[meem_part_20]]
+*   [[meem_part_24]]

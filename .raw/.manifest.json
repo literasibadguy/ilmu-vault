@@ -3,6 +3,54 @@
   "created": "2026-06-08",
   "description": "Ingest delta tracker and address map for the ilmuzip-vault vault. Do not hand-edit; wiki-ingest maintains this.",
   "sources": {
+    ".raw/meem_part_23.md": {
+      "hash": "f3d192582e48d1761df26e3031884a9a",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_23.md",
+        "wiki/concepts/Mimpi Melihat Nabi.md",
+        "wiki/concepts/Keutamaan Ribat.md",
+        "wiki/concepts/Pendidikan Anak.md",
+        "wiki/concepts/Menyayangi Hewan.md",
+        "wiki/concepts/Menolong Sesama dalam Kesusahan.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Keutamaan Berdebu di Jalan Allah.md",
+        "wiki/concepts/Riya.md",
+        "wiki/concepts/Menjaga Kehormatan Muslim.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
+    ".raw/meem_part_24.md": {
+      "hash": "0e438f4f4ad965ff002a93b9926d11d2",
+      "ingested_at": "2026-07-07",
+      "pages_created": [
+        "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_24.md",
+        "wiki/concepts/Bahaya Takfir.md",
+        "wiki/concepts/Ziarah Makam Nabi Muhammad SAW.md"
+      ],
+      "pages_updated": [
+        "wiki/concepts/Menjaga Kehormatan Muslim.md",
+        "wiki/concepts/Tathayyur dan Mitos Fisik.md",
+        "wiki/concepts/Konsistensi dalam Usaha.md",
+        "wiki/concepts/Taqwa.md",
+        "wiki/concepts/Adab Pernikahan.md",
+        "wiki/concepts/Ketetapan Takdir dan Ridha.md",
+        "wiki/concepts/Shalat Berjamaah.md",
+        "wiki/concepts/Menyingkirkan Rintangan di Jalan.md",
+        "wiki/concepts/Shalat Sunnah.md",
+        "wiki/concepts/Keutamaan Belajar Memanah.md",
+        "wiki/concepts/Larangan Membahayakan Muslim.md",
+        "wiki/concepts/Ziarah Kubur.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/overview.md"
+      ]
+    },
     ".raw/Pride.md": {
       "hash": "8d38ef85c5f4dd1d10f44a6fe49660e5",
       "ingested_at": "2026-06-18",
@@ -2934,6 +2982,15 @@
     "wiki/sources/Ketergantungan Dunia Part 2.md": "c-000212",
     "wiki/sources/Ketergantungan Dunia Part 3.md": "c-000213",
     "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_21.md": "c-000556",
-    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_22.md": "c-000557"
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_22.md": "c-000557",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_23.md": "c-000558",
+    "wiki/sources/Fayd al-Qadir Huruf Meem/meem_part_24.md": "c-000559",
+    "wiki/concepts/Mimpi Melihat Nabi.md": "c-000560",
+    "wiki/concepts/Keutamaan Ribat.md": "c-000561",
+    "wiki/concepts/Pendidikan Anak.md": "c-000562",
+    "wiki/concepts/Menyayangi Hewan.md": "c-000563",
+    "wiki/concepts/Menolong Sesama dalam Kesusahan.md": "c-000564",
+    "wiki/concepts/Bahaya Takfir.md": "c-000565",
+    "wiki/concepts/Ziarah Makam Nabi Muhammad SAW.md": "c-000566"
   }
 }

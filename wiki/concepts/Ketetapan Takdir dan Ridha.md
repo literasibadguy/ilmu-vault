@@ -19,6 +19,7 @@ related:
   - "[[Tawakkul]]"
 sources:
   - "[[meem_part_03]]"
+  - "[[meem_part_24]]"
 ---
 
 # Ketetapan Takdir dan Ridha
@@ -39,6 +40,10 @@ Nabi SAW bersabda: *"Termasuk kebahagiaan anak Adam adalah istikharah kepada All
 
 Dunia dirancang sebagai negeri ujian. Orang yang selalu menuntut takdir agar berjalan sesuai kemauannya akan senantiasa hidup dalam kesengsaraan batin, stres, dan kemarahan tak berujung karena takdir Allah tidak akan pernah berubah hanya karena kemarahan makhluk. Sebaliknya, orang yang rida akan menemukan kedamaian batin sejati (*sakinah*) karena ia meletakkan kemudi hidupnya di tangan Allah Yang Maha Pengasih lagi Maha Mengetahui.
 
+Dalam syarah *Fayd al-Qadir* (dalam **[[meem_part_24]]**):
+- **Saling Keridhaan (Timbal Balik)**: Dari hadis *"Barangsiapa ridha kepada Allah, maka Allah ridha kepadanya"* (HR. Ibnu Asakir dari **[[Aisyah binti Abu Bakar]]**). Ridha seorang hamba ditunjukkan dengan lapang dada menerima keputusan qadha' dan qadar tanpa tersiksa batinnya. Hal ini dibalas dengan keridhaan Allah berupa pembebasan dari murka-Nya dan pemberian jaminan keselamatan.
+- **Qana'ah Menggugurkan Tuntutan Amal Banyak**: Dari hadis *"Barangsiapa ridha kepada Allah atas rezeki yang sedikit, maka Allah ridha kepadanya atas amal yang sedikit"* (HR. Al-Bayhaqi dari **[[Ali bin Abi Thalib]]**). Keridhaan hamba atas pembagian rezeki material yang terbatas dibalas dengan kemudahan dari Allah yang meridhai amal ibadah sunnahnya yang sedikit tanpa menyiksa atau memperberat hisabnya.
+
 ## Hubungan
 
 - **[[Qadar]]** — Keimanan kokoh pada takdir mendasari lahirnya sikap rida.
@@ -47,3 +52,4 @@ Dunia dirancang sebagai negeri ujian. Orang yang selalu menuntut takdir agar ber
 ## Sumber
 
 - **[[meem_part_03]]** (Hadits tentang rida qadha dan istikharah sebagai kunci kebahagiaan).
+- **[[meem_part_24]]** (Hadits timbal balik ridha dan qana'ah rezeki sedikit).

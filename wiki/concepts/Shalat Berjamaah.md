@@ -21,6 +21,7 @@ sources:
   - "[[Excellence-of-Prayer]]"
   - "[[Imamate-and-Jumma-Prayer]]"
   - "[[meem_part_02]]"
+  - "[[meem_part_24]]"
 ---
 
 # Shalat Berjamaah
@@ -58,11 +59,17 @@ Mengabaikan shalat jamaah secara sengaja tanpa uzur syar'i memiliki konsekuensi 
 
 ## Keteladanan Salaf dalam Menjaga Shalat Jamaah
 
-*   **Keistiqomahan Sa'id bin al-Musayyab**: Menyatakan: *"Selama 20 tahun berturut-turut, aku tidak pernah mendengar adzan berkumandang kecuali aku telah berada di dalam masjid terlebih dahulu."*
+*   **Sa'id bin al-Musayyab**: Menyatakan: *"Selama 20 tahun berturut-turut, aku tidak pernah mendengar adzan berkumandang kecuali aku telah berada di dalam masjid terlebih dahulu."*
 *   **Tiga Keinginan Waseh (Wasi')**: Menginginkan saudara saleh, rezeki secukupnya, dan mendirikan shalat secara berjamaah agar cacat shalatnya diampuni.
 *   **Kebun Kurma Umar bin Khattab**: Umar menyedekahkan seluruh kebun kurmanya yang bernilai tinggi demi menebus dosanya melalaikan satu kali shalat Asar berjamaah (**[[Abandoning the Group Prayer]]**).
 *   **Rabi' bin Khuthaym yang Lumpuh**: Rabi' yang lumpuh tetap mendatangi shalat jamaah dibopong dua orang karena merasa wajib menjawab seruan kemenangan (*Hayya 'alal Falah*).
 *   **Hatim al-Asamm yang Sedih**: Mengeluh bahwa ketika ia luput shalat jamaah, hanya satu orang yang melayat kesedihannya, sedangkan jika anaknya meninggal ia akan ditakziahi puluhan ribu orang.
+
+## Adab Makmum Terhadap Gerakan Imam
+
+Dalam shalat berjamaah, makmum wajib mengikuti gerakan imam dan dilarang mendahului (*musabaqah*) gerakan imam. 
+- **Larangan Mendahului**: Rasulullah ﷺ memperingatkan keras makmum yang melanggar adzan gerakan shalat: *"Barangsiapa mengangkat kepalanya sebelum imam (bangkit dari ruku' atau sujud) atau meletakkan kepalanya sebelum imam, maka tidak ada shalat baginya (tidak sempurna/batal menurut sebagian ulama)."* (HR. Ibn Qani' dari Syaiban bin Malik dalam **[[meem_part_24]]**).
+- **Aturan Gerakan**: Makmum hendaknya baru berpindah gerakan setelah imam menyelesaikan gerakan tersebut secara sempurna. Misalnya, makmum baru bangkit dari sujud setelah dahi imam benar-benar tegak ke atas.
 
 ## Sumber
 
@@ -70,3 +77,4 @@ Mengabaikan shalat jamaah secara sengaja tanpa uzur syar'i memiliki konsekuensi 
 *   **[[Abandoning the Group Prayer]]**
 *   **[[Excellence-of-Prayer]]**
 *   **[[Imamate-and-Jumma-Prayer]]**
+*   **[[meem_part_24]]**

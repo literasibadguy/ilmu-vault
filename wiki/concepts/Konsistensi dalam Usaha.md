@@ -14,6 +14,7 @@ related:
   - "[[Zuhud]]"
 sources:
   - "[[meem_part_11]]"
+  - "[[meem_part_24]]"
 address: c-000447
 ---
 
@@ -28,7 +29,8 @@ Dalam kearifan praktis Islam, keberhasilan hidup sering kali dikaitkan dengan ke
 ## Landasan Syariat
 
 - Rasulullah SAW bersabda dalam hadis riwayat Anas bin Malik:
-  > *"Barangsiapa yang mendapatkan rezeki/keberhasilan dari sesuatu (pekerjaan/bidang), maka hendaknya ia menekuninya (konsisten di dalamnya)."* (HR. Ibn Majah)
+  > *"Barangsiapa yang mendapatkan rezeki/keberhasilan dari sesuatu (pekerjaan/bidang), maka hendaknya ia menekuninya (konsisten di dalamnya)."* (HR. Ibnu Majah dan Al-Bayhaqi dalam *Shu'ab al-Iman*)
+- **Syarah Al-Munawi**: Dalam syarah atas riwayat Al-Bayhaqi (dalam **[[meem_part_24]]**), Al-Munawi menuturkan bahwa berpindah-pindah mata pencaharian tanpa alasan yang jelas berisiko menjadikan seseorang menganggur (*farighan bathalan*). Pengangguran sangat rawan merusak integritas keagamaan seorang muslim karena desakan ekonomi dapat menyeretnya pada tindakan yang menggadaikan agamanya.
 - Ibnu Atha'illah Al-Iskandari dalam kitab *Al-Hikam* menyatakan:
   > *"Di antara tanda bahwa Allah menempatkanmu pada suatu kedudukan/pekerjaan adalah Dia terus meneguhkanmu di dalamnya serta membuahkan hasil-hasil yang baik."*
 
@@ -45,3 +47,4 @@ Dalam kearifan praktis Islam, keberhasilan hidup sering kali dikaitkan dengan ke
 ## Sumber
 
 - [[meem_part_11]]
+- [[meem_part_24]]

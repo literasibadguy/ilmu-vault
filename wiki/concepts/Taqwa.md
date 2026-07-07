@@ -21,6 +21,7 @@ related:
   - "[[Menahan Amarah]]"
 sources:
   - "[[meem_part_05]]"
+  - "[[meem_part_24]]"
 ---
 
 # Taqwa
@@ -41,6 +42,8 @@ Hadis menerangkan beberapa buah ketakwaan yang nyata secara lahir dan batin:
    Ketakwaan memancarkan cahaya kebenaran pada wajah dan perilaku orang bertakwa, sehingga menumbuhkan rasa segan dan hormat (*heba*) secara alami di dalam hati makhluk lainnya (**[[Rasa Takut Kepada Allah]]**).
 3. **Pengendalian Diri dan Emosi**:
    Orang yang bertakwa mampu mengerem lisan dari perkataan kotor dan menahan luapan amarahnya demi mengharap keridaan Allah (**[[Menahan Amarah]]**).
+4. **Kebaikan Dunia dan Akhirat (Karunia Terbaik)**:
+   Nabi ﷺ bersabda: *"Barangsiapa dikaruniai ketakwaan, maka sungguh ia telah diberi kebaikan dunia dan akhirat."* (HR. Abu Asy-Syaikh dari **[[Aisyah binti Abu Bakar]]** dalam **[[meem_part_24]]**). Hal ini menegaskan bahwa takwa adalah sebaik-baik karunia yang mencakup seluruh kebaikan material-ruhani di dunia serta keselamatan mutlak di akhirat.
 
 ## Hubungan
 
@@ -51,3 +54,4 @@ Hadis menerangkan beberapa buah ketakwaan yang nyata secara lahir dan batin:
 ## Sumber
 
 - **[[meem_part_05]]** (Hadits tentang hidup kuat dan aman karena takwa, syarah Al-Munawi).
+- **[[meem_part_24]]** (Hadits takwa sebagai kebaikan dunia dan akhirat).

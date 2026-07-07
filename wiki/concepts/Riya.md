@@ -21,6 +21,7 @@ sources:
   - "[[Showing Off]]"
   - "[[meem_part_06]]"
   - "[[meem_part_18]]"
+  - "[[meem_part_23]]"
 ---
 
 # Riya' (Pamer / Sum'ah)
@@ -46,6 +47,7 @@ Riya' adalah salah satu dosa besar hati yang paling merusak. Karakteristik bahay
 - **Tanda Kemunafikan**: Allah menyifati kaum munafik sebagai orang-orang yang shalat dengan malas dan bertujuan riya' kepada manusia (QS. An-Nisa: 142).
 - **Golongan Pertama Masuk Neraka**: Pelaku riya' dari kalangan orang berilmu, mujahid, dan dermawan akan menjadi bahan bakar pertama neraka sebelum para penyembah berhala, karena mereka memperalat agama demi popularitas dunia.
 - **Laknat di Langit dan di Bumi**: Orang yang menggunakan amal-amal akhirat hanya sebagai hiasan lahiriah demi mendapatkan simpati dan harta duniawi (*tazayyun*) tanpa menginginkan pahala akhirat akan mendapatkan laknat dari para malaikat di langit dan makhluk di bumi (HR. Al-Tabarani dari **[[Abu Hurayrah]]** dalam **[[meem_part_18]]**).
+- **Lepas dari Perlindungan Allah**: Barangsiapa yang beramal akhirat demi selain Allah, ia berisiko dilepaskan dari jaminan dan perlindungan-Nya (HR. Thabarani dari Abu Hindun dalam **[[meem_part_23]]**).
 
 ## Contoh Kasus
 

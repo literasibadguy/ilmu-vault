@@ -8,8 +8,7 @@ created: 2026-06-30
 updated: 2026-07-04
 tags: [concept, tazkiyah, sosial, akhlak]
 status: seed
-related: [, [[meem_part_15]]]
-sources: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [[[meem_part_07]], [[meem_part_15]], [[meem_part_16]], [[meem_part_24]]]
 ---
 # Menyingkirkan Rintangan di Jalan
 
@@ -22,8 +21,11 @@ Berikut adalah penjelasan mengenai konsep **[[Menyingkirkan Rintangan di Jalan]]
 ## Kedudukan dalam Syariat
 
 - **Cabang Keimanan**: Nabi SAW bersabda bahwa iman memiliki lebih dari tujuh puluh cabang, yang paling tinggi adalah kalimat *La ilaha illallah* dan yang paling rendah adalah menyingkirkan rintangan dari jalan.
-- **Jaminan Masuk Surga**: Nabi SAW mengabarkan: *"Barangsiapa membuang sesuatu yang mengganggu di jalan kaum muslimin, Allah mencatat baginya satu kebaikan; dan barangsiapa dicatat satu kebaikan di sisi Allah, Allah akan memasukkannya ke surga."* (HR. Thabrani dari **[[Abu al-Darda]]**).
+- **Jaminan Masuk Surga**: 
+  - Nabi SAW mengabarkan: *"Barangsiapa membuang sesuatu yang mengganggu di jalan kaum muslimin, Allah mencatat baginya satu kebaikan; dan barangsiapa dicatat satu kebaikan di sisi Allah, Allah akan memasukkannya ke surga."* (HR. Thabrani dari **[[Abu al-Darda]]**).
+  - Dalam riwayat lain disebutkan: *"Barangsiapa menyingkirkan batu dari jalan (raya), ditulis baginya satu kebaikan. Dan barangsiapa dicatat baginya satu kebaikan, ia masuk surga."* (HR. Thabarani dari **[[Mu'adz bin Jabal]]** dalam **[[meem_part_24]]**).
 - **Sedekah Sosial**: Setiap ruas tulang manusia wajib bersedekah setiap harinya, dan menyingkirkan rintangan dari jalan dinilai sebagai sedekah harian bagi jasad tersebut.
 
 ## Sumber
-- **[[meem_part_07]]**
+- [[meem_part_07]]
+- [[meem_part_24]]

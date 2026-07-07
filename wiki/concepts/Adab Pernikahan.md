@@ -24,6 +24,7 @@ sources:
   - "[[The Ideal Husband]]"
   - "[[meem_part_17]]"
   - "[[meem_part_18]]"
+  - "[[meem_part_24]]"
 ---
 
 # Adab Pernikahan
@@ -58,9 +59,9 @@ Nabi Muhammad SAW memberikan pedoman komprehensif bagi pria dalam memilih istri 
 
 ## Keutamaan Pernikahan & Larangan Tabattul (Selibat)
 
-Berdasarkan syarah *Fayd al-Qadir* (dari [[meem_part_17]] dan [[meem_part_18]]):
+Berdasarkan syarah *Fayd al-Qadir* (dari [[meem_part_17]], [[meem_part_18]], dan [[meem_part_24]]):
 1. **Menyempurnakan Setengah Agama**:
-   - Menikah dinilai sebagai pelindung kemaluan dan perut dari maksiat, yang merupakan setengah dari pilar ketakwaan. Sisa setengahnya dipenuhi dengan takwa umum lainnya.
+   - Menikah dengan pasangan (istri) yang shalihah sangat berperan menjaga kehormatan moral dan kesucian diri. Nabi ﷺ bersabda: *"Barangsiapa dikaruniai oleh Allah istri yang shalihah, maka sungguh Allah telah menolongnya menjaga separuh agamanya. Maka hendaklah ia bertakwa kepada Allah pada separuh sisanya."* (HR. Al-Hakim dari **[[Anas bin Malik]]** dalam **[[meem_part_24]]**). Separuh pertama dipelihara melalui kebersihan seksual (*iffah*), sedangkan separuh kedua dijaga dengan ketakwaan mengendalikan nafsu perut dan menjaga dari konsumsi harta haram.
 2. **Larangan Tabattul (Membujang Selamanya)**:
    - Islam melarang keras praktik membujang secara permanen (*tabattul*) atau menolak pernikahan demi mengkhususkan diri untuk ibadah (sebagaimana rahib Nasrani). Hal ini bertentangan dengan sunnah Nabi SAW yang menganjurkan memperbanyak keturunan.
 3. **Konsekuensi Hukum Fikih Shalat bagi Musafir**:
@@ -71,3 +72,4 @@ Berdasarkan syarah *Fayd al-Qadir* (dari [[meem_part_17]] dan [[meem_part_18]]):
 - [[The Ideal Husband]]
 - [[meem_part_17]]
 - [[meem_part_18]]
+- [[meem_part_24]]

@@ -19,6 +19,7 @@ sources:
   - "[[meem_part_06]]"
   - "[[meem_part_17]]"
   - "[[meem_part_18]]"
+  - "[[meem_part_24]]"
 ---
 
 # Keutamaan Belajar Memanah
@@ -38,6 +39,11 @@ Berdasarkan syarah *Fayd al-Qadir* (dari **[[meem_part_17]]** dan **[[meem_part_
 - **Pembangkangan Nyata**: *"Barangsiapa belajar memanah kemudian meninggalkannya, maka sungguh ia telah mendurhakaiku."* (HR. Ibnu Majah dari **[[Uqba bin Amir]]** dalam **[[meem_part_18]]**).
 - **Penjelasan Fikih**: Keterampilan memanah melatih ketangkasan membela agama. Melupakannya karena lalai/enggan dihukumi makruh atau bahkan haram (menurut sebagian ulama) karena membuang keterampilan strategis yang dibutuhkan umat, kecuali jika ada urusan lain yang lebih penting yang menyita waktunya.
 
+## Keutamaan Melepaskan Anak Panah di Jalan Allah
+
+Selain anjuran berlatih, syariat menjanjikan ganjaran khusus bagi pejuang yang melepaskan anak panah dalam rangka membela kebenaran:
+- **Setara Memerdekakan Budak**: Rasulullah ﷺ bersabda: *"Barangsiapa melepaskan satu anak panah di jalan Allah, maka pahalanya setara dengan memerdekakan seorang budak."* (HR. Tirmidzi, An-Nasa'i, dan Al-Hakim dari Abu Najih dalam **[[meem_part_24]]**). Keutamaan memerdekakan hamba sahaya sangat tinggi dalam Islam, dan pahala setara itu diberikan kepada pejuang panahan atas kesiapannya menghadapi bahaya demi kaum muslimin.
+
 ## Hubungan
 
 - **[[Sunnah Para Rasul]]** — Olahraga ketangkasan militer yang dipuji langsung oleh Nabi SAW.
@@ -47,3 +53,4 @@ Berdasarkan syarah *Fayd al-Qadir* (dari **[[meem_part_17]]** dan **[[meem_part_
 - **[[meem_part_06]]** (Hadits tentang meninggalkan memanah sebagai pengabaian nikmat).
 - **[[meem_part_17]]** (Hadits tentang melupakan memanah sebagai ingkar nikmat).
 - **[[meem_part_18]]** (Hadits tentang meninggalkan memanah sebagai kedurhakaan).
+- **[[meem_part_24]]** (Hadits pelepasan anak panah di jalan Allah setara memerdekakan budak).

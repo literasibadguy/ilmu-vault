@@ -9,8 +9,7 @@ created: 2026-06-29
 updated: 2026-07-04
 tags: 
 status: seed
-related: [, [[meem_part_15]]]
-sources: [, [[meem_part_15]], [[meem_part_16]]]
+sources: [[[meem_part_15]], [[meem_part_16]], [[meem_part_23]], [[meem_part_24]]]
 ---
 
 # Menjaga Kehormatan Muslim
@@ -26,12 +25,15 @@ Nabi SAW bersabda: *"Termasuk dosa besar adalah menjatuhkan kehormatan sesama Mu
 1. **Larangan Istithalah (Arogansi Lisan)**: Istithalah berarti merendahkan, menindas, menyombongkan diri, atau memosisikan diri lebih tinggi di atas kehormatan orang lain dengan lisan yang tajam.
 2. **Kaidah Membalas Cacian**: Jika seseorang dicaci, secara hukum ia diperbolehkan membalas dengan cacian yang setimpal (tanpa berdusta atau menuduh zina). Namun, membalas dengan cacian berlipat ganda (*al-sabtani bil sabtah*) dihukum sebagai dosa besar karena melampaui batas keadilan.
 3. **Keutamaan Menahan Diri**: Memaafkan dan menahan amarah jauh lebih mulia di sisi Allah daripada membalas cacian yang sama.
-5. **Kewajiban Membela Kehormatan yang Digunjing**:
-   Ketika mendengar aib saudara seiman dibicarakan, seorang Muslim wajib membela kehormatan tersebut jika ia memiliki kemampuan:
-   > *"Barangsiapa di hadapannya saudaranya yang Muslim digunjing, lalu ia tidak menolongnya padahal ia sanggup menolong, niscaya Allah akan menghinakannya di dunia dan di akhirat."* (HR. Ibn Abi ad-Dunya dari **[[Anas bin Malik]]**).
+4. **Kewajiban Membela Kehormatan yang Digunjing**:
+   Ketika mendengar aib saudara seiman dibicarakan di majelis lain, seorang Muslim wajib menyanggah dan membelanya jika memiliki kemampuan:
+   - *Ancaman membiarkan ghibah*: *"Barangsiapa di hadapannya saudaranya yang Muslim digunjing, lalu ia tidak menolongnya padahal ia sanggup menolong, niscaya Allah akan menghinakannya di dunia dan di akhirat."* (HR. Ibn Abi ad-Dunya dari **[[Anas bin Malik]]**).
+   - *Pahala membela kehormatan*: *"Barangsiapa membela kehormatan saudaranya (yang digunjing di belakangnya), maka Allah akan menghindarkan wajahnya dari api neraka pada hari kiamat (atau hal itu menjadi tirai penghalang baginya dari neraka)."* (HR. Ahmad, Tirmidzi, dan Al-Bayhaqi dari **[[Abu al-Darda]]** dalam **[[meem_part_23]]** dan **[[meem_part_24]]**).
+5. **Larangan Su'ayah (Aduan Palsu ke Penguasa)**:
+   Sikap berkhianat dengan cara mengadukan fitnah (*su'ayah*) tentang seorang mukmin kepada penguasa demi merusak reputasi atau menjatuhkan kehormatannya dihukum haram secara mutlak, dan pelakunya diancam ditempatkan di tempat kehinaan pada hari kiamat (HR. Al-Bayhaqi dari **[[Anas bin Malik]]** dalam **[[meem_part_24]]**).
 6. **Memuliakan Sesama Muslim**:
    Memuliakan kehormatan lahiriah dan batiniah sesama Muslim dihitung sebagai wujud pengagungan terhadap Allah SWT:
-   > *"Barangsiapa memuliakan seorang Muslim, sesungguhnya ia sedang memuliakan Allah SWT."* (HR. Thabrani al-Awsat dari **[[Jabir bin Abdullah]]**).
+   > *"Barangsiapa memuliakan seorang Muslim, sesungguhnya ia sedang memuliakan Allah SWT."* (HR. Thabarani al-Awsat dari **[[Jabir bin Abdullah]]**).
 
 ## Mengapa Ini Penting
 
@@ -48,4 +50,6 @@ Kehormatan seorang Muslim setara kesuciannya dengan darah dan hartanya. Keretaka
 - **[[Fayd al-Qadir Vol 6 - Huruf Meem - Bagian 10]]**
 - **[[meem_part_13]]**
 - **[[meem_part_14]]**
+- **[[meem_part_23]]** (Hadits bela kehormatan muslim).
+- **[[meem_part_24]]** (Hadits bela kehormatan muslim & larangan su'ayah).
 
